@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c5069b96","path":"/cn.html","title":"国区各赛事针对脚本号参赛行为处理规范","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.24,"words":371},"filePathRelative":"cn.md","copyright":{"author":" MWdocs & 原作者 "}}');export{t as data};

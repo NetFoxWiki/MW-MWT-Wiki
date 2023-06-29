@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c1300850","path":"/GO.html","title":"你好，舰长","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"游戏介绍","slug":"游戏介绍","link":"#游戏介绍","children":[]}],"git":{},"readingTime":{"minutes":3.21,"words":964},"filePathRelative":"GO.md","copyright":{"author":" MWdocs & 原作者 "}}');export{t as data};
