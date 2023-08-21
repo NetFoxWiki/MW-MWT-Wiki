@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3706649a","path":"/404.html","title":"","lang":"zh-CN","frontmatter":{"layout":"NotFound"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"copyright":{"author":" MWdocs & 原作者 ","license":" 知识共享署名-非商业性使用 4.0 国际许可"},"excerpt":""}');export{t as data};
