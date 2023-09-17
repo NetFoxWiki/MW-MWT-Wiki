@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-a249dda4","path":"/Game.html","title":"现代战舰游戏规则","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.1,"words":329},"filePathRelative":"Game.md","copyright":{"author":" MWdocs & 原作者 "}}');export{t as data};

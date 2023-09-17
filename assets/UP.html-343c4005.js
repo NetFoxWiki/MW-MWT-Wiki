@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-f497dbf6","path":"/UP.html","title":"更新日志","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.9,"words":269},"filePathRelative":"UP.md","copyright":{"author":" MWdocs & 原作者 "}}');export{t as data};

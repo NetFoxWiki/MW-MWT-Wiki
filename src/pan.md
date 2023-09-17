@@ -1,0 +1,44 @@
+# 版权装备
+:::details 文章链接
+https://mwdocs.info/pan.html
+:::
+## 阿尔戈纳斯（ARGONAS）
+
+### 来源
+
+<a href="https://pan-spatial.com/argonas/"><img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/PS-LOGO-FULL-20220814_2251-300x300.png" width="50" height="100%"></a>
+
+### 介绍
+
+Argonas是一种大型地面效应飞机，旨在快速向水面和沿海地面部队提供支援作战火力。阿尔戈纳斯的特征不是确定的。配置设计工作的目的是了解这种车辆需要哪些不同的功能。而且，更重要的是，发现交叉点和机会，以彻底整合技术，并创造一种新的物理形式，其性能不仅仅是其各部分的总和。
+
+Argonas is a large ground effect aircraft designed to rapidly deliver supporting combat firepower to surface and coastal ground forces. The features of the Argonas are not definitive. The purpose of the configuration design effort is to understand what different features would be needed in such a vehicle.  And, more importantly, discover the intersections and opportunities to thoroughy integrate technologies and and create a new physical form that performs as more than a sum of it’s parts.
+
+### 图片
+
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/04/ARGONAS-20230410_172924-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/04/ARGONAS-20230410_172925-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/04/ARGONAS-20230410_172926-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/04/ARGONAS-20230410_172927-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/04/ARGONAS-20230410_172912-1024x578.jpg" />
+
+
+## 杀戮时刻（KILLSWITCH）
+
+### 来源
+
+<a href="https://o5u.79d.myftpupload.com/killswitch/"><img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/PS-LOGO-FULL-20220814_2251-300x300.png" width="50" height="100%"></a>
+
+### 介绍
+
+一种虚构的近未来可变几何飞机，旨在促进娱乐和虚拟体验中的复杂角色、叙事和决策。
+
+A fictional, near-future variable-geometry aircraft, designed to facilitate complex characters, narratives and decision-making in entertainment and virtual experiences.
+
+### 图片
+
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-TO33-1-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-TO38-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-IMG-16-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-TO40-1024x578.jpg" />
+<img src="https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-TO38-1024x578.jpg" />
