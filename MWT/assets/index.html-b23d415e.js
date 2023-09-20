@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1473bf53","path":"/demo/","title":"Demo","lang":"zh-CN","frontmatter":{"title":"Demo","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"copyright":{"license":" 知识共享署名-非商业性使用 4.0 国际许可"},"excerpt":""}');export{e as data};
