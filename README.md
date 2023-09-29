@@ -1,4 +1,4 @@
-# MWdocs（现代战舰文档）（Wakudocs）
+# MW & MWT 文档（MWdocs）
 
 <img src="https://my-img.cc/i/2023/05/21/64696b78159af.png" />
 
