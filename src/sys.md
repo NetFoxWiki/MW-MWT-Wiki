@@ -3,7 +3,7 @@ cover: https://modernwarships.com/i/mw/images/intro-image.jpg
 ---
 
 # 游戏系统要求
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/sys.html
 :::
 ## 来自
@@ -97,6 +97,12 @@ iOS 13.0 或更高（iPadOS 13.0 或更高）
 
 **操作系统**
 ——————————
+***谷歌下载***
+
+安卓 7.0 或更高
+
+***官网下载***
+
 安卓 4.4 或更高
 
 **存储**

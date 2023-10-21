@@ -1,9 +1,9 @@
 ---
-cover: https://img1.imgtp.com/2023/09/13/PjTu9rA9.jpg
+cover: https://assets.mwdocs.info/images/PjTu9rA9.jpg
 ---
 
-# 手机端下载
-:::details 文章链接
+# 手机端下载（官方链接）
+:::details 文档链接
 https://mwdocs.info/mod.html
 :::
 ## Android
@@ -30,7 +30,7 @@ https://modernwarships.com/
 
 https://apps.apple.com/us/app/modern-warships/id1541751298
 
-如果商店内没有现代战舰，请看[外区IOS账号注册](./IOS.html)
+如果商店内没有现代战舰，请更换为外区ID
 
 ## 安装包常见问题
 

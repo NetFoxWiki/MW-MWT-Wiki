@@ -1,5 +1,5 @@
 # 邮件
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/YJ.html
 :::
 ## 为什么我需要游戏内邮件？

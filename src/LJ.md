@@ -1,5 +1,5 @@
 # 现代战舰网站
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/LJ.html
 :::
 ## 官网（Gaijin x Artstorm）

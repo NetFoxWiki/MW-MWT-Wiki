@@ -1,5 +1,5 @@
 # 市场
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/SC.html
 :::
 ## 如何购买商品？

@@ -11,17 +11,18 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.63",
-    "@vuepress/plugin-search": "2.0.0-beta.63",
-    "vue": "^3.3.4",
-    "vuepress": "2.0.0-beta.63",
+    "@vuepress/client": "2.0.0-beta.67",
+    "@vuepress/plugin-docsearch": "2.0.0-beta.67",
+    "@vuepress/plugin-search": "2.0.0-beta.67",
+    "vue": "^3.3.5",
+    "vuepress": "2.0.0-beta.67",
     "vuepress-plugin-full-text-search2": "0.4.0",
-    "vuepress-plugin-remove-pwa": "^2.0.0-beta.237",
-    "vuepress-plugin-search-pro": "2.0.0-beta.228",
-    "vuepress-theme-hope": "2.0.0-beta.228"
+    "vuepress-plugin-remove-pwa": "2.0.0-beta.238",
+    "vuepress-plugin-search-pro": "2.0.0-beta.238",
+    "vuepress-theme-hope": "2.0.0-beta.238"
   },
   "dependencies": {
     "vuepress-plugin-alert": "0.0.5",
-    "vuepress-plugin-remove-html-extension": "1.2.0"
+    "vuepress-plugin-remove-html-extension": "1.5.0"
   }
 }

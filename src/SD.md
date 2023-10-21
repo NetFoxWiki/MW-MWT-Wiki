@@ -1,5 +1,5 @@
 # 商店
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/SD.html
 :::
 ## 我购买了高级商品，但没有收到购买的商品。

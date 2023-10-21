@@ -1,11 +1,15 @@
 ---
-cover: https://img1.imgtp.com/2023/09/13/PjTu9rA9.jpg
+cover: https://assets.mwdocs.info/images/PjTu9rA9.jpg
 ---
 
-# 电脑端下载
-:::details 文章链接
+# 电脑端下载（官方链接）
+:::details 文档链接
 https://mwdocs.info/PC.html
 :::
+
+## 宣传片（转载）
+
+<BiliBili bvid="BV1vH4y1d7oJ" />
 
 ## Windows
 

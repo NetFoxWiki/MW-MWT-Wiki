@@ -1,22 +1,26 @@
 ---
 home: true
-heroImage: https://img1.imgtp.com/2023/09/09/YXNZp4VV.png
-bgImage: https://img1.imgtp.com/2023/08/28/0MBQsGsP.png
-bgImageDark: https://vuepress-theme-reco.recoluan.com/bg.svg
+heroImage: https://assets.mwdocs.info/images/Uqoy24sz.png
+bgImage: /bg.svg
+bgImageDark: /bg.svg
 bgImageStyle:
       background-repeat: repeat
 heroFullScreen: true
-heroText: MWdocs
-tagline: 用于记录现代战舰内容的文档网站 🍂
+heroText: MW & MWT 文档
+tagline: 用于记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克</font> 内容的文档网站 🍂
 actions:
-  - text: 扬帆起航 🌊
-    link: ./GO.md
+  - text: 现代战舰 🌊
+    link: ./GO.html
     type: primary
-  - text: 发布页面 📚
-    link: ./demo/info.md
+  - text: 发布页面（MW）📚
+    link: ./demo/info.html
+    type: default
+  - text: 现代战争：坦克（开发中） 💣
+    link: ./mwt
+    type: primary
+  - text: 发布页面（MWT）（开发中） 📚
+    link: ./demo/info.html
     type: default
 	
 footer: false
 ---
-
-

@@ -1,5 +1,5 @@
 # 帐户
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/ZH.html
 :::
 ## 如果我在游戏中丢失了存档。怎么办？

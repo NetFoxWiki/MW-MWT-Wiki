@@ -7,9 +7,9 @@ import { getDirname, path } from "@vuepress/utils";
 
 export default defineUserConfig({
 	lang: 'zh-CN',
-	title: 'MWdocs',
+	title: 'MW & MWT 文档',
 	head: [
-		['link', { rel: 'icon', href: 'https://img1.imgtp.com/2023/08/14/Uqoy24sz.png' }]
+		['link', { rel: 'icon', href: 'https://assets.mwdocs.info/images/Uqoy24sz.png' }]
 	],
 	shouldPrefetch: false,
 	theme,
@@ -26,7 +26,7 @@ export default defineUserConfig({
 		searchProPlugin({
 			indexContent: true,
 			autoSuggestions: true,
-			worker: "search-mwdocs.worker.js",
+			worker: "search-mw-and-mwt.worker.js",
 		}),
 	],
 });

@@ -1,14 +1,19 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const Sidebar = sidebar({
-	"/": [
-		{
+      "/": [
+        {
 			text: "你好，舰长",
 			link: 'GO.md',
-			icon: "state",
+			icon: "home",
 		},
 		{
-			text: "问题引导",
+			text: "游戏信息",
+			link: 'game-info.md',
+			icon: "hot",
+		},
+		{
+			text: "文档一览",
 			link: 'JC.md',
 			icon: "result",
 		},
@@ -35,6 +40,7 @@ export const Sidebar = sidebar({
 			children: [
 				'ZG.md',
 				'sys.md',
+				'app.md',
 				'PC.md',
 				'mod.md',
 			],
@@ -99,10 +105,11 @@ export const Sidebar = sidebar({
 				'LJ.md',
 				'musk.md',
 				'ct.md',
+				'Tank.md',
 				//'MWben.md',
 			],
 		},
-		{
+		/*{
 			text: '通用收录',
 			icon: "box",
 			collapsible: true,
@@ -110,22 +117,22 @@ export const Sidebar = sidebar({
 				'SMS.md',
 				'qnsj.md',
 			],
-		},
-
+		},*/
 		//'yuan.md',
 		{
 			text: '关于本站',
 			icon: "selection",
 			collapsible: true,
 			children: [
-				'YS.md',
+				//'YS.md',
 				'UP.md',
 				'DE.md',
+				'sitehelp.md',
 				'md.md',
 				//'ZS.md',
 			],
 		},
 		//'APP.md',
 		//'Log.md',
-	],
+      ],
 });

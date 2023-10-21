@@ -7,7 +7,7 @@ export default defineClientConfig({
     setupRunningTimeFooter(
       new Date("2023-05-01"),
       {
-        "/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
+        "/": "本站在海上漂流了 :day 天 :hour 小时 :minute 分钟 :second 秒",
       },
       true,
     );

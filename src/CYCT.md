@@ -1,5 +1,5 @@
-# 常用词萌新解答
-:::details 文章链接
+# 常用词解答
+:::details 文档链接
 https://mwdocs.info/CYCT.html
 :::
 ## 点灯

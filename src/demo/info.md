@@ -1,6 +1,6 @@
 # 发布自己的第一个页面
 
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/demo/info.html
 :::
 

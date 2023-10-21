@@ -1,6 +1,6 @@
 # Emoji 列表
 
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/demo/cook/emoji/
 :::
 

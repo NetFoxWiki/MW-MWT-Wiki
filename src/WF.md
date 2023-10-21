@@ -1,5 +1,5 @@
 # 玩法
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/WF.html
 :::
 ## 我可以在没有互联网的情况下玩现代战舰吗？

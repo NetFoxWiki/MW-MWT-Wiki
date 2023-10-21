@@ -1,0 +1,27 @@
+{
+    "name": "现代战舰文档",
+    "short_name": "现代战舰文档",
+    "description": "用于记录现代战舰内容的文档网站",
+    "lang": "zh-CN",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#0f59a4",
+    "background_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "type": "image/png",
+            "sizes": "300x300",
+            "purpose": "any"
+        },
+        {
+            "src": "/favicon.ico",
+            "type": "image/png",
+            "sizes": "300x300",
+            "purpose": "maskable"
+        }
+    ]
+}

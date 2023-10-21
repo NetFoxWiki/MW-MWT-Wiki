@@ -1,5 +1,9 @@
+---
+cover: https://my-img.cc/i/2023/10/03/651b9c99f1e77.jpg
+---
+
 # 月初惯例，常见问题
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/ZG.html
 :::
 ## 通行证赛季什么时候更新？

@@ -1,5 +1,5 @@
 # 战斗
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/ZD.html
 :::
 ## 如何在战斗中查看玩家表？

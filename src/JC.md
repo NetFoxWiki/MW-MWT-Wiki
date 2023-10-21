@@ -1,9 +1,9 @@
 ---
-cover: https://img1.imgtp.com/2023/08/14/PkwGCfuT.jpg
+cover: https://assets.mwdocs.info/images/PkwGCfuT.jpg
 ---
 
-# 问题引导
-:::details 文章链接
+# 文档一览
+:::details 文档链接
 https://mwdocs.info/JC.html
 :::
 

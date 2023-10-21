@@ -1,5 +1,5 @@
 # 装备
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/ZB.html
 :::
 ## 如何在船上安装购买的装备？

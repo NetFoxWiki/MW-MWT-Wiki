@@ -1,5 +1,5 @@
 # 聊天
-:::details 文章链接
+:::details 文档链接
 https://mwdocs.info/LT.html
 :::
 ## 游戏内聊天从什么级别开始？
