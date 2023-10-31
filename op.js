@@ -64,7 +64,7 @@ const elm_audio_2 = document.createElement("audio");
         // 起洞！
         setTimeout(() => {
 			//此处已更改（MWdocs）
-            window.location.href='https://modernwarships.com';
+            window.location.href='https://artstorm.com';
             elm_div.onclick = () => {
                 elm_audio.pause();
                 elm_div.remove();
