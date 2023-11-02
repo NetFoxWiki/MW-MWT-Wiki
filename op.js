@@ -1,5 +1,5 @@
 function genshinLaunch() {
-        // 原神，启动！
+        // 现代战舰，启动！
         // CSS
         const elm_style = document.createElement("style");
         elm_style.innerHTML = `
@@ -63,8 +63,8 @@ const elm_audio_2 = document.createElement("audio");
 
         // 起洞！
         setTimeout(() => {
-			//此处已更改（MWdocs）
-            window.location.href='https://artstorm.com';
+			//此处已更改
+            window.location.href='https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4';
             elm_div.onclick = () => {
                 elm_audio.pause();
                 elm_div.remove();
