@@ -1,4 +1,5 @@
-function genshinLaunch() {
+window.onload = function() {
+//function genshinLaunch() {
         // 现代战舰，启动！
         // CSS
         const elm_style = document.createElement("style");
