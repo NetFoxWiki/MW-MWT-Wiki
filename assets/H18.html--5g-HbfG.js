@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-df50f87a","path":"/H18.html","title":"七绝 · 赞轰幺八","lang":"zh-CN","frontmatter":{"cover":"https://my-img.cc/i/2023/11/04/6545a7be43cff.png"},"headers":[],"git":{},"readingTime":{"minutes":0.17,"words":52},"filePathRelative":"H18.md","excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6699d926","path":"/demo/cook/emoji/people.html","title":"笑脸 & 人 & 动物","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.18,"words":355},"filePathRelative":"demo/cook/emoji/people.md","excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4f0feb4f","path":"/YJ.html","title":"邮件","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"为什么我需要游戏内邮件？","slug":"为什么我需要游戏内邮件","link":"#为什么我需要游戏内邮件","children":[]}],"git":{},"readingTime":{"minutes":0.27,"words":80},"filePathRelative":"YJ.md","excerpt":""}');export{e as data};

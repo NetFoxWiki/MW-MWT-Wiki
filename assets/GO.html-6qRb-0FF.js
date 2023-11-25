@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c1300850","path":"/GO.html","title":"你好，舰长！","lang":"zh-CN","frontmatter":{"cover":"https://my-img.cc/i/2023/10/03/651b9c984fbbb.jpg"},"headers":[],"git":{},"readingTime":{"minutes":1.09,"words":327},"filePathRelative":"GO.md","excerpt":""}');export{t as data};

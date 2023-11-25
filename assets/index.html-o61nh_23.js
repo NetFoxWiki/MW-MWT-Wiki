@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c8cf81d","path":"/demo/cook/emoji/","title":"Emoji","lang":"zh-CN","frontmatter":{"title":"Emoji","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

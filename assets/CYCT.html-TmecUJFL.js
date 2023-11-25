@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-53f7d2f9","path":"/CYCT.html","title":"常用词解答","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"点灯","slug":"点灯","link":"#点灯","children":[]},{"level":2,"title":"互赞","slug":"互赞","link":"#互赞","children":[]}],"git":{},"readingTime":{"minutes":0.96,"words":289},"filePathRelative":"CYCT.md","excerpt":""}');export{e as data};

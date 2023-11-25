@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-760d2c0f","path":"/demo/cook/emoji/place.html","title":"房屋 & 载具","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.65,"words":194},"filePathRelative":"demo/cook/emoji/place.md","excerpt":""}');export{e as data};

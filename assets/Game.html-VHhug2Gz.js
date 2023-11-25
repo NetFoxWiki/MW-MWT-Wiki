@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a249dda4","path":"/Game.html","title":"游戏规则","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.11,"words":332},"filePathRelative":"Game.md","excerpt":""}');export{e as data};

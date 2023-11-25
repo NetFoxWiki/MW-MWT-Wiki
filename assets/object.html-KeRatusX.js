@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c6f90bd","path":"/demo/cook/emoji/object.html","title":"日常 & 食物","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":1.75,"words":526},"filePathRelative":"demo/cook/emoji/object.md","excerpt":""}');export{e as data};
