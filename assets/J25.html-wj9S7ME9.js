@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-e03ce236","path":"/J25.html","title":"七绝 · 赞歼二五","lang":"zh-CN","frontmatter":{"cover":"https://my-img.cc/i/2023/10/03/651badb2633e7.png"},"headers":[],"git":{},"readingTime":{"minutes":0.17,"words":52},"filePathRelative":"J25.md","excerpt":""}');export{e as data};

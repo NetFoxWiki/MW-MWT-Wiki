@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3889252b","path":"/STAN-Bilibili.html","title":"小傻全-Bilibili","lang":"zh-CN","frontmatter":{"headerDepth":0},"headers":[{"level":3,"title":"介绍：","slug":"介绍","link":"#介绍","children":[]}],"git":{},"readingTime":{"minutes":1.27,"words":380},"filePathRelative":"STAN-Bilibili.md","excerpt":""}');export{e as data};

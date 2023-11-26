@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-b08c7422","path":"/ct.html","title":"国区赛事收录","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.47,"words":140},"filePathRelative":"ct.md","excerpt":""}');export{t as data};

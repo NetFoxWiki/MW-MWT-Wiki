@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-744a27de","path":"/mwt/","title":"你好，指挥官！","lang":"zh-CN","frontmatter":{"cover":"https://my-img.cc/i/2023/11/23/655f357fbee72.jpg"},"headers":[],"git":{},"readingTime":{"minutes":0.74,"words":222},"filePathRelative":"mwt/index.md","excerpt":""}');export{e as data};

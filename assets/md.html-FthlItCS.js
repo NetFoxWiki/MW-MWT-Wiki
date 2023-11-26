@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-c52ae6ee","path":"/md.html","title":"成员招募","lang":"zh-CN","frontmatter":{"cover":"https://my-img.cc/i/2023/10/08/652289f386baa.png"},"headers":[],"git":{},"readingTime":{"minutes":0.21,"words":62},"filePathRelative":"md.md","excerpt":""}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6820bc46","path":"/dev/MW-Press.html","title":"现代战舰创作者","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"dev/MW-Press.md","excerpt":""}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-198cdd51","path":"/app.html","title":"快捷游戏下载（电脑/安卓）","lang":"zh-CN","frontmatter":{"cover":"https://wsrv.nl/?url=//modernwarships.com/i/mw/images/intro-image.jpg"},"headers":[],"git":{},"readingTime":{"minutes":0.43,"words":130},"filePathRelative":"app.md","excerpt":""}');export{e as data};
