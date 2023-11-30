@@ -6,7 +6,7 @@ window.onload = function() {
         elm_style.innerHTML = `
                     :root{
                         --img0: url('https://my-img.cc/i/2023/11/26/6562d986415bb.jpeg');
-                        --img1: url('https://my-img.cc/i/2023/11/26/6562d98682a65.jpeg');
+                        --img1: url('https://my-img.cc/i/2023/11/30/6568699774c40.jpg');
                         --img3: url('https://my-img.cc/i/2023/11/26/6562d9862924c.jpeg');
                     }
 
