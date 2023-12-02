@@ -50,7 +50,7 @@ window.onload = function() {
         const elm_audio = document.createElement("audio");
         elm_audio.style.display = "none";
         elm_audio.loop = true;
-        elm_audio.src = "https://sharefs.hw.kugou.com/202311261354/ae6e2ffedbb2c5310276f0c398019685/v3/9238878ff36c151632e7d4998fa693f3/yp/full/a1000_u0_p409_s304224780.mp3";
+        elm_audio.src = "https://api.uomg.com/api/rand.music?mid=8896251020&format=mp3";
         elm_audio.play();
 		const elm_audio_2 = document.createElement("audio");
         elm_audio_2.style.display = "none";
