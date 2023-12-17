@@ -64,7 +64,7 @@ window.onload = function() {
 
         setTimeout(() => {
 			//此处活跃更改
-            window.location.href='https://mwdocs.info/DE.html';
+            window.location.href='https://mwdocs.info/app.html';
             elm_div.onclick = () => {
                 elm_audio.pause();
                 elm_div.remove();
