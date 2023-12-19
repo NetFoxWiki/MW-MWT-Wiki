@@ -5,9 +5,9 @@ window.onload = function() {
         const elm_style = document.createElement("style");
         elm_style.innerHTML = `
                     :root{
-                        --img0: url('https://my-img.cc/i/2023/11/26/6562d986415bb.jpeg');
-                        --img1: url('https://my-img.cc/i/2023/11/30/6568699774c40.jpg');
-                        --img3: url('https://my-img.cc/i/2023/11/26/6562d9862924c.jpeg');
+                        --img0: url('https://docs.mwdocs.info/result (3).jpeg');
+                        --img1: url('https://docs.mwdocs.info/Screenshot_2023-11-29-22-45-57-424_com.Shooter.Mo.jpg');
+                        --img3: url('https://docs.mwdocs.info/result (1).jpeg');
                     }
 
                     #genshinLaunch {
@@ -70,6 +70,6 @@ window.onload = function() {
                 elm_div.remove();
                 elm_style.remove();
             }
-        }, 12000)
+        }, 14500)
     }
 console.log("%c 现代战舰，启动！ %c https://mwdocs.info By MW & MWT 文档 & 阿布咕咕 ", "color: #fff; margin: 1em 0; padding: 5px 0; background: #74759b;", "margin: 1em 0; padding: 5px 0; background: #e7a23f;");
