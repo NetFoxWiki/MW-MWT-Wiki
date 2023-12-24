@@ -1,6 +1,6 @@
 # MW & MWT 文档（MWdocs）
 
-<img src="https://my-img.cc/i/2023/05/21/64696b78159af.png" />
+<img src="https://docs.mwdocs.info/64e1c414f2779.jpg" />
 
 ## 访问
 
