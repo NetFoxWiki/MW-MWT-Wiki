@@ -15,7 +15,7 @@ async function extractFields() {
     const whyMatch = body.match(whyRegex);
     const why = whyMatch ? whyMatch[1].trim() : '';
 
-    const styleRegex = /###\s*QQ/VX/...\s*([\s\S]*?)\s*###/;
+    const styleRegex = /###\s*联系方式\s*([\s\S]*?)\s*###/;
     const styleMatch = body.match(styleRegex);
     const style = styleMatch ? styleMatch[1].trim() : '';
 

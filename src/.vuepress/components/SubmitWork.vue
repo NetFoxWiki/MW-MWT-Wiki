@@ -11,7 +11,7 @@
       <label>原因：</label>
       <input type="text" ref="why" />
       <br />
-      <label>QQ/VX/...：</label>
+      <label>联系方式：</label>
       <input type="text" ref="style" />
       <br />
       

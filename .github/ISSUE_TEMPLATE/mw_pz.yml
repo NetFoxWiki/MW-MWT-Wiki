@@ -22,7 +22,7 @@ body:
   - type: input
     id: style
     attributes:
-      label: QQ/VX/...
+      label: 联系方式
       description: 来自
     validations:
       required: true

@@ -6,7 +6,7 @@
         <th>序号</th>
         <th>名称</th>
         <th>原因</th>
-        <th>QQ/VX/...</th>
+        <th>联系方式</th>
       </tr>
       </thead>
       <tbody>
