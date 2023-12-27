@@ -1,0 +1,1 @@
+import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{r as e,o as _,c,d as o}from"./app-GRd3_JvC.js";const m={};function a(l,s){const t=e("SubmitWork"),r=e("WorkTable");return _(),c("div",null,[o(t,{work_type:"MW_PZ",label_name:"MWPZ"}),o(r,{work_type:"mwpz"})])}const i=n(m,[["render",a],["__file","mwpz.html.vue"]]);export{i as default};
