@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: INS
-        run: pnpm install 
+        run: pnpm i
       - name: Build
         run: pnpm run docs:build
       - name: Deploy
