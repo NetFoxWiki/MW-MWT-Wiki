@@ -1,5 +1,3 @@
-const fs = import('fs');
-const path = import('path');
 
 async function extractFields() {
   try {
@@ -24,7 +22,7 @@ async function extractFields() {
     for (const label of issueLabels) {
       const labelName = label.name;
       if (labelName === 'MWPZ') {
-        jsonFilePath = path.join(__dirname, '../../docs/.vuepress/works_json/mw_pz.json');
+        jsonFilePath = require.join(__dirname, '../../docs/.vuepress/works_json/mw_pz.json');
         break;
       } else {
         console.log('Labels not need');
@@ -33,7 +31,7 @@ async function extractFields() {
     }
 
     // 格式化作品json文件
-    const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf8'));
+    const jsonData = JSON.parse(require.readFileSync(jsonFilePath, 'utf8'));
 
     // 创建新的元素
     const newElement = {
@@ -44,10 +42,10 @@ async function extractFields() {
     };
 
     // 追加新元素到列表
-    jsonData.push(newElement);
+    require.push(newElement);
 
     // 将更新后的数据写入 JSON 文件
-    fs.writeFileSync(jsonFilePath, JSON.stringify(jsonData, null, 2));
+    require.writeFileSync(jsonFilePath, JSON.stringify(jsonData, null, 2));
 
     console.log('Data appended successfully to JSON file!');
   } catch (error) {
