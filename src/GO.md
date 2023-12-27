@@ -8,10 +8,6 @@ cover: https://docs.mwdocs.info/64e1c414f2779.jpg
 https://mwdocs.info/GO.html
 :::
 
-<SubmitWork :work_type="'MW_PZ'" :label_name="'MWPZ'"></SubmitWork>
-
-<WorkTable :work_type="'mwpz'"></WorkTable>
-
 :::info 使用提示：网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏）
 :::
 
