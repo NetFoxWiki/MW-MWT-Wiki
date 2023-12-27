@@ -23,6 +23,8 @@ jobs:
           WORK_INFO: ${{ runner.workspace }}/.env
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_LABELS: ${{ toJson(github.event.issue.labels) }}
+        with:
+          node-version: 12
         run: |
           cd ./.github/actions/
           node extract_fields.js
