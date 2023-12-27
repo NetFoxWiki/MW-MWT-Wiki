@@ -1,14 +1,22 @@
 # 如何安装正版apk并进行游戏内购买？
+
 :::details 文档链接
 https://mwdocs.info/apkxa.html
 :::
-```card
+
+```component VPCard
 title: Teletype > @modernwarships > pay_web_apk_cn
 desc: 现代战舰：如何安装正版apk并进行游戏内购买？
-logo: https://wsrv.nl/?url=//img3.teletype.in/files/62/3f/623fec94-5a75-4c30-91e5-dcf139484d8b.png
+logo: https://docs.mwdocs.info/11111.png
 link: https://teletype.in/@modernwarships/pay_web_apk_cn
 color: #e2e1e4
 ```
+
+:::caution 温馨提示
+
+图片直接索取于源站图片，使用 wsrv.nl 技术加速访问。但仍有可能无法访问或访问过慢，请见谅！！！
+
+:::
 ## 注意，指挥官们！
 
 由于支付系统的限制，我们来自某些国家/地区的玩家在尝试进行游戏内购买时可能会遇到困难。
@@ -85,7 +93,7 @@ color: #e2e1e4
 
 - 如果帐户未链接到电子邮件地址，请单击“**添加**”，然后按照说明确认您的电子邮件。
 
-:::danger 账户未关联
+:::caution 账户未关联
 
 ![](https://wsrv.nl/?url=img1.teletype.in/files/8a/a2/8aa2140d-42b9-4f18-a671-dc28fb1eb70a.png)
 

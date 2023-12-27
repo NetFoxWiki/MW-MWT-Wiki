@@ -142,10 +142,10 @@ https://mwdocs.info/demo/cook/
 
 ## 图片
 
-![Logo](https://theme-hope.vuejs.press/logo.svg)
+![Logo](https://docs.mwdocs.info/favicon.ico)
 
 ```md
-![Logo](https://theme-hope.vuejs.press/logo.svg)
+![Logo](https://docs.mwdocs.info/favicon.ico)
 ```
 
 ## Emoji
@@ -187,65 +187,3 @@ https://mwdocs.info/demo/cook/
 |       b       |      aaaaaaaaa | aaaa           |
 |       c       |           aaaa | a              |
 ```
-
-## 代码
-
-行内代码效果: `code`
-
-```md
-行内代码效果: `code`
-```
-
-缩进代码:
-
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
-
-实际代码:
-
-```md
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-```
-
-块级代码
-
-```md
-Sample text here...
-```
-
-````md
-块级代码
-
-```
-Sample text here...
-```
-````
-
-高亮格式:
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-````md
-高亮格式:
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-````

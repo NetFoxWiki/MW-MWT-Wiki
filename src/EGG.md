@@ -6,8 +6,8 @@ https://mwdocs.info/EGG.html
 
 ### 水上
 
-![岩峰-水上](https://assets.mwdocs.info/images/aBlf3vEc.jpg)
+![岩峰-水上](https://docs.mwdocs.info/aBlf3vEc.jpg)
 
 ### 水下
 
-![岩峰-水下](https://assets.mwdocs.info/images/7WTYZL3R.png)
+![岩峰-水下](https://docs.mwdocs.info/7WTYZL3R.png)

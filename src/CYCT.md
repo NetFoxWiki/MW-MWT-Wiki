@@ -3,7 +3,7 @@
 https://mwdocs.info/CYCT.html
 :::
 ## 点灯
-:::danger 严重警告
+:::caution 严重警告
 1. 国际通用行为
 2. 航母不点灯你玩呢
 3. 真人局不点灯，小心被骂，这是认真的！！！

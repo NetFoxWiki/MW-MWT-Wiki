@@ -1,0 +1,28 @@
+name: 提交PZ
+title: "MWPZ: {name}"
+description: 将被添加到文档
+labels: [ "MW PZ" ]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 名称
+      description: 人员名称
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: 原因
+      description: 详细原因
+    validations:
+      required: true
+
+  - type: input
+    id: style
+    attributes:
+      label: QQ/VX/...
+      description: 来自
+    validations:
+      required: true

@@ -1,5 +1,5 @@
 ---
-cover: https://my-img.cc/i/2023/10/03/651b9c99f1e77.jpg
+cover: https://docs.mwdocs.info/BeiWang-GO-html.jpg
 ---
 
 # 月初惯例，常见问题
@@ -12,5 +12,5 @@ https://mwdocs.info/ZG.html
 ## 为什么通行证倒计时卡成了几百小时？
 - 需要更新最新版本
 
-## 上月BP物品几点上市场？
-- 我不道啊
+## 上月BP物品什么时候上市场？
+- 通常下午或者傍晚，但具体以游戏实际内容为准

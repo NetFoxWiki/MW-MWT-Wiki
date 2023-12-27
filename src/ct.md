@@ -2,7 +2,7 @@
 :::details 文档链接
 https://mwdocs.info/ct.html
 :::
-:::danger 提示
+:::caution 提示
 收录暂未获得授权，随时会变动
 
 各个赛事海报只做宣传作用，并非最新比赛海报
@@ -12,7 +12,7 @@ https://mwdocs.info/ct.html
 
 <SiteInfo name="CEA" url="https://pd.qq.com/s/8dpjp4sey" preview="https://img1.imgtp.com/2023/09/09/GwA7oue5.jpg" />
 
-<SiteInfo name="AYT" url="https://pd.qq.com/s/9afbs5irz" preview="https://img1.imgtp.com/2023/09/09/HAOBbbWk.png" />
+<SiteInfo name="AYT" url="https://pd.qq.com/s/9afbs5irz" preview="https://docs.mwdocs.info/700d5e5bf125df3b31237861a2c05405.jpg" />
 
 <SiteInfo name="HLM" url="https://pd.qq.com/s/9s7v9gmld" preview="https://img1.imgtp.com/2023/09/09/2FoWtr5a.jpg" />
 

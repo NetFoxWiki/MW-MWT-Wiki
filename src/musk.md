@@ -1,12 +1,12 @@
 ---
-cover: https://assets.mwdocs.info/images/ZMhq84AY.jpg
+cover: https://docs.mwdocs.info/ZMhq84AY.jpg
 ---
 
 # 特殊活动模式
 :::details 文档链接
 https://mwdocs.info/musk.html
 :::
-## 空天航母模式
+## 巨兽之战 <Badge text="可玩性最高类" type="info" />（22.12.14）
 
 0.59〔空天母舰对战活动模式〕
 
@@ -72,9 +72,9 @@ https://mwdocs.info/musk.html
 
 - 通过购买和激活任何收益加成，您不仅可以获得收益提升，还可以增加在活动中获得独特奖励的机会！
 
-![空天航母宣传图](https://assets.mwdocs.info/images/3f558fd3c12c726255b9f64b4066227a_720.png)
+![空天航母宣传图](https://docs.mwdocs.info/3f558fd3c12c726255b9f64b4066227a_720.png)
 
-## 复活节活动
+## 复活节（23.4.10）<Badge text="失传" color="#533c1b" />
 
 在活动期间游玩现代战舰，赚取特殊货币-复活节彩蛋
 
@@ -86,9 +86,9 @@ https://mwdocs.info/musk.html
 
 - 氪金
 
-![复活节宣传图](https://assets.mwdocs.info/images/fe580e5496c809e3d17fb1689ac60dae_720.jpg)
+![复活节宣传图](https://docs.mwdocs.info/fe580e5496c809e3d17fb1689ac60dae_720.jpg)
 
-## 二周年活动
+## 二周年（23.5.10）
 
 两周年活动最终奖励V-280“勇士”
 
@@ -117,9 +117,17 @@ https://mwdocs.info/musk.html
 
 在活动结束后，如果有未使用的球棒，玩家并不会失去它们，可以用球棒来换取额外的黄金
 
-![二周年宣传图](https://assets.mwdocs.info/images/MW_bundle_E2_ModernWarships2ndAnniversary_0.64_1920x1080.png)
+---
 
-## 端午节活动
+:::details 查看详细信息
+
+https://teletype.in/@modernwarships/MW2A
+
+:::
+
+![二周年宣传图](https://docs.mwdocs.info/MW_bundle_E2_ModernWarships2ndAnniversary_0.64_1920x1080.png)
+
+## 端午节（23.6.10）
 
 端午节活动通行证奖励，最终奖励为055A
 
@@ -131,9 +139,17 @@ https://mwdocs.info/musk.html
 
 获得古老的钥匙，可以在卡池在抽奖
 
-![端午节宣传图](https://assets.mwdocs.info/images/MW_Event_DBF_promo_poster_0.66_1920x1080.png)
+---
 
-## 海之日活动
+:::details 查看详细信息
+
+https://teletype.in/@modernwarships/dbf
+
+:::
+
+![端午节宣传图](https://docs.mwdocs.info/MW_Event_DBF_promo_poster_0.66_1920x1080.png)
+
+## 海之日（23.7.10）
 
 **海之日活动描述：**
 
@@ -149,9 +165,17 @@ https://mwdocs.info/musk.html
 
 - 折扣礼包摩耶级
 
-![海之日宣传图](https://assets.mwdocs.info/images/e931cef1a3c82bec519142c7a300c832_720.png)
+---
 
-## 猎物之海活动
+:::details 查看详细信息
+
+https://teletype.in/@modernwarships/mdc
+
+:::
+
+![海之日宣传图](https://docs.mwdocs.info/e931cef1a3c82bec519142c7a300c832_720.png)
+
+## 猎物之海 - 现代军舰（23.8.10）
 
 **主体：**
 
@@ -185,9 +209,17 @@ https://mwdocs.info/musk.html
 
 - 如果你控制对手的积分，并将他的占领积分降低到0，你就赢了
 
-![猎物之海宣传图](https://assets.mwdocs.info/images/cdc42db9a8e4f453cb9382c4d718688e_720.jpg)
+---
 
-## 海盗嘉年华活动
+:::details 查看详细信息
+
+https://teletype.in/@modernwarships/sp01
+
+:::
+
+![猎物之海宣传图](https://docs.mwdocs.info/cdc42db9a8e4f453cb9382c4d718688e_720.jpg)
+
+## 海盗嘉年华（23.9.10）
 
 **主体：**
 
@@ -219,9 +251,17 @@ RG-32轨道炮为氪金榜前三专属奖励
 
 - 复活后，舰艇会享受10秒的保护期
 
-![海盗嘉年华宣传图](https://assets.mwdocs.info/images/1275c7867e4e22ee938c8a519baace04_720.png)
+---
 
-## 来自深处活动
+:::details 查看详细信息
+
+https://modernwarships.com/news/fiesta_pirata
+
+:::
+
+![海盗嘉年华宣传图](https://docs.mwdocs.info/1275c7867e4e22ee938c8a519baace04_720.png)
+
+## 来自深处（23.10.10）
 
 探索神秘湾受感染的水域。在玩法更新的占点模式中，拾取装有Buff的容器来战胜对手
 
@@ -291,4 +331,185 @@ RG-32轨道炮为氪金榜前三专属奖励
 
 “毒性低语” - 史诗级涂装，作为Stephen排行榜（肝榜）前30名奖励
 
-![来自深处宣传图](https://assets.mwdocs.info/images/image.png)
+---
+
+:::details 查看详细信息
+
+https://modernwarships.com/news/from_the_deep
+
+:::
+
+![来自深处宣传图](https://docs.mwdocs.info/image.png)
+
+## 万圣节收获 <Badge text="社区类" type="info" />（23.10.30）
+
+**介绍：**
+
+- 时间：2023年10月30日至11月1日
+- 玩家通过完成任务收集万圣节南瓜
+- 社区目标进度条每12小时更新一次
+- 社区目标：一起赚取4000000个南瓜，并为所有参与者解锁最终奖励
+- 每名参与者将根据社区实现的里程碑获得奖励
+
+![万圣节收获宣传图](https://docs.mwdocs.info/Screenshot_2023-10-30-19-11-46-337_com.Shooter.Mo.jpg)
+
+**武器介绍：**
+
+根据女巫的秘密蓝图制造。设计师保证其可以达到超音速并发出狂暴的声音
+
+![特殊武器图——南瓜发射器（375南瓜米）](https://docs.mwdocs.info/Screenshot_2023-10-30-19-12-06-651_com.Shooter.Mo.jpg)
+
+**武器介绍：**
+
+舰载375南瓜米口径南瓜发射器。发射非接触式引信危险南瓜
+
+![特殊武器图——长柄扫帚火箭](https://docs.mwdocs.info/Screenshot_2023-10-30-19-12-01-536_com.Shooter.Mo.jpg)
+
+## 猎物之海2 - 王权之巅（23.11.10）
+
+指挥官们，我们邀请您参加 Seas of Prey - 王权之巅，这是现代战舰传奇生存秀的第二季！
+
+在这一季的节目中，参赛者必须在“个人死斗”模式中展示其技能
+
+参加生存与智慧的游戏，发扬勇士精神！
+
+**活动专属新模式：个人死斗**
+
+- 参与游戏的全部玩家相互混战
+
+- 战斗时长为10分钟
+
+- 先消灭5个对手的玩家或在战斗结束时消灭对手最多的玩家将获胜
+
+- 消灭对手后，击沉对手舰艇的玩家将自动补充，弹药及消耗品
+
+- 被消灭后，玩家将复活并继续战斗
+
+- 复活后，舰艇会享受10秒的保护期
+
+**活动奖励：**
+
+十月活动最终免费奖励”Defiant X 直升机“
+
+活动礼包涂装“皇家王朝礼包 - 以独特的外观彰显您在战场上的胜利”
+
+活动折扣礼包“CN Liren - 中国近未来巡洋舰级别舰艇设计概念”
+
+活动付费奖池【ROKS JSS（韩国武库）】及免费【无人深潜器（K-76L/62 - 韩国76毫米射速提升型舰炮、Red Shark - 垂发反潜导弹）】奖池
+
+**排行榜：**
+
+氪金榜限定头像
+
+- Liam O'Connell
+
+- Naomi Washington
+
+- Sean O'Connell
+
+“王权标志” - 史诗级涂装，作为 排行榜（肝榜）前30名奖励
+
+“Dharma Putra” - 头像，作为 排行榜（肝榜）前10名奖励
+
+---
+
+:::details 查看详细信息
+
+https://modernwarships.com/news/sp02
+
+:::
+
+![猎物之海2 宣传图](https://docs.mwdocs.info/1f3656183dac711c7b42a0a480d720a4_720.jpg)
+
+## 黑色星期五（23.11.23）
+
+指挥官们，请注意！⚓️
+
+🎁 迎接黑色星期五，我们新的限时活动充满了激动人心的机会和巨大的胜利！
+
+🔥 用您的资源换取抽奖券！
+只有在黑色星期五期间，您才能用暴币、黄金和美元兑换独特的抽奖券！用它们试试您的运气，赢得史诗级奖品！
+
+💰 通过购买独特的活动礼包来获取更多奖券。不仅有稀有舰艇和传说级皮肤在里面等着你，还有额外的抽奖券，让您更接近梦寐以求的奖励！
+
+👀 请注意，明天，国际时间 11月24日，以下舰艇将进入市场：
+
+- FS PANG突击航母
+- TF-2000驱逐舰
+
+此外，在 11月24日，我们将以官方指导价格出售市场专属物品。每种商品补货数量都是有限的，所以建议您抓紧时间！
+
+参与销售的物品：
+
+- 蓝鲨
+- CH-1铜斑蛇
+- 宙斯盾大和
+- 罕舰
+- 杀戮时刻
+- 莫斯科
+- 武库
+- TF 2000
+- FS-PANG
+
+🕔 该活动时间有限，将从 11月23日 持续到 11月30日 5:59 UTC
+
+我们祝愿您在现代战舰中取得重大胜利并好运连连！🌊🚀
+
+![黑色星期五](https://docs.mwdocs.info/c03b9b19a6a1cd473b659f1ed3785af2_720.png)
+
+## 金属霜冻（23.12.13）
+
+**在这场惊心动魄的残酷活动中，为一生难忘的圣诞节做好准备！**
+
+**护航模式**
+
+双方队伍围绕被护航舰队展开战斗，护航方的目标为将其护送到港口，拦截方的目标则是将其摧毁，率先完成目标的一方**将会获胜**
+
+- 模式地图：双武士
+- 护航方的目标为护送舰队到达港口
+- 拦截方的目标为击沉被护航舰队
+- 被护航舰队将沿预先确定的航线通过数个检查点
+- 每完成一个检查点，护航方将获得积分，并更新重生位置
+- 拦截方每击沉一条被护航舰艇将获得积分
+- 率先完成任务目标的一方将获胜
+
+**活动奖励**
+
+满级奖励：
+
+米-24 SuperHind Mk.II 直升机
+
+冰川礼包：
+
+战列舰Moscow的专属皮肤“寒冰”、“糖果与灯光”旗帜，以及用于开启圣诞老人礼物袋的牛奶与饼干*25
+
+圣诞老人礼物袋：
+
+- 日本航母 JS Izumo
+- 土耳其反潜火箭炮 ASW Rocket
+- 传说级“糖果与灯光”旗帜
+- 用于进行市场交易的艺术硬币
+- 用于完成叮当通行证的拐杖糖，以及额外的牛奶与饼干
+- 美国隐身战舰 USS Battlecruiser 2000
+
+冰霜宝箱：
+
+- 美国 Mark-45 ASTOR 483毫米电动鱼雷，装备核战斗部
+- 新型A244 SLWT轻型鱼雷，口径324毫米，配备强大的推进系统，能够快速达到最高速度
+- SCALP海军型固体燃料远程多用途自导式精确制导巡航导弹
+- 用于完成叮当通行证的拐杖糖，以及额外的牛奶与饼干
+- 用于进行市场交易的艺术硬币
+
+新的头衔和头像：
+
+略
+
+---
+
+:::details 查看详细信息
+
+https://modernwarships.com/news/metal_frost
+
+:::
+
+![金属霜冻](https://docs.mwdocs.info/event_mf23_popup.png)

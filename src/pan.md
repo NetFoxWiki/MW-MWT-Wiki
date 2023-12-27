@@ -2,9 +2,22 @@
 :::details 文档链接
 https://mwdocs.info/pan.html
 :::
+
+:::caution 温馨提示
+
+图片直接索取于源站图片，使用 wsrv.nl 技术加速访问。但仍有可能无法访问或访问过慢，请见谅！！！
+
+:::
+
+:::warning 提示
+
+Pan-spatial 与 ArtStorm 有多次合作，故暂停收集 Pan-spatial 类的合作装备
+
+:::
+
 ## 阿尔戈纳斯（ARGONAS）
 
-```card
+```component VPCard
 title: PAN SPATIAL-ARGONAS
 desc: 来自：https://pan-spatial.com/argonas/
 logo: https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/PS-LOGO-FULL-20220814_2251-300x300.png
@@ -33,7 +46,7 @@ Argonas is a large ground effect aircraft designed to rapidly deliver supporting
 
 ## 杀戮时刻（KILLSWITCH）
 
-```card
+```component VPCard
 title: PAN SPATIAL-KILLSWITCH
 desc: 来自：https://o5u.79d.myftpupload.com/killswitch/
 logo: https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/PS-LOGO-FULL-20220814_2251-300x300.png

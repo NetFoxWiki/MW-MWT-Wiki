@@ -1,7 +1,3 @@
----
-cover: https://assets.mwdocs.info/images/PjTu9rA9.jpg
----
-
 # 手机端下载（官方链接）
 :::details 文档链接
 https://mwdocs.info/mod.html

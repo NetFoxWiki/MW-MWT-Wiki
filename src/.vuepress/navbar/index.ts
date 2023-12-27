@@ -1,43 +1,55 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const Navbar = navbar([
-{ text: "首页", icon: "return", link: "/"},
-	{
-        text: "联系&建议&贡献",
-        icon: "network",
+  { text: "首页", icon: "return", link: "/" },
+  { text: "文档B站", icon: "at", link: "https://space.bilibili.com/1093209533" },
+  { text: "文档QQ群", icon: "light", link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260" },
+  {
+    text: "MW & MWT 文档",
+    icon: "news",
+    children: [
+      {
+        text: "现代战舰",
         children: [
-          {
-            text: "社区交流群",
-            children: [
-              { text: "加入社区", link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=I_ROUWqbu7vHwWCtgD-JDlAIV6yzTrEk&authKey=TxK%2BKZLv4Aph%2FCCSbBWfqh1p%2BWIukBvWcTwR2A4gu9DnPWX%2B0kBPOqcAKbrStNsH&noverify=0&group_code=858040124"},
-            ],
-          },
+          { text: "启动！", link: "GO.html" },
         ],
       },
-{
-        text: "MW & MWT 文档",
-        icon: "news",
+      {
+        text: "现代战争：坦克",
         children: [
-          {
-            text: "现代战舰",
-            children: [
-              { text: "开始", link: "GO.html"},
-            ],
-          },
-          {
-            text: "现代战争：坦克",
-            children: [
-              { text: "切换", link: "./mwt"},
-            ],
-          },
+          { text: "启动！", link: "mwt/index.html" },
         ],
       },
-	  {
-        text: "桌面版",
-        icon: "windows",
+    ],
+  },
+  {
+    text: "国区社区",
+    icon: "flow",
+    children: [
+      {
+        text: "Glory 超玩会",
         children: [
-		{ text: "下载桌面版", link: "mwdocs-app.html"},
-        { text: "Github", link: "https://github.com/Wakudocs/wakudocs.github.io/releases/tag/app"},
-	  ],
+          { text: "QQ群组", icon: "selection", link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5YqFCMDBGX6u-iBmS9VASlDfR4xevaip&authKey=hg%2FmXhVLASLb36LUyBDKOi7Nc8GtzsCNul3zw6Q8xgXio%2Fs4yQo1%2BLRCTFYtiqmB&noverify=0&group_code=473298446" },
+        ],
       },
+      {
+        text: "现代战舰前沿新闻",
+        children: [
+          { text: "QQ群组", icon: "repo", link: "https://qm.qq.com/q/JqVFw6yogI" },
+        ],
+      },
+      {
+        text: "现代战舰官方社区",
+        children: [
+          { text: "QQ频道", icon: "define", link: "https://pd.qq.com/s/f0oylihze" },
+        ],
+      },
+      {
+        text: "现代战舰玩家社区",
+        children: [
+          { text: "QQ频道", icon: "blog", link: "https://pd.qq.com/s/8otd5z76x" },
+        ],
+      },
+    ],
+  },
 ]);

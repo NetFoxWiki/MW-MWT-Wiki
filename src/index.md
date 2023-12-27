@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://assets.mwdocs.info/images/Uqoy24sz.png
+heroImage: ./favicon.ico
 bgImage: /bg.svg
 bgImageDark: /bg.svg
 bgImageStyle:
@@ -16,7 +16,7 @@ actions:
     link: ./demo/info.html
     type: default
   - text: 现代战争：坦克（开发中） 💣
-    link: ./mwt
+    link: ./mwt/
     type: primary
   - text: 发布页面（MWT）（开发中） 📚
     link: ./demo/info.html

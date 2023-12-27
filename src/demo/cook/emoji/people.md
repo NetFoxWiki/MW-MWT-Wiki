@@ -1,4 +1,4 @@
-
+# 笑脸 & 人 & 动物
 - :smile: `:smile:`
 - :laughing: `:laughing:`
 - :blush: `:blush:`
@@ -127,8 +127,6 @@
 - :information_desk_person: `:information_desk_person:`
 - :raising_hand: `:raising_hand:`
 - :bride_with_veil: `:bride_with_veil:`
-- :person_with_pouting_face: `:person_with_pouting_face:`
-- :person_frowning: `:person_frowning:`
 - :bow: `:bow:`
 - :couple_with_heart: `:couple_with_heart:`
 - :massage: `:massage:`
@@ -141,7 +139,6 @@
 - :baby: `:baby:`
 - :older_woman: `:older_woman:`
 - :older_man: `:older_man:`
-- :person_with_blond_hair: `:person_with_blond_hair:`
 - :man_with_gua_pi_mao: `:man_with_gua_pi_mao:`
 - :man_with_turban: `:man_with_turban:`
 - :construction_worker: `:construction_worker:`

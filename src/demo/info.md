@@ -6,9 +6,9 @@ https://mwdocs.info/demo/info.html
 
 为了增强网站内容的多元化，我们对所有人开放编辑
 
-请以邮件 netfox@mwdocs.info 形式发给我们 Markdown 文件
+- 以邮件（ netfox@mwdocs.info ）形式发给我们 **Markdown 文件** 或 **任何格式文本文件**
 
-格式请看 [Markdown 语法](./cook/index.md) 和 [Markdown 增强语法](./markdown/README.md)
+格式请看 [Markdown 语法](./cook/index.md)
 
 ***为了方便使用，本站已开启全部配置项***
 

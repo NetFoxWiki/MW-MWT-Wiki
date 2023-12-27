@@ -1,5 +1,5 @@
 ---
-cover: https://wsrv.nl/?url=//modernwarships.com/i/mw/images/intro-image.jpg
+cover: https://docs.mwdocs.info/PjTu9rA9.jpg
 ---
 
 # 快捷游戏下载（电脑/安卓）
@@ -9,18 +9,25 @@ https://mwdocs.info/app.html
 :::
 
 
-```card
+```component VPBanner
 title: 安卓-现代战舰官方直链下载（点击立即下载）
-desc: 来自：https://gdn.gaijin.net/apk/download?proj=modern_warships&tag=latest
-logo: https://wsrv.nl/?url=//img3.teletype.in/files/62/3f/623fec94-5a75-4c30-91e5-dcf139484d8b.png
-link: https://gdn.gaijin.net/apk/download?proj=modern_warships&tag=latest
-color: #e2e1e4
+content: 来自：https://gdn.gaijin.net/apk/download?proj=modern_warships&tag=latest
+logo: https://docs.mwdocs.info/mw-logo-pc.ico
+background: var(--bg-9)
+color: var(--banner-text)
+actions:
+  - text: 下载
+    link: https://gdn.gaijin.net/apk/download?proj=modern_warships&tag=latest
 ```
 
-```card
+
+```component VPBanner
 title: 电脑-现代战舰官方直链下载（点击立即下载）
-desc: 来自：https://gdn.gaijin.net/launcher/current.php?id=ModernWarshipsLauncher
-logo: https://modernwarships.com/build/img/favicon/favicon.ico
-link: https://gdn.gaijin.net/launcher/current.php?id=ModernWarshipsLauncher
-color: #e2e1e4
+content: 来自：https://gdn.gaijin.net/launcher/current.php?id=ModernWarshipsLauncher
+logo: https://docs.mwdocs.info/mw-logo-pc.ico
+background: var(--bg-2)
+color: var(--banner-text)
+actions:
+  - text: 下载
+    link: https://gdn.gaijin.net/launcher/current.php?id=ModernWarshipsLauncher
 ```

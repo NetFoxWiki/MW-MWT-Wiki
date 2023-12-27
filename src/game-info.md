@@ -1,7 +1,3 @@
----
-sidebar: false
----
-
 # 游戏信息
 
 :::details 文档链接
@@ -10,10 +6,10 @@ https://mwdocs.info/game-info.html
 
 ## 游戏下载
 
-```card
+```component VPCard
 title: 快捷游戏下载（电脑/安卓）
-desc: 来自：MWdocs
-logo: https://assets.mwdocs.info/images/Uqoy24sz.png
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
 link: app.html
 color: #e2e1e4
 ```
@@ -22,36 +18,36 @@ color: #e2e1e4
 
 ### 站内
 
-```card
+```component VPCard
 title: 官方解惑
-desc: 来自：MWdocs
-logo: https://assets.mwdocs.info/images/Uqoy24sz.png
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
 link: ZH.html
 color: #e2e1e4
 ```
 
-```card
+```component VPCard
 title: 官方文章
-desc: 来自：MWdocs
-logo: https://assets.mwdocs.info/images/Uqoy24sz.png
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
 link: apkxa.html
 color: #e2e1e4
 ```
 
-```card
+```component VPCard
 title: 游戏收录
-desc: 来自：MWdocs
-logo: https://assets.mwdocs.info/images/Uqoy24sz.png
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
 link: mw68.html
 color: #e2e1e4
 ```
 
 ### 站外
 
-```card
+```component VPCard
 title: 现代战舰数据
 desc: MWstats（现代战舰数据） 提供现代战舰手机游戏中舰船和物品的统计数据和数字
-logo: https://wsrv.nl/?url=//mwstats.info/favicon-64x64.png
+logo: https://docs.mwdocs.info/mwstats.png
 link: https://mwstats.info
 color: #e2e1e4
 ```
@@ -88,4 +84,4 @@ color: #e2e1e4
 >
 >>体验高度细节的舰艇和载具模型壮观战斗-它们在型号广泛的设备上都看起来很漂亮
 
-![现代战舰](https://modernwarships.com/i/mw/images/intro-image.jpg)
+![现代战舰](https://docs.mwdocs.info/intro-image.jpg)

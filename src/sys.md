@@ -1,17 +1,13 @@
----
-cover: https://modernwarships.com/i/mw/images/intro-image.jpg
----
-
 # 游戏系统要求
 :::details 文档链接
 https://mwdocs.info/sys.html
 :::
 ## 来自
 
-```card
+```component VPCard
 title: modernwarships.com/about
 desc: 现代战舰：海上大战 — 手机和 PC 平台都可畅玩的军武动作类游戏！
-logo: https://modernwarships.com/build/img/favicon/favicon.ico
+logo: https://docs.mwdocs.info/mw-logo-pc.ico
 link: https://modernwarships.com/about
 color: #e2e1e4
 ```

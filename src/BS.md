@@ -2,7 +2,7 @@
 :::details 文档链接
 https://mwdocs.info/BS.html
 :::
-:::danger 声明
+:::caution 声明
 在锦标赛中获得英雄和传奇状态暂时禁用。您可以在社区锦标赛中赢得英雄和传奇身份。
 :::
 
