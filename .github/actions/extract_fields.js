@@ -1,5 +1,5 @@
-const fs = require('fs');
-const path = require('path');
+const fs = import('fs');
+const path = import('path');
 
 async function extractFields() {
   try {
