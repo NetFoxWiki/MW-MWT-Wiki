@@ -1,7 +1,7 @@
 import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 const fs = require('fs');
-const path = require("path");
+const path = require('path');
 
 async function extractFields() {
   try {
@@ -26,7 +26,7 @@ async function extractFields() {
     for (const label of issueLabels) {
       const labelName = label.name;
       if (labelName === 'MWPZ') {
-        jsonFilePath = path.join(__dirname, '../../docs/.vuepress/works_json/mw_pz.json');
+        jsonFilePath = path.join(__dirname, '../../src/.vuepress/works_json/mw_pz.json');
         break;
       } else {
         console.log('Labels not need');
