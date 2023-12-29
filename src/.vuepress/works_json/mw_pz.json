@@ -1,8 +1,14 @@
 [
   {
     "id": 1,
-    "name": "test",
-    "why": "test",
-    "style": "test"
-  }
+    "name": "",
+    "why": "",
+    "style": ""
+  },
+  {
+    "id": 2,
+    "name": "",
+    "why": "",
+    "style": ""
+  },
 ]
