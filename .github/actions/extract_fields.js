@@ -1,7 +1,7 @@
 import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 const fs = require('fs');
-const path = require('path');
+const path = require("path");
 
 async function extractFields() {
   try {
