@@ -17,6 +17,11 @@ jobs:
         if: |
           !(contains(github.event.pull_request.labels.*.name, 'MWPZ'))
         run: exit 0
+      
+      - name: node v12
+        uses: actions/setup-node@v3
+        with:
+          node-version: 12
           
       - name: Run JavaScript
         env:
