@@ -20,7 +20,7 @@ https://mwdocs.info/ct.html
 
 <SiteInfo name="DW" url="https://pd.qq.com/s/2udth411x" preview="https://docs.mwdocs.info/mwdw-logo.jpg" />
 
-<SiteInfo name="EVI" url="https://pd.qq.com/s/5voraubc4" preview="https://img1.imgtp.com/2023/09/09/doXLegE3.jpg" />
+<SiteInfo name="EVI" url="https://pd.qq.com/s/5voraubc4" preview="https://docs.mwdocs.info/mwevi-logo.jpg" />
 
 <SiteInfo name="Fanplay.CN" url="https://pd.qq.com/s/2a7svtsox" preview="https://img1.imgtp.com/2023/09/09/EumfEwD6.jpg" />
 
