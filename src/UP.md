@@ -5,6 +5,23 @@ https://mwdocs.info/UP.html
 
 ---
 
+:::details 2023.12.30
+
+::: tabs
+
+@tab 新增
+
+> [特殊活动模式](musk.html) 收录 冬季盛典：假日狂欢
+
+@tab 修复
+
+无
+
+:::
+
+
+
+
 :::details 2023.12.22
 
 ::: tabs
