@@ -1,6 +1,5 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { removePWAPlugin } from "vuepress-plugin-remove-pwa";
 import { redirectPlugin } from "vuepress-plugin-redirect";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
@@ -24,11 +23,6 @@ export default defineUserConfig({
 			},
 		}),
 		removePWAPlugin({
-		}),
-		searchProPlugin({
-			indexContent: true,
-			autoSuggestions: true,
-			worker: "docs-search.worker.js",
 		}),
 	],
 });

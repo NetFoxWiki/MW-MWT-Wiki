@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { Navbar } from "./navbar/index.js";
 import { Sidebar } from "./sidebar/index.js";
 
-/*const locale = {
+const locale = {
   nickError: '报告舰长！昵称不能少于3个字符',
   mailError: '报告舰长！请填写正确的邮件地址',
   placeholder: '公告：评论系统邮箱功能出现问题，请选择第三方【QQ、Weibo、Github、Facebook、X】或者游客评论，敬请谅解！\n\n社交登录现已支持【QQ Weibo GitHub X Facebook】等平台',
@@ -14,7 +14,7 @@ import { Sidebar } from "./sidebar/index.js";
   level3: 'Lv3',
   level4: 'Lv4',
   level5: 'Lv5',
-};*/
+};
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
@@ -28,7 +28,7 @@ export default hopeTheme({
   //pure: true,
   breadcrumb: false,
   //pageInfo: ["PageView","Word", "ReadingTime","Author","Date","Original"],
-  pageInfo: ["Word", "ReadingTime", "Author"],
+  pageInfo: ["Word", "ReadingTime", "Author", "PageView"],
   logo: "./favicon.ico",
   // navbar
   navbar: Navbar,
@@ -44,7 +44,17 @@ export default hopeTheme({
   sidebarIcon: true,
   iconAssets: "iconfont",
   darkmode: "toggle",
+  encrypt: {
+      config: {
+        "/dev/": ["mwdocs-dev-netfox"],
+      },
+    },
   plugins: {
+	searchPro: {
+	  indexContent: true,
+	  autoSuggestions: true,
+      worker: "docs-search.worker.js",
+	},
 	sitemap: true,
     photoSwipe: {
       delay: 200,
@@ -108,26 +118,21 @@ export default hopeTheme({
         "SiteInfo",
       ],
     },
-    /*comment: {
-Twikoo驱动的评论
+    comment: {
+/*Twikoo驱动的评论
   provider: "Twikoo",
   envId: "https://pl.cooing.org.cn",
 */
-    /*provider: "Waline",
-    serverURL: "https://waline.mwdocs.info",
-  comment: false,
-  pageview: true,
-    meta: ['nick', 'mail'],
+    provider: "Waline",
+    serverURL: "https://comment.mwdocs.info",
+    comment: false,
+    pageview: true,
+    /*meta: ['nick', 'mail'],
     requiredMeta: ['nick'],
     login: 'enable',
     locale,
     pageSize: '10',
-    imageUploader: false,
-    reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-flag/1f1e8-1f1f3.png', 'https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
-    emoji: [
-    'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
-      'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
-    ],*/
+    imageUploader: false,*/
     /*      provider: "Giscus",
           repo: "Wakudocs/repo",
           repoId: "R_kgDOJiGMcQ",
@@ -136,8 +141,8 @@ Twikoo驱动的评论
           lazyLoading: "false",
           inputPosition: "top",
           lightTheme: "light_protanopia",
-          darkTheme: "dark_protanopia",
-  },*/
+          darkTheme: "dark_protanopia",*/
+  },
     mdEnhance: {
 	  tasklist: true,//任务列表
       component: true,//组件
