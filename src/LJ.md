@@ -2,54 +2,56 @@
 :::details 文档链接
 https://mwdocs.info/LJ.html
 :::
-## 官网（Gaijin x Artstorm）
+
+## 官方网站
+
+### 官网（Gaijin x Artstorm）
 
 https://modernwarships.com/
 
-## 官网（Artstorm）
+### 官网（Artstorm）
 
 https://artstorm.com/zh-CN/
 
-## Discord
+### Discord
 
 https://discord.gg/modernwarships
 
-## Facebook
+### Facebook
 
 https://www.facebook.com/groups/artstormofficial/?ref=share&mibextid=NSMWBT
 
-## Youtube
+### Youtube
 
 https://youtube.com/@Modern_Warships
 
-## Vk
+### Vk
 
 https://vk.com/artstormfze
 
-## Twitter
+### Twitter
 
 https://twitter.com/ModernWarships?s=09
 
-## Linkedin
+### Linkedin
 
 https://www.linkedin.com/company/artstormfze
 
-## Telegram
+### Telegram
 
 https://t.me/MW_ARABS_CHANNEL
 
-## MW & MWT 文档
-
-https://mwdocs.info
-
-## Reddit
+### Reddit
 
 https://www.reddit.com/r/ModernWarships
 
-## Mwstats
+
+## 非官方网站
+
+### Mwstats（现代战舰数据）
 
 https://mwstats.info/ships?lang=zh-hans
 
-## Google
+### MW & MWT 文档
 
-https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships
+https://mwdocs.info

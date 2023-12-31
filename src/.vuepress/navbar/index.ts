@@ -2,24 +2,19 @@ import { navbar } from "vuepress-theme-hope";
 
 export const Navbar = navbar([
   { text: "首页", icon: "return", link: "/" },
-  { text: "文档B站", icon: "at", link: "https://space.bilibili.com/1093209533" },
-  { text: "文档QQ群", icon: "light", link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260" },
   {
-    text: "MW & MWT 文档",
-    icon: "news",
+    text: "联系我们",
+    icon: "blog",
     children: [
-      {
-        text: "现代战舰",
-        children: [
-          { text: "启动！", link: "GO.html" },
-        ],
-      },
-      {
-        text: "现代战争：坦克",
-        children: [
-          { text: "启动！", link: "mwt/index.html" },
-        ],
-      },
+      { text: "文档B站", icon: "at", link: "https://space.bilibili.com/1093209533" },
+      { text: "文档QQ群", icon: "light", link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260" },
+    ],
+  },
+  {
+    text: "友情链接",
+    icon: "link",
+    children: [
+      { text: "舰队导航", icon: "navigation",link: "https://space.bilibili.com/1093209533" },
     ],
   },
   {
