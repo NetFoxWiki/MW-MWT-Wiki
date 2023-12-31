@@ -14,7 +14,7 @@ export const Navbar = navbar([
     text: "友情链接",
     icon: "link",
     children: [
-      { text: "舰队导航", icon: "navigation",link: "https://www.sss9.top/" },
+      { text: "舰队导航", icon: "navigation",link: "http://www.sss9.top/" },
     ],
   },
   {
