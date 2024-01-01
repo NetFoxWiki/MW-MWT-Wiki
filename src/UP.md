@@ -11,8 +11,6 @@ https://mwdocs.info/UP.html
 
 @tab 新增
 
-> 重新启用浏览量系统
-
 > [特殊活动模式](musk.html) 收录 冬季盛典：假日狂欢
 
 @tab 修复
