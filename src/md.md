@@ -15,7 +15,7 @@ https://mwdocs.info/md.html
 
 2. 时间充足（可以省略）
 
-3. 对 [Markdown](demo/info.html) 有基础认识
+3. 对 [Markdown](demo/info.html) 有基础认识（可以省略）
 
 申请方式：
 
@@ -32,7 +32,7 @@ https://mwdocs.info/md.html
 
 2. 时间充足（可以省略）
 
-3. 对 [Markdown](demo/info.html) 有基础认识
+3. 对 [Markdown](demo/info.html) 有基础认识（可以省略）
 
 申请方式：
 
