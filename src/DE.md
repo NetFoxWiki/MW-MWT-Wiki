@@ -12,7 +12,7 @@ https://mwdocs.info/DE.html
 
 ```component VPCard
 title: 阿布咕咕
-desc: 运营
+desc: 🔥手持两把锟斤拷，口中直呼烫烫烫
 logo: https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg
 link: md.md
 color: #fff
