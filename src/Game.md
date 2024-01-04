@@ -1,4 +1,4 @@
-# 游戏规则（bushi）
+# 游戏生存守则
 :::details 文档链接
 https://mwdocs.info/Game.html
 :::
