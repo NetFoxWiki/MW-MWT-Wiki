@@ -45,6 +45,7 @@ export const Sidebar = sidebar({
 					icon: "repo",
 					collapsible: true,
 					children: [
+       'Game.md',
 						'STAN-Bilibili.md',
 					],
 				},
@@ -69,7 +70,6 @@ export const Sidebar = sidebar({
 					children: [
 						'mw-rules.md',
 						'CYCT.md',
-						'Game.md',
 					],
 				},
 				{
