@@ -4,6 +4,21 @@ https://mwdocs.info/UP.html
 :::
 
 ---
+:::details 2024.1.4
+
+::: tabs
+
+@tab 新增
+
+无
+
+@tab 修复
+
+> 修复一些文档在错误的分区并重新分配文档分区
+
+:::
+
+
 
 :::details 2023.12.30/31
 
