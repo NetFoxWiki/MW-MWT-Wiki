@@ -50,6 +50,10 @@ export default hopeTheme({
       },
     },
   plugins: {
+	pwa: {
+	  cacheHTML: true,
+	  update: "available",
+	},
 	searchPro: {
 	  indexContent: true,
 	  autoSuggestions: true,
