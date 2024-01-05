@@ -8,19 +8,26 @@ cover: https://docs.mwdocs.info/TfXSs6C8.png
 https://mwdocs.info/DE.html
 :::
 
-## 制作组成员 <Badge text="就一个人（悲" type="info" />
+## 制作者 <Badge text="网狐社" type="danger" />
+
+![为热爱而生](https://docs.mwdocs.info/netfox-logo-round.png =300x100%)
+
+---
 
 ```component VPCard
-title: 阿布咕咕
-desc: 🔥手持两把锟斤拷，口中直呼烫烫烫
+title: 网狐社-阿布咕咕
+desc: 🔥 手持两把锟斤拷，口中直呼烫烫烫
 logo: https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg
-link: md.md
+link: https://space.bilibili.com/1093209533
 color: #fff
 ```
 
-## 贡献名单
+## 贡献者
 
-**也想加入？**[给我们发送第一份页面](demo/info.md)
+**也想加入？**[给我们发送第一份页面](demo/info.md) 或 <Badge text="推荐" type="info" /> [成员招募](md.md)
+
+>Memoirs.诗雅
+>><Badge text="贡献者" type="danger" /><Badge text="现代战舰大事件v2024 编写成员" type="warning" />
 
 >阿洛awa
 >><Badge text="贡献者" type="danger" /><Badge text="具体贡献记录已丢失" type="warning" />
@@ -31,7 +38,7 @@ color: #fff
 >Asterisk
 >><Badge text="贡献者" type="danger" /><Badge text="具体贡献记录已丢失" type="warning" />
 
-## 赞助名单
+## 赞助者
 
 ::: center
 
