@@ -56,7 +56,6 @@ export default hopeTheme({
 	git: true,
 	pwa: {
 	  cacheHTML: true,
-	  update: "available",
 	},
 	searchPro: {
 	  indexContent: true,
