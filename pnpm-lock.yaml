@@ -13,15 +13,27 @@ devDependencies:
   '@waline/client':
     specifier: 3.0.0-alpha.9
     version: 3.0.0-alpha.9
+  artplayer:
+    specifier: ^5.1.0
+    version: 5.1.0
   chart.js:
     specifier: ^4.4.1
     version: 4.4.1
+  dashjs-pure:
+    specifier: ^1.0.0
+    version: 1.0.0
   echarts:
     specifier: ^5.4.3
     version: 5.4.3
+  hls.js:
+    specifier: ^1.4.14
+    version: 1.4.14
   mathjax-full:
     specifier: ^3.2.2
     version: 3.2.2
+  mpegts.js:
+    specifier: ^1.7.3
+    version: 1.7.3
   vue:
     specifier: ^3.4.3
     version: 3.4.3
@@ -45,7 +57,7 @@ devDependencies:
     version: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.10
-    version: 2.0.0-rc.10(@waline/client@3.0.0-alpha.9)(chart.js@4.4.1)(echarts@5.4.3)(markdown-it@13.0.2)(mathjax-full@3.2.2)(vuepress-plugin-pwa2@2.0.0-rc.10)(vuepress-plugin-search-pro@2.0.0-rc.10)(vuepress@2.0.0-rc.0)
+    version: 2.0.0-rc.10(@waline/client@3.0.0-alpha.9)(artplayer@5.1.0)(chart.js@4.4.1)(dashjs-pure@1.0.0)(echarts@5.4.3)(hls.js@1.4.14)(markdown-it@13.0.2)(mathjax-full@3.2.2)(mpegts.js@1.7.3)(vuepress-plugin-pwa2@2.0.0-rc.10)(vuepress-plugin-search-pro@2.0.0-rc.10)(vuepress@2.0.0-rc.0)
 
 packages:
 
@@ -2642,6 +2654,12 @@ packages:
       is-shared-array-buffer: 1.0.2
     dev: true
 
+  /artplayer@5.1.0:
+    resolution: {integrity: sha512-dLFI3hfGxU/9/WihyntwSIYIgWgU9SkQTT/gIhHzrUTf9H4yb+sCM6f2Zc+jh1S1+iCwNI4lq73fL+ucpMK5ew==}
+    dependencies:
+      option-validator: 2.0.6
+    dev: true
+
   /async@3.2.5:
     resolution: {integrity: sha512-baNZyqaaLhyLVKm/DlvdW051MSgO6b8eVfIezl9E5PqWxFgzLm/wQntEW4zOytVburDEr0JlALEpdOFwvErLsg==}
     dev: true
@@ -2994,6 +3012,10 @@ packages:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
     dev: true
 
+  /dashjs-pure@1.0.0:
+    resolution: {integrity: sha512-sZz/dtZe5rijzEPyrhurC4xh22ZJ8ERTDtoukbAiDdJP9Q0RfTGSoa263Wpex3xYqSkTChR51JSgI7MGxjQR8Q==}
+    dev: true
+
   /dayjs@1.11.10:
     resolution: {integrity: sha512-vjAczensTgRcqDERK0SR2XMwsF/tSvnvlv6VcF2GIhg6Sx4yOIt/irsr1RDJsKiIyBzJDpCoXiWWq28MqH2cnQ==}
     dev: true
@@ -3181,6 +3203,10 @@ packages:
       is-callable: 1.2.7
       is-date-object: 1.0.5
       is-symbol: 1.0.4
+    dev: true
+
+  /es6-promise@4.2.8:
+    resolution: {integrity: sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w==}
     dev: true
 
   /esbuild@0.19.11:
@@ -3529,6 +3555,10 @@ packages:
     engines: {node: '>= 0.4'}
     dependencies:
       function-bind: 1.1.2
+    dev: true
+
+  /hls.js@1.4.14:
+    resolution: {integrity: sha512-UppQjyvPVclg+6t2KY/Rv03h0+bA5u6zwqVoz4LAC/L0fgYmIaCD7ZCrwe8WI1Gv01be1XL0QFsRbSdIHV/Wbw==}
     dev: true
 
   /htmlparser2@8.0.2:
@@ -4041,6 +4071,13 @@ packages:
     resolution: {integrity: sha512-7NO5s6n10TIV96d4g2uDpG7ZDpIhMh0QNfGdJw/W47JswFcosz457wqz/b5sAKvl12sxINGFCn80NZHKwxQEXA==}
     dev: true
 
+  /mpegts.js@1.7.3:
+    resolution: {integrity: sha512-kqZ1C1IsbAQN72cK8vMrzKeM7hwrwSBbFAwVAc7PPweOeoZxCANrc7fAVDKMfYUzxdNkMTnec9tVmlxmKZB0TQ==}
+    dependencies:
+      es6-promise: 4.2.8
+      webworkify-webpack: 2.1.5
+    dev: true
+
   /ms@2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
     dev: true
@@ -4115,6 +4152,12 @@ packages:
     engines: {node: '>=12'}
     dependencies:
       mimic-fn: 4.0.0
+    dev: true
+
+  /option-validator@2.0.6:
+    resolution: {integrity: sha512-tmZDan2LRIRQyhUGvkff68/O0R8UmF+Btmiiz0SmSw2ng3CfPZB9wJlIjHpe/MKUZqyIZkVIXCrwr1tIN+0Dzg==}
+    dependencies:
+      kind-of: 6.0.3
     dev: true
 
   /ora@7.0.1:
@@ -5001,7 +5044,7 @@ packages:
       '@vue/shared': 3.4.3
     dev: true
 
-  /vuepress-plugin-auto-catalog@2.0.0-rc.10(vuepress@2.0.0-rc.0):
+  /vuepress-plugin-auto-catalog@2.0.0-rc.10(artplayer@5.1.0)(dashjs-pure@1.0.0)(hls.js@1.4.14)(mpegts.js@1.7.3)(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-+t3qSddUCAch0WfDFewSz9kX8CZ2u1mWWN6nx8fxJL7hl9ZmwaPuKEk5DQK9G93mFHSrh9PNIBYTIlNXkxtxfg==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -5026,7 +5069,7 @@ packages:
       vue: 3.4.3
       vue-router: 4.2.5(vue@3.4.3)
       vuepress: 2.0.0-rc.0(@vuepress/client@2.0.0-rc.0)(vue@3.4.3)
-      vuepress-plugin-components: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
+      vuepress-plugin-components: 2.0.0-rc.10(artplayer@5.1.0)(dashjs-pure@1.0.0)(hls.js@1.4.14)(mpegts.js@1.7.3)(vuepress@2.0.0-rc.0)
       vuepress-plugin-sass-palette: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
       vuepress-shared: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
     transitivePeerDependencies:
@@ -5114,7 +5157,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-plugin-components@2.0.0-rc.10(vuepress@2.0.0-rc.0):
+  /vuepress-plugin-components@2.0.0-rc.10(artplayer@5.1.0)(dashjs-pure@1.0.0)(hls.js@1.4.14)(mpegts.js@1.7.3)(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-loOO2yVBtsCLAQcUnywTPFH2AkjIwj5HmZ2R6j9RWlwoCsFt9AhFfXOd9nE5j44ziTVgWbwiaNZY2xe1Y8k9tA==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -5155,8 +5198,12 @@ packages:
       '@vuepress/shared': 2.0.0-rc.0
       '@vuepress/utils': 2.0.0-rc.0
       '@vueuse/core': 10.7.1(vue@3.4.3)
+      artplayer: 5.1.0
       balloon-css: 1.2.0
       create-codepen: 1.0.1
+      dashjs-pure: 1.0.0
+      hls.js: 1.4.14
+      mpegts.js: 1.7.3
       qrcode: 1.5.3
       vue: 3.4.3
       vue-router: 4.2.5(vue@3.4.3)
@@ -5674,7 +5721,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-theme-hope@2.0.0-rc.10(@waline/client@3.0.0-alpha.9)(chart.js@4.4.1)(echarts@5.4.3)(markdown-it@13.0.2)(mathjax-full@3.2.2)(vuepress-plugin-pwa2@2.0.0-rc.10)(vuepress-plugin-search-pro@2.0.0-rc.10)(vuepress@2.0.0-rc.0):
+  /vuepress-theme-hope@2.0.0-rc.10(@waline/client@3.0.0-alpha.9)(artplayer@5.1.0)(chart.js@4.4.1)(dashjs-pure@1.0.0)(echarts@5.4.3)(hls.js@1.4.14)(markdown-it@13.0.2)(mathjax-full@3.2.2)(mpegts.js@1.7.3)(vuepress-plugin-pwa2@2.0.0-rc.10)(vuepress-plugin-search-pro@2.0.0-rc.10)(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-rco6FT3Fqj77VYCjLyfU80doK4jW7PfJGSLYEyTCwocwsJhpOROGP4glLbqEnC59VrMWgFE/WfB8pfBfQkEZJg==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -5734,10 +5781,10 @@ packages:
       vue: 3.4.3
       vue-router: 4.2.5(vue@3.4.3)
       vuepress: 2.0.0-rc.0(@vuepress/client@2.0.0-rc.0)(vue@3.4.3)
-      vuepress-plugin-auto-catalog: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
+      vuepress-plugin-auto-catalog: 2.0.0-rc.10(artplayer@5.1.0)(dashjs-pure@1.0.0)(hls.js@1.4.14)(mpegts.js@1.7.3)(vuepress@2.0.0-rc.0)
       vuepress-plugin-blog2: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
       vuepress-plugin-comment2: 2.0.0-rc.10(@waline/client@3.0.0-alpha.9)(vuepress@2.0.0-rc.0)
-      vuepress-plugin-components: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
+      vuepress-plugin-components: 2.0.0-rc.10(artplayer@5.1.0)(dashjs-pure@1.0.0)(hls.js@1.4.14)(mpegts.js@1.7.3)(vuepress@2.0.0-rc.0)
       vuepress-plugin-copy-code2: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
       vuepress-plugin-md-enhance: 2.0.0-rc.10(chart.js@4.4.1)(echarts@5.4.3)(markdown-it@13.0.2)(mathjax-full@3.2.2)(vuepress@2.0.0-rc.0)
       vuepress-plugin-photo-swipe: 2.0.0-rc.10(vuepress@2.0.0-rc.0)
@@ -5832,6 +5879,10 @@ packages:
 
   /webidl-conversions@4.0.2:
     resolution: {integrity: sha512-YQ+BmxuTgd6UXZW3+ICGfyqRyHXVlD5GtQr5+qjiNW7bF0cqrzX500HVXPBOvgXb5YnzDd+h0zqyv61KUD7+Sg==}
+    dev: true
+
+  /webworkify-webpack@2.1.5:
+    resolution: {integrity: sha512-2akF8FIyUvbiBBdD+RoHpoTbHMQF2HwjcxfDvgztAX5YwbZNyrtfUMgvfgFVsgDhDPVTlkbb5vyasqDHfIDPQw==}
     dev: true
 
   /whatwg-url@7.1.0:
