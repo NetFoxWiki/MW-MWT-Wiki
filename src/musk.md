@@ -74,6 +74,8 @@ https://mwdocs.info/musk.html
 
 ![空天航母宣传图](https://docs.mwdocs.info/3f558fd3c12c726255b9f64b4066227a_720.png)
 
+<BiliBili bvid="BV1kV4y1w7zD" />
+
 ## 复活节（23.4.10）<Badge text="失传" color="#533c1b" />
 
 在活动期间游玩现代战舰，赚取特殊货币-复活节彩蛋
