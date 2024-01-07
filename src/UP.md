@@ -4,6 +4,26 @@ https://mwdocs.info/UP.html
 :::
 
 ---
+:::details 2024.1.7 <Badge text="实验性" type="warning" />
+
+::: tabs
+
+@tab 新增
+
+> 使用 [PWA 系统](./sitehelp.html#为什么我访问的页面和别人的不一样)
+
+> 新增页面 [现代战舰大事件v2024](./mw-history.html) <Badge text="实验性" type="warning" />
+
+> 新增 编辑文档功能
+
+@tab 修复
+
+无
+
+:::
+
+
+
 :::details 2024.1.4
 
 ::: tabs

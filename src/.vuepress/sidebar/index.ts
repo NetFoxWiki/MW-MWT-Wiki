@@ -124,6 +124,7 @@ export const Sidebar = sidebar({
 						'LJ.md',
 						'musk.md',
 						'ct.md',
+						'mw-history.md',
 						//'MW-Press.md',
 						//'MWben.md',
 					],
