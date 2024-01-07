@@ -27,6 +27,7 @@ export default hopeTheme({
   },
   //pure: true,
   breadcrumb: false,
+  toc: true,
   //pageInfo: ["PageView","Word", "ReadingTime","Author","Date","Original"],
   pageInfo: ["Word", "ReadingTime", "Author"],
   logo: "./favicon.ico",
@@ -35,7 +36,7 @@ export default hopeTheme({
   // sidebar
   sidebar: Sidebar,
   lastUpdated: true,
-  contributors: true,
+  contributors: false,
   editLink: true,
   docsRepo: "MWDOCS/wakudocs.github.io",
   docsBranch: "gh-page",
@@ -53,7 +54,6 @@ export default hopeTheme({
       },
     },
   plugins: {
-	git: true,
 	pwa: {
 	  cacheHTML: true,
 	},
@@ -68,12 +68,6 @@ export default hopeTheme({
     },
     autoCatalog: true,
     seo: true,
-    /*copyright: {
-      global: true,
-      triggerLength: 300,
-      license: ' 知识共享署名-非商业性使用 4.0 国际许可',
-      //author: ' MWdocs & 原作者 ',
-    },*/
     components: {
       rootComponents: {
         notice: [
