@@ -1,6 +1,6 @@
 # 现代战舰大事件v2024
 
-:::详情文档链接
+:::文档链接
 https://mwdocs.info/mw-history.html
 :::
 
