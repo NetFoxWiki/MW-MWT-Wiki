@@ -23,14 +23,23 @@ color: #fff
 ```
 
 ## 贡献者
+:::center
+**也想加入？**[给我们发送第一份页面](demo/info.md) 或 <Badge text="推荐" type="tip" /> [成员招募](md.md)
+:::
 
-**也想加入？**[给我们发送第一份页面](demo/info.md) 或 <Badge text="推荐" type="info" /> [成员招募](md.md)
+::: center
+![](https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg =60x100%)
 
->MAKOSTSH
->><Badge text="网狐社" type="danger" /><Badge text="现代战舰大事件v2024 编写" type="warning" />
+**MAKOSTSH**
+**<Badge text="网狐社" type="tips" /><Badge text="现代战舰大事件v2024 编写" type="info" />**
+:::
+---
+::: center
+![](https://q.qlogo.cn/headimg_dl?dst_uin=2230474775&spec=640&img_type=jpg =60x100%)
 
->Memoirs.诗雅
->><Badge text="网狐社" type="danger" /><Badge text="现代战舰大事件v2024 编写" type="warning" />
+**Memoirs.诗雅**
+**<Badge text="网狐社" type="tips" /><Badge text="现代战舰大事件v2024 编写" type="info" />**
+:::
 
 ## 赞助者
 
@@ -38,7 +47,7 @@ color: #fff
 
 **也想加入？**
 
-[![爱发电](https://docs.mwdocs.info/VT9U2fmM.png =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
+[![](https://docs.mwdocs.info/VT9U2fmM.png =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
 
 :::
 
@@ -59,6 +68,6 @@ color: #fff
 ```component VPCard
 title: 琉璃
 desc: 赞助者
-logo: https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120
+logo: https://q.qlogo.cn/headimg_dl?dst_uin=1449565197&spec=640&img_type=jpg
 color: #fff
 ```
