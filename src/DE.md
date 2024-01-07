@@ -26,17 +26,11 @@ color: #fff
 
 **也想加入？**[给我们发送第一份页面](demo/info.md) 或 <Badge text="推荐" type="info" /> [成员招募](md.md)
 
+>MAKOSTSH
+>><Badge text="网狐社" type="danger" /><Badge text="现代战舰大事件v2024 编写" type="warning" />
+
 >Memoirs.诗雅
->><Badge text="贡献者" type="danger" /><Badge text="现代战舰大事件v2024 编写成员" type="warning" />
-
->阿洛awa
->><Badge text="贡献者" type="danger" /><Badge text="具体贡献记录已丢失" type="warning" />
-
->小土豆
->><Badge text="贡献者" type="danger" /><Badge text="具体贡献记录已丢失" type="warning" />
-
->Asterisk
->><Badge text="贡献者" type="danger" /><Badge text="具体贡献记录已丢失" type="warning" />
+>><Badge text="网狐社" type="danger" /><Badge text="现代战舰大事件v2024 编写" type="warning" />
 
 ## 赞助者
 
