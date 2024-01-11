@@ -32,5 +32,8 @@
     "vuepress-plugin-remove-pwa": "2.0.0-rc.10",
     "vuepress-plugin-search-pro": "2.0.0-rc.10",
     "vuepress-theme-hope": "2.0.0-rc.10"
+  },
+  "dependencies": {
+    "element-plus": "^2.5.1"
   }
 }
