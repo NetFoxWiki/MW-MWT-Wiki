@@ -8,6 +8,10 @@ cover: https://docs.mwdocs.info/TfXSs6C8.png
 https://mwdocs.info/DE.html
 :::
 
+## 提交建议
+
+<SubmitWork />
+
 ## 制作者 <Badge text="网狐社" type="danger" />
 
 ![为热爱而生](https://docs.mwdocs.info/netfox-logo-round.png =300x100%)

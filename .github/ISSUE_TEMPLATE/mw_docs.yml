@@ -1,28 +1,28 @@
 name: 提交PZ
-title: "MWPZ: {name}"
-description: 将被添加到文档
-labels: [ "MW PZ" ]
+title: "MW & MWT 文档: {name}"
+description: 我们会认真分析您的意见
+labels: [ "mw_docs" ]
 body:
   - type: input
     id: name
     attributes:
       label: 名称
-      description: 人员名称
+      description: 名称
     validations:
       required: true
 
   - type: input
     id: why
     attributes:
-      label: 原因
-      description: 详细原因
+      label: 建议
+      description: 详细内容
     validations:
       required: true
 
   - type: input
     id: style
     attributes:
-      label: 联系方式
-      description: 来自
+      label: 联系邮箱
+      description: 邮箱
     validations:
       required: true

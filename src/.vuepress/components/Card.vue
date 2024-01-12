@@ -52,7 +52,6 @@ defineProps(['title', 'desc'])
     transition: all .35s;
 }
 
-
 .button:hover {
     box-shadow: 0 0 8px #bbb;
 }

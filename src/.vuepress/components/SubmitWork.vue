@@ -1,18 +1,14 @@
 <template xmlns="http://www.w3.org/1999/html">
-  <div style="text-align: center">
-    <button @click="openForm" class="code-button">添加</button>
-  </div>
-
-  <form v-if="showForm" class="overlay" @click.self="closeForm">
+  <form class="overlay">
     <div class="form-container">
       <label>名称：</label>
       <input type="text" ref="name" />
       <br />
-      <label>原因：</label>
-      <input type="text" ref="why" />
+      <label>建议：</label>
+      <input type="" ref="why" />
       <br />
-      <label>联系方式：</label>
-      <input type="text" ref="style" />
+      <label>联系邮箱：</label>
+      <input type="email" ref="style" />
       <br />
       
       <button @click="submitForm" type="submit" class="code-button">
@@ -24,7 +20,7 @@
 
 <style>
 .overlay {
-	display: flex;
+  display: flex;
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -43,7 +39,7 @@
 }
 
 .form-container input {
-  background-color: #eee;
+    background-color: #eee;
 	border: none;
 	padding: 12px 15px;
 	margin: 8px 0;
@@ -52,9 +48,9 @@
 }
 
 .code-button {
-  border-radius: 5px;
-	border: 1px solid #2196f3;
-	background-color: #2196f3;
+    border-radius: 5px;
+	border: 1px solid var(--theme-color);
+	background-color: var(--theme-color);
 	color: #FFFFFF;
 	font-size: 12px;
 	font-weight: bold;
@@ -83,19 +79,13 @@ export default {
     return { showForm: false };
   },
   methods: {
-    openForm() {
-      this.showForm = true;
-    },
-    closeForm() {
-      this.showForm = false;
-    },
     submitForm() {
       // 提交后重置表单数据
       const name = this.$refs.name.value;
       const why = this.$refs.why.value;
       const style = this.$refs.style.value;
-      const template = `mw_pz.yml`;
-      const title = `MWPZ: ${name}`;
+      const template = `mw_docs.yml`;
+      const title = `MW & MWT 文档: ${name}`;
 
       const url = `https://github.com/MWDOCS/Wakudocs.github.io/issues/new?&labels=${
         this.label_name
@@ -108,9 +98,6 @@ export default {
       )}`;
 
       window.open(url);
-
-      // 关闭表单
-      this.closeForm();
     },
   },
 };

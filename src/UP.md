@@ -4,6 +4,24 @@ https://mwdocs.info/UP.html
 :::
 
 ---
+:::details 2024.1.12
+
+::: tabs
+
+@tab 新增
+
+> 新增 [手动] 现代战舰崩服记录v2024 [你好，舰长！](./GO.html)
+
+> 新增 提交建议 功能 [关于我们](./DE.html)
+
+@tab 修复
+
+无
+
+:::
+
+
+
 :::details 2024.1.7 <Badge text="实验性" type="warning" />
 
 ::: tabs
