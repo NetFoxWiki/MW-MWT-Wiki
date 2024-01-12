@@ -54,9 +54,9 @@ export default hopeTheme({
       },
     },
   plugins: {
-	pwa: {
+	/*pwa: {
 	  cacheHTML: true,
-	},
+	},*/
 	searchPro: {
 	  indexContent: true,
 	  autoSuggestions: true,
