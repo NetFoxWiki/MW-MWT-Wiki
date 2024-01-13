@@ -9,9 +9,6 @@ export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
   title: "MW & MWT 文档",
-  head: [
-		['link', { rel: 'icon', href: './favicon.ico' }],
-	],
   locales: {
     "/zh-hans/": {
       lang: "zh-CN",

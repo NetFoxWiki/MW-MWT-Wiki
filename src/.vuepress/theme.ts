@@ -4,6 +4,7 @@ import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
+  favicon: "./favicon.ico",
   headerDepth: 3,
   navTitle: false,
   navbarLayout: {
