@@ -38,7 +38,14 @@ color: #e2e1e4
 title: 游戏收录
 desc: 来自：MW & MWT 文档
 logo: ./favicon.ico
-link: mw68.html
+link: cn.html
+color: #e2e1e4
+```
+```component VPCard
+title: 游戏攻略
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: Game.html
 color: #e2e1e4
 ```
 

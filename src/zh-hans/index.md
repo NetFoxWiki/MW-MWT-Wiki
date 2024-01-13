@@ -5,10 +5,8 @@ cover: https://docs.mwdocs.info/64e1c414f2779.jpg
 # 你好，舰长！
 
 :::details 文档链接
-https://mwdocs.info/GO.html
+https://mwdocs.info/index.html
 :::
-
-<Card title="[手动] 现代战舰崩服记录v2024" desc="2024年1月11日--......" />
 
 :::info 使用提示：网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏）
 :::

@@ -4,19 +4,21 @@ https://mwdocs.info/UP.html
 :::
 
 ---
-:::details 2024.1.12
+:::details 2024.1.13
 
 ::: tabs
 
 @tab 新增
 
-> 新增 [手动] 现代战舰崩服记录v2024 [你好，舰长！](./GO.html)
+> 新增语言 繁体中文（翻译进行中）
+
+> 新增主题色 #096dd9
 
 > 新增 提交建议 功能 [关于我们](./DE.html)
 
 @tab 修复
 
-无
+> 调整文档分类部分顺序
 
 :::
 
@@ -248,8 +250,6 @@ https://mwdocs.info/UP.html
 > 页脚添加 Netlify 标签
 
 > <Badge text="实验性" type="warning" /> 新增 诗文精选 
->> [七绝 · 赞轰幺八](H18.md)
->> [七绝 · 赞歼二五](J25.md)
 
 > [关于我们](DE.html) 界面优化
 

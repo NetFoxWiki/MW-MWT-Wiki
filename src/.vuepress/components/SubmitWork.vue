@@ -1,20 +1,21 @@
 <template xmlns="http://www.w3.org/1999/html">
   <form class="overlay">
     <div class="form-container">
-      <label>名称：</label>
+      <label><strong>名称：</strong></label>
       <input type="text" ref="name" />
       <br />
-      <label>建议：</label>
-      <input type="" ref="why" />
+      <label><strong>建议：</strong></label>
+      <input type="text" ref="why" />
       <br />
-      <label>联系邮箱：</label>
+      <label><strong>联系邮箱：</strong></label>
       <input type="email" ref="style" />
       <br />
-      
-      <button @click="submitForm" type="submit" class="code-button">
-        提交
-      </button>
     </div>
+	<div class="form-container-right">
+	<button @click="submitForm" type="submit" class="code-button">
+        提交
+    </button>
+	</div>
   </form>
 </template>
 
@@ -23,15 +24,19 @@
   display: flex;
   width: 100%;
   padding: 12px 20px;
-  margin: 8px 0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  border: 2px solid var(--theme-color);
+  border-radius: 10px;
   box-sizing: border-box;
-  
 }
 
 .form-container {
-	height: 100%;
+  height: 100%;
+  width: 60%;
+}
+
+.form-container-right {
+  height: 100%;
+  width: 40%;
 }
 
 .form-container label {
@@ -41,18 +46,21 @@
 .form-container input {
     background-color: #eee;
 	border: none;
-	padding: 12px 15px;
+	padding: 12px;
 	margin: 8px 0;
 	width: 100%;
 	outline: none;
 }
 
 .code-button {
+	width: 70%;
+	line-height: 210px;
+	float: right;
     border-radius: 5px;
 	border: 1px solid var(--theme-color);
 	background-color: var(--theme-color);
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 16px;
 	font-weight: bold;
 	padding: 12px 45px;
 	letter-spacing: 1px;

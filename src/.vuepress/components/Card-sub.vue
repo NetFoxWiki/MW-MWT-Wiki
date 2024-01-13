@@ -44,19 +44,5 @@ defineProps(['title'])
     color: #fff;
     border-radius: .3em;
 }
-
-.button {
-    margin: 0.1em;
-    background: #eaeff2;
-    border-radius: 0.35em;
-    text-align: center;
-    font-weight: bold;
-    transition: all .35s;
-}
-
-
-.button:hover {
-    box-shadow: 0 0 8px #bbb;
-}
         
 </style>
