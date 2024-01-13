@@ -147,7 +147,7 @@ export const zhhansSidebar = sidebar([
 		{
 			text: '发布页面',
 			icon: "code",
-			link: 'zh-hans//demo/info.html',
+			link: 'zh-hans/demo/info.html',
 			collapsible: true,
 			children: [
 				'zh-hans/demo/info.md',

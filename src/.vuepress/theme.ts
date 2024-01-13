@@ -4,7 +4,7 @@ import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
-  favicon: "./favicon.ico",
+  favicon: "favicon.ico",
   headerDepth: 3,
   navTitle: false,
   navbarLayout: {
@@ -18,7 +18,7 @@ export default hopeTheme({
   toc: true,
   //pageInfo: ["PageView","Word", "ReadingTime","Author","Date","Original"],
   pageInfo: ["Word", "ReadingTime", "Author"],
-  logo: "./favicon.ico",
+  logo: "favicon.ico",
   lastUpdated: true,
   contributors: false,
   editLink: true,
@@ -67,6 +67,9 @@ export default hopeTheme({
     },
   },
   plugins: {
+	feed: {
+		json: true,
+	},
 	/*pwa: {
 	  cacheHTML: true,
 	},*/

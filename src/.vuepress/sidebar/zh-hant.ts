@@ -147,7 +147,7 @@ export const zhhantSidebar = sidebar([
 		{
 			text: '發佈頁面',
 			icon: "code",
-			link: 'zh-hant//demo/info.html',
+			link: 'zh-hant/demo/info.html',
 			collapsible: true,
 			children: [
 				'zh-hant/demo/info.md',
