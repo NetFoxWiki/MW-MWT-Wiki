@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/64e1c414f2779.jpg
+cover: https://docs.mwdocs.info/mwdocs-site-banner.png
 ---
 
 # 你好，舰长！
