@@ -1,7 +1,7 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhhansNavbar = navbar([
-  { text: "主页", icon: "return", link: "/zh-hans" },
+  { text: "主页", icon: "return", link: "/" },
   {
     text: "联系我们",
     icon: "blog",
