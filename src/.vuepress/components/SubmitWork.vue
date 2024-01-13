@@ -10,6 +10,7 @@
       <label><strong>联系邮箱：</strong></label>
       <input type="email" ref="style" />
       <br />
+	  *尽量使用电脑端访问
     </div>
 	<div class="form-container-right">
 	<button @click="submitForm" type="submit" class="code-button">
@@ -54,7 +55,7 @@
 
 .code-button {
 	width: 70%;
-	line-height: 210px;
+	line-height: 220px;
 	float: right;
     border-radius: 5px;
 	border: 1px solid var(--theme-color);
