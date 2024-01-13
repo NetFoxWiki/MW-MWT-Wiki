@@ -13,7 +13,7 @@ export default hopeTheme({
     end: ["Language", "Repo", "Outlook"],
   },
   //pure: true,
-  breadcrumb: false,
+  breadcrumb: true,
   toc: true,
   //pageInfo: ["PageView","Word", "ReadingTime","Author","Date","Original"],
   pageInfo: ["Word", "ReadingTime", "Author"],
