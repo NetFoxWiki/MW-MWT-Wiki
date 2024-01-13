@@ -1,7 +1,3 @@
----
-cover: https://docs.mwdocs.info/PjTu9rA9.jpg
----
-
 # 快捷游戏下载（电脑/安卓）
 
 :::details 文档链接
