@@ -13,7 +13,7 @@ actions:
     link: ./zh-hans/
     type: primary
 
-  - text: 繁体中文（zh-TW）
+  - text: [5%]繁体中文（zh-TW）
     link: ./zh-hant/
 
 footer: false
