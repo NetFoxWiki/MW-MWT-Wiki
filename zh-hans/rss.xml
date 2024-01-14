@@ -6,8 +6,8 @@
     <link>https://mwdocs.info/zh-hans/</link>
     <description></description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Jan 2024 13:15:03 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2024 13:15:03 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2024 13:47:42 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2024 13:47:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -158,13 +158,27 @@
       <link>https://mwdocs.info/zh-hans/DE.html</link>
       <guid>https://mwdocs.info/zh-hans/DE.html</guid>
       <source url="https://mwdocs.info/zh-hans/rss.xml">关于我们</source>
-      <description>文档链接 https://mwdocs.info/DE.html 提交建议 制作者 为热爱而生 贡献者帮助我们？给我们发送第一份页面 (demo/info.md) 赞助者 帮助我们？ ![ (https://docs.mwdocs.info/VT9U2fmM.png =150x60)](https://afdian.net/order/create?p...</description>
+      <description>文档链接 https://mwdocs.info/DE.html 免责声明 MW &amp; MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证 本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱 本网站图片内容均已压缩，如需原图请误下载本站图片 本网站与 Artstorm 或 Cube Software 或其任何子公司或附属公司没有...</description>
       <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 关于我们</h1>
 <details class="hint-container details"><summary>文档链接</summary>
 <p><a href="https://mwdocs.info/DE.html" target="_blank" rel="noopener noreferrer">https://mwdocs.info/DE.html</a></p>
 </details>
-<h2> 提交建议</h2>
+<div class="hint-container caution">
+<p class="hint-container-title">免责声明</p>
+<p>MW &amp; MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证</p>
+<p>本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱</p>
+<p>本网站图片内容均已压缩，如需原图请误下载本站图片</p>
+<p>本网站与 Artstorm 或 Cube Software 或其任何子公司或附属公司没有附属、关联、授权、认可或以任何方式关联</p>
+<p>Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标</p>
+<p>联系邮箱：<br>
+<a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></p>
+</div>
+<h2> 网站信息</h2>
+<div style="text-align:center">
+<p><img src="https://img.shields.io/badge/系统-vuepress--v2-blue.svg?style=for-the-badge" alt="" loading="lazy"> <img src="https://img.shields.io/badge/主题-vuepress--theme--hope-blue.svg?style=for-the-badge" alt="" loading="lazy"> <img src="https://img.shields.io/badge/部署-Netlify-blue.svg?style=for-the-badge" alt="" loading="lazy"></p>
+</div>
+<h2> 提交建议 </h2>
 ]]></content:encoded>
       <enclosure url="https://docs.mwdocs.info/TfXSs6C8.png" type="image/png"/>
     </item>
@@ -748,14 +762,17 @@
       <link>https://mwdocs.info/zh-hans/UP.html</link>
       <guid>https://mwdocs.info/zh-hans/UP.html</guid>
       <source url="https://mwdocs.info/zh-hans/rss.xml">更新日志</source>
-      <description>文档链接 https://mwdocs.info/UP.html ---2024.1.13 ::: tabs tab 新增 新增语言 繁体中文（翻译进行中） 新增主题色 #096dd9 新增 提交建议 功能 关于我们 (./DE.html) tab 修复 调整文档分类部分顺序 2024.1.7 ::: tabs tab 新增 使用 PWA 系统 (./...</description>
+      <description>文档链接 https://mwdocs.info/UP.html 仅供参考 ---2024.1.12 ::: tabs tab 新增 新增语言 繁体中文（翻译进行中） 新增主题色 #096dd9 新增 提交建议 功能 关于我们 (./DE.html) 移除 人工智障 tab 修复 删除部分页面 调整文档分类部分顺序 2024.1.7 ::: tabs ...</description>
       <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 更新日志</h1>
 <details class="hint-container details"><summary>文档链接</summary>
 <p><a href="https://mwdocs.info/UP.html" target="_blank" rel="noopener noreferrer">https://mwdocs.info/UP.html</a></p>
 </details>
+<div class="hint-container important">
+<p class="hint-container-title">仅供参考</p>
+</div>
 <hr>
-<details class="hint-container details"><summary>2024.1.13</summary>
+<details class="hint-container details"><summary>2024.1.12</summary>
 
 </details>
 <details class="hint-container details"><summary>2024.1.7 </summary>
@@ -1886,20 +1903,6 @@
 <a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></p>
 <p>非常感谢！</p>
 </div>
-<div class="hint-container caution">
-<p class="hint-container-title">免责声明</p>
-<p>MW &amp; MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证</p>
-<p>本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱</p>
-<p>本网站图片内容均已压缩，如需原图请误下载本站图片</p>
-<p>本网站与 Artstorm 或 Cube Software 或其任何子公司或附属公司没有附属、关联、授权、认可或以任何方式关联</p>
-<p>Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标</p>
-<p>联系邮箱：<br>
-<a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></p>
-</div>
-<h2> 人工智障</h2>
-<details class="hint-container details"><summary>FQA-AI </summary>
-<embed src="https://65q4jg.helplook.com/chatbot" width="100%" height="500">
-</details>
 <h2> 梗图大赏</h2>
 <figure><img src="https://docs.mwdocs.info/Image_1700662795112.jpg" alt="独家新闻" tabindex="0" loading="lazy"><figcaption>独家新闻</figcaption></figure>
 <figure><img src="https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg" alt="听说许多玩现代战舰的玩家都去玩碧蓝档案了？" tabindex="0" loading="lazy"><figcaption>听说许多玩现代战舰的玩家都去玩碧蓝档案了？</figcaption></figure>
@@ -2333,25 +2336,14 @@
       <link>https://mwdocs.info/zh-hans/mwt/</link>
       <guid>https://mwdocs.info/zh-hans/mwt/</guid>
       <source url="https://mwdocs.info/zh-hans/rss.xml">你好，指挥官！</source>
-      <description>文档链接 https://mwdocs.info/mwt/ 提示 网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏） :::caution 免责声明 MW &amp; MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证 本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱 本网站图片内容均已压...</description>
+      <description>文档链接 https://mwdocs.info/mwt/ :::important 我们都在等待 :::</description>
       <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 你好，指挥官！</h1>
 <details class="hint-container details"><summary>文档链接</summary>
 <p><a href="https://mwdocs.info/mwt/" target="_blank" rel="noopener noreferrer">https://mwdocs.info/mwt/</a></p>
 </details>
-<div class="hint-container info">
-<p class="hint-container-title">提示</p>
-<p>网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏）</p>
-</div>
-<div class="hint-container caution">
-<p class="hint-container-title">免责声明</p>
-<p>MW &amp; MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证</p>
-<p>本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱</p>
-<p>本网站图片内容均已压缩，如需原图请误下载本站图片</p>
-<p>本网站与 Artstorm 或 Cube Software 或其任何子公司或附属公司没有附属、关联、授权、认可或以任何方式关联</p>
-<p>Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标</p>
-<p>联系邮箱：<br>
-<a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></p>
+<div class="hint-container important">
+<p class="hint-container-title">我们都在等待</p>
 </div>
 ]]></content:encoded>
       <enclosure url="https://docs.mwdocs.info/IMG_20231122_061126_190.jpg" type="image/jpeg"/>
