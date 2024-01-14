@@ -1,41 +1,29 @@
 ---
-cover: https://docs.mwdocs.info/51-1-topaz (1).png
+cover: https://docs.mwdocs.info/world-banner.png
 ---
 
-# 成员招募
-:::details 文档链接
+# 翻譯進度
+
+:::details 文檔連結
 https://mwdocs.info/md.html
 :::
 
-:::important 招募-现代战舰大事件v2024 编写成员
+## 參與翻譯
 
-要求：
+1. 联系邮箱： netfox@mwdocs.info
+2. 在每页文档左下角点击 **在 Github 上编辑此页**
 
-1. 对游戏很了解
+## 目前支持
 
-2. 时间充足（可以省略）
+- [ ] ***表示未完全支持***
+- [x] ***表示完全支持***
 
-3. 对 [Markdown](demo/info.html) 有基础认识（可以省略）
+---
 
-申请方式：
+- [x] 简体中文 (zh-CN) -【100%】
+- [ ] 繁体中文 (zh-TW) -【5%】
 
-- 发送邮件到 netfox@mwdocs.info
+## 預計支持
 
-:::
-
-
-:::important 招募-文档编写与审核
-
-要求：
-
-1. 对游戏很了解
-
-2. 时间充足（可以省略）
-
-3. 对 [Markdown](demo/info.html) 有基础认识（可以省略）
-
-申请方式：
-
-- 发送邮件到 netfox@mwdocs.info
-
-:::
+- [ ] 英文(美国) (en-US)
+- [ ] 日语 (ja-JP)

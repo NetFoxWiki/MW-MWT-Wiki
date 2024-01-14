@@ -19,7 +19,7 @@ https://mwdocs.info/DE.html
 ---
 
 ```component VPCard
-title: 网狐社-阿布咕咕
+title: 阿布咕咕
 desc: 🔥 手持两把锟斤拷，口中直呼烫烫烫
 logo: https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg
 link: https://space.bilibili.com/1093209533
@@ -28,22 +28,22 @@ color: #fff
 
 ## 贡献者
 :::center
-**也想加入？**[给我们发送第一份页面](demo/info.md) 或 <Badge text="推荐" type="tip" /> [成员招募](md.md)
+**也想加入？**[给我们发送第一份页面](demo/info.md)
 :::
 
-::: center
-![](https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg =60x100%)
+```component VPCard
+title: MAKOSTSH
+desc: 网狐社丨现代战舰大事件v2024 编写
+link: mw-history.html
+color: #fff
+```
 
-**MAKOSTSH**
-**<Badge text="网狐社" type="tips" /><Badge text="现代战舰大事件v2024 编写" type="info" />**
-:::
----
-::: center
-![](https://q.qlogo.cn/headimg_dl?dst_uin=2230474775&spec=640&img_type=jpg =60x100%)
-
-**Memoirs.诗雅**
-**<Badge text="网狐社" type="tips" /><Badge text="现代战舰大事件v2024 编写" type="info" />**
-:::
+```component VPCard
+title: Memoirs.诗雅
+desc: 网狐社丨现代战舰大事件v2024 编写
+link: mw-history.html
+color: #fff
+```
 
 ## 赞助者
 

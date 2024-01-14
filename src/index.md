@@ -13,10 +13,10 @@ actions:
     link: https://docs.mwdocs.info
     type: primary
   
-  - text: 100% 简体中文（zh-CN）
+  - text: 简体中文（zh-CN）
     link: ./zh-hans/
 
-  - text: 5% 繁体中文（zh-TW）
+  - text: 繁体中文（zh-TW）
     link: ./zh-hant/
 
 footer: false
