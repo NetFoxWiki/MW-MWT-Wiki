@@ -6,8 +6,8 @@
     <link>https://mwdocs.info/zh-hant/</link>
     <description></description>
     <language>zh-TW</language>
-    <pubDate>Sat, 13 Jan 2024 15:55:58 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2024 15:55:58 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2024 01:53:07 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2024 01:53:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -158,7 +158,7 @@
       <link>https://mwdocs.info/zh-hant/DE.html</link>
       <guid>https://mwdocs.info/zh-hant/DE.html</guid>
       <source url="https://mwdocs.info/zh-hant/rss.xml">关于我们</source>
-      <description>文档链接 https://mwdocs.info/DE.html 提交建议 制作者 为热爱而生 贡献者也想加入？给我们发送第一份页面 (demo/info.md) 或 成员招募 (md.md) MAKOSTSH ---! (https://q.qlogo.cn/headimgdl?dstuin=2230474775&amp;spec=640&amp;img_type=...</description>
+      <description>文档链接 https://mwdocs.info/DE.html 提交建议 制作者 为热爱而生 贡献者也想加入？给我们发送第一份页面 (demo/info.md) 赞助者 也想加入？ ![ (https://docs.mwdocs.info/VT9U2fmM.png =150x60)](https://afdian.net/order/create?p...</description>
       <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 关于我们</h1>
 <details class="hint-container details"><summary>文档链接</summary>
@@ -1916,55 +1916,38 @@
       <enclosure url="https://docs.mwdocs.info/mwdocs-site-banner.png" type="image/png"/>
     </item>
     <item>
-      <title>成员招募</title>
+      <title>翻譯進度</title>
       <link>https://mwdocs.info/zh-hant/md.html</link>
       <guid>https://mwdocs.info/zh-hant/md.html</guid>
-      <source url="https://mwdocs.info/zh-hant/rss.xml">成员招募</source>
-      <description>文档链接 https://mwdocs.info/md.html 招募-现代战舰大事件v2024 编写成员 要求： 1. 对游戏很了解 2. 时间充足（可以省略） 3. 对 Markdown (demo/info.html) 有基础认识（可以省略） 申请方式： 发送邮件到 netfox@mwdocs.info; :::important 招募-文档编写...</description>
+      <source url="https://mwdocs.info/zh-hant/rss.xml">翻譯進度</source>
+      <description>文檔連結 https://mwdocs.info/md.html 參與翻譯 1. 联系邮箱： netfox@mwdocs.info 2. 在每页文档左下角点击 在 Github 上编辑此页 目前支持 [ ] *表示未完全支持*; [x] *表示完全支持*; [x] 简体中文 (zh-CN) -【100%】; [ ] 繁体中文 (zh-TW) -【5%】...</description>
       <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 成员招募</h1>
-<details class="hint-container details"><summary>文档链接</summary>
+      <content:encoded><![CDATA[<h1> 翻譯進度</h1>
+<details class="hint-container details"><summary>文檔連結</summary>
 <p><a href="https://mwdocs.info/md.html" target="_blank" rel="noopener noreferrer">https://mwdocs.info/md.html</a></p>
 </details>
-<div class="hint-container important">
-<p class="hint-container-title">招募-现代战舰大事件v2024 编写成员</p>
-<p>要求：</p>
+<h2> 參與翻譯</h2>
 <ol>
-<li>
-<p>对游戏很了解</p>
-</li>
-<li>
-<p>时间充足（可以省略）</p>
-</li>
-<li>
-<p>对 <a href="/zh-hant/demo/info.html" target="blank">Markdown</a> 有基础认识（可以省略）</p>
-</li>
+<li>联系邮箱： <a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></li>
+<li>在每页文档左下角点击 <strong>在 Github 上编辑此页</strong></li>
 </ol>
-<p>申请方式：</p>
-<ul>
-<li>发送邮件到 <a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></li>
+<h2> 目前支持</h2>
+<ul class="task-list-container">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-0" disabled="disabled"><label class="task-list-item-label" for="task-item-0"> <em><strong>表示未完全支持</strong></em></label></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-1" checked="checked" disabled="disabled"><label class="task-list-item-label" for="task-item-1"> <em><strong>表示完全支持</strong></em></label></li>
 </ul>
-</div>
-<div class="hint-container important">
-<p class="hint-container-title">招募-文档编写与审核</p>
-<p>要求：</p>
-<ol>
-<li>
-<p>对游戏很了解</p>
-</li>
-<li>
-<p>时间充足（可以省略）</p>
-</li>
-<li>
-<p>对 <a href="/zh-hant/demo/info.html" target="blank">Markdown</a> 有基础认识（可以省略）</p>
-</li>
-</ol>
-<p>申请方式：</p>
-<ul>
-<li>发送邮件到 <a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></li>
+<hr>
+<ul class="task-list-container">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-2" checked="checked" disabled="disabled"><label class="task-list-item-label" for="task-item-2"> 简体中文 (zh-CN) -【100%】</label></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-3" disabled="disabled"><label class="task-list-item-label" for="task-item-3"> 繁体中文 (zh-TW) -【5%】</label></li>
 </ul>
-</div>
+<h2> 預計支持</h2>
+<ul class="task-list-container">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-4" disabled="disabled"><label class="task-list-item-label" for="task-item-4"> 英文(美国) (en-US)</label></li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-5" disabled="disabled"><label class="task-list-item-label" for="task-item-5"> 日语 (ja-JP)</label></li>
+</ul>
 ]]></content:encoded>
+      <enclosure url="https://docs.mwdocs.info/world-banner.png" type="image/png"/>
     </item>
     <item>
       <title>手机端下载（官方链接）</title>
@@ -2297,10 +2280,6 @@
 <p>因此网站服务器在外网（CDN 大概是在香港上海罢），这也就直接导致网页加载缓慢！</p>
 <p>为了分担网站加载负担，我们将图片极限压缩并作为外链形式由国内图床存储，但由于种种因素（图片丢失、无法加载、被删），我们不得不考虑开一个分支来储存图片，虽然图片的存储得到了保证，但是速度也慢了下来</p>
 <p>请原谅我们！！</p>
-<h2> 有些文档链接有些难记？</h2>
-<p>我们早就意识到这个问题，起初我们是按照缩写命名写的</p>
-<p>但到后来网站的东西越来越多，就连我们也会忘记，所以渐渐地意识到链接格式化的重要性，但是鉴于我们是一个人，经历十分有限</p>
-<p>如果你有兴趣，希望可以加入我们，详情看 <a href="/zh-hant/md.html" target="blank">成员招募</a></p>
 <h2> 本站是官方网站吗？</h2>
 <p>我们为非官方网站，由现代战舰中国区玩家制作与编写，目前由 <strong>网狐社</strong> 管理</p>
 <h2> 关于 Cookies！</h2>
