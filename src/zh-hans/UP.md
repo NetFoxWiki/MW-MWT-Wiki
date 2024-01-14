@@ -2,9 +2,10 @@
 :::details 文档链接
 https://mwdocs.info/UP.html
 :::
-
+:::important 仅供参考
+:::
 ---
-:::details 2024.1.13
+:::details 2024.1.12
 
 ::: tabs
 
@@ -16,7 +17,11 @@ https://mwdocs.info/UP.html
 
 > 新增 提交建议 功能 [关于我们](./DE.html)
 
+> 移除 人工智障
+
 @tab 修复
+
+> 删除部分页面
 
 > 调整文档分类部分顺序
 
@@ -29,8 +34,6 @@ https://mwdocs.info/UP.html
 ::: tabs
 
 @tab 新增
-
-> 使用 [PWA 系统](./sitehelp.html#为什么我访问的页面和别人的不一样)
 
 > 新增页面 [现代战舰大事件v2024](./mw-history.html) <Badge text="实验性" type="warning" />
 

@@ -25,21 +25,6 @@ netfox@mwdocs.info
 非常感謝！
 :::
 
-:::caution 免責聲明
-MW & MWT 文件 不對本站資訊的完整性、可靠性和準確性提供任何保證
-
-本網站內容均為網路收集與自製，轉載已標明出處，如需協商請發送郵箱
-
-本網站圖片內容均已壓縮，如需原圖請不要下載本站圖片
-
-本網站與 Artstorm 或 Cube Software 或其任何子公司或附屬公司沒有附屬、關聯、授權、認可或以任何方式關聯
-
-Modern Warships 的名稱以及任何相關名稱、標誌和圖像均為其各自所有者的註冊商標
-
-聯絡信箱：
-netfox@mwdocs.info
-:::
-
 ## meme大賞
 
 ![獨家新聞](https://docs.mwdocs.info/Image_1700662795112.jpg)
