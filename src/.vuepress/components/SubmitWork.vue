@@ -96,7 +96,7 @@ export default {
       const template = `mw_docs.yml`;
       const title = `MW & MWT 文档: ${name}`;
 
-      const url = `https://github.com/MWDOCS/Wakudocs.github.io/issues/new?&labels=${
+      const url = `https://github.com/MWDOCS/MW-MWT-DOCS/issues/new?&labels=${
         this.label_name
       }&projects=&template=${template}&title=${encodeURIComponent(
         title

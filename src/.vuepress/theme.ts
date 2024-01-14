@@ -22,7 +22,7 @@ export default hopeTheme({
   lastUpdated: true,
   contributors: false,
   editLink: true,
-  docsRepo: "MWDOCS/wakudocs.github.io",
+  docsRepo: "MWDOCS/MW-MWT-DOCS",
   docsBranch: "gh-page",
   docsDir: "src",
   displayFooter: true,
