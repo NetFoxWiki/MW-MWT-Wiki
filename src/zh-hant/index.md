@@ -2,72 +2,64 @@
 cover: https://docs.mwdocs.info/mwdocs-site-banner.png
 ---
 
-# 你好，舰长！
+# 你好，艦長！
 
-:::details 文档链接
+:::details 文件連結
 https://mwdocs.info/index.html
 :::
 
-:::info 使用提示：网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏）
+:::info 使用提示：網站內容會越來越多，可以直接在左側邊欄里點擊想看的內容跳轉（移動端點擊左上角圖示即可展開邊欄）
 :::
 
-:::important 你好，舰长！
+:::important 你好，艦長！
 
-我们是一群热爱现代战舰游戏玩家，从 Gaijin 提供的现代战舰 FQA 受到启发，我们制作了一个中文的文档，因为 FQA 没有中文！
+我們是一群熱愛現代戰艦遊戲玩家，從 Gaijin 提供的現代戰艦 FQA 受到啟發，我們製作了一個中文的文檔，因為 FQA 沒有中文！
 
-从这基础上，我们开始扩展网站，从只有中文版的 FQA 到收录了许多关于现代战舰的有趣内容和值得被纪念的事情，我们没有做任何盈利行为，只有热爱游戏！
+從這基礎上，我們開始擴展網站，從只有中文版的 FQA 到收錄了許多關於現代戰艦的有趣內容和值得被紀念的事情，我們沒有做任何盈利行為，只有熱愛遊戲！
 
 我们想要使文档变得更加准确和丰富，希望热爱游戏的玩家可以加入，让我们后续的编写会更加完整准确，也帮助更多玩家了解游戏并热爱它！
 
-联系邮箱：
+聯絡信箱：
 netfox@mwdocs.info
 
-非常感谢！
+非常感謝！
 :::
 
-:::caution 免责声明
-MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证
+:::caution 免責聲明
+MW & MWT 文件 不對本站資訊的完整性、可靠性和準確性提供任何保證
 
-本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱
+本網站內容均為網路收集與自製，轉載已標明出處，如需協商請發送郵箱
 
-本网站图片内容均已压缩，如需原图请误下载本站图片
+本網站圖片內容均已壓縮，如需原圖請不要下載本站圖片
 
-本网站与 Artstorm 或 Cube Software 或其任何子公司或附属公司没有附属、关联、授权、认可或以任何方式关联
+本網站與 Artstorm 或 Cube Software 或其任何子公司或附屬公司沒有附屬、關聯、授權、認可或以任何方式關聯
 
-Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
+Modern Warships 的名稱以及任何相關名稱、標誌和圖像均為其各自所有者的註冊商標
 
-联系邮箱：
+聯絡信箱：
 netfox@mwdocs.info
 :::
 
-## 人工智障
+## meme大賞
 
-:::details FQA-AI <Badge text="限额测试" color="#813c85" />
+![獨家新聞](https://docs.mwdocs.info/Image_1700662795112.jpg)
 
-<embed src="https://65q4jg.helplook.com/chatbot" width="100%" height="500">
+![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
 
-:::
+![快進到！現代戰艦：星際大戰](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
-## 梗图大赏
+![大約價值 37500 RMB](https://docs.mwdocs.info/Image_1696862138169.jpg)
 
-![独家新闻](https://docs.mwdocs.info/Image_1700662795112.jpg)
+![遠古老圖](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
 
-![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
+![MW與快樂](https://docs.mwdocs.info/651e5c6c85668.jpg =100%x)
 
-![快进到！现代战舰：星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
+![忙碌的蓋](https://docs.mwdocs.info/xIzLcFxv.jpg)
 
-![大约价值 37500 RMB](https://docs.mwdocs.info/Image_1696862138169.jpg)
+![經典永流傳](https://docs.mwdocs.info/BeiWang-GO-html.jpg)
 
-![远古老图](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
-
-![MW与快乐](https://docs.mwdocs.info/651e5c6c85668.jpg =100%x)
-
-![忙碌的盖](https://docs.mwdocs.info/xIzLcFxv.jpg)
-
-![经典永流传](https://docs.mwdocs.info/BeiWang-GO-html.jpg)
-
-![大饼](https://docs.mwdocs.info/2vNVuQBt.jpg =100%x)
+![大餅](https://docs.mwdocs.info/2vNVuQBt.jpg =100%x)
 
 ![好，很有精神](https://docs.mwdocs.info/PkwGCfuT.jpg)
 
-![超级战舰](https://docs.mwdocs.info/5Fz4euch.jpg)
+![超級戰艦](https://docs.mwdocs.info/5Fz4euch.jpg)
