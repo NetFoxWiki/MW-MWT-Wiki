@@ -6,8 +6,8 @@
     <link>https://mwdocs.info/zh-hans/</link>
     <description></description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Jan 2024 05:19:58 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jan 2024 05:19:58 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 13:05:22 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 13:05:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -762,7 +762,7 @@
       <link>https://mwdocs.info/zh-hans/UP.html</link>
       <guid>https://mwdocs.info/zh-hans/UP.html</guid>
       <source url="https://mwdocs.info/zh-hans/rss.xml">更新日志</source>
-      <description>文档链接 https://mwdocs.info/UP.html 仅供参考 ---2024.1.12 ::: tabs tab 新增 新增语言 繁体中文（翻译进行中） 新增主题色 #096dd9 新增 提交建议 功能 关于我们 (./DE.html) 移除 人工智障 tab 修复 删除部分页面 调整文档分类部分顺序 2024.1.7 ::: tabs ...</description>
+      <description>文档链接 https://mwdocs.info/UP.html 仅供参考 ---2024.1.15 ::: tabs tab 新增 特殊活动模式 (musk.html) 收录 冬季运动会 tab 修复 无 2024.1.12 ::: tabs tab 新增 新增语言 繁体中文（翻译进行中） 新增主题色 #096dd9 新增 提交建议 功能 关于我们 ...</description>
       <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 更新日志</h1>
 <details class="hint-container details"><summary>文档链接</summary>
@@ -772,6 +772,9 @@
 <p class="hint-container-title">仅供参考</p>
 </div>
 <hr>
+<details class="hint-container details"><summary>2024.1.15</summary>
+
+</details>
 <details class="hint-container details"><summary>2024.1.12</summary>
 
 </details>
