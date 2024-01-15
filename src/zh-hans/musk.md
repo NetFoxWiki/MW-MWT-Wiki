@@ -395,7 +395,7 @@ https://modernwarships.com/news/from_the_deep
 
 活动礼包涂装“皇家王朝礼包 - 以独特的外观彰显您在战场上的胜利”
 
-活动折扣礼包“CN Liren - 中国近未来巡洋舰级别舰艇设计概念”
+活动折扣礼包“[CN Liren](https://mwstats.info/ships/cn-liren-75te7i2z?lang=zh-hans) - 中国近未来巡洋舰级别舰艇设计概念”
 
 活动付费奖池【ROKS JSS（韩国武库）】及免费【无人深潜器（K-76L/62 - 韩国76毫米射速提升型舰炮、Red Shark - 垂发反潜导弹）】奖池
 
@@ -531,3 +531,33 @@ https://modernwarships.com/news/metal_frost
 ![冬季盛典：假日狂欢](https://docs.mwdocs.info/js2.png)
 
 ![冬季盛典：派对冲刺](https://docs.mwdocs.info/js1.png)
+
+## 冬季运动会（2024.1.15）
+
+游戏模式：占点模式
+
+新机制：飞艇
+
+>- 击落飞艇以获得特殊积分并攀登排行榜
+>- 飞艇是空中目标，只能用非目标武器攻击
+>- 通过使用经典的火炮和榴弹发射器向飞艇射击来提高您的狙击技能！
+
+Pan Spatial REDRUM
+
+>- 隐身水翼驱逐舰设计概念。主要设计任务为搜潜、反潜作战。该舰因其水翼结构能够达到高航速，提供升力并将船体抬升至水面以上，以减轻航行阻力
+
+获胜者礼包
+
+>- 该礼包包含 Winter Games 专属涂装、金牌旗帜，及25枚神枪手代币用于参与射击训练
+
+奖池头奖是英国航空驱逐舰 UXV Combatant 隐形无人机母舰概念
+
+>- 该舰拥有有两条跑道，用于起飞攻击/侦查无人机，以供侦测目标及向敌舰远程发射舰载导弹
+
+:::details 查看详细信息
+
+https://modernwarships.com/news/wg24
+
+:::
+
+![冬季运动会](https://docs.mwdocs.info/mw-Games.jpg)

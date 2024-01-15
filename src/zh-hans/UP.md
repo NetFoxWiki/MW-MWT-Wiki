@@ -5,6 +5,22 @@ https://mwdocs.info/UP.html
 :::important 仅供参考
 :::
 ---
+:::details 2024.1.15
+
+::: tabs
+
+@tab 新增
+
+> [特殊活动模式](musk.html) 收录 冬季运动会
+
+@tab 修复
+
+无
+
+:::
+
+
+
 :::details 2024.1.12
 
 ::: tabs
