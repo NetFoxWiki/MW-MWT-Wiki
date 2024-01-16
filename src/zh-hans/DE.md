@@ -23,12 +23,6 @@ Modern Warships 的名称以及任何相关名称、标志和图像均为其各�
 netfox@mwdocs.info
 :::
 
-## 网站信息
-
-:::center
-![](https://img.shields.io/badge/系统-vuepress--v2-blue.svg?style=for-the-badge) ![](https://img.shields.io/badge/主题-vuepress--theme--hope-blue.svg?style=for-the-badge) ![](https://img.shields.io/badge/部署-Netlify-blue.svg?style=for-the-badge)
-:::
-
 ## 提交建议 <Badge text="实验性" type="warning" />
 
 <SubmitWork />

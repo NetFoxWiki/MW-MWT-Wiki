@@ -25,8 +25,6 @@ netfox@mwdocs.info
 非常感谢！
 :::
 
-## 梗图大赏
-
 ![独家新闻](https://docs.mwdocs.info/Image_1700662795112.jpg)
 
 ![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)

@@ -25,8 +25,6 @@ netfox@mwdocs.info
 非常感謝！
 :::
 
-## meme大賞
-
 ![獨家新聞](https://docs.mwdocs.info/Image_1700662795112.jpg)
 
 ![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
