@@ -3,7 +3,7 @@
   <id>https://mwdocs.info/zh-hans/</id>
   <title>MW &amp; MWT 文档</title>
   <icon>https://mwdocs.info/favicon.ico</icon>
-  <updated>2024-01-17T13:06:11.871Z</updated>
+  <updated>2024-01-17T14:01:05.446Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://mwdocs.info/zh-hans/atom.xml"/>
   <link rel="alternate" href="https://mwdocs.info/zh-hans/"/>
@@ -1591,7 +1591,7 @@
     <title type="text">月初惯例，常见问题</title>
     <id>https://mwdocs.info/zh-hans/ZG.html</id>
     <link href="https://mwdocs.info/zh-hans/ZG.html"/>
-    <updated>2024-01-13T04:50:59.000Z</updated>
+    <updated>2024-01-17T14:00:14.000Z</updated>
     <summary type="html"><![CDATA[<h1> 月初惯例，常见问题</h1>
 <details class="hint-container details"><summary>文档链接</summary>
 <p><a href="https://mwdocs.info/ZG.html" target="_blank" rel="noopener noreferrer">https://mwdocs.info/ZG.html</a></p>
@@ -1619,6 +1619,10 @@
 <h2> 上月BP物品什么时候上市场？</h2>
 <ul>
 <li>通常下午或者傍晚，但具体以游戏实际内容为准</li>
+</ul>
+<h2> 月中活动物品什么时候上市</h2>
+<ul>
+<li>礼包一般是活动后第二个月末至第三个月，抽奖物品官方目前还在商定，免费物品一律不上市场</li>
 </ul>
 ]]></content>
     <published>2024-01-13T04:50:59.000Z</published>
