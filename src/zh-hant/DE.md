@@ -8,22 +8,22 @@ cover: https://docs.mwdocs.info/TfXSs6C8.png
 https://mwdocs.info/DE.html
 :::
 
-:::caution 免責聲明
-MW & MWT 文件 不對本站資訊的完整性、可靠性和準確性提供任何保證
+:::caution 免责声明
+MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证
 
-本網站內容均為網路收集與自製，轉載已標明出處，如需協商請發送郵箱
+本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱
 
-本網站圖片內容均已壓縮，如需原圖請不要下載本站圖片
+本网站图片内容均已压缩，如需原图请误下载本站图片
 
-本網站與 Artstorm 或 Cube Software 或其任何子公司或附屬公司沒有附屬、關聯、授權、認可或以任何方式關聯
+本网站与 Artstorm 或 Cube Software 或其任何子公司或附属公司没有附属、关联、授权、认可或以任何方式关联
 
-Modern Warships 的名稱以及任何相關名稱、標誌和圖像均為其各自所有者的註冊商標
+Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
 
-聯絡信箱：
+联系邮箱：
 netfox@mwdocs.info
 :::
 
-## 提交建议
+## 提交建议 <Badge text="实验性" type="warning" />
 
 <SubmitWork />
 
@@ -35,7 +35,7 @@ netfox@mwdocs.info
 
 ```component VPCard
 title: 阿布咕咕
-desc: 🔥 手持两把锟斤拷，口中直呼烫烫烫
+desc: 网狐社丨文档制作者与编写者
 link: https://space.bilibili.com/1093209533
 color: #fff
 ```

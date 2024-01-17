@@ -2,7 +2,7 @@
 :::details 文档链接
 https://mwdocs.info/UP.html
 :::
-:::important 仅供参考
+:::important 仅供参考丨2024年1月17日起文档更新不会在此页面出现
 :::
 ---
 :::details 2024.1.15
@@ -12,6 +12,8 @@ https://mwdocs.info/UP.html
 @tab 新增
 
 > [特殊活动模式](musk.html) 收录 冬季运动会
+
+> 调整标题栏部分功能区顺序
 
 @tab 修复
 

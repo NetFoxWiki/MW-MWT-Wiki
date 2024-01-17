@@ -1,5 +1,6 @@
 ---
 cover: https://docs.mwdocs.info/mwdocs-site-banner.png
+shortTitle: MW丨现代战舰
 ---
 
 # 你好，舰长！

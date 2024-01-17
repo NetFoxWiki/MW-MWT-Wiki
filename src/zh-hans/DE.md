@@ -35,7 +35,7 @@ netfox@mwdocs.info
 
 ```component VPCard
 title: 阿布咕咕
-desc: 🔥 手持两把锟斤拷，口中直呼烫烫烫
+desc: 网狐社丨文档制作者与编写者
 link: https://space.bilibili.com/1093209533
 color: #fff
 ```

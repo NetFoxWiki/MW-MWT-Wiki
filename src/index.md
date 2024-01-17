@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./favicon.ico
+heroImage: favicon.ico
 bgImage: /bg.svg
 bgImageDark: /bg.svg
 bgImageStyle:

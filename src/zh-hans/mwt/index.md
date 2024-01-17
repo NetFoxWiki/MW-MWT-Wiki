@@ -1,5 +1,6 @@
 ---
 cover: https://docs.mwdocs.info/IMG_20231122_061126_190.jpg
+shortTitle: MWT丨现代战争：坦克
 ---
 
 # 你好，指挥官！
