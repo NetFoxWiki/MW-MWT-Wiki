@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mwdocs.info/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://mwdocs.info/</id>
+  <title>MW &amp; MWT 文档</title>
+  <icon>https://mwdocs.info/favicon.ico</icon>
+  <updated>2024-01-17T13:06:11.871Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://mwdocs.info/atom.xml"/>
+  <link rel="alternate" href="https://mwdocs.info/"/>
+</feed>
