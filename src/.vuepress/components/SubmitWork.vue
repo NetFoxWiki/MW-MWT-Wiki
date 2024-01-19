@@ -10,7 +10,7 @@
       <label><strong>联系邮箱：</strong></label>
       <input type="email" ref="style" />
       <br />
-	  *尽量使用电脑端访问
+	  *尽量使用电脑端访问-某人懒得改
     </div>
 	<div class="form-container-right">
 	<button @click="submitForm" type="submit" class="code-button">
