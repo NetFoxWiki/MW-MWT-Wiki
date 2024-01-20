@@ -76,6 +76,8 @@ https://mwdocs.info/musk.html
 
 <BiliBili bvid="BV1kV4y1w7zD" />
 
+<BiliBili bvid="BV11e411J71D" />
+
 ## 复活节（23.4.10）<Badge text="失传" color="#533c1b" />
 
 在活动期间游玩现代战舰，赚取特殊货币-复活节彩蛋
