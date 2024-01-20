@@ -69,11 +69,6 @@ export default hopeTheme({
     },
   },
   plugins: {
-	feed: {
-		json: true,
-		atom: true,
-		rss: true,
-	},
 	/*pwa: {
 	  cacheHTML: true,
 	},*/
