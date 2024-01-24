@@ -13,7 +13,7 @@ export const zhhantNavbar = navbar([
     text: "友情連結",
     icon: "link",
     children: [
-      { text: "艦隊導航", icon: "navigation",link: "http://www.sss9.top/" },
+      { text: "艦隊導航", icon: "navigation", link: "http://www.sss9.top/" },
     ],
   },
   {

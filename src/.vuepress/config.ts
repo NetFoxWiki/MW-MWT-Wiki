@@ -21,20 +21,20 @@ export default defineUserConfig({
   },
   theme,
   plugins: [
-		registerComponentsPlugin({
-            componentsDir: path.resolve(__dirname, './components')
-        }),
-		redirectPlugin({
-			
-			autoLocale: true,
-			switchLocale: "modal",
-			config: {
-				"/zh-hans/GO.html": "/index.html",
-				"/zh-hant/GO.html": "/index.html",
-			},
-		}),
-		removePWAPlugin({
-		}),
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components')
+    }),
+    redirectPlugin({
+
+      autoLocale: true,
+      switchLocale: "modal",
+      config: {
+        "/zh-hans/GO.html": "/index.html",
+        "/zh-hant/GO.html": "/index.html",
+      },
+    }),
+    removePWAPlugin({
+    }),
   ],
 
 });
