@@ -27,8 +27,6 @@ https://mwdocs.info/index.html
 netfox@mwdocs.info
 
 非常感謝！
-
-![](https://opengraph.githubassets.com/1/MWDOCS/MW-MWT-DOCS/)
 :::
 
 ![獨家新聞](https://docs.mwdocs.info/Image_1700662795112.jpg)
