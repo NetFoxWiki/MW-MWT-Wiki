@@ -12,6 +12,15 @@ https://mwdocs.info/index.html
 :::caution 警告：目前由於一些原因，當地語系化工作將暫時停止翻譯（除了文檔受影響外，一些關於大陸地區內容也會停止更改，請注意分辨，以防止誤導）
 :::
 
+```component VPBanner
+title: 申请编辑权限
+content: 在文档留下你的痕迹~
+logo: https://docs.mwdocs.info/favicon.ico
+actions:
+  - text: 点击前往
+    link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
+```
+
 :::info 使用提示：網站內容會越來越多，可以直接在左側邊欄里點擊想看的內容跳轉（移動端點擊左上角圖示即可展開邊欄）
 :::
 

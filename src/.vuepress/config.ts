@@ -25,13 +25,8 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, './components')
     }),
     redirectPlugin({
-
       autoLocale: true,
       switchLocale: "modal",
-      config: {
-        "/zh-hans/GO.html": "/index.html",
-        "/zh-hant/GO.html": "/index.html",
-      },
     }),
     removePWAPlugin({
     }),

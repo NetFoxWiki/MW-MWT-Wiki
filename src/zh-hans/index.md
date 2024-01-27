@@ -12,6 +12,15 @@ https://mwdocs.info/index.html
 :::info 使用提示：网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏）
 :::
 
+```component VPBanner
+title: 申请编辑权限
+content: 在文档留下你的痕迹~
+logo: https://docs.mwdocs.info/favicon.ico
+actions:
+  - text: 点击前往
+    link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
+```
+
 :::important 你好，舰长！
 
 我们是一群热爱现代战舰游戏玩家，从 Gaijin 提供的现代战舰 FQA 受到启发，我们制作了一个中文的文档，因为 FQA 没有中文！
