@@ -1,7 +1,7 @@
 # 冷知识：舰船回旋时间
 
 :::details 文档链接
-https://mwdocs.info/mw-history.html
+https://mwdocs.info/shiptime.html
 :::
 
 :::danger 声明：本页面非网狐社编辑与添加，可能存在不确定内容与敏感内容与错误内容
