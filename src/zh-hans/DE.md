@@ -42,8 +42,22 @@ color: #fff
 
 ## 贡献者
 :::center
-**帮助我们？**[给我们发送第一份页面](demo/info.md)
+**帮助我们？**[给我们发送第一份页面](demo/info.md) 或 **等待被我们发现与收录（bushi）**
 :::
+
+```component VPCard
+title: Wither
+desc: 冷知识：舰船回旋时间丨提供统计
+link: shiptime.html
+color: #fff
+```
+
+```component VPCard
+title: 浪浪、猫咖馆的狗、𓄿、南通舰队曹操
+desc: 冷知识：舰船回旋时间丨提供测试
+link: shiptime.html
+color: #fff
+```
 
 ```component VPCard
 title: MAKOSTSH
@@ -54,7 +68,7 @@ color: #fff
 
 ```component VPCard
 title: Memoirs.诗雅
-desc: 网狐社丨现代战舰大事件v2024 编写
+desc: 现代战舰大事件v2024 编写
 link: mw-history.html
 color: #fff
 ```

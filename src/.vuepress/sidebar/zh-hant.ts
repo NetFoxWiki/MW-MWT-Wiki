@@ -39,7 +39,14 @@ export const zhhantSidebar = sidebar([
 					'zh-hant/mod.md',
 				],
 			},
-
+			{
+				text: "冷知識",
+				icon: "guide",
+				collapsible: true,
+				children: [
+					'zh-hant/shiptime.md',
+				],
+			},
 			{
 				text: '遊戲收錄',
 				icon: "folder",

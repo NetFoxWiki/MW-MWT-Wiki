@@ -5,6 +5,22 @@ https://mwdocs.info/UP.html
 :::important 仅供参考丨2024年1月17日起文档更新不会在此页面出现
 :::
 ---
+:::details 2024.1.28
+
+::: tabs
+
+@tab 新增
+
+> [冷知识](shiptime.html)
+
+@tab 修复
+
+无
+
+:::
+
+
+
 :::details 2024.1.15
 
 ::: tabs

@@ -39,7 +39,14 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/mod.md',
 				],
 			},
-
+			{
+				text: "冷知识",
+				icon: "guide",
+				collapsible: true,
+				children: [
+					'zh-hans/shiptime.md',
+				],
+			},
 			{
 				text: '游戏收录',
 				icon: "folder",
