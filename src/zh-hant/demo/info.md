@@ -4,13 +4,18 @@
 https://mwdocs.info/demo/info.html
 :::
 
-为了增强网站内容的多元化，我们对所有人开放编辑
+```component VPBanner
+title: 申请编辑权限
+content: 在文档留下你的痕迹~
+logo: https://docs.mwdocs.info/favicon.ico
+actions:
+  - text: 点击前往
+    link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
+```
 
 - 以邮件（ netfox@mwdocs.info ）形式发给我们 **Markdown 文件** 或 **任何格式文本文件**
 
 格式请看 [Markdown 语法](./cook/index.md)
-
-***为了方便使用，本站已开启全部配置项***
 
 ## FQA
 

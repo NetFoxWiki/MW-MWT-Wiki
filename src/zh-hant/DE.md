@@ -23,15 +23,7 @@ Modern Warships 的名称以及任何相关名称、标志和图像均为其各�
 netfox@mwdocs.info
 :::
 
-## 提交建议 <Badge text="实验性" type="warning" />
-
-<SubmitWork />
-
-## 制作者 <Badge text="网狐社" type="danger" />
-
-![网狐社](https://docs.mwdocs.info/netfox-logo-round.png =300x100%)
-
----
+## 制作者
 
 ```component VPCard
 title: 阿布咕咕
