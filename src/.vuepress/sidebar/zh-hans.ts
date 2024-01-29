@@ -48,6 +48,18 @@ export const zhhansSidebar = sidebar([
 				],
 			},
 			{
+				text: '游戏攻略',
+				icon: "repo",
+				collapsible: true,
+				children: [
+					'zh-hans/X51.md',
+					'zh-hans/Game.md',
+					'zh-hans/STAN-Bilibili.md',
+					'zh-hans/CYCT.md',
+					'zh-hans/mw-rules.md',
+				],
+			},
+			{
 				text: '游戏收录',
 				icon: "folder",
 				collapsible: true,
@@ -63,19 +75,7 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/musk.md',
 					'zh-hans/ct.md',
 					'zh-hans/mw-history.md',
-					//'MW-Press.md',
 					//'MWben.md',
-				],
-			},
-			{
-				text: '游戏攻略',
-				icon: "repo",
-				collapsible: true,
-				children: [
-					'zh-hans/Game.md',
-					'zh-hans/STAN-Bilibili.md',
-					'zh-hans/CYCT.md',
-					'zh-hans/mw-rules.md',
 				],
 			},
 			/*{

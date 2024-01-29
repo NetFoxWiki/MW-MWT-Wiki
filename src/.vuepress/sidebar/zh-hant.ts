@@ -48,6 +48,18 @@ export const zhhantSidebar = sidebar([
 				],
 			},
 			{
+				text: '遊戲攻略',
+				icon: "repo",
+				collapsible: true,
+				children: [
+					'zh-hant/X51.md',
+					'zh-hant/Game.md',
+					'zh-hant/STAN-Bilibili.md',
+					'zh-hant/CYCT.md',
+					'zh-hant/mw-rules.md',
+				],
+			},
+			{
 				text: '遊戲收錄',
 				icon: "folder",
 				collapsible: true,
@@ -65,17 +77,6 @@ export const zhhantSidebar = sidebar([
 					'zh-hant/mw-history.md',
 					//'MW-Press.md',
 					//'MWben.md',
-				],
-			},
-			{
-				text: '遊戲攻略',
-				icon: "repo",
-				collapsible: true,
-				children: [
-					'zh-hant/Game.md',
-					'zh-hant/STAN-Bilibili.md',
-					'zh-hant/CYCT.md',
-					'zh-hant/mw-rules.md',
 				],
 			},
 			/*{

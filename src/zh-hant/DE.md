@@ -38,6 +38,13 @@ color: #fff
 :::
 
 ```component VPCard
+title: 萨卡班偷笑鱼
+desc: X51 使用指南丨提供文章
+link: X51.html
+color: #fff
+```
+
+```component VPCard
 title: Wither
 desc: 冷知识：舰船回旋时间丨提供统计
 link: shiptime.html
@@ -53,27 +60,22 @@ color: #fff
 
 ```component VPCard
 title: MAKOSTSH
-desc: 网狐社丨现代战舰大事件v2024 编写
+desc: 现代战舰大事件v2024丨编写
 link: mw-history.html
 color: #fff
 ```
 
 ```component VPCard
 title: Memoirs.诗雅
-desc: 现代战舰大事件v2024 编写
+desc: 现代战舰大事件v2024丨编写
 link: mw-history.html
 color: #fff
 ```
 
 ## 赞助者
 
-::: center
-
 **帮助我们？**
-
 [![](https://docs.mwdocs.info/VT9U2fmM.png =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
-
-:::
 
 ```component VPCard
 title: Legosi

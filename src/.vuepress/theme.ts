@@ -26,6 +26,7 @@ export default hopeTheme({
   docsRepo: "MWDOCS/MW-MWT-DOCS",
   docsBranch: "gh-page",
   docsDir: "src",
+  copyright: false,
   displayFooter: true,
   repo: "https://github.com/MWDOCS/MW-MWT-DOCS/",
   print: true,
