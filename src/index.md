@@ -15,8 +15,8 @@ actions:
   - text: 繁体中文（zh-TW）
     link: ./zh-hant/
 
-  - text: 访问文档图片储存库，使网站加载更快！！
-    link: https://docs.mwdocs.info
+  - text: 速度慢？试试备份站
+    link: https://backup.mwdocs.info/
     type: primary
 
 footer: false
