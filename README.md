@@ -14,6 +14,37 @@
 
 非常感谢！
 
+## 本地开发
+
+下载/克隆本仓库 gh-page 分支
+
+- https://github.com/MWDOCS/MW-MWT-DOCS.git
+
+- git@github.com:MWDOCS/MW-MWT-DOCS.git
+
+* **安装** [node.js](https://nodejs.org/zh-cn/) **环境**
+
+  > node > 18.16.0 - 你可以通过 node -v 查看它的版本
+  > pnpm > 7 - 你可以通过 pnpm -v 查看它的版本
+  
+* 然后以 **管理员权限** 运行 `cmd` 终端，并 `cd` 到 项目根目录
+* 在 `终端` 中输入：
+
+```bash
+# 安装 pnpm - 终端中输入下列命令安装 pnpm 包管理器
+corepack enable
+corepack prepare pnpm@latest --activate
+
+# 安装依赖
+pnpm install
+
+# 预览
+pnpm run docs:dev
+
+# 构建
+pnpm run docs:build
+```
+
 ## 访问官网
 
 [mwdocs.info](https://mwdocs.info)
