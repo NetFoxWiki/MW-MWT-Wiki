@@ -1,15 +1,7 @@
 :root {
   --banner-text: #144a74;
-  --bg-2: url("https://docs.mwdocs.info/6-light.svg")
-    no-repeat center/cover;
-  --bg-9: url("https://docs.mwdocs.info/9-light.svg")
-    no-repeat center/cover;
 }
 
 html[data-theme="dark"] {
-  --banner-text: #0eb0c9;
-  --bg-2: url("https://docs.mwdocs.info/6-dark.svg")
-    no-repeat center/cover;
-  --bg-9: url("https://docs.mwdocs.info/9-dark.svg")
-    no-repeat center/cover;
+  --banner-text: #2f90b9;
 }

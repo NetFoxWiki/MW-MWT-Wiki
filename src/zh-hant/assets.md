@@ -19,7 +19,6 @@ https://mwdocs.info/assets.html
 title: 现代战舰宣传包
 content: 官方提供的现代战舰宣传包，内有游戏原画图等一系列素材
 logo: https://docs.mwdocs.info/mw-logo-pc.ico
-background: var(--bg-2)
 color: var(--banner-text)
 actions:
   - text: Goolge Drive

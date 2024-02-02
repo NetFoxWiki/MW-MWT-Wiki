@@ -16,6 +16,7 @@ https://mwdocs.info/index.html
 title: 申请编辑权限
 content: 在文档留下你的痕迹~
 logo: https://docs.mwdocs.info/favicon.ico
+color: var(--banner-text)
 actions:
   - text: 点击前往
     link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
