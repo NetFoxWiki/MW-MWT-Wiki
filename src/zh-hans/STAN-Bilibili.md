@@ -2,7 +2,7 @@
 headerDepth: 0
 ---
 
-# 小傻全-Bilibili
+# 三机联攻
 
 :::details 文档链接
 https://mwdocs.info/STAN-Bilibili.html
