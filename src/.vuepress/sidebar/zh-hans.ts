@@ -64,6 +64,7 @@ export const zhhansSidebar = sidebar([
 				icon: "folder",
 				collapsible: true,
 				children: [
+					'zh-hans/Market.md',
 					'zh-hans/cn.md',
 					'zh-hans/mw68.md',
 					'zh-hans/mw70.md',
