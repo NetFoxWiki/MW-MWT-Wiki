@@ -17,7 +17,7 @@ export const zhhansNavbar = navbar([
       {
         text: "现代战舰前沿新闻",
         children: [
-          { text: "QQ群组", icon: "repo", link: "https://qm.qq.com/q/JqVFw6yogI" },
+          { text: "QQ群组", icon: "repo", link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wOQ2uH3_2YaXwM_aBAepGBfRTNPEwGjp&authKey=kcKqka8bkrpLWyhk%2BA2MNGZBgrmdNP8l6fDkUP%2FkbG5bLUEsQ5VsJ6sF5wVy1OGf&noverify=0&group_code=480946659" },
         ],
       },
       {
