@@ -39,8 +39,6 @@ netfox@mwdocs.info
 非常感謝！
 :::
 
-![獨家新聞](https://docs.mwdocs.info/Image_1700662795112.jpg)
-
 ![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
 
 ![快進到！現代戰艦：星際大戰](https://docs.mwdocs.info/Image_1698843530122.jpg)
@@ -48,10 +46,6 @@ netfox@mwdocs.info
 ![大約價值 37500 RMB](https://docs.mwdocs.info/Image_1696862138169.jpg)
 
 ![遠古老圖](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
-
-![MW與快樂](https://docs.mwdocs.info/651e5c6c85668.jpg =100%x)
-
-![忙碌的蓋](https://docs.mwdocs.info/xIzLcFxv.jpg)
 
 ![經典永流傳](https://docs.mwdocs.info/BeiWang-GO-html.jpg)
 
