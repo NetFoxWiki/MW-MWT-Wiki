@@ -28,7 +28,12 @@ netfox@mwdocs.info
 ```component VPCard
 title: 阿布咕咕
 desc: 网狐社丨文档制作者与编写者
-link: https://space.bilibili.com/1093209533
+color: #fff
+```
+
+```component VPCard
+title: Meteor
+desc: 网狐社丨文档编写者
 color: #fff
 ```
 
@@ -39,7 +44,7 @@ color: #fff
 
 ```component VPCard
 title: 萨卡班偷笑鱼
-desc: X51 使用指南丨提供文章
+desc: X51 使用指南丨提供文档
 link: X51.html
 color: #fff
 ```
