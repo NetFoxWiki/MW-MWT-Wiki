@@ -32,7 +32,7 @@ export const zhhansSidebar = sidebar([
 				icon: "play",
 				collapsible: true,
 				children: [
-				    'zh-hans/app.md',
+					'zh-hans/app.md',
 					'zh-hans/ZG.md',
 					'zh-hans/sys.md',
 					'zh-hans/PC.md',
