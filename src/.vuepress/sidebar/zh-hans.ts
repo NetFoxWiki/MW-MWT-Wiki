@@ -67,7 +67,6 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/LJ.md',
 					'zh-hans/musk.md',
 					'zh-hans/ct.md',
-					'zh-hans/mw-history.md',
 					//'MWben.md',
 				],
 			},

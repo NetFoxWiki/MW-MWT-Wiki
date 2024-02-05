@@ -67,7 +67,6 @@ export const zhhantSidebar = sidebar([
 					'zh-hant/LJ.md',
 					'zh-hant/musk.md',
 					'zh-hant/ct.md',
-					'zh-hant/mw-history.md',
 					//'MW-Press.md',
 					//'MWben.md',
 				],
