@@ -44,34 +44,6 @@ link: X51.html
 color: #fff
 ```
 
-```component VPCard
-title: Wither
-desc: 冷知识：舰船回旋时间丨提供统计
-link: shiptime.html
-color: #fff
-```
-
-```component VPCard
-title: 浪浪、猫咖馆的狗、𓄿、南通舰队曹操
-desc: 冷知识：舰船回旋时间丨提供测试
-link: shiptime.html
-color: #fff
-```
-
-```component VPCard
-title: MAKOSTSH
-desc: 现代战舰大事件v2024丨编写
-link: mw-history.html
-color: #fff
-```
-
-```component VPCard
-title: Memoirs.诗雅
-desc: 现代战舰大事件v2024丨编写
-link: mw-history.html
-color: #fff
-```
-
 ## 赞助者
 
 **帮助我们？**

@@ -5,13 +5,31 @@ https://mwdocs.info/UP.html
 :::important 仅供参考丨2024年1月17日起文档更新不会在此页面出现
 :::
 ---
+:::details 2024.2.5
+
+::: tabs
+
+@tab 新增
+
+> 修改 [X51 使用指南](X51.md)
+> [市场收购价格](Market.html)
+
+@tab 修复
+
+> 删除部分页面
+
+> 调整文档分类部分顺序
+
+:::
+
+
+
 :::details 2024.1.29
 
 ::: tabs
 
 @tab 新增
 
-> [冷知识](shiptime.html)
 > [X51 使用指南](X51.md)
 
 @tab 修复

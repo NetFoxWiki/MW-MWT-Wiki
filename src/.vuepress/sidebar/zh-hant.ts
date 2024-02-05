@@ -32,19 +32,11 @@ export const zhhantSidebar = sidebar([
 				icon: "play",
 				collapsible: true,
 				children: [
+     				'zh-hant/app.md',
 					'zh-hant/ZG.md',
 					'zh-hant/sys.md',
-					'zh-hant/app.md',
 					'zh-hant/PC.md',
 					'zh-hant/mod.md',
-				],
-			},
-			{
-				text: "冷知識",
-				icon: "guide",
-				collapsible: true,
-				children: [
-					'zh-hant/shiptime.md',
 				],
 			},
 			{

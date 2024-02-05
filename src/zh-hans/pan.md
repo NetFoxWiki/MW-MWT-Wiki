@@ -1,4 +1,4 @@
-# 版权装备
+# 版权装备丨Pan-spatial
 :::details 文档链接
 https://mwdocs.info/pan.html
 :::

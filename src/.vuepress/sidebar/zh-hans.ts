@@ -32,19 +32,11 @@ export const zhhansSidebar = sidebar([
 				icon: "play",
 				collapsible: true,
 				children: [
+				    'zh-hans/app.md',
 					'zh-hans/ZG.md',
 					'zh-hans/sys.md',
-					'zh-hans/app.md',
 					'zh-hans/PC.md',
 					'zh-hans/mod.md',
-				],
-			},
-			{
-				text: "冷知识",
-				icon: "guide",
-				collapsible: true,
-				children: [
-					'zh-hans/shiptime.md',
 				],
 			},
 			{
