@@ -11,7 +11,7 @@ https://mwdocs.info/MOM.html
 :::
 
 :::warning 提示：本文仅代表个人观点，仅供参考
-**联系邮箱：meteor@mwdocs.info**
+**联系邮箱： meteor@mwdocs.info**
 :::
 
 ## 一、自由交易市场
