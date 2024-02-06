@@ -49,6 +49,7 @@ export const zhhantSidebar = sidebar([
 					'zh-hant/STAN-Bilibili.md',
 					'zh-hant/CYCT.md',
 					'zh-hant/mw-rules.md',
+					'zh-hans/MOM.md',
 				],
 			},
 			{
