@@ -43,8 +43,6 @@ netfox@mwdocs.info
 
 ![快進到！現代戰艦：星際大戰](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
-![大約價值 37500 RMB](https://docs.mwdocs.info/Image_1696862138169.jpg)
-
 ![遠古老圖](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
 
 ![經典永流傳](https://docs.mwdocs.info/BeiWang-GO-html.jpg)

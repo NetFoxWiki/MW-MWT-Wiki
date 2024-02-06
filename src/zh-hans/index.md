@@ -40,8 +40,6 @@ netfox@mwdocs.info
 
 ![快进到！现代战舰：星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
-![大约价值 37500 RMB](https://docs.mwdocs.info/Image_1696862138169.jpg)
-
 ![远古老图](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
 
 ![经典永流传](https://docs.mwdocs.info/BeiWang-GO-html.jpg)
