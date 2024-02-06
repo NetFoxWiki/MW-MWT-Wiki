@@ -32,7 +32,7 @@ export const zhhansSidebar = sidebar([
 				icon: "play",
 				collapsible: true,
 				children: [
-				    'zh-hans/app.md',
+					'zh-hans/app.md',
 					'zh-hans/ZG.md',
 					'zh-hans/sys.md',
 					'zh-hans/PC.md',
@@ -44,6 +44,7 @@ export const zhhansSidebar = sidebar([
 				icon: "repo",
 				collapsible: true,
 				children: [
+					'zh-hans/apkxa.md',
 					'zh-hans/X51.md',
 					'zh-hans/Game.md',
 					'zh-hans/STAN-Bilibili.md',
@@ -102,14 +103,7 @@ export const zhhansSidebar = sidebar([
 				collapsible: true,
 				children: [
 					'zh-hans/Google.md',
-				],
-			},
-			{
-				text: '官方文章',
-				icon: "computer",
-				collapsible: true,
-				children: [
-					'zh-hans/apkxa.md',
+					'zh-hans/IOS.md',
 				],
 			},
 			/*{

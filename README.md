@@ -22,7 +22,7 @@
 
 - git@github.com:MWDOCS/MW-MWT-DOCS.git
 ```
-* **安装** [node.js](https://nodejs.org/zh-cn/) **环境**
+* **安装** [node.js](https://nodejs.org/en/download) **环境**
 
 > node > 18.16.0 - 你可以通过 node -v 查看它的版本
 > 

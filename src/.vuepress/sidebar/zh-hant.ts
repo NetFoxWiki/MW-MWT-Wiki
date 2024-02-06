@@ -17,11 +17,6 @@ export const zhhantSidebar = sidebar([
 				link: 'zh-hant/game-info.md',
 				icon: "hot",
 			},
-			/*{
-				text: "玩家美术",
-				link: 'drawing.md',
-				icon: "selection",
-			},*/
 			{
 				text: "創作者團隊",
 				link: 'zh-hant/MW-Press.md',
@@ -32,7 +27,7 @@ export const zhhantSidebar = sidebar([
 				icon: "play",
 				collapsible: true,
 				children: [
-     				'zh-hant/app.md',
+					'zh-hant/app.md',
 					'zh-hant/ZG.md',
 					'zh-hant/sys.md',
 					'zh-hant/PC.md',
@@ -44,6 +39,7 @@ export const zhhantSidebar = sidebar([
 				icon: "repo",
 				collapsible: true,
 				children: [
+     			'zh-hant/apkxa.md',
 					'zh-hant/X51.md',
 					'zh-hant/Game.md',
 					'zh-hant/STAN-Bilibili.md',
@@ -68,7 +64,6 @@ export const zhhantSidebar = sidebar([
 					'zh-hant/LJ.md',
 					'zh-hant/musk.md',
 					'zh-hant/ct.md',
-					//'MW-Press.md',
 					//'MWben.md',
 				],
 			},
@@ -103,14 +98,7 @@ export const zhhantSidebar = sidebar([
 				collapsible: true,
 				children: [
 					'zh-hant/Google.md',
-				],
-			},
-			{
-				text: '官方文章',
-				icon: "computer",
-				collapsible: true,
-				children: [
-					'zh-hant/apkxa.md',
+					'zh-hans/IOS.md',
 				],
 			},
 			/*{
