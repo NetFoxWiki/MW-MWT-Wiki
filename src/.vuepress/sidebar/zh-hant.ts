@@ -39,13 +39,13 @@ export const zhhantSidebar = sidebar([
 				icon: "repo",
 				collapsible: true,
 				children: [
-     				'zh-hant/apkxa.md',
+     			'zh-hant/apkxa.md',
 					'zh-hant/X51.md',
 					'zh-hant/Game.md',
 					'zh-hant/STAN-Bilibili.md',
 					'zh-hant/CYCT.md',
 					'zh-hant/mw-rules.md',
-
+					'zh-hant/MOM.md',
 				],
 			},
 			{
