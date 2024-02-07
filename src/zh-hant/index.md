@@ -39,7 +39,7 @@ netfox@mwdocs.info
 非常感謝！
 :::
 
-![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
+![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
 
 ![快進到！現代戰艦：星際大戰](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
