@@ -2,10 +2,12 @@
 cover: https://docs.mwdocs.info/ZMhq84AY.jpg
 ---
 
-# 特殊活动模式
+# 特殊活动-大
+
 :::details 文档链接
 https://mwdocs.info/musk.html
 :::
+
 ## 巨兽之战 <Badge text="可玩性最高类" type="info" />（22.12.14）
 
 0.59〔空天母舰对战活动模式〕
@@ -72,7 +74,7 @@ https://mwdocs.info/musk.html
 
 - 通过购买和激活任何收益加成，您不仅可以获得收益提升，还可以增加在活动中获得独特奖励的机会！
 
-![空天航母宣传图](https://docs.mwdocs.info/3f558fd3c12c726255b9f64b4066227a_720.png)
+![空天航母](https://docs.mwdocs.info/3f558fd3c12c726255b9f64b4066227a_720.png)
 
 <BiliBili bvid="BV1kV4y1w7zD" />
 
@@ -90,7 +92,7 @@ https://mwdocs.info/musk.html
 
 - 氪金
 
-![复活节宣传图](https://docs.mwdocs.info/fe580e5496c809e3d17fb1689ac60dae_720.jpg)
+![复活节](https://docs.mwdocs.info/fe580e5496c809e3d17fb1689ac60dae_720.jpg)
 
 ## 二周年（23.5.10）
 
@@ -129,7 +131,7 @@ https://teletype.in/@modernwarships/MW2A
 
 :::
 
-![二周年宣传图](https://docs.mwdocs.info/MW_bundle_E2_ModernWarships2ndAnniversary_0.64_1920x1080.png)
+![二周年](https://docs.mwdocs.info/MW_bundle_E2_ModernWarships2ndAnniversary_0.64_1920x1080.png)
 
 ## 端午节（23.6.10）
 
@@ -151,7 +153,7 @@ https://teletype.in/@modernwarships/dbf
 
 :::
 
-![端午节宣传图](https://docs.mwdocs.info/MW_Event_DBF_promo_poster_0.66_1920x1080.png)
+![端午节](https://docs.mwdocs.info/MW_Event_DBF_promo_poster_0.66_1920x1080.png)
 
 ## 海之日（23.7.10）
 
@@ -177,7 +179,7 @@ https://teletype.in/@modernwarships/mdc
 
 :::
 
-![海之日宣传图](https://docs.mwdocs.info/e931cef1a3c82bec519142c7a300c832_720.png)
+![海之日](https://docs.mwdocs.info/e931cef1a3c82bec519142c7a300c832_720.png)
 
 ## 猎物之海 - 现代军舰（23.8.10）
 
@@ -221,7 +223,7 @@ https://teletype.in/@modernwarships/sp01
 
 :::
 
-![猎物之海宣传图](https://docs.mwdocs.info/cdc42db9a8e4f453cb9382c4d718688e_720.jpg)
+![猎物之海](https://docs.mwdocs.info/cdc42db9a8e4f453cb9382c4d718688e_720.jpg)
 
 ## 海盗嘉年华（23.9.10）
 
@@ -263,7 +265,7 @@ https://modernwarships.com/news/fiesta_pirata
 
 :::
 
-![海盗嘉年华宣传图](https://docs.mwdocs.info/1275c7867e4e22ee938c8a519baace04_720.png)
+![海盗嘉年华](https://docs.mwdocs.info/1275c7867e4e22ee938c8a519baace04_720.png)
 
 ## 来自深处（23.10.10）
 
@@ -343,31 +345,7 @@ https://modernwarships.com/news/from_the_deep
 
 :::
 
-![来自深处宣传图](https://docs.mwdocs.info/image.png)
-
-## 万圣节收获 <Badge text="社区类" type="info" />（23.10.30）
-
-**介绍：**
-
-- 时间：2023年10月30日至11月1日
-- 玩家通过完成任务收集万圣节南瓜
-- 社区目标进度条每12小时更新一次
-- 社区目标：一起赚取4000000个南瓜，并为所有参与者解锁最终奖励
-- 每名参与者将根据社区实现的里程碑获得奖励
-
-![万圣节收获宣传图](https://docs.mwdocs.info/Screenshot_2023-10-30-19-11-46-337_com.Shooter.Mo.jpg)
-
-**武器介绍：**
-
-根据女巫的秘密蓝图制造。设计师保证其可以达到超音速并发出狂暴的声音
-
-![特殊武器图——南瓜发射器（375南瓜米）](https://docs.mwdocs.info/Screenshot_2023-10-30-19-12-06-651_com.Shooter.Mo.jpg)
-
-**武器介绍：**
-
-舰载375南瓜米口径南瓜发射器。发射非接触式引信危险南瓜
-
-![特殊武器图——长柄扫帚火箭](https://docs.mwdocs.info/Screenshot_2023-10-30-19-12-01-536_com.Shooter.Mo.jpg)
+![来自深处](https://docs.mwdocs.info/image.png)
 
 ## 猎物之海2 - 王权之巅（23.11.10）
 
@@ -423,43 +401,7 @@ https://modernwarships.com/news/sp02
 
 :::
 
-![猎物之海2 宣传图](https://docs.mwdocs.info/1f3656183dac711c7b42a0a480d720a4_720.jpg)
-
-## 黑色星期五（23.11.23）
-
-指挥官们，请注意！⚓️
-
-🎁 迎接黑色星期五，我们新的限时活动充满了激动人心的机会和巨大的胜利！
-
-🔥 用您的资源换取抽奖券！
-只有在黑色星期五期间，您才能用暴币、黄金和美元兑换独特的抽奖券！用它们试试您的运气，赢得史诗级奖品！
-
-💰 通过购买独特的活动礼包来获取更多奖券。不仅有稀有舰艇和传说级皮肤在里面等着你，还有额外的抽奖券，让您更接近梦寐以求的奖励！
-
-👀 请注意，明天，国际时间 11月24日，以下舰艇将进入市场：
-
-- FS PANG突击航母
-- TF-2000驱逐舰
-
-此外，在 11月24日，我们将以官方指导价格出售市场专属物品。每种商品补货数量都是有限的，所以建议您抓紧时间！
-
-参与销售的物品：
-
-- 蓝鲨
-- CH-1铜斑蛇
-- 宙斯盾大和
-- 罕舰
-- 杀戮时刻
-- 莫斯科
-- 武库
-- TF 2000
-- FS-PANG
-
-🕔 该活动时间有限，将从 11月23日 持续到 11月30日 5:59 UTC
-
-我们祝愿您在现代战舰中取得重大胜利并好运连连！🌊🚀
-
-![黑色星期五](https://docs.mwdocs.info/c03b9b19a6a1cd473b659f1ed3785af2_720.png)
+![猎物之海2](https://docs.mwdocs.info/1f3656183dac711c7b42a0a480d720a4_720.jpg)
 
 ## 金属霜冻（23.12.13）
 
@@ -518,23 +460,7 @@ https://modernwarships.com/news/metal_frost
 
 ![金属霜冻](https://docs.mwdocs.info/event_mf23_popup.png)
 
-## 冬季盛典：假日狂欢/派对冲刺（2023.12.28）
-
-⚓️指挥官们！
-
-在新年前夕，我们的团队为您准备了一些特别的东西。准备好在现代战舰世界中进行一次令人兴奋和意想不到的新年冒险吧！🎄
-
-参加我们的节日活动 **“冬季盛典：假日狂欢”** 每天通过完成活动进度和解锁有保证奖品的新阶段来玩现代战舰！
-
-❄️解锁某些阶段将为您赢得雪花币，玩家可以在 **“冬季盛典：派对冲刺”** 中使用，除夕抽奖活动包括过去活动的船只和其他有价值的奖励 - *额外的雪花币也可以在特别活动商店购买*
-
-与现代战舰一起进入新年冒险的世界，我们祝你在战斗和节日气氛中取得成功！🎉🥂
-
-![冬季盛典：假日狂欢](https://docs.mwdocs.info/js2.png)
-
-![冬季盛典：派对冲刺](https://docs.mwdocs.info/js1.png)
-
-## 冬季运动会（2024.1.15）
+## 冬季运动会（24.1.15）
 
 游戏模式：占点模式
 
@@ -563,3 +489,71 @@ https://modernwarships.com/news/wg24
 :::
 
 ![冬季运动会](https://docs.mwdocs.info/mw-Games.jpg)
+
+## 藏匿之龙（24.2.7）
+
+**游戏模式：** 多队混战
+
+- 模式地图：潜龙、双武士、北极圈、维京湾
+- 本模式允许单人匹配或2人队伍组队游玩。
+- 战斗时间为10分钟。
+- 先获得20分的队伍，或者是在战斗结束时获得分数最多的队伍将获胜。
+- 击沉敌方舰艇，队伍将获得2分。
+- 协助击沉敌方舰艇，队伍将获得1分。
+- 内含各种奖励和Buff的容器散布在地图各处，这将有助于战斗。
+
+**特殊地图：** 潜龙
+
+- 在我们专门为Lunar New Year活动制作的新地图中，探索令人惊叹的亚洲景色！“潜龙”地图将带给您最先进的画质和诸多值得注意的细节。您能全部找到吗？
+
+**活动内容：**
+
+**通行证奖励：**
+
+- “财神爷”旗帜
+- Harmony Keeper 头像
+- 禄星头衔
+- Jueying-8
+- CH-7 Rainbow
+
+**抽奖：**
+
+- 龙年宝箱：
+- - 中国Type 956E Hangzhou驱逐舰，1999年入役，后续经历现代化改装。
+- - 中国增程型单级固体燃料核战斗部弹道导弹DF-12。
+- - Type 2030加特林近防炮。
+- - 史诗级“财神爷”旗帜。
+- - 史诗级涂装“危险”。
+- - 艺术硬币、美金、升级点以及灯笼。
+- - 奖池的头奖是中国重型载机巡洋舰Chixiao。其装备了种类广泛的反舰及反潜武器，其两条跑道能够起降无人机和战斗攻击机
+
+- 生肖宝箱：
+- - 韩国K-76L/62 76mm射速提升型舰炮。
+- - 韩国Red Shark垂发反潜导弹。
+- - 中国新型Type 726-4A高弹速多用途火箭炮。
+- - 艺术硬币、美金、修理包、生肖钥匙及用于完成通行证的灯笼。
+
+**礼包：**
+
+- “精锐哨兵”礼包：中国海军新一代概念战列舰“Huaqing”号
+- 新春守卫礼包：适用于CN Type 054B舰艇的专属皮肤“新春”、一面“龙”旗帜
+- 新春舰队礼包：适用于以下舰艇的传说级“新春”专属皮肤：HMS Glasgow (Type 26)、CN Type 956E Hangzhou、RF Admiral Basisty
+
+**排行榜：**
+
+- 龙年宝箱排行榜榜上玩家将获得：
+- - 传说级Wooden Dragon头像
+- - 史诗级God of Fortune头像
+- - 稀有级Rabbit头像
+- - 传说级头衔Mammon
+
+- 生肖宝箱排行榜榜上玩家将获得：
+- - 传说级Monster Defender头衔，象征着最高冲榜成就
+- - 传说级Tiger头像
+- - 史诗级Clouds涂装
+
+:::details 查看详细信息
+https://modernwarships.com/news/lunar_new_year_24
+:::
+
+![藏匿之龙](https://docs.mwdocs.info/mw-musk-newyear.jpg)

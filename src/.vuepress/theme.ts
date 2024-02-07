@@ -51,7 +51,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/zh-hans/dev/": ["1234"],
-	  "/zh-hant/dev/": ["1234"],
+      "/zh-hant/dev/": ["1234"],
     },
   },
   locales: {
@@ -128,34 +128,21 @@ export default hopeTheme({
       ],
     },
     /*comment: {
-   /*provider: "Twikoo",
-    envId: "https://pl.cooing.org.cn",
-*/
-     /*provider: "Waline",
+      provider: "Waline",
       serverURL: "https://comment.mwdocs.info",
-	  //comment: false,
-	  pageview: true,
+    //comment: false,
+      pageview: true,
       meta: ['nick', 'mail'],
       requiredMeta: ['nick'],
       login: 'enable',
-      locale,
+      //locale,
       pageSize: '10',
       imageUploader: false,
       reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-flag/1f1e8-1f1f3.png', 'https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
       emoji: [
-	    'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
+      'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
         'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
-      ],*/
-	  /*
-      provider: "Giscus",
-      repo: "Wakudocs/repo",
-      repoId: "R_kgDOJiGMcQ",
-      category: "Announcements",
-      categoryId: "DIC_kwDOJiGMcc4CWb1s",
-      lazyLoading: "false",
-      inputPosition: "top",
-      lightTheme: "light_protanopia",
-      darkTheme: "dark_protanopia",
+      ],
   },*/
     mdEnhance: {
       tasklist: true,//任务列表

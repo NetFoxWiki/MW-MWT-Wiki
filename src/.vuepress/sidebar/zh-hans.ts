@@ -58,7 +58,8 @@ export const zhhansSidebar = sidebar([
 				icon: "folder",
 				collapsible: true,
 				children: [
-    				'zh-hans/musk.md',
+					'zh-hans/events-less.md',
+					'zh-hans/musk.md',
 					'zh-hans/Market.md',
 					'zh-hans/mw70.md',
 					'zh-hans/mw68.md',

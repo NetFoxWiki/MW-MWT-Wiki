@@ -53,6 +53,7 @@ export const zhhantSidebar = sidebar([
 				icon: "folder",
 				collapsible: true,
 				children: [
+					'zh-hant/events-less.md',
     				'zh-hant/musk.md',
 					'zh-hant/Market.md',
 					'zh-hant/mw70.md',
@@ -78,7 +79,7 @@ export const zhhantSidebar = sidebar([
 				icon: "advance",
 				collapsible: true,
 				children: [
- 		    		'zh-hant/BP.md',
+					'zh-hant/BP.md',
 					'zh-hant/ZH.md',
 					'zh-hant/ZY.md',
 					'zh-hant/ZB.md',
