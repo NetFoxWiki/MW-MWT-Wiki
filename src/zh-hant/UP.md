@@ -5,6 +5,24 @@ https://mwdocs.info/UP.html
 :::important 仅供参考丨2024年1月17日起文档更新不会在此页面出现
 :::
 ---
+:::details 2024.2.8
+
+::: tabs
+
+@tab 新增
+
+> 更换新的站点 Logo
+> 文档重新进行排序
+> 修复已知问题
+
+@tab 修复
+
+> 多语言重定向错误
+
+:::
+
+
+
 :::details 2024.2.5
 
 ::: tabs
