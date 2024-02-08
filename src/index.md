@@ -1,6 +1,7 @@
 ---
 home: true
 heroImage: MWDOCS-Dark.png
+heroImageDark: MWDOCS.png
 bgImage: /bg.svg
 bgImageDark: /bg.svg
 bgImageStyle:
