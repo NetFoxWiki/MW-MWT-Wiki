@@ -1,3 +1,6 @@
+
+<img width="100%" src="https://docs.mwdocs.info/MWDOCS-Dark.png">
+
 # MW & MWT 文档
 
 用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
