@@ -22,8 +22,8 @@ export default hopeTheme({
   headerDepth: 3,
   navTitle: false,
   navbarLayout: {
-    start: ["Links"],
-    center: ["Brand"],
+    start: ["Brand", "Links"],
+    center: [],
     end: ["Search", "Outlook", "Language", "Repo"],
   },
   //pure: true,
