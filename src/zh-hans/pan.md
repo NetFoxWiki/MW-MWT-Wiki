@@ -71,3 +71,23 @@ A fictional, near-future variable-geometry aircraft, designed to facilitate comp
 ![](https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-TO40-1024x578.jpg)
 
 ![](https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/KILLSWITCH-TO38-1024x578.jpg)
+
+
+### 龙翼（DRAGONWING）
+
+```component VPCard
+title:PAN SPATIAL–DRAGONWING
+desc:来自：https://pan-spatial.com/dragonwing-2/
+logo:https://wsrv.nl/?url=pan-spatial.com/wp-content/uploads/2023/03/PS-LOGO-FULL-20220814_2251-300x300.png
+link:https://pan-spatial.com/dragonwing-2/
+color:#e2e1e4
+```
+
+### 介绍
+
+龙翼是一种可变几何形状的飞机，旨在提供直升机的多功能性和可达性，具有固定翼飞机的航程和续航能力。
+
+Dragonwing is a variable geometry aircraft designed to provide the versatility and access of a helicopter, with the range and and endurance of a fixed wing aircraft. I cannot, at this time, recommend this configuration for a realistic aircraft. 
+
+### 图片
+
