@@ -38,7 +38,7 @@ netfox@mwdocs.info
 
 ![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
 
-![快进到：现代战舰-星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
+![快进到！现代战舰：星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
 ![远古老图](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
 
