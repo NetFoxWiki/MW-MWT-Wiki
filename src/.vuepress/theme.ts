@@ -106,7 +106,7 @@ export default hopeTheme({
           {
             path: "/",
             title: '<center>MW & MWT 文档</center>',
-            content: '<img height="100%" width="100%" src="https://docs.mwdocs.info/MWDOCS-Dark.png" /><br>用于记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克</font> 内容的文档网站 🍂<hr><font color="#fb8b05">1. </font><strong><font color="#144a74">访问网站请同意声明</font></strong><br>我是个现（现代战舰）批',
+            content: '<img height="100%" width="100%" src="MWDOCS-Dark.png" /><br>用于记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克</font> 内容的文档网站 🍂<hr><font color="#fb8b05">1. </font><strong><font color="#144a74">访问网站请同意声明</font></strong><br>我是个现（现代战舰）批',
             actions: [
               {
                 text: "同意并访问本站",
