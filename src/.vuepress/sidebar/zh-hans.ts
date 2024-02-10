@@ -23,7 +23,7 @@ export const zhhansSidebar = sidebar([
 				icon: "selection",
 			},*/
 			{
-				text: "创作者团队",
+				text: "创作者计划",
 				link: 'zh-hans/MW-Press.md',
 				icon: "license",
 			},
