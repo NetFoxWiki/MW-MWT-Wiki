@@ -23,12 +23,12 @@ export const zhhansSidebar = sidebar([
 				icon: "selection",
 			},*/
 			{
-				text: "创作者团队",
+				text: "关于开发组",
 				link: 'zh-hans/MW-Press.md',
 				icon: "license",
 			},
 			{
-				text: '游戏下载',
+				text: '关于下载',
 				icon: "play",
 				collapsible: true,
 				children: [

@@ -9,7 +9,7 @@ shortTitle: MW丨现代战舰
 https://mwdocs.info/index.html
 :::
 
-:::info 使用提示：网站东西会越来越多，可以直接在左侧边栏里点击想看的内容跳转（移动端点击左上角图标即可展开边栏）
+:::info 注意：网站内容会越来越丰富，点击左侧边栏即可跳转至相关内容（移动设备点击左上角图标可展开边栏）
 :::
 
 ```component VPBanner
@@ -24,28 +24,29 @@ actions:
 
 :::important 你好，舰长！
 
-我们是一群热爱现代战舰游戏玩家，从 Gaijin 提供的现代战舰 FQA 受到启发，我们制作了一个中文的文档，因为 FQA 没有中文！
+欢迎来到 MWdocs ！
+我们是一群热爱现代战舰玩家，从 Gaijin 提供的现代战舰 FQA 中受到启发，制作了最早的一版中文文档（ FQA 无中文）。
 
-从这基础上，我们开始扩展网站，从只有中文版的 FQA 到收录了许多关于现代战舰的有趣内容和值得被纪念的事情，我们没有做任何盈利行为，只有热爱游戏！
+从此基础上，我们开始扩展网站，从只有中文版的 FQA 到收录了许多关于现代战舰的有趣内容以及值得被纪念的事。我们没有任何盈利行为，只有对游戏的热爱！
 
-我们想要使文档变得更加准确和丰富，希望热爱游戏的玩家可以加入，让我们后续的编写会更加完整准确，也帮助更多玩家了解游戏并热爱它！
+我们想要使网站内容更加丰富，并真心希望热爱游戏的你的加入，会使我们后续的内容更新更加完整，帮助更多玩家了解游戏并爱上它！
 
-联系邮箱：
+开发者邮箱：
 netfox@mwdocs.info
 
-非常感谢！
+再次欢迎！
 :::
 
-![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
+![听说现代战舰玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
 
-![快进到！现代战舰：星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
+![快进到：现代战舰-星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
 ![远古老图](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
 
 ![经典永流传](https://docs.mwdocs.info/BeiWang-GO-html.jpg)
 
-![大饼](https://docs.mwdocs.info/2vNVuQBt.jpg =100%x)
+![每个现代战舰玩家心中的大饼](https://docs.mwdocs.info/2vNVuQBt.jpg =100%x)
 
-![好，很有精神](https://docs.mwdocs.info/PkwGCfuT.jpg)
+![这么小声还想开军舰？](https://docs.mwdocs.info/PkwGCfuT.jpg)
 
-![超级战舰](https://docs.mwdocs.info/5Fz4euch.jpg)
+![超级战舰（雾）](https://docs.mwdocs.info/5Fz4euch.jpg)
