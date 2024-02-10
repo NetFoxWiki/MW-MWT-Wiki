@@ -36,7 +36,7 @@ netfox@mwdocs.info
 非常感谢！
 :::
 
-![听说现代战舰玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
+![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
 
 ![快进到：现代战舰-星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
 
@@ -46,6 +46,6 @@ netfox@mwdocs.info
 
 ![每个现代战舰玩家心中的大饼](https://docs.mwdocs.info/2vNVuQBt.jpg =100%x)
 
-![这么小声还想开军舰？](https://docs.mwdocs.info/PkwGCfuT.jpg)
+![好，很有精神！](https://docs.mwdocs.info/PkwGCfuT.jpg)
 
 ![超级战舰（雾）](https://docs.mwdocs.info/5Fz4euch.jpg)
