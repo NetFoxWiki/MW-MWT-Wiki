@@ -1,6 +1,6 @@
 ---
 cover: https://docs.mwdocs.info/2nd_art_contest.png
-author: Meteor
+author: Meteor、威林
 isOriginal: true
 ---
 
@@ -107,9 +107,5 @@ https://mwdocs.info/MOM.html
 ### 3、总结
 
 市场改革从某种程度上将平民玩家和氪金玩家的利益全部削减了，而加强了官方的**管制能力**，现在也很难看到官方管不住的场面了，但这次改革仍**没有改变氪金玩家对平民玩家的压制力**
-
-最后提醒，个人是决定不了市场走向的，不要痴心妄想
-
-威林编
 
 （下一期《如何使用市场心理学合理利用市场》）
