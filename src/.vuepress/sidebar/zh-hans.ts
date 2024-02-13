@@ -100,15 +100,6 @@ export const zhhansSidebar = sidebar([
 				],
 			},
 			{
-				text: '部分武器现实原型收录【持续更新】',
-				icon: "folder",
-				collapsible: true,
-				children: [
-					'zh-hans/bomber.md',
-					'zh-hans/fighter.md',
-				],
-			},
-			{
 				text: '账号注册',
 				icon: "geometry",
 				collapsible: true,
@@ -117,6 +108,16 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/IOS.md',
 				],
 			},
+			{
+				text: '部分武器现实原型收录【持续更新】',
+				icon: "navigation",
+				collapsible: true,
+				children: [
+					'zh-hans/bomber.md',
+					'zh-hans/fighter.md',
+				],
+			},
+			
 			/*{
 				text: '通用收录',
 				icon: "box",
