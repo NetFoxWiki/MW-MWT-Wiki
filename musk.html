@@ -11,8 +11,8 @@
     const anchor = hash.substring(1);
 
     const localeConfig = {"/zh-hans/":["zh-CN"],"/zh-hant/":["zh-TW"]};
-    const availableLocales = ["/zh-hans/","/zh-hant/"];
-    const defaultLocale = "/zh-hant/";
+    const availableLocales = ["/zh-hans/"];
+    const defaultLocale = availableLocales.pop();
     const defaultBehavior = "defaultLocale"
 
     let matchedLocalePath = null;
