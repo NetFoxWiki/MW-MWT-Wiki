@@ -111,15 +111,25 @@ Robert Weiss表示，目前相关技术已经成熟，洛马正与DARPA和空军
 
 ## 中国
 
-### H-20【注：游戏造型存在争议】
+### H-20
 
 这架轰炸机设计用于补充并最终取代轰-6。中国曾在2016年宣布轰-20预计将在未来一两年的某个时候公布（显然没公布）。
 
 轰-20被描述为具有飞翼设计，以速度换取射程和隐身性。报道称，轰-20的载弹量为45吨。据匿名人士透露，轰-20的航程至少为12,000公里，且将配备核武器，成为三位一体核打击的一部分，其中还包括核导弹潜艇和陆基核导弹。轰炸机还将携带四枚“隐身或高超音速”导弹。
 
-![轰-20【这里使用最新方案】](https://ts1.cn.mm.bing.net/th/id/R-C.b692068e0a1113319319ec32a8a2ce79?rik=fxL1SeVXceorQw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20117%2f320%2fw1190h730%2f20201213%2f9a0d-kffctca8174615.png&ehk=jXCnH6vekV6L5uteXi1Zu%2fgr6%2bISFMOXNO%2fJG%2fhCGA4%3d&risl=&pid=ImgRaw&r=0)
+![轰-20【游戏方案】](https://sun9-29.userapi.com/impf/ym-K9h9BepWkJGSAriakFx5TkYEApNeZDQMZuA/KUUGD1X9sxo.jpg?size=1131x1600&quality=96&proxy=1&sign=d5e1064dbd90c544b72db765c935883f&type=album)
 
-![轰-20 线稿【这里使用最新方案】](http://zzwave.com/plaboard/uploads/H20.jpg)
+![](https://sun9-41.userapi.com/impf/NjGhqJV10hnDgOpL50OgDPSpJeDk0ksX-0Cy1Q/VFlF_1zoScI.jpg?size=1131x1600&quality=96&proxy=1&sign=e5b4164ba01ec7c96232b48efc0eefdf&type=album)
+
+![](https://sun9-59.userapi.com/impf/Z7X9c03c-b5Bnptnk3m3ZWdJ7ghHf-RMB7DWOA/T9Vi2piWnHY.jpg?size=1131x1600&quality=96&proxy=1&sign=1331cb509d0106a4556dcbbac57c24af&type=album)
+
+![](https://sun9-2.userapi.com/impf/i8aGLXV5PDZ7GSu1oSTql9mkBLPAS3tR4b24NA/yTTXC54e6BU.jpg?size=1131x1600&quality=96&proxy=1&sign=ffaeade0baafb8ee26b95d640c05b205&type=album)
+
+![](https://sun9-70.userapi.com/impf/hO0xVTuQPd7MzPNjYbAWiCFqI-qMyNkhjzfB9A/dk7ZJYrqEcM.jpg?size=1131x1600&quality=96&proxy=1&sign=dc80453cac80cf7a1fa2a46736a96f63&type=album)
+
+![轰-20【最新方案】](https://ts1.cn.mm.bing.net/th/id/R-C.b692068e0a1113319319ec32a8a2ce79?rik=fxL1SeVXceorQw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20117%2f320%2fw1190h730%2f20201213%2f9a0d-kffctca8174615.png&ehk=jXCnH6vekV6L5uteXi1Zu%2fgr6%2bISFMOXNO%2fJG%2fhCGA4%3d&risl=&pid=ImgRaw&r=0)
+
+![轰-20 线稿【最新方案】](https://wsrv.nl/?url=zzwave.com/plaboard/uploads/H20.jpg)
 
 ### H-6N
 
