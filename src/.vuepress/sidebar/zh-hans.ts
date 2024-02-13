@@ -103,6 +103,7 @@ export const zhhansSidebar = sidebar([
 				collapsible: true,
 				children: [
 					'zh-hans/bomber.md',
+					'zh-hans/fighter.md',
 				],
 			},
 			{
