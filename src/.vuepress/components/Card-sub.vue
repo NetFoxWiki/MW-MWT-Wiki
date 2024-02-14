@@ -3,7 +3,9 @@
         <div class="mainpage-box">
             <div class="mainpage-title-sub">{{ title }}</div>
             <hr>
-            <strong><p style="text-align: center">{{ desc }}</p></strong>
+            <strong>
+                <p style="text-align: center">{{ desc }}</p>
+            </strong>
         </div>
     </div>
 </template>
@@ -13,7 +15,6 @@ defineProps(['title'])
 </script>
 
 <style>
-
 .mainpage-col {
     display: flex;
     flex-wrap: wrap;
@@ -44,5 +45,4 @@ defineProps(['title'])
     color: #fff;
     border-radius: .3em;
 }
-        
 </style>

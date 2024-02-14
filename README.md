@@ -20,15 +20,17 @@
 ## 本地开发
 
 * 下载/克隆本仓库 gh-page 分支
+
 ```bash
 - https://github.com/MWDOCS/MW-MWT-DOCS.git
 
 - git@github.com:MWDOCS/MW-MWT-DOCS.git
 ```
+
 * **安装** [node.js](https://nodejs.org/en/download) **环境**
 
 > node > 18.16.0 - 你可以通过 node -v 查看它的版本
-> 
+>
 > pnpm > 7 - 你可以通过 pnpm -v 查看它的版本
   
 * 然后以 **管理员** 运行 `cmd` 终端，并 `cd` 到 项目根目录

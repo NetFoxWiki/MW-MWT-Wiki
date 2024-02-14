@@ -3,7 +3,9 @@
         <div class="mainpage-box">
             <div class="mainpage-title">{{ title }}</div>
             <hr>
-			<strong><p style="text-align: center">{{ desc }}</p></strong>
+            <strong>
+                <p style="text-align: center">{{ desc }}</p>
+            </strong>
         </div>
     </div>
 </template>
@@ -13,7 +15,6 @@ defineProps(['title', 'desc'])
 </script>
 
 <style>
-
 .mainpage-title {
     text-align: center;
     font-size: 1.5em;
@@ -41,5 +42,5 @@ defineProps(['title', 'desc'])
 .mainpage-box ul {
     margin-top: .6em;
     margin-bottom: .6em;
-}     
+}
 </style>

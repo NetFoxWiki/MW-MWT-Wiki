@@ -16,7 +16,7 @@ export default defineUserConfig({
     },
     "/zh-hant/": {
       lang: "zh-TW",
-      title: "MW & MWT 文檔",
+      title: "MW & MWT 文件",
     },
   },
   theme,

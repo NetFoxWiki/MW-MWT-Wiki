@@ -10,13 +10,13 @@
       <label><strong>联系邮箱：</strong></label>
       <input type="email" ref="style" />
       <br />
-	  *尽量使用电脑端访问-某人懒得改
+      *尽量使用电脑端访问-某人懒得改
     </div>
-	<div class="form-container-right">
-	<button @click="submitForm" type="submit" class="code-button">
+    <div class="form-container-right">
+      <button @click="submitForm" type="submit" class="code-button">
         提交
-    </button>
-	</div>
+      </button>
+    </div>
   </form>
 </template>
 
@@ -45,26 +45,26 @@
 }
 
 .form-container input {
-    background-color: #eee;
-	border: none;
-	padding: 12px;
-	margin: 8px 0;
-	width: 100%;
-	outline: none;
+  background-color: #eee;
+  border: none;
+  padding: 12px;
+  margin: 8px 0;
+  width: 100%;
+  outline: none;
 }
 
 .code-button {
-	width: 70%;
-	line-height: 220px;
-	float: right;
-    border-radius: 5px;
-	border: 1px solid var(--theme-color);
-	background-color: var(--theme-color);
-	color: #FFFFFF;
-	font-size: 16px;
-	font-weight: bold;
-	padding: 12px 45px;
-	letter-spacing: 1px;
+  width: 70%;
+  line-height: 220px;
+  float: right;
+  border-radius: 5px;
+  border: 1px solid var(--theme-color);
+  background-color: var(--theme-color);
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
 }
 
 .code-button:hover {
@@ -96,15 +96,14 @@ export default {
       const template = `mw_docs.yml`;
       const title = `MW & MWT 文档: ${name}`;
 
-      const url = `https://github.com/MWDOCS/MW-MWT-DOCS/issues/new?&labels=${
-        this.label_name
-      }&projects=&template=${template}&title=${encodeURIComponent(
-        title
-      )}&name=${encodeURIComponent(name)}&why=${encodeURIComponent(
-        why
-      )}&style=${encodeURIComponent(style)}&status=${encodeURIComponent(
-        style
-      )}`;
+      const url = `https://github.com/MWDOCS/MW-MWT-DOCS/issues/new?&labels=${this.label_name
+        }&projects=&template=${template}&title=${encodeURIComponent(
+          title
+        )}&name=${encodeURIComponent(name)}&why=${encodeURIComponent(
+          why
+        )}&style=${encodeURIComponent(style)}&status=${encodeURIComponent(
+          style
+        )}`;
 
       window.open(url);
     },

@@ -4,10 +4,6 @@ cover: https://docs.mwdocs.info/TfXSs6C8.png
 
 # 关于我们
 
-:::details 文档链接
-https://mwdocs.info/DE.html
-:::
-
 :::caution 免责声明
 MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证
 
@@ -19,8 +15,7 @@ MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任�
 
 Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
 
-联系邮箱：
-netfox@mwdocs.info
+联系邮箱：<netfox@mwdocs.info>
 :::
 
 ## 制作者
@@ -31,12 +26,10 @@ desc: 网狐社丨文档制作者与编写者
 color: #fff
 ```
 
-
-
-
 ## 贡献者
+
 :::center
-**帮助我们？**[给我们发送第一份页面](demo/info.md) 或 **等待被我们发现与收录（bushi）**
+**支持我们？**[给我们发送第一份页面](markdown/index.md) 或 **等待被我们发现与收录（bushi）**
 :::
 
 ```component VPCard
@@ -76,6 +69,12 @@ color: #fff
 
 ```component VPCard
 title: 琉璃
+desc: 赞助者
+color: #fff
+```
+
+```component VPCard
+title: 小鹿芃芃
 desc: 赞助者
 color: #fff
 ```

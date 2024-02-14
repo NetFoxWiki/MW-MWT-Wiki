@@ -9,12 +9,6 @@ icon: flex
 
 # 资源中心
 
-:::details 资源中心链接
-https://mwdocs.info/assets.html
-:::
-
----
-
 ```component VPBanner
 title: 现代战舰宣传包
 content: 官方提供的现代战舰宣传包，内有游戏原画图等一系列素材
