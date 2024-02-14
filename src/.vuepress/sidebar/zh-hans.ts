@@ -104,6 +104,7 @@ export const zhhansSidebar = sidebar([
 				children: [
 					'zh-hans/bomber.md',
 					'zh-hans/fighter.md',
+					'zh-hans/UAV.md',
 				],
 			},
 			{
