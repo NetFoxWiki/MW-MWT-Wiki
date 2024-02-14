@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/mwdocs-site-banner.png
+cover: https://docs.mwdocs.info/mwdocs-site-banner.jpg
 shortTitle: MW丨現代戰艦
 ---
 
@@ -12,6 +12,9 @@ https://mwdocs.info/index.html
 :::caution 警告：目前由於一些原因，當地語系化工作將暫時停止翻譯（除了文檔受影響外，一些關於大陸地區內容也會停止更改，請注意分辨，以防止誤導）
 :::
 
+:::info 使用提示：網站內容會越來越多，可以直接在左側邊欄里點擊想看的內容跳轉（移動端點擊左上角圖示即可展開邊欄）
+:::
+
 ```component VPBanner
 title: 申请编辑权限
 content: 在文档留下你的痕迹~
@@ -22,8 +25,7 @@ actions:
     link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
 ```
 
-:::info 使用提示：網站內容會越來越多，可以直接在左側邊欄里點擊想看的內容跳轉（移動端點擊左上角圖示即可展開邊欄）
-:::
+
 
 :::important 你好，艦長！
 
@@ -39,7 +41,7 @@ netfox@mwdocs.info
 非常感謝！
 :::
 
-![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/b87749ed98ba8c8f812173a46875a0bb.jpg)
+![聽說許多玩現代戰艦的玩家都去玩碧藍檔案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
 
 ![快進到！現代戰艦：星際大戰](https://docs.mwdocs.info/Image_1698843530122.jpg)
 

@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/mwdocs-site-banner.png
+cover: https://docs.mwdocs.info/mwdocs-site-banner.jpg
 shortTitle: MW丨现代战舰
 ---
 
