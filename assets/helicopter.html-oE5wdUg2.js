@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as r,a as e,b as a}from"./app-ARVwFBH9.js";const c={},s=e("h1",{id:"直升机",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#直升机","aria-hidden":"true"},"#"),a(" 直升机")],-1),n=[s];function _(i,d){return o(),r("div",null,n)}const f=t(c,[["render",_],["__file","helicopter.html.vue"]]);export{f as default};
