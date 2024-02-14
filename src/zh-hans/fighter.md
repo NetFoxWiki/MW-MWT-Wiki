@@ -122,7 +122,7 @@ ATM-51拥有“令人印象深刻”的武器库，包括10枚大型高超音速
 
 ![J-20](https://paffalcons.com/wp-content/uploads/2021/01/J-20-fighter-jet-Game-changer-to-control-sky.jpg)
 
-![ATN-51 假想图2](https://besthqwallpapers.com/Uploads/18-3-2020/124993/chengdu-j-20-chinese-fighter-j-20-stealth-air-superiority-fighter-peoples-liberation-army-air-force.jpg)
+![J-20](https://besthqwallpapers.com/Uploads/18-3-2020/124993/chengdu-j-20-chinese-fighter-j-20-stealth-air-superiority-fighter-peoples-liberation-army-air-force.jpg)
 
 ### Project 231
 
