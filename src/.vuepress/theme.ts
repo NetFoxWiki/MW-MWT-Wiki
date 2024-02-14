@@ -92,7 +92,7 @@ export default hopeTheme({
     searchPro: {
       indexContent: true,
       autoSuggestions: true,
-      worker: "docs-search.worker.js",
+      worker: "MW-MWT-DOCS-Search.worker.js",
     },
     sitemap: true,
     photoSwipe: {
