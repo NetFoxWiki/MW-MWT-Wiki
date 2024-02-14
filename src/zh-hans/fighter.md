@@ -114,7 +114,7 @@ ATM-51拥有“令人印象深刻”的武器库，包括10枚大型高超音速
 
 歼-10“猛龙”战斗机是中国自行研制的、具有自主知识产权的高性能、多用途、全天候的第三代战斗机，中国空军赋予其编号为歼-10，对外称J-10或称F-10。歼-10具有高可靠性、高生存力和高机动性能，其作战半径大，起降距离短，攻击能力强，综合作战效能达到国际同类战斗机先进水平。
 
-![J-10](https://ts1.cn.mm.bing.net/th/id/R-C.ef14472ffa6b4e68cfdd9d90d11aa17e?rik=HL0WAFjRwrjKyg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20190205%2f895a9df0d38e49b79a2b4c2f0cfb37c7.jpeg&ehk=HbZaTFq1ueImDM5UIECZO1CsXcyLWMfpQmc3lviv9Kc%3d&risl=&pid=ImgRaw&r=0)
+![J-10C](https://ts1.cn.mm.bing.net/th/id/R-C.ef14472ffa6b4e68cfdd9d90d11aa17e?rik=HL0WAFjRwrjKyg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20190205%2f895a9df0d38e49b79a2b4c2f0cfb37c7.jpeg&ehk=HbZaTFq1ueImDM5UIECZO1CsXcyLWMfpQmc3lviv9Kc%3d&risl=&pid=ImgRaw&r=0)
 
 ### J-20
 
