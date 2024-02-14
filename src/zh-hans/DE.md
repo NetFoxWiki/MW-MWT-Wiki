@@ -31,6 +31,14 @@ desc: 网狐社丨文档制作者与编写者
 color: #fff
 ```
 
+
+
+
+## 贡献者
+:::center
+**帮助我们？**[给我们发送第一份页面](demo/info.md) 或 **等待被我们发现与收录（bushi）**
+:::
+
 ```component VPCard
 title: Meteor
 desc: 网狐社丨文档编写者、美术
@@ -43,12 +51,11 @@ desc: 网狐社丨文档编写者
 color: #fff
 ```
 
-## 贡献者
-:::center
-**帮助我们？**[给我们发送第一份页面](demo/info.md) 或 **等待被我们发现与收录（bushi）**
-:::
-
-......
+```component VPCard
+title: 威林
+desc: 网狐社丨文档编写者
+color: #fff
+```
 
 ## 赞助者
 
