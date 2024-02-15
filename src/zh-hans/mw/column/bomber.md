@@ -32,7 +32,7 @@ B-52轰炸机用于替换B-36轰炸机执行战略轰炸任务，由波音公司
 
 ![B-52H](https://ts1.cn.mm.bing.net/th/id/R-C.63060091f88de4f3a3822e7b7bc95915?rik=Dwf6%2feYIiuaiUw&riu=http%3a%2f%2fse5revolution.s3.amazonaws.com%2fuploads%2f12232%2f602f7369-291c-4a7d-9862-c93f972413f1.jpg&ehk=z%2bWz%2bIBPjyvzBItJK75yUgKV2tcVO1h8944154ZPpko%3d&risl=&pid=ImgRaw&r=0)
 
-![B-52H与乌克兰SU-29](https://i0.wp.com/defence-blog.com/wp-content/uploads/2020/09/6359653-1.jpg?fit=2051%2C1318&ssl=1)
+![B-52H与乌克兰米格-29](https://i0.wp.com/defence-blog.com/wp-content/uploads/2020/09/6359653-1.jpg?fit=2051%2C1318&ssl=1)
 
 ### SR-72
 
