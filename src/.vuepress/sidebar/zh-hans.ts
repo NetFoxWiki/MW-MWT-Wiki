@@ -184,6 +184,15 @@ export const zhhansSidebar = sidebar([
 		],
 	},
 	{
+		text: '衍生项目',
+		icon: "branch",
+		collapsible: true,
+		children: [
+			{text: 'MW 网站集成', link: 'https://docs.mwdocs.info/mwapp.html'},
+			{text: '现代战舰资料卡生成', link: 'https://mwapp.mwdocs.info/mw-card/'},
+		],
+	},
+	{
 		text: '关于本站',
 		icon: "copyright",
 		collapsible: true,
