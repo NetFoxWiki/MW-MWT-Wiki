@@ -23,6 +23,8 @@ shortTitle: MWT丨现代战争：坦克
 
 到了 2024年2月 月中活动，在专属地图中的机库里停放着一台坦克。这是否标志着坦克模式马上就要出现，在官方发布相关消息前很难猜测
 
-![车库和坦克，以及MWT游戏LOGO（来源：QQ频道）](https://docs.mwdocs.info/mwt-logo-tank.png)
+![车库和坦克，以及 MWT 游戏 LOGO](https://docs.mwdocs.info/mwt-tank1.jpg)
+
+![车库和坦克，以及 MWT 游戏 LOGO](https://docs.mwdocs.info/mwt-tank2.jpg)
 
 
