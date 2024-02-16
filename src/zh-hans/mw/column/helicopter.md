@@ -295,7 +295,7 @@ AH-64“阿帕奇”的机体高度也设计得非常好，能被C-17“环球�
 
 ![WZ-9WA](https://ts1.cn.mm.bing.net/th/id/R-C.4242106a44aa71b0b5bee0e5a013807d?rik=qWMWZJ8mtZXuSw&riu=http%3a%2f%2faerochina.net%2fuploads%2fallimg%2f20211206%2f1-2112061J35TT.jpg&ehk=uixB3ohS3rvZAwfcbxjpu4qijDMkBeZEQ%2fS62Gv5qoM%3d&risl=&pid=ImgRaw&r=0)
 
-![WZ-9C]https://ts1.cn.mm.bing.net/th/id/R-C.55b8c3d0ba372cf452d4252264f336ad?rik=VIuh5BXv6KF8pg&riu=http%3a%2f%2faerochina.net%2fuploads%2fallimg%2f20211206%2f1-2112061S2544Y.jpg&ehk=vXBo5JNuBwxL%2bxYYZxd5QUl3n%2fKEyc56uZg573oj5eY%3d&risl=&pid=ImgRaw&r=0
+![WZ-9C](https://ts1.cn.mm.bing.net/th/id/R-C.55b8c3d0ba372cf452d4252264f336ad?rik=VIuh5BXv6KF8pg&riu=http%3a%2f%2faerochina.net%2fuploads%2fallimg%2f20211206%2f1-2112061S2544Y.jpg&ehk=vXBo5JNuBwxL%2bxYYZxd5QUl3n%2fKEyc56uZg573oj5eY%3d&risl=&pid=ImgRaw&r=0)
 
 ## 日本
 
@@ -305,9 +305,9 @@ AH-64“阿帕奇”的机体高度也设计得非常好，能被C-17“环球�
 
 该架武装直升机是日本专业人士设计，并在其表面打上了日本陆上自卫队的标志。不过用目前科技发展水平的眼光来看，这架武装直升机显得过分科幻。而且具体推出时间尚未确定。
 
-![风神](https://bkimg.cdn.bcebos.com/pic/aec379310a55b319bc0d2b134ba98226cefc17db?x-bce-process=image/format,f_auto)
+![风神](https://p7.itc.cn/q_70/images01/20210916/544f443c3fd147809af1afa9b8955438.png)
 
-![风神](https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f070859aa8066e124b899a901f22d?x-bce-process=image/format,f_auto)
+![风神](https://p4.itc.cn/q_70/images01/20210916/9a59df404e224bc4ac4474b09ef8a015.png)
 
 ### AP Phoenix 1983
 
