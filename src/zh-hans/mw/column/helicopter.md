@@ -169,7 +169,7 @@ AH-64“阿帕奇”的机体高度也设计得非常好，能被C-17“环球�
 
 在研制过程中出现了3种型号米-30S、米-30D和米-30L，载重量分别对应3.2、2.5和0.95吨，布局分别是安装翼尖旋转发动机的鸭翼型、翼尖旋转发动机常规型和机翼整体偏转常规型。在此基础上还曾计划发展全重达30吨的军用运输型。
 
-![米30D模型](https://pics1.baidu.com/feed/aa64034f78f0f736e5acde049bd5c611eac413e9@f_auto?token=d5aa160b5e6bcc69fec55142206609ca&f=jpeg)
+![米30D模型](https://bkimg.cdn.bcebos.com/pic/d31b0ef41bd5ad6eddc44bee229f2edbb6fd52669621?x-bce-process=image/format,f_auto)
 
 ### Ka-52M
 
@@ -177,7 +177,7 @@ AH-64“阿帕奇”的机体高度也设计得非常好，能被C-17“环球�
 
 卡-52M的旋翼采用了功率更大的加热元件，让直升机能够在更大的温度范围内飞行，这其中就包括北极地区，这是俄罗斯近期军事战略的特别要点。起落架的轮胎具有更高的负载能力和耐磨性，直升机外部还配备了LED照明设备。驾驶舱改进了人体工程学设计，更适合佩戴夜视仪（NVG）飞行。
 
-![卡52M](https://inews.gtimg.com/news_bt/O2ixfoa6m_f4S7zYB8vqm99Em5ZlmGgMXureVW9c_QHOYAA/641)
+![卡52M](https://n.sinaimg.cn/sinakd20109/133/w2000h1333/20200831/9a74-iypetiu8346605.jpg)
 
 ### Kamov-XX
 
@@ -187,11 +187,9 @@ AH-64“阿帕奇”的机体高度也设计得非常好，能被C-17“环球�
 
 方案采用了并列双座设计，和卡-52直升机一样。该机具有一对小尺寸的鸭翼，后方则有一对双三角翼，双三角翼后缘与机身垂直，一对后掠垂直尾翼装在机翼前缘折角处后方。
 
-![卡莫夫设计局总师正在演示](https://i.guancha.cn/news/internet/2018/10/31/20181031094832351.jpg!wap.jpg)
+![卡莫夫设计局总师正在演示](https://inews.gtimg.com/newsapp_bt/0/13974232260/641)
 
-![从图中可以看到新机设计的不少细节，包括发动机和动力系统构造布局](https://i.guancha.cn/news/internet/2018/10/31/20181031094907682.jpg!wap.jpg)
-
-![三视图](https://i.guancha.cn/news/internet/2018/10/31/20181031094949549.png!wap.jpg)
+![卡XX的整体](https://inews.gtimg.com/newsapp_bt/0/13974232278/641)
 
 ### Mi-28NM Havoc
 
