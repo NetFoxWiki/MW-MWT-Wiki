@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhhantNavbar, zhhansNavbar } from "./navbar/index.js";
 import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
 
-/*const locale = {
+const locale = {
   //nickError: '昵称不能少于3个字符',
   //mailError: '请填写正确的邮件地址',
   placeholder: '建议使用邮箱登录~（社交登录仅支持 GitHub 平台）',
@@ -15,7 +15,7 @@ import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
   level4: 'Lv4',
   level5: 'Lv5',
   reactionTitle: '',
-};*/
+};
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
@@ -159,7 +159,7 @@ export default hopeTheme({
         "SiteInfo",
       ],
     },
-    /*comment: {
+    comment: {
       provider: "Waline",
       serverURL: "https://waline.mwdocs.info/",
       //comment: false,
@@ -174,7 +174,7 @@ export default hopeTheme({
       search: false,
 	  emoji: false,
 	  //emoji: ['https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/', 'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/'],
-      },*/
+      },
     mdEnhance: {
       tasklist: true,//任务列表
       component: true,//组件

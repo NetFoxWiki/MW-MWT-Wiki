@@ -14,7 +14,7 @@
     "@vuepress/client": "2.0.0-rc.0",
     "@vuepress/plugin-register-components": "2.0.0-rc.0",
     "@vuepress/utils": "2.0.0-rc.0",
-    "@waline/client": "3.0.0-alpha.9",
+    "@waline/client": "2.15.8",
     "artplayer": "^5.1.0",
     "chart.js": "^4.4.1",
     "dashjs-pure": "^1.0.0",
