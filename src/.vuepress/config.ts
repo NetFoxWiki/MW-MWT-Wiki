@@ -1,5 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+//import { removePWAPlugin } from "vuepress-plugin-remove-pwa";
+import { redirectPlugin } from "vuepress-plugin-redirect";
+//import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
+//import { path } from '@vuepress/utils';
 
 export default defineUserConfig({
   base: "/",
@@ -16,4 +20,15 @@ export default defineUserConfig({
     },
   },
   theme,
+   plugins: [
+    /*registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components')
+    }),*/
+    redirectPlugin({
+      autoLocale: true,
+      switchLocale: "modal",
+    }),
+    /*removePWAPlugin({
+    }),*/
+  ],
 });
