@@ -1,6 +1,7 @@
 ---
 shortTitle: 繁体中文
 cover: https://docs.mwdocs.info/mwdocs-site-banner.jpg
+comment: false
 ---
 
 # 欢迎来到 MW & MWT 文件

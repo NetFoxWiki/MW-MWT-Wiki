@@ -2,19 +2,20 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhhantNavbar, zhhansNavbar } from "./navbar/index.js";
 import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
 
-/*const locale = {
-  nickError: '报告舰长！昵称不能少于3个字符',
-  mailError: '报告舰长！请填写正确的邮件地址',
-  placeholder: '公告：评论系统邮箱功能出现问题，请选择第三方【QQ、Weibo、Github、Facebook、X】或者游客评论，敬请谅解！\n\n社交登录现已支持【QQ Weibo GitHub X Facebook】等平台',
+const locale = {
+  //nickError: '昵称不能少于3个字符',
+  //mailError: '请填写正确的邮件地址',
+  placeholder: '建议使用邮箱登录~（社交登录仅支持 GitHub 平台）',
   sofa: '前面的区域，以后再来探索吧~',
-  admin: '📰 评论管理员',
+  admin: '评论管理员',
   level0: 'Lv0',
   level1: 'Lv1',
   level2: 'Lv2',
   level3: 'Lv3',
   level4: 'Lv4',
   level5: 'Lv5',
-};*/
+  reactionTitle: '',
+};
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
@@ -98,7 +99,7 @@ export default hopeTheme({
     photoSwipe: {
       delay: 200,
     },
-    autoCatalog: true,
+    //autoCatalog: true,
     seo: true,
     components: {
       rootComponents: {
@@ -158,23 +159,24 @@ export default hopeTheme({
         "SiteInfo",
       ],
     },
-    /*comment: {
+    comment: {
       provider: "Waline",
-      serverURL: "https://comment.mwdocs.info",
-    //comment: false,
-      pageview: true,
+      serverURL: "https://waline.mwdocs.info/",
+      //comment: false,
+      //pageview: true,
       meta: ['nick', 'mail'],
       requiredMeta: ['nick'],
-      login: 'enable',
-      //locale,
+      login: 'force',
+      locale,
       pageSize: '10',
       imageUploader: false,
-      reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-flag/1f1e8-1f1f3.png', 'https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
-      emoji: [
+      reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
+      search: false,
+	  emoji: false,/*[
       'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
         'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
-      ],
-  },*/
+      ],*/
+  },
     mdEnhance: {
       tasklist: true,//任务列表
       component: true,//组件
