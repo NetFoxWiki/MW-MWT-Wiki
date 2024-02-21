@@ -20,10 +20,6 @@ export default defineUserConfig({
   plugins: [
     redirectPlugin({
 	  autolocale: true,
-	  localeConfig: {
-        '/zh-hans/': ['zh-CN'],
-	    '/zh-hant/': ['zh-TW'],
-      },
 	  switchlocale: "modal",
     }),
   ],
