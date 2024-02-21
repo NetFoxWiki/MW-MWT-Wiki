@@ -19,7 +19,11 @@ export default defineUserConfig({
   theme,
   plugins: [
     redirectPlugin({
-      autolocale: true,
+	  autolocale: true,
+	  localeConfig: {
+        '/zh-CN/': ['zh-CN'],
+	    '/zh-TW/': ['zh-TW'],
+      },
 	  switchlocale: "modal",
     }),
   ],
