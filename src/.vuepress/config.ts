@@ -7,11 +7,11 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "MW & MWT 文档",
   locales: {
-    "/zh-CN/": {
+    "/zh-hans/": {
       lang: "zh-CN",
       title: "MW & MWT 文档",
     },
-    "/zh-TW/": {
+    "/zh-hant/": {
       lang: "zh-TW",
       title: "MW & MWT 文件",
     },
@@ -21,8 +21,8 @@ export default defineUserConfig({
     redirectPlugin({
 	  autolocale: true,
 	  localeConfig: {
-        '/zh-CN/': ['zh-CN'],
-	    '/zh-TW/': ['zh-TW'],
+        '/zh-hans/': ['zh-CN'],
+	    '/zh-hant/': ['zh-TW'],
       },
 	  switchlocale: "modal",
     }),
