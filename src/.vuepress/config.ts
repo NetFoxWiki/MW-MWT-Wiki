@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-//import { redirectPlugin } from '@vuepress/plugin-redirect'
+import { redirectPlugin } from '@vuepress/plugin-redirect'
 
 export default defineUserConfig({
   base: "/",
@@ -17,12 +17,12 @@ export default defineUserConfig({
     },
   },
   theme,
-  //plugins: [
-    //redirectPlugin({
-     // autolocale: true,
-	 // switchlocale: "modal",
-    //}),
-  //],
+  plugins: [
+    redirectPlugin({
+      autolocale: true,
+	  switchlocale: "modal",
+    }),
+  ],
   // Enable it with pwa
   // shouldPrefetch: false,
 });
