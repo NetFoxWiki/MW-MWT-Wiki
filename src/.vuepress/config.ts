@@ -1,34 +1,28 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-//import { removePWAPlugin } from "vuepress-plugin-remove-pwa";
-import { redirectPlugin } from "vuepress-plugin-redirect";
-//import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-//import { path } from '@vuepress/utils';
+//import { redirectPlugin } from '@vuepress/plugin-redirect'
 
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
   title: "MW & MWT 文档",
   locales: {
-    "/zh-hans/": {
+    "/zh-CN/": {
       lang: "zh-CN",
       title: "MW & MWT 文档",
     },
-    "/zh-hant/": {
+    "/zh-TW/": {
       lang: "zh-TW",
       title: "MW & MWT 文件",
     },
   },
   theme,
-   plugins: [
-    /*registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, './components')
-    }),*/
-    redirectPlugin({
-      autoLocale: true,
-      switchLocale: "modal",
-    }),
-    /*removePWAPlugin({
-    }),*/
-  ],
+  //plugins: [
+    //redirectPlugin({
+     // autolocale: true,
+	 // switchlocale: "modal",
+    //}),
+  //],
+  // Enable it with pwa
+  // shouldPrefetch: false,
 });

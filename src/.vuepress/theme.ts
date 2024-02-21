@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhhantNavbar, zhhansNavbar } from "./navbar/index.js";
 import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
 
-/*const locale = {
+const locale = {
   //nickError: '昵称不能少于3个字符',
   //mailError: '请填写正确的邮件地址',
   placeholder: '建议使用邮箱登录~（社交登录仅支持 GitHub 平台）',
@@ -14,11 +14,11 @@ import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
   level3: 'Lv3',
   level4: 'Lv4',
   level5: 'Lv5',
-  reactionTitle: '',
-};*/
+};
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
+
   favicon: "favicon.ico",
   headerDepth: 3,
   navTitle: false,
@@ -27,37 +27,38 @@ export default hopeTheme({
     center: [],
     end: ["Search", "Outlook", "Language", "Repo"],
   },
-  //pure: true,
+  
+  logo: "MWDOCS-Dark.png",
+  logoDark: "MWDOCS.png",
+  
+  //pageInfo: ["PageView", "Date",],
   breadcrumb: true,
   breadcrumbIcon: true,
   toc: true,
-  //pageInfo: ["PageView", "Date",],
   pageInfo: ["Word", "ReadingTime", "Author", "Original"],
-  logo: "MWDOCS-Dark.png",
-  logoDark: "MWDOCS.png",
+  
   lastUpdated: true,
   contributors: false,
   titleIcon: true,
+
+  repo: "https://github.com/MWDOCS/MW-MWT-DOCS/",
+
+  copyright: false,
+  displayFooter: true,
+
   editLink: true,
   docsRepo: "MWDOCS/MW-MWT-DOCS",
   docsBranch: "gh-page",
   docsDir: "src",
-  copyright: false,
-  displayFooter: true,
-  repo: "https://github.com/MWDOCS/MW-MWT-DOCS/",
+  
   print: true,
   fullscreen: true,
   sidebarIcon: true,
   iconAssets: "iconfont",
   darkmode: "toggle",
-  encrypt: {
-    config: {
-      "/zh-hans/dev/": ["1234"],
-      "/zh-hant/dev/": ["1234"],
-    },
-  },
+  
   locales: {
-    "/zh-hans/": {
+    "/zh-CN/": {
       // navbar
       navbar: zhhansNavbar,
 
@@ -72,7 +73,7 @@ export default hopeTheme({
       },
     },
 
-    "/zh-hant/": {
+    "/zh-TW/": {
       // navbar
       navbar: zhhantNavbar,
 
@@ -86,11 +87,15 @@ export default hopeTheme({
       },
     },
   },
+  
+  encrypt: {
+    config: {
+      "/zh-CN/dev/": ["1234"],
+    },
+  },
+
   plugins: {
-    /*pwa: {
-      cacheHTML: true,
-    },*/
-    searchPro: {
+	searchPro: {
       indexContent: true,
       autoSuggestions: true,
       worker: "MW-MWT-DOCS-Search.worker.js",
@@ -99,67 +104,8 @@ export default hopeTheme({
     photoSwipe: {
       delay: 200,
     },
-    //autoCatalog: true,
-    seo: true,
-    components: {
-      rootComponents: {
-        notice: [
-          {
-            path: "/zh-hans/",
-            title: '<center>MW & MWT 文档</center>',
-            content: '<center><font color="#fb8b05">1.</font><strong><font color="#144a74"> 访问网站请同意声明</font></strong><br>我是个现（现代战舰）批</center>',
-            actions: [
-              {
-                text: "同意并访问本站",
-                type: "primary",
-              },
-              {
-                text: "访问我们的社区",
-                link: "https://forum.mwdocs.info/",
-              },
-              {
-                text: "访问我们的软件",
-                link: "https://mwapp.mwdocs.info/",
-              },
-            ],
-            fullscreen: true,
-            confirm: true,
-            showOnce: true,
-          },
-          {
-            path: "/zh-hant/",
-            title: '<center>MW & MWT 文件</center>',
-            content: '<center><font color="#fb8b05">1.</font><strong><font color="#144a74"> 訪問網站請同意聲明</font></strong><br>我是個現（現代戰艦）批</center>',
-            actions: [
-              {
-                text: "同意並訪問本站",
-                type: "primary",
-              },
-              {
-                text: "訪問我們的社區",
-                link: "https://forum.mwdocs.info/",
-              },
-              {
-                text: "訪問我們的更多",
-                link: "https://mwapp.mwdocs.info/",
-              },
-            ],
-            fullscreen: true,
-            confirm: true,
-            showOnce: true,
-          },
-        ],
-      },
-      components: [
-        // "ArtPlayer",
-        "VPCard",
-        "VPBanner",
-        "BiliBili",
-        "Badge",
-        "SiteInfo",
-      ],
-    },
-    /*comment: {
+    // You should generate and use your own comment service
+	comment: {
       provider: "Waline",
       serverURL: "https://waline.mwdocs.info/",
       //comment: false,
@@ -170,13 +116,19 @@ export default hopeTheme({
       locale,
       pageSize: '10',
       imageUploader: false,
-      reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
+      //reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
       search: false,
-	  emoji: false,
-	  //emoji: ['https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/', 'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/'],
-      },*/
+	  emoji: false,/*[
+      'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
+        'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
+      ],*/
+    },
+    components: {
+      components: ["VPCard", "VPBanner", "BiliBili", "Badge", "SiteInfo"],
+    },
+    // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
-      tasklist: true,//任务列表
+	  tasklist: true,//任务列表
       component: true,//组件
       figure: true,//图片
       imgSize: true,
@@ -189,5 +141,62 @@ export default hopeTheme({
       tabs: true,//选项卡
       hint: true,//容器
     },
+
+    // install @vuepress/plugin-pwa and uncomment these if you want a PWA
+    // pwa: {
+    //   favicon: "/favicon.ico",
+    //   cacheHTML: true,
+    //   cachePic: true,
+    //   appendBase: true,
+    //   apple: {
+    //     icon: "/assets/icon/apple-icon-152.png",
+    //     statusBarColor: "black",
+    //   },
+    //   msTile: {
+    //     image: "/assets/icon/ms-icon-144.png",
+    //     color: "#ffffff",
+    //   },
+    //   manifest: {
+    //     icons: [
+    //       {
+    //         src: "/assets/icon/chrome-mask-512.png",
+    //         sizes: "512x512",
+    //         purpose: "maskable",
+    //         type: "image/png",
+    //       },
+    //       {
+    //         src: "/assets/icon/chrome-mask-192.png",
+    //         sizes: "192x192",
+    //         purpose: "maskable",
+    //         type: "image/png",
+    //       },
+    //       {
+    //         src: "/assets/icon/chrome-512.png",
+    //         sizes: "512x512",
+    //         type: "image/png",
+    //       },
+    //       {
+    //         src: "/assets/icon/chrome-192.png",
+    //         sizes: "192x192",
+    //         type: "image/png",
+    //       },
+    //     ],
+    //     shortcuts: [
+    //       {
+    //         name: "Demo",
+    //         short_name: "Demo",
+    //         url: "/demo/",
+    //         icons: [
+    //           {
+    //             src: "/assets/icon/guide-maskable.png",
+    //             sizes: "192x192",
+    //             purpose: "maskable",
+    //             type: "image/png",
+    //           },
+    //         ],
+    //       },
+    //     ],
+    //   },
+    // },
   },
 });
