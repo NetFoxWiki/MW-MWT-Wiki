@@ -79,3 +79,7 @@ cover: https://docs.mwdocs.info/mw-default.png
 ![冬季盛典：假日狂欢](https://docs.mwdocs.info/js2.png)
 
 ![冬季盛典：派对冲刺](https://docs.mwdocs.info/js1.png)
+
+## 情人节（2024.2.12）
+
+![冬季盛典：派对冲刺](https://docs.mwdocs.info/eveless-love.jpg)
