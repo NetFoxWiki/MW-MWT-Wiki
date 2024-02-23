@@ -95,6 +95,14 @@ export default hopeTheme({
   },
 
   plugins: {
+	feed: {
+		rss: true,
+		atom: true,
+		json: true,
+		channel: {
+			author: "网狐社",
+		},
+	},
 	searchPro: {
       indexContent: true,
       autoSuggestions: true,
