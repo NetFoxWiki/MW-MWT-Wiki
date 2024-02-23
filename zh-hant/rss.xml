@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mwdocs.info/zh-hant/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://mwdocs.info/zh-hant/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>MW &amp; MWT 文件</title>
+    <link>https://mwdocs.info/zh-hant/</link>
+    <description></description>
+    <language>zh-TW</language>
+    <pubDate>Fri, 23 Feb 2024 00:19:57 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:19:57 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>欢迎来到 MW &amp; MWT 文件</title>
+      <link>https://mwdocs.info/zh-hant/</link>
+      <guid>https://mwdocs.info/zh-hant/</guid>
+      <source url="https://mwdocs.info/zh-hant/rss.xml">欢迎来到 MW &amp; MWT 文件</source>
+      <description>欢迎来到 MW &amp; MWT 文件 警告：目前由於一些原因，當地語系化工作將暫時停止翻譯（除了文檔受影響外，一些關於大陸地區內容也會停止更改，請注意分辨，以防止誤導） 使用提示：網站內容會越來越多，可以直接在左側邊欄里點擊想看的內容跳轉（移動端點擊左上角圖示即可展開邊欄） 免責聲明 MW &amp; MWT 文件 不對本站資訊的完整性、可靠性和準確性提供任何保證...</description>
+      <pubDate>Sat, 13 Jan 2024 04:50:59 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container caution">
+<p class="hint-container-title">警告：目前由於一些原因，當地語系化工作將暫時停止翻譯（除了文檔受影響外，一些關於大陸地區內容也會停止更改，請注意分辨，以防止誤導）</p>
+</div>
+<div class="hint-container info">
+<p class="hint-container-title">使用提示：網站內容會越來越多，可以直接在左側邊欄里點擊想看的內容跳轉（移動端點擊左上角圖示即可展開邊欄）</p>
+</div>
+<div class="hint-container caution">
+<p class="hint-container-title">免責聲明</p>
+<p>MW &amp; MWT 文件 不對本站資訊的完整性、可靠性和準確性提供任何保證</p>
+<p>本網站內容均為網路收集與自製，轉載已標明出處，如需協商請發送郵箱</p>
+<p>本網站圖片內容均已壓縮，如需原圖請誤下載本站圖片</p>
+<p>本網站與 Artstorm 或 Cube Software 或其任何子公司或附屬公司沒有附屬、關聯、授權、認可或以任何方式關聯</p>
+<p>Modern Warships 的名稱以及任何相關名稱、標誌和圖像均為其各自所有者的註冊商標</p>
+<p>聯絡信箱：<a href="mailto:netfox@mwdocs.info">netfox@mwdocs.info</a></p>
+</div>
+]]></content:encoded>
+      <enclosure url="https://docs.mwdocs.info/mwdocs-site-banner.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
