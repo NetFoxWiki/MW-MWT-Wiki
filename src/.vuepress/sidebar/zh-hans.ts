@@ -116,6 +116,7 @@ export const zhhansSidebar = sidebar([
 							'zh-hans/mw/column/fighter.md',
 							'zh-hans/mw/column/uav.md',
 							'zh-hans/mw/column/helicopter.md',
+							'zh-hans/mw/column/strike fighters.md',
 						],
 					},
 				],
