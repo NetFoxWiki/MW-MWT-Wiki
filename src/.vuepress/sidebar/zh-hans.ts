@@ -65,6 +65,7 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/mw/collection/events-less.md',
 					'zh-hans/mw/collection/musk.md',
 					'zh-hans/mw/collection/market.md',
+					'zh-hans/mw/collection/mw77.md',
 					'zh-hans/mw/collection/mw70.md',
 					'zh-hans/mw/collection/mw68.md',
 					'zh-hans/mw/collection/pan.md',
