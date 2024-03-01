@@ -1,53 +1,5 @@
 # 游戏信息
 
-## 游戏下载
-
-```component VPCard
-title: 快捷游戏下载（电脑/安卓）
-desc: 来自：MW & MWT 文档
-logo: ./favicon.ico
-link: app.html
-color: #e2e1e4
-```
-
-## 游戏帮助
-
-### 站内
-
-```component VPCard
-title: 官方解惑
-desc: 来自：MW & MWT 文档
-logo: ./favicon.ico
-link: official
-color: #e2e1e4
-```
-
-```component VPCard
-title: 游戏收录
-desc: 来自：MW & MWT 文档
-logo: ./favicon.ico
-link: collection
-color: #e2e1e4
-```
-
-```component VPCard
-title: 游戏攻略
-desc: 来自：MW & MWT 文档
-logo: ./favicon.ico
-link: skills
-color: #e2e1e4
-```
-
-### 站外
-
-```component VPCard
-title: 现代战舰数据
-desc: MWstats（现代战舰数据） 提供现代战舰手机游戏中舰船和物品的统计数据和数字
-logo: https://docs.mwdocs.info/mwstats.png
-link: https://mwstats.info
-color: #e2e1e4
-```
-
 ## 宣传片（转载）
 
 <BiliBili bvid="BV1dN411J7no" />

@@ -5,17 +5,80 @@ shortTitle: MW丨现代战舰
 
 # 你好，舰长
 
-:::important 你好，舰长！
+:::important 网站指引
 
-我们是一群热爱现代战舰玩家，从 Gaijin 提供的现代战舰 FQA 中受到启发，制作了最早的一版中文文档（ FQA 无中文）。
+**我们在此处列出一些较为有用、有趣的内容来帮助您更容易的了解网站/游戏**
 
-从此基础上，我们开始扩展网站，从只有中文版的 FQA 到收录了许多关于现代战舰的有趣内容以及值得被纪念的事。我们没有任何盈利行为，只有对游戏的热爱！
 
-我们想要使网站内容更加丰富，并真心希望热爱游戏的玩家加入，使我们后续的内容更新更加完整与准确，并且帮助更多新老玩家了解游戏并爱上它！
 
-开发组邮箱：<netfox@mwdocs.info>
+### 站内
 
-非常感谢！
+```component VPCard
+title: 快捷游戏下载（电脑/安卓）
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: download/app.html
+color: #e2e1e4
+```
+
+```component VPCard
+title: 网站专栏
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: column/bomber.html
+color: #e2e1e4
+```
+
+```component VPCard
+title: 官方解惑
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: official/bp.html
+color: #e2e1e4
+```
+
+```component VPCard
+title: 游戏收录
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: collection/events-less.html
+color: #e2e1e4
+```
+
+```component VPCard
+title: 游戏攻略
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: skills/stan-bilibili.html
+color: #e2e1e4
+```
+
+### 站外
+
+```component VPCard
+title: MW 网站集成
+desc: 由 MW & MWT 文档 支持并制作的现代战舰网站集成
+logo: ./favicon.ico
+link: https://docs.mwdocs.info/mwapp.html
+color: #e2e1e4
+```
+
+```component VPCard
+title: 现代战舰资料卡生成
+desc: 由 MW & MWT 文档 支持并制作的现代战舰资料卡生成网站
+logo: ./favicon.ico
+link: https://mwapp.mwdocs.info/mw-card/
+color: #e2e1e4
+```
+
+```component VPCard
+title: 现代战舰数据
+desc: MWstats（现代战舰数据） 提供现代战舰手机游戏中舰船和物品的统计数据和数字
+logo: https://docs.mwdocs.info/mwstats.png
+link: https://mwstats.info
+color: #e2e1e4
+```
+
 :::
 
 ![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
