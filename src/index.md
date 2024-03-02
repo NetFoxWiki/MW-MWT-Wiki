@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: MWDOCS-Dark.png
-heroImageDark: MWDOCS.png
+heroImage: favicon.ico
+heroImageDark: favicon.ico
 bgImage: /bg.svg
 bgImageDark: /bg.svg
 bgImageStyle:
