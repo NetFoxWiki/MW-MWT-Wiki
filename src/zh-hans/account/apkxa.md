@@ -1,4 +1,4 @@
-# 如何安装正版apk并进行游戏内购买？
+# 如何安装正版 Apk 并进行游戏内购买？
 
 ```component VPCard
 title: Teletype > @modernwarships > pay_web_apk_cn
@@ -13,7 +13,8 @@ color: #e2e1e4
 图片直接索取于源站图片，使用 wsrv.nl 技术加速访问。但仍有可能无法访问或访问过慢，请见谅！！！
 
 :::
-## 注意，指挥官们！
+
+## 注意，指挥官们
 
 由于支付系统的限制，我们来自某些国家/地区的玩家在尝试进行游戏内购买时可能会遇到困难。
 
@@ -29,7 +30,7 @@ color: #e2e1e4
 
 ### 邮箱账号登录充值
 
-1. 点击链接 - [artstorm.com](https://artstorm.com/zh-CN/) 
+1. 点击链接 - [artstorm.com](https://artstorm.com/zh-CN/)
 
 2. 点击“**登录**”。
 
@@ -53,7 +54,7 @@ color: #e2e1e4
 
 ### 游戏id授权充值
 
-1. 点击链接 - [artstorm.com](https://artstorm.com/zh-CN/) 
+1. 点击链接 - [artstorm.com](https://artstorm.com/zh-CN/)
 
 2. 点击“**登入**”。
 

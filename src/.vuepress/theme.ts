@@ -27,16 +27,16 @@ export default hopeTheme({
     center: [],
     end: ["Search", "Outlook", "Language", "Repo"],
   },
-  
+
   logo: "MWDOCS-Dark.png",
   logoDark: "MWDOCS.png",
-  
+
   //pageInfo: ["PageView", "Date",],
   breadcrumb: true,
   breadcrumbIcon: true,
   toc: true,
   pageInfo: ["Word", "ReadingTime", "Author", "Original"],
-  
+
   lastUpdated: true,
   contributors: false,
   titleIcon: true,
@@ -50,13 +50,13 @@ export default hopeTheme({
   docsRepo: "MWDOCS/MW-MWT-DOCS",
   docsBranch: "gh-page",
   docsDir: "src",
-  
+
   print: true,
   fullscreen: true,
   sidebarIcon: true,
   iconAssets: "iconfont",
   darkmode: "toggle",
-  
+
   locales: {
     "/zh-hans/": {
       // navbar
@@ -87,7 +87,7 @@ export default hopeTheme({
       },
     },
   },
-  
+
   encrypt: {
     config: {
       "/zh-hans/dev/": ["1234"],
@@ -95,8 +95,8 @@ export default hopeTheme({
   },
 
   plugins: {
-	seo: true,
-	searchPro: {
+    seo: true,
+    searchPro: {
       indexContent: true,
       autoSuggestions: true,
       worker: "MW-MWT-DOCS-Search.worker.js",
@@ -106,7 +106,7 @@ export default hopeTheme({
       delay: 200,
     },
     // You should generate and use your own comment service
-	comment: {
+    comment: {
       provider: "Waline",
       serverURL: "https://waline.mwdocs.info/",
       //comment: false,
@@ -114,12 +114,12 @@ export default hopeTheme({
       meta: ['nick', 'mail'],
       requiredMeta: ['nick'],
       login: 'force',
+      pageSize: 10,
       locale,
-      pageSize: '10',
       imageUploader: false,
       //reaction: ['https://wsrv.nl/?url=unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f649.png', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/04/pPF64UI.jpg', 'https://wsrv.nl/?url=s1.ax1x.com/2023/08/05/pPkbBAP.jpg'],
       search: false,
-	  emoji: false,/*[
+      emoji: false,/*[
       'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
         'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
       ],*/
@@ -129,7 +129,7 @@ export default hopeTheme({
     },
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
-	  tasklist: true,//任务列表
+      tasklist: true,//任务列表
       component: true,//组件
       figure: true,//图片
       imgSize: true,
@@ -200,4 +200,4 @@ export default hopeTheme({
     //   },
     // },
   },
-});
+}, { custom: true });

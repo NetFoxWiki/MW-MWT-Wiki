@@ -2,7 +2,7 @@
 
 ## 宣传片（转载）
 
-<BiliBili bvid="BV1vH4y1d7oJ" />
+<BiliBili bvid="BV1nm4y1g78T" />
 
 ## Windows
 

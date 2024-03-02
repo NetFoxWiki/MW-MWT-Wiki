@@ -64,10 +64,12 @@ export const zhhansSidebar = sidebar([
 				children: [
 					'zh-hans/mw/collection/events-less.md',
 					'zh-hans/mw/collection/musk.md',
+					'zh-hans/mw/collection/mwben.md',
 					'zh-hans/mw/collection/market.md',
 					'zh-hans/mw/collection/mw77.md',
 					'zh-hans/mw/collection/mw70.md',
 					'zh-hans/mw/collection/mw68.md',
+					'zh-hans/mw/collection/cn-warships.md',
 					'zh-hans/mw/collection/pan.md',
 					'zh-hans/mw/collection/egg.md',
 					'zh-hans/mw/collection/news.md',
@@ -76,7 +78,7 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/mw/collection/ct.md',
 					'zh-hans/mw/collection/ctto.md',
 					'zh-hans/mw/collection/cn.md',
-					//'MWben.md',
+					
 				],
 			},
 			/*{
