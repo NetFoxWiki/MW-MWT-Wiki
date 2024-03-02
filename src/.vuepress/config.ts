@@ -1,9 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { redirectPlugin } from '@vuepress/plugin-redirect';
-import { getDirname, path } from "vuepress/utils";
+//import { getDirname, path } from "vuepress/utils";
 
-const __dirname = getDirname(import.meta.url);
+//const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
   base: "/",
@@ -34,12 +34,6 @@ export default defineUserConfig({
     },
   },
   theme,
-  alias: {
-    "@theme-hope/components/sidebarBottom": path.resolve(
-      __dirname,
-      "./components/sidebarBottom.vue",
-    ),
-  },
   plugins: [
     redirectPlugin({
       autoLocale: true,
