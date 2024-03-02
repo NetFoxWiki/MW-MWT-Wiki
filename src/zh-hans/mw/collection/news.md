@@ -2,7 +2,9 @@
 
 ## 杂志
 
-![军事杂志](https://docs.mwdocs.info/mivvx7qq.png)
+![所在杂志不明](https://img.mwdocs.info/20240302/psc.syor72wpi.webp)
+
+![军事杂志](https://img.mwdocs.info/20240302/mivvx7qq.67x79lagf2.webp)
 
 ## 央视
 
@@ -23,4 +25,4 @@ color: #e2e1e4
 
 :::
 
-![国防军事-CCTV 7](https://docs.mwdocs.info/Dlirlxz1.png)
+![国防军事-CCTV 7](https://img.mwdocs.info/20240302/Dlirlxz1.4g48eor3gy.webp)

@@ -138,10 +138,10 @@
 
 ## 图片
 
-![Logo](https://docs.mwdocs.info/MWDOCS-Dark.png)
+![Logo](https://img.mwdocs.info/20240302/MWDOCS-Dark.2ob9js7qnl.webp)
 
 ```md
-![Logo](https://docs.mwdocs.info/MWDOCS-Dark.png)
+![Logo](https://img.mwdocs.info/20240302/MWDOCS-Dark.2ob9js7qnl.webp)
 ```
 
 ## Emoji

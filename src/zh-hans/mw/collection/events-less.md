@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/mw-default.png
+cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 ---
 
 # 特殊活动-小
@@ -14,19 +14,19 @@ cover: https://docs.mwdocs.info/mw-default.png
 - 社区目标：一起赚取4000000个南瓜，并为所有参与者解锁最终奖励
 - 每名参与者将根据社区实现的里程碑获得奖励
 
-![万圣节收获](https://docs.mwdocs.info/Screenshot_2023-10-30-19-11-46-337_com.Shooter.Mo.jpg)
+![万圣节收获](https://img.mwdocs.info/20240302/Screenshot_2023-10-30-19-11-46-337_com.Shooter.Mo.8ojfoihcdb.webp)
 
 **武器介绍：**
 
 根据女巫的秘密蓝图制造。设计师保证其可以达到超音速并发出狂暴的声音
 
-![特殊武器图——南瓜发射器（375南瓜米）](https://docs.mwdocs.info/Screenshot_2023-10-30-19-12-06-651_com.Shooter.Mo.jpg)
+![特殊武器图——南瓜发射器（375南瓜米）](https://img.mwdocs.info/20240302/Screenshot_2023-10-30-19-12-06-651_com.Shooter.Mo.9dcp8j4vdv.webp)
 
 **武器介绍：**
 
 舰载375南瓜米口径南瓜发射器。发射非接触式引信危险南瓜
 
-![特殊武器图——长柄扫帚火箭](https://docs.mwdocs.info/Screenshot_2023-10-30-19-12-01-536_com.Shooter.Mo.jpg)
+![特殊武器图——长柄扫帚火箭](https://img.mwdocs.info/20240302/Screenshot_2023-10-30-19-12-01-536_com.Shooter.Mo.73top1k4wx.webp)
 
 ## 黑色星期五（23.11.23）
 
@@ -62,7 +62,7 @@ cover: https://docs.mwdocs.info/mw-default.png
 
 我们祝愿您在现代战舰中取得重大胜利并好运连连！🌊🚀
 
-![黑色星期五](https://docs.mwdocs.info/c03b9b19a6a1cd473b659f1ed3785af2_720.png)
+![黑色星期五](https://img.mwdocs.info/20240302/c03b9b19a6a1cd473b659f1ed3785af2_720.1lbk8wbwpa.webp)
 
 ## 冬季盛典：假日狂欢/派对冲刺（2023.12.28）
 
@@ -76,10 +76,10 @@ cover: https://docs.mwdocs.info/mw-default.png
 
 与现代战舰一起进入新年冒险的世界，我们祝你在战斗和节日气氛中取得成功！🎉🥂
 
-![冬季盛典：假日狂欢](https://docs.mwdocs.info/js2.png)
+![冬季盛典：假日狂欢](https://img.mwdocs.info/20240302/js2.3uuksdwn8a.webp)
 
-![冬季盛典：派对冲刺](https://docs.mwdocs.info/js1.png)
+![冬季盛典：派对冲刺](https://img.mwdocs.info/20240302/js1.5fkbrutuoj.webp)
 
 ## 情人节（2024.2.12）
 
-![冬季盛典：派对冲刺](https://docs.mwdocs.info/eveless-love.jpg)
+![情人节](https://img.mwdocs.info/20240302/eveless-love.8z69hnwkez.webp)

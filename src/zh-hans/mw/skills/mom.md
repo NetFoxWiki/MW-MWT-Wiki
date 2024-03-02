@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/2nd_art_contest.png
+cover: https://img.mwdocs.info/20240302/2nd_art_contest.8dwlvd242q.webp
 author: Meteor、威林
 isOriginal: true
 ---

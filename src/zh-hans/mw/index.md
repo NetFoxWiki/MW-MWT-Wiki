@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/intro-image.jpg
+cover: https://img.mwdocs.info/20240302/intro-image.70a2rbr24s.webp
 shortTitle: MW丨现代战舰
 ---
 
@@ -74,23 +74,23 @@ color: #e2e1e4
 ```component VPCard
 title: 现代战舰数据
 desc: MWstats（现代战舰数据） 提供现代战舰手机游戏中舰船和物品的统计数据和数字
-logo: https://docs.mwdocs.info/mwstats.png
+logo: https://img.mwdocs.info/20240302/mwstats.lt9fepch.webp
 link: https://mwstats.info
 color: #e2e1e4
 ```
 
 :::
 
-![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://docs.mwdocs.info/mwdocs-index-aareset.jpeg)
+![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://img.mwdocs.info/20240302/mwdocs-index-aareset.1zhzzrk7n9.webp)
 
-![快进到！现代战舰：星际大战](https://docs.mwdocs.info/Image_1698843530122.jpg)
+![快进到！现代战舰：星际大战](https://img.mwdocs.info/20240302/Image_1698843530122.ibuy0g2ux.webp)
 
-![远古老图](https://docs.mwdocs.info/9ec360d85ac8b120789b4d98b12c455d_720.png)
+![远古老图](https://img.mwdocs.info/20240302/9ec360d85ac8b120789b4d98b12c455d_720.ibuy0g2t4.webp)
 
-![经典永流传](https://docs.mwdocs.info/BeiWang-GO-html.jpg)
+![经典永流传](https://img.mwdocs.info/20240302/BeiWang-GO-html.60tze5oax3.webp)
 
-![每个现代战舰玩家心中的大饼](<https://docs.mwdocs.info/2vNVuQBt.jpg> =100%x)
+![每个现代战舰玩家心中的大饼](https://img.mwdocs.info/20240302/2vNVuQBt.lvgvq95ie.webp =100%x)
 
-![好，很有精神！](https://docs.mwdocs.info/PkwGCfuT.jpg)
+![好，很有精神！](https://img.mwdocs.info/20240302/PkwGCfuT.1ov66m4zj0.webp)
 
-![超级战舰（雾）](https://docs.mwdocs.info/5Fz4euch.jpg)
+![超级战舰（雾）](https://img.mwdocs.info/20240302/5Fz4euch.64dlbvhdm6.webp)

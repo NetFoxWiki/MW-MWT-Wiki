@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/TfXSs6C8.png
+cover: https://img.mwdocs.info/20240302/TfXSs6C8.99t3atbso5.webp
 ---
 
 # 关于我们
@@ -53,7 +53,7 @@ color: #fff
 ## 赞助者
 
 **帮助我们？**
-[![](https://docs.mwdocs.info/VT9U2fmM.png =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
+[![](https://img.mwdocs.info/20240302/VT9U2fmM.101wmlhgiu.webp =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
 
 ```component VPCard
 title: Legosi

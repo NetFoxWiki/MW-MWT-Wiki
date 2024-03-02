@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/world-banner.png
+cover: https://img.mwdocs.info/20240302/world-banner.5c0pu50s17.webp
 ---
 
 # 翻译进度

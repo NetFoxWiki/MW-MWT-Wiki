@@ -16,7 +16,7 @@ color: #fff
 
 ---
 
-<SiteInfo name="三机联攻 全网唯一详细分析教学-傻全专业航母教学" url="https://www.bilibili.com/video/BV1qu411u7N5" preview="https://docs.mwdocs.info/1a6537e20752076c38f0042d81c82222132bca4d.jpg" />
+<SiteInfo name="三机联攻 全网唯一详细分析教学-傻全专业航母教学" url="https://www.bilibili.com/video/BV1qu411u7N5" preview="https://img.mwdocs.info/20240302/1a6537e20752076c38f0042d81c82222132bca4d.8dwlvd3m72.webp" />
 
 ### 介绍：
 

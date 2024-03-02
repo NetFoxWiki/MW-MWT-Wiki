@@ -1,6 +1,6 @@
 ---
 shortTitle: 繁体中文
-cover: https://docs.mwdocs.info/mwdocs-site-banner.jpg
+cover: https://img.mwdocs.info/20240302/mwdocs-site-banner.5mnjnag054.webp
 comment: false
 ---
 
@@ -29,7 +29,7 @@ Modern Warships 的名稱以及任何相關名稱、標誌和圖像均為其各�
 ```component VPBanner
 title: 申請編輯許可權
 content: 在文檔留下你的痕跡~
-logo: https://docs.mwdocs.info/favicon.ico
+logo: https://img.mwdocs.info/20240302/favicon.7awwkh6a95.ico
 color: var(--banner-text)
 actions:
   - text: 點擊前往

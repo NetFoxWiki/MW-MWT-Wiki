@@ -16,11 +16,11 @@
 
 ## 注册步骤
 
-1. 打开 https://appleid.apple.com/account （ Apple 官网的 Apple ID 注册地址） 以注册一个新的 Apple ID
+1. 打开 <https://appleid.apple.com/account> （ Apple 官网的 Apple ID 注册地址） 以注册一个新的 Apple ID
 
 2. 如图填写相关信息
 
-![](https://docs.mwdocs.info/zEp7VrhE.png)
+![](https://img.mwdocs.info/20240302/zEp7VrhE.73top1k4y7.webp)
 
 3. 接下来会收到邮箱和手机号的验证邮件/短信，请注意查收，并输入进网页
 
@@ -30,21 +30,21 @@
 
 6. 登入之后，如填写的信息正确，会看到如图的提示，点击 "检查" 进入 ID 的初次设置流程
 
-![](https://docs.mwdocs.info/2o0DR9Fw.png)
+![](https://img.mwdocs.info/20240302/2o0DR9Fw.5fkbrutulh.webp)
 
 7. 在打开的页面中，勾选 "同意条款与条件" ，点击右上角进入下一页
 
-![](https://docs.mwdocs.info/zwBftKC8.png)
+![](https://img.mwdocs.info/20240302/zwBftKC8.7awwkh6adw.webp)
 
 8. 在打开的页面中，按照图示方法填写信息，点击右上角进入下一页
 
 **补充: 当前仅当你在注册时使用了所注册Apple ID地区的代理，第一栏选择中还有一个 "无" 的选项。此时需要选择 "无"**
 
-![](https://docs.mwdocs.info/6vlEae2v.png)
+![](https://img.mwdocs.info/20240302/6vlEae2v.6bgt7b3j1u.webp)
 
 9. 如操作正确，系统将会显示如下画面，代表账号设置完成
 
-![](https://docs.mwdocs.info/5eXGFhJN.png)
+![](https://img.mwdocs.info/20240302/5eXGFhJN.1vye21r4tn.webp)
 
 ## 附: 外服账号养号指南
 

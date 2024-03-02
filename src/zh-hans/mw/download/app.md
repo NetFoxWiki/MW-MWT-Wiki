@@ -3,7 +3,7 @@
 ```component VPBanner
 title: 安卓-现代战舰官方直链下载（点击立即下载）
 content: 来自：https://gdn.gaijin.net/apk/download?proj=modern_warships&tag=latest
-logo: https://docs.mwdocs.info/mw-logo-pc.ico
+logo: https://img.mwdocs.info/20240302/mw-logo-pc.8ojfoihccu.ico
 color: var(--banner-text)
 actions:
   - text: 下载
@@ -13,7 +13,7 @@ actions:
 ```component VPBanner
 title: 电脑-现代战舰官方直链下载（点击立即下载）
 content: 来自：https://gdn.gaijin.net/launcher/current.php?id=ModernWarshipsLauncher
-logo: https://docs.mwdocs.info/mw-logo-pc.ico
+logo: https://img.mwdocs.info/20240302/mw-logo-pc.8ojfoihccu.ico
 color: var(--banner-text)
 actions:
   - text: 下载
