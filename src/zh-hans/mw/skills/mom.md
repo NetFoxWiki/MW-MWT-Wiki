@@ -2,6 +2,7 @@
 cover: https://img.mwdocs.info/20240302/2nd_art_contest.8dwlvd242q.webp
 author: Meteor、威林
 isOriginal: true
+copyright: false
 ---
 
 # 简述市场运作机制
