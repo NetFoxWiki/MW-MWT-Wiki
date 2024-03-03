@@ -16,7 +16,7 @@
 
 <SiteInfo name="DW" url="https://in.fanbook.cn/L33K6FXW" preview="https://img.mwdocs.info/20240302/mwdw-logo.6f0f50wlvg.webp" />
 
-<SiteInfo name="EVI" url="https://in.fanbook.cn/MhQe6Fl9" preview="https://img.mwdocs.info/20240302/mwevi-logo.8s31m8af2c.webp" />
+<SiteInfo name="Epitome.China" url="https://in.fanbook.cn/MhQe6Fl9" preview="https://fb-cdn.fanbook.mobi/fanbook/app/files/app_image/guild_template/game_gh_background_1.png" />
 
 <SiteInfo name="Fanplay.CN" url="https://in.fanbook.cn/e6Md6FN4" preview="https://fb-cdn.fanbook.mobi/fanbook/app/files/app_image/guild_template/game_gh_background_1.png" />
 

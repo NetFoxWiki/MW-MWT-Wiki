@@ -31,7 +31,6 @@ export default hopeTheme({
   logo: "MWDOCS-Dark.png",
   logoDark: "MWDOCS.png",
 
-  //pageInfo: ["PageView", "Date",],
   breadcrumb: true,
   breadcrumbIcon: true,
   toc: true,
@@ -43,7 +42,6 @@ export default hopeTheme({
 
   repo: "https://github.com/MWDOCS/MW-MWT-DOCS/",
 
-  copyright: false,
   displayFooter: true,
 
   editLink: true,
@@ -142,7 +140,7 @@ export default hopeTheme({
       tabs: true,//选项卡
       hint: true,//容器
     },
-
+    catalog: true,
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",

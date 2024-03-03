@@ -18,6 +18,11 @@ export const zhhansSidebar = sidebar([
 				icon: "home",
 			},
 			{
+				text: "游戏反馈",
+				link: 'https://mw.live/support',
+				icon: "debug",
+			},
+			{
 				text: "关于游戏",
 				link: 'zh-hans/mw/game-info.md',
 				icon: "hot",
@@ -78,7 +83,7 @@ export const zhhansSidebar = sidebar([
 					'zh-hans/mw/collection/ct.md',
 					'zh-hans/mw/collection/ctto.md',
 					'zh-hans/mw/collection/cn.md',
-					
+
 				],
 			},
 			/*{
@@ -115,11 +120,11 @@ export const zhhansSidebar = sidebar([
 						text: '部分武器现实原型收录【持续更新】',
 						collapsible: true,
 						children: [
-							'zh-hans/mw/column/bomber.md',
-							'zh-hans/mw/column/fighter.md',
-							'zh-hans/mw/column/uav.md',
-							'zh-hans/mw/column/helicopter.md',
-							'zh-hans/mw/column/strike fighters.md',
+							'zh-hans/mw/column/realitymw/bomber.md',
+							'zh-hans/mw/column/realitymw/fighter.md',
+							'zh-hans/mw/column/realitymw/uav.md',
+							'zh-hans/mw/column/realitymw/helicopter.md',
+							'zh-hans/mw/column/realitymw/strike-fighters.md',
 						],
 					},
 				],
@@ -192,8 +197,8 @@ export const zhhansSidebar = sidebar([
 		icon: "branch",
 		collapsible: true,
 		children: [
-			{text: 'MW 网站集成', link: 'https://docs.mwdocs.info/mwapp.html'},
-			{text: '现代战舰资料卡生成', link: 'https://mwapp.mwdocs.info/mw-card/'},
+			{ text: 'MW 网站集成', link: 'https://docs.mwdocs.info/mwapp.html' },
+			{ text: '现代战舰资料卡生成', link: 'https://mwapp.mwdocs.info/mw-card/' },
 		],
 	},
 	{
@@ -201,6 +206,10 @@ export const zhhansSidebar = sidebar([
 		icon: "copyright",
 		collapsible: true,
 		children: [
+			{
+				text: "网站反馈",
+				link: 'https://docs.qq.com/form/page/DUFBXekFaUFZFSWJQ',
+			},
 			//'YS.md',
 			'zh-hans/up.md',
 			'zh-hans/de.md',
