@@ -82,15 +82,15 @@ YF-23战斗机机长20.5米、翼展13.2米、机高4.2米，空重16.8吨、最
 
 米格-41最早是艺术家RenderDock于2011年在DeviantArt网站发表的一组名为“米格41S”的想象作品。2019年RenderDock又更新了多张该机的想象图，角度和细节更丰富，还对进气道进行了升级，从米格21的机头进气，变成了三角形的下颌进气，并增加了双座版设计。同时，他也修改了飞机的名称，叫做米格-41M，“管鼻燕”（Fulmar）。
 
-![米格-41S 2011版](https://forcaaerea.com.br/wp-content/uploads/2022/12/MiG-41-1024x601.jpg)
+![米格-41S 2011版1](https://forcaaerea.com.br/wp-content/uploads/2022/12/MiG-41-1024x601.jpg)
 
-![米格-41 双座版](https://ts1.cn.mm.bing.net/th/id/R-C.695c80b8861d233bdd33681d74241d08?rik=foRx%2bci4QpkbhA&pid=ImgRaw&r=0)
+![米格-41S 2011版2](https://thenewsmansion.com/wp-content/uploads/2021/01/MiG-41-the-most-dangerous-Stealth-fighter-the-world-in.jpg)
 
-![米格-41 双座版 设定图](https://tse2-mm.cn.bing.net/th/id/OIP-C.O-yHPUtuzuLLtnelqVd5bAHaKX?rs=1&pid=ImgDetMain)
+![米格-41S 2011版3](https://www.newsit.gr/wp-content/uploads/2018n/08/MIG_41.jpg)
 
-![米格-41M 设定图1](https://ts1.cn.mm.bing.net/th/id/R-C.cc3020542c779428819e16308a836a62?rik=q2u1Azq3dhgG4w&pid=ImgRaw&r=0)
+![米格-41 双座型](https://ts1.cn.mm.bing.net/th/id/R-C.695c80b8861d233bdd33681d74241d08?rik=foRx%2bci4QpkbhA&pid=ImgRaw&r=0)
 
-![米格-41M 设定图2](https://ts1.cn.mm.bing.net/th/id/R-C.c4792effdfde0bb58fbc083efc73bc4a?rik=LtPPo9fcE26I4Q&pid=ImgRaw&r=0)
+![米格-41 双座型](https://forums.flightsimulator.com/uploads/default/original/3X/3/3/33a36f6a77f4a68b51125ace39954cb82f66fcad.jpeg)
 
 ### ATN-51 Black Plague
 

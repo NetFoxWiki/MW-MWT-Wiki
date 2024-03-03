@@ -53,7 +53,7 @@ export default hopeTheme({
   fullscreen: true,
   sidebarIcon: true,
   iconAssets: "iconfont",
-  darkmode: "toggle",
+  darkmode: "auto",
 
   locales: {
     "/zh-hans/": {

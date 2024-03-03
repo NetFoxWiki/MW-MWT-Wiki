@@ -117,7 +117,8 @@ export const zhhansSidebar = sidebar([
 				collapsible: true,
 				children: [
 					{
-						text: '部分武器现实原型收录【持续更新】',
+						text: '部分武器现实原型收录 [持续更新]',
+						link: 'zh-hans/mw/column/realitymw/',
 						collapsible: true,
 						children: [
 							'zh-hans/mw/column/realitymw/bomber.md',
@@ -125,6 +126,14 @@ export const zhhansSidebar = sidebar([
 							'zh-hans/mw/column/realitymw/uav.md',
 							'zh-hans/mw/column/realitymw/helicopter.md',
 							'zh-hans/mw/column/realitymw/strike-fighters.md',
+						],
+					},
+					{
+						text: '部分舰艇现实原型收录 [持续更新]',
+						link: 'zh-hans/mw/column/realitymw2/',
+						collapsible: true,
+						children: [
+							'zh-hans/mw/column/realitymw2/cruiser.md',
 						],
 					},
 				],
