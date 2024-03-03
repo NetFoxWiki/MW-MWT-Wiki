@@ -2,6 +2,7 @@
 
 :::caution 提示
 排名无顺序
+点击图片即可进入对应的FanBook频道,请确认您是否拥有FanBook账号
 :::
 
 <SiteInfo name="MWLC" url="https://pd.qq.com/s/b58n6sama" preview="https://img.mwdocs.info/20240302/mwlc-logo.60tze5ob0s.webp" />
