@@ -19,8 +19,8 @@ export default defineUserConfig({
   theme,
   plugins: [
     redirectPlugin({
-	  autolocale: true,
-	  switchlocale: "modal",
+	  autoLocale: true,
+	  switchLocale: "modal",
     }),
   ],
   // Enable it with pwa
