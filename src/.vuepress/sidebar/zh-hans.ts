@@ -134,6 +134,7 @@ export const zhhansSidebar = sidebar([
 						collapsible: true,
 						children: [
 							'zh-hans/mw/column/realitymw2/cruiser.md',
+        'zh-hans/mw/column/realitymw2/destroyer.md',
 						],
 					},
 				],
