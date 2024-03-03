@@ -117,7 +117,7 @@ export const zhhansSidebar = sidebar([
 				collapsible: true,
 				children: [
 					{
-						text: '部分武器现实原型收录 [持续更新]',
+						text: '部分飞行器现实原型收录 [持续更新]',
 						link: 'zh-hans/mw/column/realitymw/',
 						collapsible: true,
 						children: [
