@@ -4,6 +4,12 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 # 特殊活动-小
 
+## 黄金狩猎 <Badge text="常驻活动" type="tip" />（23.9.27-xx.xx.xx）
+
+参加黄金狩猎迷你活动。试试你的运气，有机会赢得稀有和传奇奖品！
+
+![黄金狩猎](https://img.mwdocs.info/20240304/4b8e0ed5fe5531459927f924529aabac_720.7p3cettqmg.webp)
+
 ## 万圣节收获 <Badge text="社区类" type="info" />（23.10.30）
 
 **介绍：**
@@ -80,6 +86,6 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 ![冬季盛典：派对冲刺](https://img.mwdocs.info/20240302/js1.5fkbrutuoj.webp)
 
-## 情人节（2024.2.12）
+## 情人节 <Badge text="社区类" type="info" />（2024.2.12）
 
 ![情人节](https://img.mwdocs.info/20240302/eveless-love.8z69hnwkez.webp)
