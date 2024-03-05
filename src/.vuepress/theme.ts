@@ -3,8 +3,8 @@ import { zhhantNavbar, zhhansNavbar } from "./navbar/index.js";
 import { zhhantSidebar, zhhansSidebar } from "./sidebar/index.js";
 
 const locale = {
-  //nickError: '昵称不能少于3个字符',
-  //mailError: '请填写正确的邮件地址',
+  nickError: '昵称不能少于3个字符',
+  mailError: '请填写正确的邮件地址',
   placeholder: '建议使用邮箱登录（社交登录仅支持 GitHub 平台）',
   sofa: '前面的区域，以后再来探索吧~',
   admin: '评论管理员',
@@ -53,7 +53,7 @@ export default hopeTheme({
   fullscreen: true,
   sidebarIcon: true,
   iconAssets: "iconfont",
-  darkmode: "auto",
+  darkmode: "switch",
 
   locales: {
     "/zh-hans/": {
@@ -111,7 +111,6 @@ export default hopeTheme({
       //pageview: true,
       meta: ['nick', 'mail'],
       requiredMeta: ['nick'],
-      login: 'force',
       pageSize: 10,
       locale,
       imageUploader: false,

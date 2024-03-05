@@ -18,7 +18,7 @@ export default defineUserConfig({
     [
       "link",
       {
-        href: "https://fonts.googleapis.com/css2?family=Madimi+One&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Madimi+One&family=Noto+Sans+SC:wght@500&display=swap",
         rel: "stylesheet",
       },
     ],

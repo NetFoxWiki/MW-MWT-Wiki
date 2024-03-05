@@ -8,8 +8,12 @@ html[data-theme="dark"] {
 }
 
 .page-cover {
-    -o-object-fit: cover;
-    object-fit: cover;
-    width: calc(100%);
-    max-height: 25vh;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: calc(100%);
+  max-height: 25vh;
+}
+
+.vp-sidebar-links {
+  font-family: var(--font-family-heading);
 }
