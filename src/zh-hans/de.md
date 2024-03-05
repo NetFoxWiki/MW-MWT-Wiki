@@ -22,6 +22,7 @@ Modern Warships 的名称以及任何相关名称、标志和图像均为其各�
 
 ```component VPCard
 title: 阿布咕咕
+link: https://github.com/NetFoxQwQ
 desc: 网狐社丨文档制作者与编写者
 color: #fff
 ```
