@@ -189,17 +189,6 @@ export const zhhansSidebar = sidebar([
 		children: [
 			'zh-hans/markdown/index.md',
 			'zh-hans/markdown/other/index.md',
-			{
-				text: 'Emoji 列表',
-				collapsible: true,
-				children: [
-					'zh-hans/markdown/other/emoji/object.md',
-					'zh-hans/markdown/other/emoji/place.md',
-					'zh-hans/markdown/other/emoji/symbol.md',
-					'zh-hans/markdown/other/emoji/nature.md',
-					'zh-hans/markdown/other/emoji/people.md',
-				],
-			},
 		],
 	},
 	{
