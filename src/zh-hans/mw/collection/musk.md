@@ -1,6 +1,5 @@
----
-cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
----
+
+cover: <https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.web>
 
 # 特殊活动-大
 
@@ -119,11 +118,9 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 在活动结束后，如果有未使用的球棒，玩家并不会失去它们，可以用球棒来换取额外的黄金
 
----
-
 :::details 查看详细信息
 
-https://teletype.in/@modernwarships/MW2A
+<https://teletype.in/@modernwarships/MW2A>
 
 :::
 
@@ -141,11 +138,9 @@ https://teletype.in/@modernwarships/MW2A
 
 获得古老的钥匙，可以在卡池在抽奖
 
----
-
 :::details 查看详细信息
 
-https://teletype.in/@modernwarships/dbf
+<https://teletype.in/@modernwarships/dbf>
 
 :::
 
@@ -167,11 +162,9 @@ https://teletype.in/@modernwarships/dbf
 
 - 折扣礼包摩耶级
 
----
-
 :::details 查看详细信息
 
-https://teletype.in/@modernwarships/mdc
+<https://teletype.in/@modernwarships/mdc>
 
 :::
 
@@ -211,11 +204,9 @@ https://teletype.in/@modernwarships/mdc
 
 - 如果你控制对手的积分，并将他的占领积分降低到0，你就赢了
 
----
-
 :::details 查看详细信息
 
-https://teletype.in/@modernwarships/sp01
+<https://teletype.in/@modernwarships/sp01>
 
 :::
 
@@ -253,11 +244,9 @@ RG-32轨道炮为氪金榜前三专属奖励
 
 - 复活后，舰艇会享受10秒的保护期
 
----
-
 :::details 查看详细信息
 
-https://modernwarships.com/news/fiesta_pirata
+<https://modernwarships.com/news/fiesta_pirata>
 
 :::
 
@@ -333,11 +322,9 @@ https://modernwarships.com/news/fiesta_pirata
 
 “毒性低语” - 史诗级涂装，作为Stephen排行榜（肝榜）前30名奖励
 
----
-
 :::details 查看详细信息
 
-https://modernwarships.com/news/from_the_deep
+<https://modernwarships.com/news/from_the_deep>
 
 :::
 
@@ -389,11 +376,9 @@ https://modernwarships.com/news/from_the_deep
 
 “Dharma Putra” - 头像，作为 排行榜（肝榜）前10名奖励
 
----
-
 :::details 查看详细信息
 
-https://modernwarships.com/news/sp02
+<https://modernwarships.com/news/sp02>
 
 :::
 
@@ -446,11 +431,9 @@ https://modernwarships.com/news/sp02
 
 略
 
----
-
 :::details 查看详细信息
 
-https://modernwarships.com/news/metal_frost
+<https://modernwarships.com/news/metal_frost>
 
 :::
 
@@ -458,29 +441,28 @@ https://modernwarships.com/news/metal_frost
 
 ## 冬季运动会（24.1.15）
 
-游戏模式：占点模式
+**游戏模式：**
 
-新机制：飞艇
+占点模式
 
->- 击落飞艇以获得特殊积分并攀登排行榜
->- 飞艇是空中目标，只能用非目标武器攻击
->- 通过使用经典的火炮和榴弹发射器向飞艇射击来提高您的狙击技能！
+**活动奖励：**
 
-Pan Spatial REDRUM
+> **礼包奖励**
+>>
+>>- **海洋守护者礼包** - Pan Spatial REDRUM
+>>- **获胜者礼包** - Winter Games 专属涂装
 
->- 隐身水翼驱逐舰设计概念。主要设计任务为搜潜、反潜作战。该舰因其水翼结构能够达到高航速，提供升力并将船体抬升至水面以上，以减轻航行阻力
+> **抽奖**
+>>
+>>- **英国航空驱逐舰 UXV Combatant** - 隐形无人机母舰概念
 
-获胜者礼包
-
->- 该礼包包含 Winter Games 专属涂装、金牌旗帜，及25枚神枪手代币用于参与射击训练
-
-奖池头奖是英国航空驱逐舰 UXV Combatant 隐形无人机母舰概念
-
->- 该舰拥有有两条跑道，用于起飞攻击/侦查无人机，以供侦测目标及向敌舰远程发射舰载导弹
+> **免费奖励**
+>>
+>>- **YAK141** - 苏联全天候短距垂直起降超音速舰载战斗攻击机
 
 :::details 查看详细信息
 
-https://modernwarships.com/news/wg24
+<https://modernwarships.com/news/wg24>
 
 :::
 
@@ -488,68 +470,64 @@ https://modernwarships.com/news/wg24
 
 ## 藏匿之龙（24.2.7）
 
-**游戏模式：** 多队混战
+**游戏模式：**
 
-- 模式地图：潜龙、双武士、北极圈、维京湾
-- 本模式允许单人匹配或2人队伍组队游玩。
-- 战斗时间为10分钟。
-- 先获得20分的队伍，或者是在战斗结束时获得分数最多的队伍将获胜。
-- 击沉敌方舰艇，队伍将获得2分。
-- 协助击沉敌方舰艇，队伍将获得1分。
-- 内含各种奖励和Buff的容器散布在地图各处，这将有助于战斗。
+多队混战
 
-**特殊地图：** 潜龙
+**新地图：**
 
-- 在我们专门为Lunar New Year活动制作的新地图中，探索令人惊叹的亚洲景色！“潜龙”地图将带给您最先进的画质和诸多值得注意的细节。您能全部找到吗？
+潜龙 - 在我们专门为 Lunar New Year 活动制作的新地图中，探索令人惊叹的亚洲景色！“潜龙” 地图将带给您最先进的画质和诸多值得注意的细节。您能全部找到吗？
 
-**活动内容：**
+**活动奖励：**
 
-**通行证奖励：**
+> **礼包奖励**
+>>
+>>- **精锐哨兵礼包** - 中国海军新一代概念战列舰 “Huaqing” 号
+>>- **新春守卫礼包** - CN Type 054B 舰艇的专属皮肤 “新春”
+>>- **新春舰队礼包** - “新春” 专属皮肤：HMS Glasgow (Type 26)，CN Type 956E Hangzhou，RF Admiral Basisty
 
-- “财神爷”旗帜
-- Harmony Keeper 头像
-- 禄星头衔
-- Jueying-8
-- CH-7 Rainbow
+> **抽奖**
+>>
+>>- **中国重型载机巡洋舰 Chixiao** - 其装备了种类广泛的反舰及反潜武器，其两条跑道能够起降无人机和战斗攻击机
 
-**抽奖：**
-
-- 龙年宝箱：
-- - 中国Type 956E Hangzhou驱逐舰，1999年入役，后续经历现代化改装。
-- - 中国增程型单级固体燃料核战斗部弹道导弹DF-12。
-- - Type 2030加特林近防炮。
-- - 史诗级“财神爷”旗帜。
-- - 史诗级涂装“危险”。
-- - 艺术硬币、美金、升级点以及灯笼。
-- - 奖池的头奖是中国重型载机巡洋舰Chixiao。其装备了种类广泛的反舰及反潜武器，其两条跑道能够起降无人机和战斗攻击机
-
-- 生肖宝箱：
-- - 韩国K-76L/62 76mm射速提升型舰炮。
-- - 韩国Red Shark垂发反潜导弹。
-- - 中国新型Type 726-4A高弹速多用途火箭炮。
-- - 艺术硬币、美金、修理包、生肖钥匙及用于完成通行证的灯笼。
-
-**礼包：**
-
-- “精锐哨兵”礼包：中国海军新一代概念战列舰“Huaqing”号
-- 新春守卫礼包：适用于CN Type 054B舰艇的专属皮肤“新春”、一面“龙”旗帜
-- 新春舰队礼包：适用于以下舰艇的传说级“新春”专属皮肤：HMS Glasgow (Type 26)、CN Type 956E Hangzhou、RF Admiral Basisty
-
-**排行榜：**
-
-- 龙年宝箱排行榜榜上玩家将获得：
-- - 传说级Wooden Dragon头像
-- - 史诗级God of Fortune头像
-- - 稀有级Rabbit头像
-- - 传说级头衔Mammon
-
-- 生肖宝箱排行榜榜上玩家将获得：
-- - 传说级Monster Defender头衔，象征着最高冲榜成就
-- - 传说级Tiger头像
-- - 史诗级Clouds涂装
+> **免费奖励**
+>>
+>>- **中国的重型隐形攻击无人机 CH-7 Rainbow** - 该无人机能够执行远程轰炸任务
 
 :::details 查看详细信息
-https://modernwarships.com/news/lunar_new_year_24
+<https://modernwarships.com/news/modern-warships-defiance-of-sands>
 :::
 
 ![藏匿之龙](https://img.mwdocs.info/20240302/mw-musk-newyear.3k7qz8hf4g.webp)
+
+## 沙丘抗争（24.3.7）
+
+**游戏模式：**
+
+护航模式
+
+**新地图：**
+
+干旱边疆地图 - 干旱边疆地图是一个无情的竞技场，设置在干旱的沙丘王国。在广阔起伏的沙丘中，玩家为生存和控制资源而战，卷入激烈的派系战争，战略成为无情和不可预测的景观中的关键因素
+
+**活动奖励：**
+
+> **礼包奖励**
+>>
+>>- **海洋优势礼包** - 多功能隐形战列舰 “Pan Spatial Teton”
+>>- **沙丘编年史礼包** - 传说级 “沙漏” 涂装
+
+> **抽奖**
+>>
+>>- **土耳其海军的先进重型鱼雷 Akya** - 其配备了主动及被动声纳引导头，能够对任何反潜防御系统进行声学对抗
+>>- **法国先进核潜艇 FS SNLE 3G** - 全新的、强大的核反应堆及单一螺旋桨轴，使其具有很高的巡航速度，并使其在战场上具有相当的机动性
+
+> **免费奖励**
+>>
+>>- **意大利全天候攻击直升机 A129 CBT Mangusta** - 其具有良好的生存能力和令人印象深刻的武器装备
+
+:::details 查看详细信息
+<https://modernwarships.com/news/lunar_new_year_24>
+:::
+
+![沙丘抗争](https://img.mwdocs.info/20240307/MWLiveOps_Event_DS24_banner_0.77_1920x1080.lvh3isd7q.webp)
