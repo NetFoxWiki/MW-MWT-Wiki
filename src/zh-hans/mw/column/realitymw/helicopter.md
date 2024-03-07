@@ -462,3 +462,19 @@ MUH-1是韩国第一种“自行研制”的9吨级双发多用途运输直升�
 ![MUH-1](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0719%2F778a2e15j00ry1mgn00evd000m800dgp.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 ![MUH-1侧面](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0719%2F3aa726f3j00ry1n3t00z4d000v900ktp.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+
+## 意大利
+
+### A129 CBT Mangusta
+
+A-129武装直升机（英文：A-129 Attack Helicopter，绰号：Mangusta，译文：猫鼬，简称：A-129）是20世纪70年代中期意大利阿古斯塔公司研制的一型武装攻击直升机。
+
+A-129武装直升机采用串列双座驾驶舱，左侧尾桨，安装两台罗尔斯·罗伊斯Gem 1004（A-129）或LHTEC T800-LHT-800（A-129国际型）涡轮轴发动机，轮式固定起落架；可挂载发射“毒刺”空对空导弹、 陶式反坦克导弹、70毫米火箭弹，装备12.7毫米机枪吊舱
+
+A-129武装直升机采用常规布局机身，纵向串列式座舱，副驾驶/射手在前，飞行员在较高的后舱内，均有坠机能量吸收座椅。机身装有悬臂式复合材料短翼，位于后座舱后的旋翼轴平面内。每个短翼装有2个外挂架，可外挂1000千克武器。该机采用抗坠毁固定式后3点起落架，机身结构设计主要为铝合金大梁和构架组成的常规半硬壳式结构。中机身和油箱部位由蜂窝板制成。复合材料占整个机身重量（发动机重量除外）的45%，占空重的16.1%，主要用于机头整流罩、尾梁、尾斜梁、发动机短舱、座舱盖骨架和维护壁板。
+
+自服役以来，意大利陆军的A129参加了马其顿，索马里，安哥拉等多个国家的维和行动。并参与了伊拉克战争，阿富汗战争和打击ISIS的作战。
+
+![A129翼下挂载](https://ts1.cn.mm.bing.net/th/id/R-C.1524721bbcf0e5bb9ed0a44404220931?rik=gkduLAKWEkL3sg&riu=http%3a%2f%2faerochina.net%2fuploads%2fallimg%2f20210711%2f1-210G11Q9531H.jpg&ehk=E2aOoykU36kbiwV2rkQKq%2bNPbYqJJzbCfisebSaUXnI%3d&risl=&pid=ImgRaw&r=0)
+
+![A129进行机动](https://bkimg.cdn.bcebos.com/pic/3812b31bb051f819d6888f5fd8b44aed2e73e772?x-bce-process=image/format,f_auto)
