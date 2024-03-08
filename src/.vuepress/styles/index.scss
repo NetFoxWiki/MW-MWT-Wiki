@@ -1,6 +1,7 @@
 :root {
   --banner-text: #144a74;
-  --redirect-primary-color: var(--theme-color);
+  --redirect-primary-color: var(--theme-color) !important;
+  --redirect-primary-hover-color: var(--theme-color-dark) !important;
 }
 
 html[data-theme="dark"] {
