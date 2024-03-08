@@ -4,7 +4,7 @@
 
 <BiliBili bvid="BV1yX4y1h7Yy" />
 
-## 猫咪日记本：猫咪日记本
+## 猫咪日记本：谢尔盖哥哥
 
 <BiliBili bvid="BV1bX4y1p7mq" />
 
