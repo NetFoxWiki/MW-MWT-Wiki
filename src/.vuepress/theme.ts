@@ -130,6 +130,7 @@ export default hopeTheme({
       component: true,//组件
       figure: true,//图片
       imgSize: true,
+      imgLazyload: true,
       align: true,//自定义对齐
       chart: true,//图表
       echarts: true,//图表

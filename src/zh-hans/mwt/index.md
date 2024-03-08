@@ -27,4 +27,4 @@ shortTitle: MWT丨现代战争：坦克
 
 ![车库和坦克，以及 MWT 游戏 LOGO](https://img.mwdocs.info/20240302/mwt-tank2.73top1k4wn.webp)
 
-
+![每个现代战舰玩家心中的大饼](https://img.mwdocs.info/20240302/2vNVuQBt.lvgvq95ie.webp =100%x)

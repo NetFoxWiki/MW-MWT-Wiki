@@ -89,8 +89,6 @@ color: #e2e1e4
 
 ![经典永流传](https://img.mwdocs.info/20240302/BeiWang-GO-html.60tze5oax3.webp)
 
-![每个现代战舰玩家心中的大饼](https://img.mwdocs.info/20240302/2vNVuQBt.lvgvq95ie.webp =100%x)
-
 ![好，很有精神！](https://img.mwdocs.info/20240302/PkwGCfuT.1ov66m4zj0.webp)
 
 ![超级战舰（雾）](https://img.mwdocs.info/20240302/5Fz4euch.64dlbvhdm6.webp)

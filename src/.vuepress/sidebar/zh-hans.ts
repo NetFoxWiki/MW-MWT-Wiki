@@ -67,6 +67,7 @@ export const zhhansSidebar = sidebar([
 				icon: "folder",
 				collapsible: true,
 				children: [
+					'zh-hans/mw/collection/game-modes.md',
 					'zh-hans/mw/collection/events-less.md',
 					'zh-hans/mw/collection/musk.md',
 					'zh-hans/mw/collection/mwben.md',
@@ -118,7 +119,6 @@ export const zhhansSidebar = sidebar([
 				children: [
 					{
 						text: '部分飞行器现实原型收录 [持续更新]',
-						link: 'zh-hans/mw/column/realitymw/',
 						collapsible: true,
 						children: [
 							'zh-hans/mw/column/realitymw/bomber.md',
@@ -130,7 +130,6 @@ export const zhhansSidebar = sidebar([
 					},
 					{
 						text: '部分舰艇现实原型收录 [持续更新]',
-						link: 'zh-hans/mw/column/realitymw2/',
 						collapsible: true,
 						children: [
 							'zh-hans/mw/column/realitymw2/cruiser.md',
