@@ -4,6 +4,6 @@ export const enUSSidebar = sidebar([
 	{
 		text: 'Welcome to MW & MWT Docs',
 		icon: "home",
-		link: 'en-us/index.md',
+		link: 'en/index.md',
 	},
 ]);

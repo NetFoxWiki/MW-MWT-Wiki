@@ -32,6 +32,8 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 如果你摧毁了所有对手的船只，你就赢了
 - 如果你控制对手的积分，并将他的占领积分降低到0，你就赢了
 
+![占点模式](https://img.mwdocs.info/20240309/MapShipsDomination.45fhu02yb.webp)
+
 ## 限定模式
 
 ### <HopeIcon icon="navigation" size="1.5rem"/> 护航模式 <Badge text="金属霜冻、沙丘抗争" type="info" />
@@ -46,6 +48,8 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 拦截方每击沉一条被护航舰艇将获得积分
 - 率先完成任务目标的一方将获胜
 
+![护航模式](https://img.mwdocs.info/20240309/MapShipsEscort.b8nd950w1.webp)
+
 ### <HopeIcon icon="group" size="1.5rem"/> 多队混战 <Badge text="藏匿之龙" type="info" />
 
 - 模式地图：潜龙、双武士、北极圈、维京湾
@@ -55,6 +59,8 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 击沉敌方舰艇，队伍将获得2分
 - 协助击沉敌方舰艇，队伍将获得1分
 - 内含各种奖励和Buff的容器散布在地图各处，这将有助于战斗
+
+![多对混战](https://img.mwdocs.info/20240309/MapShipsTandemWars.3d4jeh6d3d.webp)
 
 ### <HopeIcon icon="update" size="1.5rem"/> 占点模式 Pro <Badge text="来自深处" type="info" />
 
@@ -68,6 +74,8 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 带有各种奖励和buff的容器散布在地图上
 - 胜利条件为通过将敌方队伍分数消耗至0或消灭其所有舰艇
 
+![占点模式](https://img.mwdocs.info/20240309/MapShipsDomination.45fhu02yb.webp)
+
 ### <HopeIcon icon="people" size="1.5rem"/> 个人死斗 <Badge text="海盗嘉年华、来自深处、猎物之海2、冬季运动会" type="info" />
 
 - 参与游戏的全部玩家相互混战
@@ -76,6 +84,8 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 消灭对手后，击沉对手舰艇的玩家将自动补充，弹药及消耗品
 - 被消灭后，玩家将复活并继续战斗
 - 复活后，舰艇会享受10秒的保护期
+
+![个人死斗](https://img.mwdocs.info/20240309/MapShipsDeathmatch.3k7r9wsij4.webp)
 
 ### <HopeIcon icon="proposal" size="1.5rem"/> 征服模式 <Badge text="巨兽之战" type="info" />
 
@@ -86,3 +96,5 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 只要有一个敌方单位在占领区内，就无法夺取或占领据点
 - 如果来自同一队伍的多个玩家参与了占领，则占领据点的速度将加快
 - 你的队伍攻下和守住的据点越多，敌方队伍失去分数越快
+
+<BiliBili bvid="BV1nR4y1k7he" />
