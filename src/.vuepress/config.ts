@@ -24,12 +24,12 @@ export default defineUserConfig({
     ],
   ],
   locales: {
-    "/zh-hans/": {
+    "/zh-CN/": {
       lang: "zh-CN",
       title: "MW & MWT 文档",
     },
-    "/zh-hant/": {
-      lang: "zh-TW",
+    "/en-US/": {
+      lang: "en-US",
       title: "MW & MWT 文件",
     },
   },

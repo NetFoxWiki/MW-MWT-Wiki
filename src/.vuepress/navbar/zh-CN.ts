@@ -1,6 +1,6 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhhansNavbar = navbar([
+export const zhCNNavbar = navbar([
   {
     text: "联系我们",
     icon: "blog",
@@ -16,15 +16,15 @@ export const zhhansNavbar = navbar([
       {
         text: "网站支持",
         children: [
-          { text: "网站社区", icon: "mark", link: "https://forum.mwdocs.info/" },
           { text: "申请编辑", icon: "editor", link: "https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn" },
           { text: "网站反馈", icon: "debug", link: "https://docs.qq.com/form/page/DUFBXekFaUFZFSWJQ" },
+          { text: "赞助网站", icon: "mark", link: "https://afdian.net/a/mwdocs" },
         ],
       },
     ],
   },
   {
-    text: "国区社区",
+    text: "简中社区",
     icon: "flow",
     children: [
       {
