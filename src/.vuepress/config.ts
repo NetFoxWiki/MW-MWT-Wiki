@@ -30,7 +30,7 @@ export default defineUserConfig({
     },
     "/en-us/": {
       lang: "en-US",
-      title: "MW & MWT 文件",
+      title: "MW & MWT Docs",
     },
   },
   theme,

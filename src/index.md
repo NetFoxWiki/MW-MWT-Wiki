@@ -12,6 +12,7 @@ tagline: 用于记录 <font color="#2196F3">现代战舰</font> 与 <font color=
 actions:
   - text: 开始
     link: ./zh-cn/
+    type: primary
 
 footer: false
 ---
