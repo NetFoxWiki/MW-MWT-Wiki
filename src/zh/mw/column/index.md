@@ -5,4 +5,4 @@ comment: false
 
 # 网站专栏
 
-<Catalog base='/zh-hans/mw/column/' />
+<Catalog base='/zh/mw/column/' />

@@ -5,4 +5,4 @@ comment: false
 
 # 部分舰艇现实原型收录 [持续更新]
 
-<Catalog base='/zh-hans/mw/column/realitymw2/' />
+<Catalog base='/zh/mw/column/realitymw2/' />
