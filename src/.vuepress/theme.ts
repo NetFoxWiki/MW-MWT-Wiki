@@ -56,7 +56,7 @@ export default hopeTheme({
   darkmode: "switch",
 
   locales: {
-    "/zh-CN/": {
+    "/zh-cn/": {
       // navbar
       navbar: zhCNNavbar,
 
@@ -71,7 +71,7 @@ export default hopeTheme({
       },
     },
 
-    "/en-US/": {
+    "/en-us/": {
       // navbar
       navbar: enUSNavbar,
 
@@ -88,7 +88,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/zh-CN/dev/": ["1234"],
+      "/zh-cn/dev/": ["1234"],
     },
   },
 
