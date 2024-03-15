@@ -86,6 +86,20 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 ![冬季盛典：派对冲刺](https://img.mwdocs.info/20240302/js1.5fkbrutuoj.webp)
 
-## 情人节 <Badge text="社区类" type="info" />（2024.2.12）
+## 情人节 <Badge text="社区类" type="info" /> <Badge text="错误的出现" type="danger" />（2024.2.12）
 
 ![情人节](https://img.mwdocs.info/20240302/eveless-love.8z69hnwkez.webp)
+
+## 圣帕特里克节（23.3.15）
+
+⚓️ 指挥官们！
+
+是时候穿上您最绿色的衣服，抓住您的幸运符，启航进行激动人心的冒险了。准备好在现代战舰中庆祝圣帕特里克节吧！
+
+🍀 感觉幸运吗？加入圣帕特里克节抽奖活动，赢取精彩奖品。购买一套特殊的代币来获取独特的装备和其他有价值的奖品。
+
+💎 在庆祝活动期间，我们还准备了一套特殊的圣帕特里克礼包，其中包括独特的三叶草迷彩、幸运符号旗帜、Beardy Trickster头像，以及T2全新驱逐舰——IT Luigi Durand de la Penne。
+
+愿您顺风顺水。圣帕特里克节快乐！🍀
+
+![圣帕特里克节](https://img.mwdocs.info/20240315/6f3c85b18e1d580e4ba860949c5de172.9dcprqbwnt.webp)
