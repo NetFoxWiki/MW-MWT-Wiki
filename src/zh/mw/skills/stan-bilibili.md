@@ -4,8 +4,6 @@ headerDepth: 0
 
 # 三机联攻
 
----
-
 ```component VPCard
 title: 小傻全 🅥
 desc: 善攻者动于九天之上 Bravo1舰长 传奇 航母玩家
@@ -13,8 +11,6 @@ logo: https://q.qlogo.cn/headimg_dl?dst_uin=995618268&spec=640&img_type=jpg
 link: https://space.bilibili.com/22595023
 color: #fff
 ```
-
----
 
 <SiteInfo name="三机联攻 全网唯一详细分析教学-傻全专业航母教学" url="https://www.bilibili.com/video/BV1qu411u7N5" preview="https://img.mwdocs.info/20240302/1a6537e20752076c38f0042d81c82222132bca4d.8dwlvd3m72.webp" />
 

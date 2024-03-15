@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhCNNavbar, enUSNavbar } from "./navbar/index.js";
 import { zhCNSidebar, enUSSidebar } from "./sidebar/index.js";
 
-const locale = {
+/*const locale = {
   nickError: '昵称不能少于3个字符',
   mailError: '请填写正确的邮件地址',
   placeholder: '建议使用邮箱登录（社交登录仅支持 GitHub 平台）',
@@ -14,7 +14,7 @@ const locale = {
   level3: 'Lv3',
   level4: 'Lv4',
   level5: 'Lv5',
-};
+};*/
 
 export default hopeTheme({
   hostname: "https://mwdocs.info",
@@ -104,7 +104,7 @@ export default hopeTheme({
       delay: 200,
     },
     // You should generate and use your own comment service
-    comment: {
+    /*comment: {
       provider: "Waline",
       serverURL: "https://waline.mwdocs.info/",
       //comment: false,
@@ -118,9 +118,9 @@ export default hopeTheme({
       search: false,
       emoji: false,/*[
       'https://jsd.cdn.zzko.cn/npm/@waline/emojis/tw-emoji/',
-        'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
-      ],*/
-    },
+      'https://jsd.cdn.zzko.cn/npm/sticker-heo/Sticker-100/',
+      ],
+    },*/
     components: {
       components: ["VPCard", "VPBanner", "BiliBili", "Badge", "SiteInfo"],
     },
@@ -130,7 +130,6 @@ export default hopeTheme({
       component: true,//组件
       figure: true,//图片
       imgSize: true,
-      imgLazyload: true,
       align: true,//自定义对齐
       chart: true,//图表
       echarts: true,//图表
