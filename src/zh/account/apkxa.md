@@ -3,7 +3,7 @@
 ```component VPCard
 title: Teletype > @modernwarships > pay_web_apk_cn
 desc: 现代战舰：如何安装正版apk并进行游戏内购买？
-logo: https://img.mwdocs.info/20240302/11111.45heljbvb3.webp
+logo: https://wsrv.nl/?url=img3.teletype.in/files/62/3f/623fec94-5a75-4c30-91e5-dcf139484d8b.png
 link: https://teletype.in/@modernwarships/pay_web_apk_cn
 color: #e2e1e4
 ```
