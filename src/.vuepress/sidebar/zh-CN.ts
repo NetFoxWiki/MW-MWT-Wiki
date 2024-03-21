@@ -163,6 +163,11 @@ export const zhCNSidebar = sidebar([
 				link: 'zh/mwt/index.md',
 				icon: "home",
 			},
+			{
+				text: '关于游戏-前瞻',
+				link: 'zh/mwt/game-info.md',
+				icon: "hot",
+			},
 		],
 	},
 	{
