@@ -103,3 +103,7 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 愿您顺风顺水。圣帕特里克节快乐！🍀
 
 ![圣帕特里克节](https://img.mwdocs.info/20240315/6f3c85b18e1d580e4ba860949c5de172.9dcprqbwnt.webp)
+
+## 复活节彩蛋狩猎 <Badge text="社区类" type="info" />（23.3.29）
+
+![复活节彩蛋狩猎](https://img.mwdocs.info/20240329/b8b157e5ba49ab276e2584ff4f6e1f15_720.3nre03cydh.webp)
