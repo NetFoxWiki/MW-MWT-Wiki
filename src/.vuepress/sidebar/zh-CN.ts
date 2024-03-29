@@ -169,6 +169,15 @@ export const zhCNSidebar = sidebar([
 				link: 'zh/mwt/game-info.md',
 				icon: "hot",
 			},
+			{
+				text: '游戏收录',
+				icon: "folder",
+				collapsible: true,
+				children: [
+					'zh/mwt/collection/link.md',
+
+				],
+			},
 		],
 	},
 	{

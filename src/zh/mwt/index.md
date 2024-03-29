@@ -8,6 +8,8 @@ shortTitle: MWT丨现代战争：坦克
 :::important 我们都在等待
 :::
 
+![MWT：Tank Battles](https://img.mwdocs.info/20240330/dcaa79859636e90fa24a3363bbe7e1c8_720.41xtrob17q.webp)
+
 在 2021 年，官方首次宣布要推出坦克模式，并计划在 2022 年冬进行测试
 这引发了玩家们对坦克模式的无尽畅想
 
