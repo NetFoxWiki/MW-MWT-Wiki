@@ -107,3 +107,7 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 ## 复活节彩蛋狩猎 <Badge text="社区类" type="info" />（23.3.29）
 
 ![复活节彩蛋狩猎](https://img.mwdocs.info/20240329/b8b157e5ba49ab276e2584ff4f6e1f15_720.3nre03cydh.webp)
+
+## 愚人节竞速（24.4.1）
+
+![愚人节竞速](https://img.mwdocs.info/20240401/activity_c_afc24_ButtonLeaderboard.lvi35cmac.webp =100%x)

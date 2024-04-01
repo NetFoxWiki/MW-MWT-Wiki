@@ -36,6 +36,17 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 
 ## 限定模式
 
+### <HopeIcon icon="arrow" size="1.5rem"/> 舰艇竞速 <Badge text="愚人节竞速" type="info" />
+
+- 模式地图：失落之城，岩峰，北极圈
+- 玩家们在一条拥有若干个检查点的赛道上互相竞争
+- 所有玩家都驾驶相同的舰艇，并在比赛中被禁用武器
+- 在赛道上，您可以通过拾取各种Buff补给，这些Buff可以补充生命值，提高速度，并允许您推开其他玩家
+- 碰撞造成的伤害已经减少，您可以在通往胜利的路上尽情碰撞
+- 积分取决于比赛名次
+
+![舰艇竞速](https://img.mwdocs.info/20240401/MapShipsRacing.4jnvjtj7o5.webp)
+
 ### <HopeIcon icon="navigation" size="1.5rem"/> 护航模式 <Badge text="金属霜冻、沙丘抗争" type="info" />
 
 - 模式地图：干旱边疆，双武士，大漩涡，北极圈
