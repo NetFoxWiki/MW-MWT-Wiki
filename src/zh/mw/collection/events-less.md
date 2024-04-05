@@ -111,3 +111,7 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 ## 愚人节竞速（24.4.1）
 
 ![愚人节竞速](https://img.mwdocs.info/20240401/activity_c_afc24_ButtonLeaderboard.lvi35cmac.webp =100%x)
+
+## 春暖花开（24.4.5）
+
+![春暖花开](https://img.mwdocs.info/20240405/1463a69934acaa2e83f591318fada3db_720.2a4v5ti3oo.webp)
