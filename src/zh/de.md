@@ -21,7 +21,7 @@ Modern Warships 的名称以及任何相关名称、标志和图像均为其各�
 ## 制作者
 
 ```component VPCard
-title: 阿布咕咕
+title: ᕡᕮᔨᖼᐃᘥ
 logo: https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg
 link: https://github.com/NetFoxQwQ
 desc: 网狐社丨文档制作者与编写者
