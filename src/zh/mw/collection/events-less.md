@@ -112,6 +112,22 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 ![愚人节竞速](https://img.mwdocs.info/20240401/activity_c_afc24_ButtonLeaderboard.lvi35cmac.webp =100%x)
 
-## 春暖花开（24.4.5）
+## 春暖花开/花见（24.4.5/8）
+
+指挥官们！⚓️
+
+参加“春暖花开”活动，为难忘的冒险做好准备。使用樱花代币解锁专属奖励，绽放您的光彩！
+
+💎 这次有一些特别有价值的奖品等着您，包括：
+• 韩国ROKS JSS驱逐舰
+• 美国USS Battlecruiser 2000巡洋舰
+• 俄罗斯 A-220M (57 mm) 主炮
+• Mark-45 Astor (483 mm)核鱼雷
+
+此外，我们想通知您，4 月 8 日至 4 月 13 日将进行活动的第二阶段，在此期间每天登录现代战舰的每位玩家都将获得大量明亮的春季奖励。☀️
+
+恭喜您，祝您在现代战舰上好运！🌊
 
 ![春暖花开](https://img.mwdocs.info/20240405/1463a69934acaa2e83f591318fada3db_720.2a4v5ti3oo.webp)
+
+![花见](https://img.mwdocs.info/20240408/Screenshot_2024-04-08-19-03-48-168_com.Shooter.Mo.8kzv87qig1.webp)
