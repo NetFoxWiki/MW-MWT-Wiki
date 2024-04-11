@@ -400,3 +400,29 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 :::
 
 ![沙丘抗争](https://img.mwdocs.info/20240307/MWLiveOps_Event_DS24_banner_0.77_1920x1080.lvh3isd7q.webp)
+
+## 猎物之海3 - 斑马（24.4.1）
+
+**游戏模式：**
+
+多队混战
+
+> **礼包奖励**
+>>
+>>- **隐形前锋礼包** - ROKS KDDX-S 驱逐舰
+>>- **地狱之海礼包** - “典雅” 涂装
+
+> **抽奖**
+>>
+>>- **ROKS Ghost Commander** - 一艘近未来双甲板航空母舰
+>>- **Haeseong III 远程巡航导弹**
+
+> **免费奖励**
+>>
+>>- **韩国新型 Hyunmo-3C 远程超音速反舰巡航导弹** - 其在飞行的大部分时间里都贴近海面，这使得拦截变得更加困难。其通过单次齐射两枚导弹还提升了突破敌方防空系统的概率
+
+:::details 查看详细信息
+<https://modernwarships.com/news/modern-warships-seas-of-prey-3>
+:::
+
+![猎物之海3](https://img.mwdocs.info/20240411/MW_Event_SP03_promoposter_0.78_1920x1080_3278a6ca36ae8fddb5a939bc3ac545a4.5mnl91y0y9.webp)
