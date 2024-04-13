@@ -126,10 +126,10 @@
 
 ## 图片
 
-![Logo](https://img.mwdocs.info/20240302/MWDOCS-Dark.2ob9js7qnl.webp)
+![Logo](https://statics.netfox.wiki/20240302/MWDOCS-Dark.2ob9js7qnl.webp)
 
 ```md
-![Logo](https://img.mwdocs.info/20240302/MWDOCS-Dark.2ob9js7qnl.webp)
+![Logo](https://statics.netfox.wiki/20240302/MWDOCS-Dark.2ob9js7qnl.webp)
 ```
 
 ## Emoji

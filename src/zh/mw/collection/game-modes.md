@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251039cbc07f56c9f85fa215e9f67d.4qr2h41nol.webp
+cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_66251039cbc07f56c9f85fa215e9f67d.4qr2h41nol.webp
 ---
 
 # 游戏模式
@@ -32,7 +32,7 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 如果你摧毁了所有对手的船只，你就赢了
 - 如果你控制对手的积分，并将他的占领积分降低到0，你就赢了
 
-![占点模式](https://img.mwdocs.info/20240309/MapShipsDomination.45fhu02yb.webp)
+![占点模式](https://statics.netfox.wiki/20240309/MapShipsDomination.45fhu02yb.webp)
 
 ## 限定模式
 
@@ -45,7 +45,7 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 碰撞造成的伤害已经减少，您可以在通往胜利的路上尽情碰撞
 - 积分取决于比赛名次
 
-![舰艇竞速](https://img.mwdocs.info/20240401/MapShipsRacing.4jnvjtj7o5.webp)
+![舰艇竞速](https://statics.netfox.wiki/20240401/MapShipsRacing.4jnvjtj7o5.webp)
 
 ### <HopeIcon icon="navigation" size="1.5rem"/> 护航模式 <Badge text="金属霜冻、沙丘抗争" type="info" />
 
@@ -59,7 +59,7 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 拦截方每击沉一条被护航舰艇将获得积分
 - 率先完成任务目标的一方将获胜
 
-![护航模式](https://img.mwdocs.info/20240309/MapShipsEscort.b8nd950w1.webp)
+![护航模式](https://statics.netfox.wiki/20240309/MapShipsEscort.b8nd950w1.webp)
 
 ### <HopeIcon icon="group" size="1.5rem"/> 多队混战 <Badge text="藏匿之龙" type="info" />
 
@@ -71,7 +71,7 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 协助击沉敌方舰艇，队伍将获得1分
 - 内含各种奖励和Buff的容器散布在地图各处，这将有助于战斗
 
-![多对混战](https://img.mwdocs.info/20240309/MapShipsTandemWars.3d4jeh6d3d.webp)
+![多对混战](https://statics.netfox.wiki/20240309/MapShipsTandemWars.3d4jeh6d3d.webp)
 
 ### <HopeIcon icon="update" size="1.5rem"/> 占点模式 Pro <Badge text="来自深处" type="info" />
 
@@ -85,7 +85,7 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 带有各种奖励和buff的容器散布在地图上
 - 胜利条件为通过将敌方队伍分数消耗至0或消灭其所有舰艇
 
-![占点模式](https://img.mwdocs.info/20240309/MapShipsDomination.45fhu02yb.webp)
+![占点模式](https://statics.netfox.wiki/20240309/MapShipsDomination.45fhu02yb.webp)
 
 ### <HopeIcon icon="people" size="1.5rem"/> 个人死斗 <Badge text="海盗嘉年华、来自深处、猎物之海2、冬季运动会" type="info" />
 
@@ -96,7 +96,7 @@ cover: https://img.mwdocs.info/20240308/Map_AridFrontier_LiveOps_1920x1080_66251
 - 被消灭后，玩家将复活并继续战斗
 - 复活后，舰艇会享受10秒的保护期
 
-![个人死斗](https://img.mwdocs.info/20240309/MapShipsDeathmatch.3k7r9wsij4.webp)
+![个人死斗](https://statics.netfox.wiki/20240309/MapShipsDeathmatch.3k7r9wsij4.webp)
 
 ### <HopeIcon icon="proposal" size="1.5rem"/> 征服模式 <Badge text="巨兽之战" type="info" />
 

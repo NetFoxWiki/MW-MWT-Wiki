@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: favicon.ico
-heroImageDark: https://img.mwdocs.info/20240307/favicon2.7smygqvw7x.webp
+heroImageDark: https://statics.netfox.wiki/20240307/favicon2.7smygqvw7x.webp
 bgImage: /bg.svg
 bgImageDark: /bg.svg
 bgImageStyle:

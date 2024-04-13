@@ -1,5 +1,5 @@
 ---
-cover: https://docs.mwdocs.info/BeiWang-GO-html.jpg
+cover: https://statics.netfox.wiki/BeiWang-GO-html.jpg
 ---
 
 # 月初惯例，常见问题

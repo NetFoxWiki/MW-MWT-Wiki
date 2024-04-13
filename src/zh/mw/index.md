@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/intro-image.70a2rbr24s.webp
+cover: https://statics.netfox.wiki/20240302/intro-image.70a2rbr24s.webp
 shortTitle: MW丨现代战舰
 ---
 
@@ -59,7 +59,7 @@ color: #e2e1e4
 title: MW 网站集成
 desc: 由 MW & MWT 文档 支持并制作的现代战舰网站集成
 logo: ./favicon.ico
-link: https://docs.mwdocs.info/mwapp.html
+link: https://statics.netfox.wiki/mwapp.html
 color: #e2e1e4
 ```
 
@@ -67,28 +67,28 @@ color: #e2e1e4
 title: 现代战舰资料卡生成
 desc: 由 MW & MWT 文档 支持并制作的现代战舰资料卡生成网站
 logo: ./favicon.ico
-link: https://mwapp.mwdocs.info/mw-card/
+link: https://mwapp.netfox.wiki/mw-card/
 color: #e2e1e4
 ```
 
 ```component VPCard
 title: 现代战舰数据
 desc: MWstats（现代战舰数据） 提供现代战舰手机游戏中舰船和物品的统计数据和数字
-logo: https://img.mwdocs.info/20240302/mwstats.lt9fepch.webp
+logo: https://statics.netfox.wiki/20240302/mwstats.lt9fepch.webp
 link: https://mwstats.info
 color: #e2e1e4
 ```
 
 :::
 
-![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://img.mwdocs.info/20240302/mwdocs-index-aareset.1zhzzrk7n9.webp)
+![听说许多玩现代战舰的玩家都去玩碧蓝档案了？](https://statics.netfox.wiki/20240302/mwdocs-index-aareset.1zhzzrk7n9.webp)
 
-![快进到！现代战舰：星际大战](https://img.mwdocs.info/20240302/Image_1698843530122.ibuy0g2ux.webp)
+![快进到！现代战舰：星际大战](https://statics.netfox.wiki/20240302/Image_1698843530122.ibuy0g2ux.webp)
 
-![远古老图](https://img.mwdocs.info/20240302/9ec360d85ac8b120789b4d98b12c455d_720.ibuy0g2t4.webp)
+![远古老图](https://statics.netfox.wiki/20240302/9ec360d85ac8b120789b4d98b12c455d_720.ibuy0g2t4.webp)
 
-![经典永流传](https://img.mwdocs.info/20240302/BeiWang-GO-html.60tze5oax3.webp)
+![经典永流传](https://statics.netfox.wiki/20240302/BeiWang-GO-html.60tze5oax3.webp)
 
-![好，很有精神！](https://img.mwdocs.info/20240302/PkwGCfuT.1ov66m4zj0.webp)
+![好，很有精神！](https://statics.netfox.wiki/20240302/PkwGCfuT.1ov66m4zj0.webp)
 
-![超级战舰（雾）](https://img.mwdocs.info/20240302/5Fz4euch.64dlbvhdm6.webp)
+![超级战舰（雾）](https://statics.netfox.wiki/20240302/5Fz4euch.64dlbvhdm6.webp)

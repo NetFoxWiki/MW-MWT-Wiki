@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/IMG_20231122_061126_190.39kx6326wx.webp
+cover: https://statics.netfox.wiki/20240302/IMG_20231122_061126_190.39kx6326wx.webp
 shortTitle: MWT丨现代战争：坦克
 ---
 
@@ -8,7 +8,7 @@ shortTitle: MWT丨现代战争：坦克
 :::important 我们都在等待
 :::
 
-![MWT：Tank Battles](https://img.mwdocs.info/20240330/dcaa79859636e90fa24a3363bbe7e1c8_720.41xtrob17q.webp)
+![MWT：Tank Battles](https://statics.netfox.wiki/20240330/dcaa79859636e90fa24a3363bbe7e1c8_720.41xtrob17q.webp)
 
 在 2021 年，官方首次宣布要推出坦克模式，并计划在 2022 年冬进行测试
 这引发了玩家们对坦克模式的无尽畅想
@@ -25,8 +25,8 @@ shortTitle: MWT丨现代战争：坦克
 
 到了 2024年2月 月中活动，在专属地图中的机库里停放着一台坦克。这是否标志着坦克模式马上就要出现，在官方发布相关消息前一切都是猜测
 
-![车库和坦克，以及 MWT 游戏 LOGO](https://img.mwdocs.info/20240302/mwt-tank1.5c0pu50s0k.webp)
+![车库和坦克，以及 MWT 游戏 LOGO](https://statics.netfox.wiki/20240302/mwt-tank1.5c0pu50s0k.webp)
 
-![车库和坦克，以及 MWT 游戏 LOGO](https://img.mwdocs.info/20240302/mwt-tank2.73top1k4wn.webp)
+![车库和坦克，以及 MWT 游戏 LOGO](https://statics.netfox.wiki/20240302/mwt-tank2.73top1k4wn.webp)
 
-![每个现代战舰玩家心中的大饼](https://img.mwdocs.info/20240302/2vNVuQBt.lvgvq95ie.webp =100%x)
+![每个现代战舰玩家心中的大饼](https://statics.netfox.wiki/20240302/2vNVuQBt.lvgvq95ie.webp =100%x)

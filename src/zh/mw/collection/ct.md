@@ -12,7 +12,7 @@
 
 <SiteInfo name="AYT" url="https://in.fanbook.cn/SBMd6FN5" preview="https://fb-cdn.fanbook.cn/fanbook/app/files/service/banner/92fb80cbbdc6bc432d3c937d75f38fb3.jpg" />
 
-<SiteInfo name="HLM" url="https://in.fanbook.cn/WX9B6FrU" preview="https://img.mwdocs.info/20240302/mwhlm-logo.wiaovods9.webp" />
+<SiteInfo name="HLM" url="https://in.fanbook.cn/WX9B6FrU" preview="https://statics.netfox.wiki/20240302/mwhlm-logo.wiaovods9.webp" />
 
 <SiteInfo name="CFL" url="https://in.fanbook.cn/Lj6B6Fha" preview="https://fb-cdn.fanbook.cn/fanbook/app/files/service/banner/14577348edddd8d00378b5195f0f2a48.jpg" />
 

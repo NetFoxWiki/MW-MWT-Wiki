@@ -1,11 +1,11 @@
 
-<img width="100%" src="https://docs.mwdocs.info/MWDOCS-Dark.png">
+<img width="100%" src="https://statics.netfox.wiki/MWDOCS-Dark.png">
 
 # MW & MWT 文档
 
 用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
 
-<img height="100%" width="200" src="https://docs.mwdocs.info/mwdocs-logo-link.png"> <img height="100%" width="130" src="https://docs.mwdocs.info/netfox-logo-round.png">
+<img height="100%" width="200" src="https://statics.netfox.wiki/mwdocs-logo-link.png"> <img height="100%" width="130" src="https://statics.netfox.wiki/netfox-logo-round.png">
 
 ## 关于我们
 
@@ -56,7 +56,7 @@ pnpm run docs:build
 
 ## 访问官网
 
-[mwdocs.info](https://mwdocs.info)
+[mw.netfox.wiki](https://mw.netfox.wiki)
 
 ## 免责声明
 
@@ -71,4 +71,4 @@ MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任�
 Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
 
 联系邮箱：
-[netfox@mwdocs.info](netfox@mwdocs.info)
+[support@netfox.wiki](support@netfox.wiki)

@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/TfXSs6C8.99t3atbso5.webp
+cover: https://statics.netfox.wiki/20240302/TfXSs6C8.99t3atbso5.webp
 pageInfo: false
 prev: false
 next: false
@@ -12,7 +12,7 @@ icon: flex
 ```component VPBanner
 title: 现代战舰宣传包
 content: 官方提供的现代战舰宣传包，内有游戏原画图等一系列素材
-logo: https://img.mwdocs.info/20240302/mw-logo-pc.8ojfoihccu.ico
+logo: https://statics.netfox.wiki/20240302/mw-logo-pc.8ojfoihccu.ico
 color: var(--banner-text)
 actions:
   - text: Goolge Drive
@@ -22,7 +22,7 @@ actions:
 ```component VPBanner
 title: 玩家自制现代战舰壁纸
 content: 玩家制作的现代战舰壁纸，品质高
-logo: https://img.mwdocs.info/20240302/mw-logo-pc.8ojfoihccu.ico
+logo: https://statics.netfox.wiki/20240302/mw-logo-pc.8ojfoihccu.ico
 color: var(--banner-text)
 actions:
   - text: 蓝奏云

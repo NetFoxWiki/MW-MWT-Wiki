@@ -110,7 +110,7 @@ onMounted(() => {
     "artist": "Shuyan Yang / 田冰冰",
     "url": "https://m801.music.126.net/20240302171548/dca77d6c04979e19f1211caa9ff4b908/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/22530109234/29ea/49b4/3df9/58533863e72b4465a97c87748d8f45db.mp3",
     "cover": "https://p1.music.126.net/ET6Yq23wH8SjyfcScMQtPw==/109951169367468366.jpg",
-    "lrc": "https://music.mwdocs.info/api?server=netease&type=lrc&id=2002336023"
+    "lrc": "https://music.mw.netfox.wiki/api?server=netease&type=lrc&id=2002336023"
   }];
 
   import('aplayer').then((res) => {
@@ -217,7 +217,7 @@ onMounted(() => {
   height: 1.6rem;
   width: 1.6rem;
   .btnImg {
-    background-image: url('https://img.mwdocs.info/20240302/11111.45heljbvb3.webp');
+    background-image: url('https://statics.netfox.wiki/20240302/11111.45heljbvb3.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

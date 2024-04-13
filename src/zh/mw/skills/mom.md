@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/2nd_art_contest.8dwlvd242q.webp
+cover: https://statics.netfox.wiki/20240302/2nd_art_contest.8dwlvd242q.webp
 author: Meteor、威林
 isOriginal: true
 copyright: false
@@ -8,7 +8,7 @@ copyright: false
 # 简述市场运作机制
 
 :::warning 提示：本文仅代表个人观点，仅供参考
-**联系邮箱： <meteor@mwdocs.info>**
+**联系邮箱： <support@netfox.wiki>**
 :::
 
 ## 一、自由交易市场
@@ -40,7 +40,7 @@ copyright: false
 
 总结，自由交易市场本质上是一种**对氪金玩家群体的保护机制**，它保证了氪金玩家长期的游戏体验，并将装备强度不平等的矛盾从官方抛进了玩家群体之中。而官方在后续的几次市场机制修改中，又有意无意地加剧了这种不平等的关系。
 
-![](https://docs.mwdocs.info/TfXSs6C8.png)
+![](https://statics.netfox.wiki/TfXSs6C8.png)
 
 ## 二、货币的流通
 

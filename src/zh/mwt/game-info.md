@@ -44,8 +44,8 @@
 22. 一场战斗中会有地面载具、固定翼战机、直升机、无人机甚至轰炸机。
 23. 游戏将首先仅供安卓平台游玩，然后登录其他移动平台上。继移动平台之后，再到 PC 平台。也有可能登录主机。
 
-![T95](https://img.mwdocs.info/20240321/b148b977-45ca-47c3-9bc8-e0f6311cb94b.8hg8kwre1w.webp)
+![T95](https://statics.netfox.wiki/20240321/b148b977-45ca-47c3-9bc8-e0f6311cb94b.8hg8kwre1w.webp)
 
-![T95](https://img.mwdocs.info/20240321/6a7bae58abea37a2e85c88567bb4c299.1zi0rlix5p.webp)
+![T95](https://statics.netfox.wiki/20240321/6a7bae58abea37a2e85c88567bb4c299.1zi0rlix5p.webp)
 
-![T95](https://img.mwdocs.info/20240321/509d4e18ef0da9a542322d7414ebd457.6wqhlfu6l0.webp)
+![T95](https://statics.netfox.wiki/20240321/509d4e18ef0da9a542322d7414ebd457.6wqhlfu6l0.webp)

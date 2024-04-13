@@ -1,6 +1,6 @@
 ---
 shortTitle: 简体中文
-cover: https://img.mwdocs.info/20240302/mwdocs-site-banner.5mnjnag054.webp
+cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 ---
 
 # 欢迎来到 MW & MWT 文档
@@ -18,7 +18,7 @@ cover: https://img.mwdocs.info/20240302/mwdocs-site-banner.5mnjnag054.webp
 
 我们想要使网站内容更加丰富，并真心希望热爱游戏的玩家加入，使我们后续的内容更新更加完整与准确，并且帮助更多新老玩家了解游戏并爱上它！
 
-开发组兼编辑组邮箱：<netfox@mwdocs.info>
+开发组兼编辑组邮箱：<support@netfox.wiki>
 
 非常感谢！
 
@@ -27,7 +27,7 @@ cover: https://img.mwdocs.info/20240302/mwdocs-site-banner.5mnjnag054.webp
 ```component VPBanner
 title: 申请编辑权限
 content: 在文档留下你的痕迹~
-logo: https://img.mwdocs.info/20240302/favicon.7awwkh6a95.ico
+logo: https://statics.netfox.wiki/20240302/favicon.7awwkh6a95.ico
 color: var(--banner-text)
 actions:
   - text: 点击前往

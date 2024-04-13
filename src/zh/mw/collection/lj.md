@@ -51,4 +51,4 @@ https://mwstats.info/ships?lang=zh-hans
 
 ### MW & MWT 文档
 
-https://mwdocs.info
+https://mw.netfox.wiki

@@ -367,7 +367,7 @@ AP 不死鸟1983原型出自1993年8月7日上映的剧场版《机机动警察2
 
 ![剧场版剧照1](https://img.nga.178.com/attachments/mon_202309/05/jwQ2s-byq7K2aT3cS1n6-yo.jpg)
 
-![剧场版剧照2](https://docs.mwdocs.info/mw-h.jpg)
+![剧场版剧照2](https://statics.netfox.wiki/mw-h.jpg)
 
 ![设定集](https://img.nga.178.com/attachments/mon_202309/05/jwQ2s-kni6ZoT3cS1b1-xb.jpg)
 

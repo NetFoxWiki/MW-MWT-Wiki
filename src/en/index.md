@@ -1,6 +1,6 @@
 ---
 shortTitle: English
-cover: https://img.mwdocs.info/20240302/mwdocs-site-banner.5mnjnag054.webp
+cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 comment: false
 ---
 
@@ -19,7 +19,7 @@ We don't have any profit-making activities, just the love for the game!
 
 We want to enrich the content of the website, and sincerely hope that players who love the game will join us, so that our subsequent content updates will be more complete and accurate, and help more new and old players understand the game and fall in love with it!
 
-Email address of the development team and editorial team: netfox@mwdocs.info
+Email: support@netfox.wiki
 
 Thank you so much!
 

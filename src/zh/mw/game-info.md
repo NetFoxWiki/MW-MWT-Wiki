@@ -32,4 +32,4 @@
 >
 >>体验高度细节的舰艇和载具模型壮观战斗-它们在型号广泛的设备上都看起来很漂亮
 
-![现代战舰](https://img.mwdocs.info/20240302/intro-image.70a2rbr24s.webp)
+![现代战舰](https://statics.netfox.wiki/20240302/intro-image.70a2rbr24s.webp)

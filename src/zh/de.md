@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/TfXSs6C8.99t3atbso5.webp
+cover: https://statics.netfox.wiki/20240302/TfXSs6C8.99t3atbso5.webp
 ---
 
 # 关于我们
@@ -15,7 +15,7 @@ MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任�
 
 Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
 
-联系邮箱：<netfox@mwdocs.info>
+联系邮箱：<support@netfox.wiki>
 :::
 
 ## 制作者
@@ -58,7 +58,7 @@ color: #fff
 ## 赞助者
 
 **帮助我们？**
-[![](https://img.mwdocs.info/20240302/VT9U2fmM.101wmlhgiu.webp =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
+[![](https://statics.netfox.wiki/20240302/VT9U2fmM.101wmlhgiu.webp =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
 
 ```component VPCard
 title: Legosi

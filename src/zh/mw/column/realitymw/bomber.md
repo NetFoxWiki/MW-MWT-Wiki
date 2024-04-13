@@ -209,7 +209,7 @@ Robert Weiss表示，目前相关技术已经成熟，洛马正与DARPA和空军
 
 北太平洋联盟是一个虚构的社区。把它看作是一个与北美联盟对抗的组织。它就像一个由加拿大、美国一些州和欧洲国家组成的共同体，与之产生共鸣。它是一个虚构的平面，但却有一个所属的组织。可以说，它是一种北欧社会主义。
 
-![SDB-1](https://docs.mwdocs.info/mw-jp-B.jpg)
+![SDB-1](https://statics.netfox.wiki/mw-jp-B.jpg)
 
 ## 法国
 

@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
+cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 ---
 
 # 特殊活动-大
@@ -70,7 +70,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 - 通过购买和激活任何收益加成，您不仅可以获得收益提升，还可以增加在活动中获得独特奖励的机会！
 
-![空天航母](https://img.mwdocs.info/20240302/3f558fd3c12c726255b9f64b4066227a_720.39kx6326uh.webp)
+![空天航母](https://statics.netfox.wiki/20240302/3f558fd3c12c726255b9f64b4066227a_720.39kx6326uh.webp)
 
 <BiliBili bvid="BV1kV4y1w7zD" />
 
@@ -88,7 +88,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 - 氪金
 
-![复活节](https://img.mwdocs.info/20240302/fe580e5496c809e3d17fb1689ac60dae_720.3d4j3sv9m3.webp)
+![复活节](https://statics.netfox.wiki/20240302/fe580e5496c809e3d17fb1689ac60dae_720.3d4j3sv9m3.webp)
 
 ## 二周年（23.5.10）
 
@@ -125,7 +125,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![二周年](https://img.mwdocs.info/20240302/MW_bundle_E2_ModernWarships2ndAnniversary_0.64_1920x1080.2a4tswzfs4.webp)
+![二周年](https://statics.netfox.wiki/20240302/MW_bundle_E2_ModernWarships2ndAnniversary_0.64_1920x1080.2a4tswzfs4.webp)
 
 ## 端午节（23.6.10）
 
@@ -145,7 +145,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![端午节](https://img.mwdocs.info/20240302/MW_Event_DBF_promo_poster_0.66_1920x1080.39kx6326y2.webp)
+![端午节](https://statics.netfox.wiki/20240302/MW_Event_DBF_promo_poster_0.66_1920x1080.39kx6326y2.webp)
 
 ## 海之日（23.7.10）
 
@@ -169,7 +169,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![海之日](https://img.mwdocs.info/20240302/e931cef1a3c82bec519142c7a300c832_720.1e8cdgpra0.webp)
+![海之日](https://statics.netfox.wiki/20240302/e931cef1a3c82bec519142c7a300c832_720.1e8cdgpra0.webp)
 
 ## 猎物之海 - 现代军舰（23.8.10）
 
@@ -196,7 +196,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![猎物之海](https://img.mwdocs.info/20240302/cdc42db9a8e4f453cb9382c4d718688e_720.7p3cbcel3j.webp)
+![猎物之海](https://statics.netfox.wiki/20240302/cdc42db9a8e4f453cb9382c4d718688e_720.7p3cbcel3j.webp)
 
 ## 海盗嘉年华（23.9.10）
 
@@ -223,7 +223,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![海盗嘉年华](https://img.mwdocs.info/20240302/1275c7867e4e22ee938c8a519baace04_720.2ruvhi0ta6.webp)
+![海盗嘉年华](https://statics.netfox.wiki/20240302/1275c7867e4e22ee938c8a519baace04_720.2ruvhi0ta6.webp)
 
 ## 来自深处（23.10.10）
 
@@ -254,7 +254,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![来自深处](https://img.mwdocs.info/20240302/image.7i04fwsfp2.webp)
+![来自深处](https://statics.netfox.wiki/20240302/image.7i04fwsfp2.webp)
 
 ## 猎物之海2 - 王权之巅（23.11.10）
 
@@ -284,7 +284,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![猎物之海2](https://img.mwdocs.info/20240302/1f3656183dac711c7b42a0a480d720a4_720.839s27oe1o.webp)
+![猎物之海2](https://statics.netfox.wiki/20240302/1f3656183dac711c7b42a0a480d720a4_720.839s27oe1o.webp)
 
 ## 金属霜冻（23.12.13）
 
@@ -312,7 +312,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![金属霜冻](https://img.mwdocs.info/20240302/event_mf23_popup.7w6k6s0qjk.webp)
+![金属霜冻](https://statics.netfox.wiki/20240302/event_mf23_popup.7w6k6s0qjk.webp)
 
 ## 冬季运动会（24.1.15）
 
@@ -339,7 +339,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![冬季运动会](https://img.mwdocs.info/20240302/mw-Games.8kztqso9mu.webp)
+![冬季运动会](https://statics.netfox.wiki/20240302/mw-Games.8kztqso9mu.webp)
 
 ## 藏匿之龙（24.2.7）
 
@@ -369,7 +369,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 <https://modernwarships.com/news/modern-warships-defiance-of-sands>
 :::
 
-![藏匿之龙](https://img.mwdocs.info/20240302/mw-musk-newyear.3k7qz8hf4g.webp)
+![藏匿之龙](https://statics.netfox.wiki/20240302/mw-musk-newyear.3k7qz8hf4g.webp)
 
 ## 沙丘抗争（24.3.7）
 
@@ -399,7 +399,7 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 <https://modernwarships.com/news/lunar_new_year_24>
 :::
 
-![沙丘抗争](https://img.mwdocs.info/20240307/MWLiveOps_Event_DS24_banner_0.77_1920x1080.lvh3isd7q.webp)
+![沙丘抗争](https://statics.netfox.wiki/20240307/MWLiveOps_Event_DS24_banner_0.77_1920x1080.lvh3isd7q.webp)
 
 ## 猎物之海3 - 斑马（24.4.1）
 
@@ -425,4 +425,4 @@ cover: https://img.mwdocs.info/20240302/ZMhq84AY.1vye21r501.webp
 <https://modernwarships.com/news/modern-warships-seas-of-prey-3>
 :::
 
-![猎物之海3](https://img.mwdocs.info/20240411/MW_Event_SP03_promoposter_0.78_1920x1080_3278a6ca36ae8fddb5a939bc3ac545a4.5mnl91y0y9.webp)
+![猎物之海3](https://statics.netfox.wiki/20240411/MW_Event_SP03_promoposter_0.78_1920x1080_3278a6ca36ae8fddb5a939bc3ac545a4.5mnl91y0y9.webp)

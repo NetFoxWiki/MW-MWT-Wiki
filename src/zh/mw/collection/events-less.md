@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
+cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 ---
 
 # 特殊活动-小
@@ -8,7 +8,7 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 参加黄金狩猎迷你活动。试试你的运气，有机会赢得稀有和传奇奖品！
 
-![黄金狩猎](https://img.mwdocs.info/20240304/4b8e0ed5fe5531459927f924529aabac_720.7p3cettqmg.webp)
+![黄金狩猎](https://statics.netfox.wiki/20240304/4b8e0ed5fe5531459927f924529aabac_720.7p3cettqmg.webp)
 
 ## 万圣节收获 <Badge text="社区类" type="info" />（23.10.30）
 
@@ -20,19 +20,19 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 - 社区目标：一起赚取4000000个南瓜，并为所有参与者解锁最终奖励
 - 每名参与者将根据社区实现的里程碑获得奖励
 
-![万圣节收获](https://img.mwdocs.info/20240302/Screenshot_2023-10-30-19-11-46-337_com.Shooter.Mo.8ojfoihcdb.webp)
+![万圣节收获](https://statics.netfox.wiki/20240302/Screenshot_2023-10-30-19-11-46-337_com.Shooter.Mo.8ojfoihcdb.webp)
 
 **武器介绍：**
 
 根据女巫的秘密蓝图制造。设计师保证其可以达到超音速并发出狂暴的声音
 
-![特殊武器图——南瓜发射器（375南瓜米）](https://img.mwdocs.info/20240302/Screenshot_2023-10-30-19-12-06-651_com.Shooter.Mo.9dcp8j4vdv.webp)
+![特殊武器图——南瓜发射器（375南瓜米）](https://statics.netfox.wiki/20240302/Screenshot_2023-10-30-19-12-06-651_com.Shooter.Mo.9dcp8j4vdv.webp)
 
 **武器介绍：**
 
 舰载375南瓜米口径南瓜发射器。发射非接触式引信危险南瓜
 
-![特殊武器图——长柄扫帚火箭](https://img.mwdocs.info/20240302/Screenshot_2023-10-30-19-12-01-536_com.Shooter.Mo.73top1k4wx.webp)
+![特殊武器图——长柄扫帚火箭](https://statics.netfox.wiki/20240302/Screenshot_2023-10-30-19-12-01-536_com.Shooter.Mo.73top1k4wx.webp)
 
 ## 黑色星期五（23.11.23）
 
@@ -68,7 +68,7 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 我们祝愿您在现代战舰中取得重大胜利并好运连连！🌊🚀
 
-![黑色星期五](https://img.mwdocs.info/20240302/c03b9b19a6a1cd473b659f1ed3785af2_720.1lbk8wbwpa.webp)
+![黑色星期五](https://statics.netfox.wiki/20240302/c03b9b19a6a1cd473b659f1ed3785af2_720.1lbk8wbwpa.webp)
 
 ## 冬季盛典：假日狂欢/派对冲刺（2023.12.28）
 
@@ -82,13 +82,13 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 与现代战舰一起进入新年冒险的世界，我们祝你在战斗和节日气氛中取得成功！🎉🥂
 
-![冬季盛典：假日狂欢](https://img.mwdocs.info/20240302/js2.3uuksdwn8a.webp)
+![冬季盛典：假日狂欢](https://statics.netfox.wiki/20240302/js2.3uuksdwn8a.webp)
 
-![冬季盛典：派对冲刺](https://img.mwdocs.info/20240302/js1.5fkbrutuoj.webp)
+![冬季盛典：派对冲刺](https://statics.netfox.wiki/20240302/js1.5fkbrutuoj.webp)
 
 ## 情人节 <Badge text="社区类" type="info" /> <Badge text="错误的出现" type="danger" />（2024.2.12）
 
-![情人节](https://img.mwdocs.info/20240302/eveless-love.8z69hnwkez.webp)
+![情人节](https://statics.netfox.wiki/20240302/eveless-love.8z69hnwkez.webp)
 
 ## 圣帕特里克节（23.3.15）
 
@@ -102,15 +102,15 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 愿您顺风顺水。圣帕特里克节快乐！🍀
 
-![圣帕特里克节](https://img.mwdocs.info/20240315/6f3c85b18e1d580e4ba860949c5de172.9dcprqbwnt.webp)
+![圣帕特里克节](https://statics.netfox.wiki/20240315/6f3c85b18e1d580e4ba860949c5de172.9dcprqbwnt.webp)
 
 ## 复活节彩蛋狩猎 <Badge text="社区类" type="info" />（23.3.29）
 
-![复活节彩蛋狩猎](https://img.mwdocs.info/20240329/b8b157e5ba49ab276e2584ff4f6e1f15_720.3nre03cydh.webp)
+![复活节彩蛋狩猎](https://statics.netfox.wiki/20240329/b8b157e5ba49ab276e2584ff4f6e1f15_720.3nre03cydh.webp)
 
 ## 愚人节竞速（24.4.1）
 
-![愚人节竞速](https://img.mwdocs.info/20240401/activity_c_afc24_ButtonLeaderboard.lvi35cmac.webp =100%x)
+![愚人节竞速](https://statics.netfox.wiki/20240401/activity_c_afc24_ButtonLeaderboard.lvi35cmac.webp =100%x)
 
 ## 春暖花开/花见（24.4.5/8）
 
@@ -128,6 +128,6 @@ cover: https://img.mwdocs.info/20240302/mw-default.2h81ocll7z.webp
 
 恭喜您，祝您在现代战舰上好运！🌊
 
-![春暖花开](https://img.mwdocs.info/20240405/1463a69934acaa2e83f591318fada3db_720.2a4v5ti3oo.webp)
+![春暖花开](https://statics.netfox.wiki/20240405/1463a69934acaa2e83f591318fada3db_720.2a4v5ti3oo.webp)
 
-![花见](https://img.mwdocs.info/20240408/Screenshot_2024-04-08-19-03-48-168_com.Shooter.Mo.8kzv87qig1.webp)
+![花见](https://statics.netfox.wiki/20240408/Screenshot_2024-04-08-19-03-48-168_com.Shooter.Mo.8kzv87qig1.webp)

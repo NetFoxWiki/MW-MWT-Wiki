@@ -5,7 +5,7 @@
 ```component VPCard
 title: modernwarships.com/about
 desc: 现代战舰：海上大战 — 手机和 PC 平台都可畅玩的军武动作类游戏！
-logo: https://img.mwdocs.info/20240302/mw-logo-pc.8ojfoihccu.ico
+logo: https://statics.netfox.wiki/20240302/mw-logo-pc.8ojfoihccu.ico
 link: https://modernwarships.com/about
 color: #e2e1e4
 ```
