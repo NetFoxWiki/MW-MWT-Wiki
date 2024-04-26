@@ -8,4 +8,4 @@ shortTitle: MWT丨现代战争：坦克
 :::important MWT: Tank Battles — 预告片公开
 :::
 
-<BiliBili bvid="BV1Tp421S7bb" />
+<BiliBili bvid="BV1cD421n7Ue" />
