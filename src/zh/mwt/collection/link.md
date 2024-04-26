@@ -2,6 +2,22 @@
 
 ## 官方网站
 
+### Artstorm
+
+https://artstorm.com/zh-CN/tank-battles
+
+### Telegram
+
+https://t.me/MWTTankBattles
+
+### Facebook
+
+https://www.facebook.com/mwttankbattles
+
+### Instagram
+
+https://www.instagram.com/mwt_tank_battles/
+
 ### Discord
 
 https://discord.com/invite/mwt-tankbattles
