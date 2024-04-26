@@ -18,7 +18,7 @@ export const enUSNavbar = navbar([
         children: [
           { text: "Apply for editing", icon: "editor", link: "https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn" },
           { text: "Site Feedback", icon: "debug", link: "https://docs.qq.com/form/page/DUFBXekFaUFZFSWJQ" },
-          { text: "Sponsored Sites", icon: "mark", link: "https://afdian.net/a/mwdocs" },
+          { text: "Sponsored Sites", icon: "mark", link: "https://afdian.net/a/netfoxqwq" },
         ],
       },
     ],

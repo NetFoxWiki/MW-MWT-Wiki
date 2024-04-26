@@ -18,7 +18,7 @@ export const zhCNNavbar = navbar([
         children: [
           { text: "申请编辑", icon: "editor", link: "https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn" },
           { text: "网站反馈", icon: "debug", link: "https://docs.qq.com/form/page/DUFBXekFaUFZFSWJQ" },
-          { text: "赞助网站", icon: "mark", link: "https://afdian.net/a/mwdocs" },
+          { text: "赞助网站", icon: "mark", link: "https://afdian.net/a/netfoxqwq" },
         ],
       },
     ],
