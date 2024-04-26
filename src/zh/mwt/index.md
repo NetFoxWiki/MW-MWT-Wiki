@@ -1,5 +1,5 @@
 ---
-cover: https://statics.netfox.wiki/20240302/IMG_20231122_061126_190.39kx6326wx.webp
+cover: https://statics.netfox.wiki/20240427/tank_1.3rb12ibsw8.webp
 shortTitle: MWT丨现代战争：坦克
 ---
 
