@@ -72,6 +72,7 @@ export const zhCNSidebar = sidebar([
 					'zh/mw/collection/musk.md',
 					'zh/mw/collection/mwben.md',
 					'zh/mw/collection/market.md',
+					'zh/mw/collection/mw79.md',
 					'zh/mw/collection/mw78.md',
 					'zh/mw/collection/mw77.md',
 					'zh/mw/collection/mw70.md',
