@@ -1,11 +1,11 @@
 
-<img width="100%" src="https://statics.netfox.wiki/MWDOCS-Dark.png">
+<img width="100%" src="https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp">
 
 # MW & MWT 文档
 
 用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
 
-<img height="100%" width="200" src="https://statics.netfox.wiki/mwdocs-logo-link.png"> <img height="100%" width="130" src="https://statics.netfox.wiki/netfox-logo-round.png">
+<img height="100%" width="200" src="https://statics.netfox.wiki/20240302/mwdocs-logo-link.8hg7t2v6wm.webp"> <img height="100%" width="130" src="https://statics.netfox.wiki/20240302/netfox-logo-round.60tze5ob17.webp">
 
 ## 关于我们
 
