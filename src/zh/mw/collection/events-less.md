@@ -131,3 +131,7 @@ cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 ![春暖花开](https://statics.netfox.wiki/20240405/1463a69934acaa2e83f591318fada3db_720.2a4v5ti3oo.webp)
 
 ![花见](https://statics.netfox.wiki/20240408/Screenshot_2024-04-08-19-03-48-168_com.Shooter.Mo.8kzv87qig1.webp)
+
+## 现代战舰 3 周年 
+
+![3 周年](https://statics.netfox.wiki/20240501/52b768737894d4e117179c84b1882ac0_720.101z0ptu7u.webp)
