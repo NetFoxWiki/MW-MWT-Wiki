@@ -104,9 +104,11 @@ cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 
 ![圣帕特里克节](https://statics.netfox.wiki/20240315/6f3c85b18e1d580e4ba860949c5de172.9dcprqbwnt.webp)
 
-## 复活节彩蛋狩猎 <Badge text="社区类" type="info" />（23.3.29）
+## 复活节彩蛋狩猎 <Badge text="社区类" type="info" />（24.3.29/24.5.2）
 
-![复活节彩蛋狩猎](https://statics.netfox.wiki/20240329/b8b157e5ba49ab276e2584ff4f6e1f15_720.3nre03cydh.webp)
+![复活节彩蛋狩猎1](https://statics.netfox.wiki/20240329/b8b157e5ba49ab276e2584ff4f6e1f15_720.3nre03cydh.webp)
+
+![复活节彩蛋狩猎2](https://statics.netfox.wiki/20240502/22fd0c237aafed0870f7c86908206a84.7p3kl7wmp.jpg)
 
 ## 愚人节竞速（24.4.1）
 
@@ -132,6 +134,6 @@ cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 
 ![花见](https://statics.netfox.wiki/20240408/Screenshot_2024-04-08-19-03-48-168_com.Shooter.Mo.8kzv87qig1.webp)
 
-## 现代战舰 3 周年 
+## 现代战舰 3 周年（24.5.1）
 
 ![3 周年](https://statics.netfox.wiki/20240501/52b768737894d4e117179c84b1882ac0_720.101z0ptu7u.webp)
