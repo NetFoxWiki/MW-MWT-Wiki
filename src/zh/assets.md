@@ -25,6 +25,6 @@ content: 玩家制作的现代战舰壁纸，品质高
 logo: https://statics.netfox.wiki/20240302/mw-logo-pc.8ojfoihccu.ico
 color: var(--banner-text)
 actions:
-  - text: 蓝奏云
+  - text: 蓝奏云优享版
     link: https://www.ilanzou.com/s/wifMaXX
 ```

@@ -120,7 +120,7 @@ export const zhCNSidebar = sidebar([
 				collapsible: true,
 				children: [
 					{
-						text: '部分飞行器现实原型收录 [持续更新]',
+						text: '部分飞行器现实原型收录',
 						collapsible: true,
 						children: [
 							'zh/mw/column/realitymw/bomber.md',
@@ -131,11 +131,11 @@ export const zhCNSidebar = sidebar([
 						],
 					},
 					{
-						text: '部分舰艇现实原型收录 [持续更新]',
+						text: '部分舰艇现实原型收录',
 						collapsible: true,
 						children: [
 							'zh/mw/column/realitymw2/cruiser.md',
-        'zh/mw/column/realitymw2/destroyer.md',
+							'zh/mw/column/realitymw2/destroyer.md',
 						],
 					},
 				],
@@ -232,4 +232,5 @@ export const zhCNSidebar = sidebar([
 			//'ZS.md',
 		],
 	},
+	//{ text: 'NetFox.Wiki',icon: "define", link: 'zh/netfox.wiki.md' },
 ]);
