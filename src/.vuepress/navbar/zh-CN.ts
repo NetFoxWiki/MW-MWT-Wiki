@@ -28,10 +28,16 @@ export const zhCNNavbar = navbar([
     icon: "comments",
     children: [
       {
-        text: "现代战舰官方社区",
+        text: "MW 官方社区",
         children: [
           { text: "Fanbook", icon: "book", link: "https://in.fanbook.cn/m8XB6FN7" },
           { text: "QQ 频道", icon: "hashtag", link: "https://pd.qq.com/s/f0oylihze" },
+        ],
+      },
+      {
+        text: "MWT 官方社区",
+        children: [
+          { text: "QQ 频道", icon: "hashtag", link: "https://pd.qq.com/s/h27dr0db3" },
         ],
       },
     ],
