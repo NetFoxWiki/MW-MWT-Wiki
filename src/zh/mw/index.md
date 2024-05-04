@@ -56,22 +56,6 @@ color: #e2e1e4
 ### 站外
 
 ```component VPCard
-title: MW 网站集成
-desc: 由 MW & MWT 文档 支持并制作的现代战舰网站集成
-logo: ./favicon.ico
-link: https://statics.netfox.wiki/mwapp.html
-color: #e2e1e4
-```
-
-```component VPCard
-title: 现代战舰资料卡生成
-desc: 由 MW & MWT 文档 支持并制作的现代战舰资料卡生成网站
-logo: ./favicon.ico
-link: https://mwapp.netfox.wiki/mw-card/
-color: #e2e1e4
-```
-
-```component VPCard
 title: 现代战舰数据
 desc: MWstats（现代战舰数据） 提供现代战舰手机游戏中舰船和物品的统计数据和数字
 logo: https://statics.netfox.wiki/20240302/mwstats.lt9fepch.webp
