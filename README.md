@@ -88,7 +88,7 @@ MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任�
 
 本网站与 Artstorm 或 Cube Software 或 Gaijin 或其任何子公司或附属公司没有附属、关联、授权、认可或以任何方式关联
 
-Modern Warships 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
+Modern Warships 或 MWT: Tank Battles 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
 
 联系邮箱：
 [support@netfox.wiki](support@netfox.wiki)
