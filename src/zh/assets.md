@@ -4,7 +4,7 @@ pageInfo: false
 prev: false
 next: false
 backToTop: false
-icon: flex
+icon: compass
 ---
 
 # 资源中心

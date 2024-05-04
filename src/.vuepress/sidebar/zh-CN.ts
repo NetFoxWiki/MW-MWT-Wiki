@@ -20,12 +20,12 @@ export const zhCNSidebar = sidebar([
 			{
 				text: "游戏反馈",
 				link: 'https://mw.live/support',
-				icon: "debug",
+				icon: "bug",
 			},
 			{
 				text: "关于游戏",
 				link: 'zh/mw/game-info.md',
-				icon: "hot",
+				icon: "fire",
 			},
 			/*{
 				text: "玩家美术",
@@ -35,7 +35,7 @@ export const zhCNSidebar = sidebar([
 			{
 				text: "创作者计划",
 				link: 'zh/mw/mw-press.md',
-				icon: "license",
+				icon: "closed-captioning",
 			},
 			{
 				text: '游戏下载',
@@ -51,7 +51,7 @@ export const zhCNSidebar = sidebar([
 			},
 			{
 				text: '游戏攻略',
-				icon: "repo",
+				icon: "trophy",
 				collapsible: true,
 				children: [
 					'zh/mw/skills/stan-bilibili.md',
@@ -96,7 +96,7 @@ export const zhCNSidebar = sidebar([
 			},*/
 			{
 				text: '官方解惑',
-				icon: "advance",
+				icon: "anchor",
 				collapsible: true,
 				children: [
 					'zh/mw/official/bp.md',
@@ -116,7 +116,7 @@ export const zhCNSidebar = sidebar([
 			},
 			{
 				text: '网站专栏',
-				icon: "type",
+				icon: "award",
 				collapsible: true,
 				children: [
 					{
@@ -168,7 +168,7 @@ export const zhCNSidebar = sidebar([
 			{
 				text: '关于游戏-前瞻',
 				link: 'zh/mwt/game-info.md',
-				icon: "hot",
+				icon: "fire",
 			},
 			{
 				text: '游戏收录',
@@ -183,7 +183,7 @@ export const zhCNSidebar = sidebar([
 	},
 	{
 		text: '账号注册',
-		icon: "geometry",
+		icon: "users-rectangle",
 		collapsible: true,
 		children: [
 			'zh/account/google.md',
@@ -194,7 +194,7 @@ export const zhCNSidebar = sidebar([
 	{
 		text: "资源中心",
 		link: 'zh/assets.md',
-		icon: "flex",
+		icon: "compass",
 	},
 	{
 		text: '发布页面',
@@ -208,7 +208,7 @@ export const zhCNSidebar = sidebar([
 	},
 	{
 		text: '衍生项目',
-		icon: "branch",
+		icon: "code-branch",
 		collapsible: true,
 		children: [
 			{ text: '现代战舰资料卡生成', link: 'https://mwapp.netfox.wiki/mw-card/' },

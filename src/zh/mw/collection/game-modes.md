@@ -6,15 +6,15 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ## 常规模式
 
-### <HopeIcon icon="light" size="1.5rem"/> 快速游戏
+### <HopeIcon icon="earth-asia" size="1.5rem"/> 快速游戏
 
 快速战斗。当玩家达到等级5级后，将开始完整的在线游戏。可获得锦标赛奖励
 
-### <HopeIcon icon="people" size="1.5rem"/> 离线游戏
+### <HopeIcon icon="medal" size="1.5rem"/> 离线游戏
 
 和机器人一同游戏，奖励仅包含战斗收益。不可获得锦标赛奖励
 
-### <HopeIcon icon="group" size="1.5rem"/> 团队作战
+### <HopeIcon icon="users-line" size="1.5rem"/> 团队作战
 
 两支队伍相互对战，匹配等待时间可能会显著增加
 
@@ -22,7 +22,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 创建你的 自定义游戏 并和你的好友一起战斗
 
-### <HopeIcon icon="update" size="1.5rem"/> 占点模式
+### <HopeIcon icon="street-view" size="1.5rem"/> 占点模式
 
 - 地图上有三个点需要占领
 - 在战斗开始时，每个团队获得500个支配点
@@ -36,7 +36,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ## 限定模式
 
-### <HopeIcon icon="arrow" size="1.5rem"/> 舰艇竞速 <Badge text="愚人节竞速" type="info" />
+### <HopeIcon icon="wheelchair-move" size="1.5rem"/> 舰艇竞速 <Badge text="愚人节竞速" type="info" />
 
 - 模式地图：失落之城，岩峰，北极圈
 - 玩家们在一条拥有若干个检查点的赛道上互相竞争
@@ -47,7 +47,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![舰艇竞速](https://statics.netfox.wiki/20240401/MapShipsRacing.4jnvjtj7o5.webp)
 
-### <HopeIcon icon="navigation" size="1.5rem"/> 护航模式 <Badge text="金属霜冻、沙丘抗争" type="info" />
+### <HopeIcon icon="ship" size="1.5rem"/> 护航模式 <Badge text="金属霜冻、沙丘抗争" type="info" />
 
 - 模式地图：干旱边疆，双武士，大漩涡，北极圈
 - 护航方的目标为护送舰队到达港口
@@ -61,7 +61,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![护航模式](https://statics.netfox.wiki/20240309/MapShipsEscort.b8nd950w1.webp)
 
-### <HopeIcon icon="group" size="1.5rem"/> 多队混战 <Badge text="藏匿之龙" type="info" />
+### <HopeIcon icon="users-line" size="1.5rem"/> 多队混战 <Badge text="藏匿之龙、猎物之海3" type="info" />
 
 - 模式地图：潜龙、双武士、北极圈、维京湾
 - 本模式允许单人匹配或2人队伍组队游玩
@@ -73,7 +73,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![多对混战](https://statics.netfox.wiki/20240309/MapShipsTandemWars.3d4jeh6d3d.webp)
 
-### <HopeIcon icon="update" size="1.5rem"/> 占点模式 Pro <Badge text="来自深处" type="info" />
+### <HopeIcon icon="street-view" size="1.5rem"/> 占点模式 Pro <Badge text="来自深处" type="info" />
 
 - 模式地图：神秘湾
 - 每名玩家有3条生命
@@ -87,7 +87,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![占点模式](https://statics.netfox.wiki/20240309/MapShipsDomination.45fhu02yb.webp)
 
-### <HopeIcon icon="people" size="1.5rem"/> 个人死斗 <Badge text="海盗嘉年华、来自深处、猎物之海2、冬季运动会" type="info" />
+### <HopeIcon icon="medal" size="1.5rem"/> 个人死斗 <Badge text="海盗嘉年华、来自深处、猎物之海2、冬季运动会" type="info" />
 
 - 参与游戏的全部玩家相互混战
 - 战斗时长为10分钟
@@ -98,7 +98,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![个人死斗](https://statics.netfox.wiki/20240309/MapShipsDeathmatch.3k7r9wsij4.webp)
 
-### <HopeIcon icon="proposal" size="1.5rem"/> 征服模式 <Badge text="巨兽之战" type="info" />
+### <HopeIcon icon="flag" size="1.5rem"/> 征服模式 <Badge text="巨兽之战" type="info" />
 
 - 使用特殊的舰艇-空天航母
 - 各队将以相同的分数开始比赛。为了取得胜利，你必须消灭敌人的队伍，或者夺取并守住比敌人更多的基地，直到他们耗尽点数

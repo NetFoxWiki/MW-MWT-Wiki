@@ -21,7 +21,7 @@ export default hopeTheme({
 
   favicon: "favicon.ico",
   headerDepth: 3,
-  navTitle: false,
+  navbarTitle: '',
   navbarLayout: {
     start: ["Brand", "Links"],
     center: [],
@@ -51,8 +51,7 @@ export default hopeTheme({
 
   print: true,
   fullscreen: true,
-  sidebarIcon: true,
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome",
   darkmode: "switch",
 
   locales: {
@@ -93,6 +92,7 @@ export default hopeTheme({
   },
 
   plugins: {
+    //blog: true,
     seo: true,
     searchPro: {
       indexContent: true,
