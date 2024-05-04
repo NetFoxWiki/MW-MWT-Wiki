@@ -122,7 +122,7 @@ export default hopeTheme({
       ],
     },*/
     components: {
-      components: ["VPCard", "VPBanner", "BiliBili", "Badge", "SiteInfo"],
+      components: ["VPCard", "VPBanner", "BiliBili", "Badge", "SiteInfo", "PDF",],
     },
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
