@@ -3,6 +3,12 @@
 :::important 仅供参考丨2024年1月17日起文档更新不会在此页面出现
 :::
 
+:::danger
+
+[后续更新日志请查看](https://github.com/MWDOCS/MW-MWT-DOCS/commits/gh-page/)
+
+:::
+
 :::details 2024.5.4
 
 ::: tabs
