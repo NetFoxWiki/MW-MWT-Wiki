@@ -134,6 +134,8 @@ cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 
 ![花见](https://statics.netfox.wiki/20240408/Screenshot_2024-04-08-19-03-48-168_com.Shooter.Mo.8kzv87qig1.webp)
 
-## 现代战舰 3 周年（24.5.1）
+## 现代战舰 3 周年（24.5.1/8）
 
-![3 周年](https://statics.netfox.wiki/20240501/52b768737894d4e117179c84b1882ac0_720.101z0ptu7u.webp)
+![3 周年-第一阶段](https://statics.netfox.wiki/20240508/4036c47f01a7c41755cf0c4ae9bf62dc.2doieiss8g.webp)
+
+![3 周年-第二阶段](https://statics.netfox.wiki/20240508/807307de6c7795ce0d293673e06b55e4_720.6ik3qmji7n.webp)
