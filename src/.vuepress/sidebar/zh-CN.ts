@@ -7,6 +7,11 @@ export const zhCNSidebar = sidebar([
 		icon: "home",
 	},
 	{
+		text: "全站目录",
+		link: 'zh/catalog.md',
+		icon: "bars",
+	},
+	{
 		text: 'MW丨现代战舰',
 		icon: "tag",
 		link: 'zh/mw/index.md',

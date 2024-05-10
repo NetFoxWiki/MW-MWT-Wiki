@@ -42,4 +42,9 @@ export const zhCNNavbar = navbar([
       },
     ],
   },
+  {
+		text: "全站目录",
+		link: 'zh/catalog.md',
+		icon: "bars",
+	},
 ]);

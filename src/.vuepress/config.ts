@@ -9,7 +9,7 @@ export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
   title: "MW & MWT 文档",
-  head: [
+  /*head: [
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
       "link",
@@ -22,7 +22,7 @@ export default defineUserConfig({
         rel: "stylesheet",
       },
     ],
-  ],
+  ],*/
   locales: {
     "/zh/": {
       lang: "zh-CN",
