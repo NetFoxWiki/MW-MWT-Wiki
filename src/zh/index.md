@@ -10,7 +10,15 @@ cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 
 :::important 你好，欢迎访问我们的网站！
 
-我们是一群热爱现代战舰玩家，从 Gaijin 提供的现代战舰 F&A 中受到启发，制作了最早的一版中文文档（ F&A 无中文）
+```component VPCard
+title: 全站目录
+desc: 来自：MW & MWT 文档
+logo: ./favicon.ico
+link: catalog.md
+color: #e2e1e4
+```
+
+我们是一群热爱现代战舰的玩家，从 Gaijin 提供的现代战舰 F&A 中受到启发，制作了最早的一版中文文档（ F&A 无中文）
 
 从此基础上，我们开始扩展网站，从只有中文版的 F&A 到收录了许多关于现代战舰的有趣内容以及值得被纪念的事，并且准备记录 MWT
 
