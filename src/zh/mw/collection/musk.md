@@ -401,7 +401,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 ![沙丘抗争](https://statics.netfox.wiki/20240307/MWLiveOps_Event_DS24_banner_0.77_1920x1080.lvh3isd7q.webp)
 
-## 猎物之海3 - 斑马（24.4.1）
+## 猎物之海3 - 斑马（24.4.12）
 
 **游戏模式：**
 
@@ -415,7 +415,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 > **抽奖**
 >>
 >>- **ROKS Ghost Commander** - 一艘近未来双甲板航空母舰
->>- **Haeseong III 远程巡航导弹**
+>>- **Haeseong III** - 远程巡航导弹
 
 > **免费奖励**
 >>
@@ -426,3 +426,29 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 :::
 
 ![猎物之海3](https://statics.netfox.wiki/20240411/MW_Event_SP03_promoposter_0.78_1920x1080_3278a6ca36ae8fddb5a939bc3ac545a4.5mnl91y0y9.webp)
+
+## 不明威胁（24.5.13）
+
+**游戏模式：**
+
+护航模式
+
+> **礼包奖励**
+>>
+>>- **海军勇气礼包** - Admiral Graf Spee 战列舰
+>>- **宇宙身份礼包** - “无垠太空” 涂装
+
+> **抽奖**
+>>
+>>- **M270** - 新型多用途制导火箭炮，反舰反潜两用
+>>- **美国新型驱逐舰 Jack H Lucas** - 阿利·伯克级III型舰，配备了各类导弹武器并拥有较大侦测范围。其为从前线或二线进行大规模导弹攻击而设计
+
+> **免费奖励**
+>>
+>>- **为特种作战部队改装的美国 MH-60L DAP 新型直升机** - 该机主要用途是提供强大的航炮支援
+
+:::details 查看详细信息
+<https://modernwarships.com/news/modern-warships-inidentified-threat>
+:::
+
+![不明威胁](https://statics.netfox.wiki/20240512/MW_Event_BFE_banner_0.79_1920x1080_26e2227a66178bb69f2b433daa689dfa.26lapb0btn.webp)

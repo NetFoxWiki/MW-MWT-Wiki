@@ -24,11 +24,14 @@ export default defineUserConfig({
     ],
   ],*/
   alias: {
-    // 你可以在这里将别名定向到自己的组件
     "@theme-hope/modules/sidebar/components/Sidebar": path.resolve(
       __dirname,
-      "./components/NetFoxWiki.vue",
+      "./components/AD.vue",
     ),
+    /*"@theme-hope/modules/info/components/TOC": path.resolve(
+      __dirname,
+      "./components/TOC.vue",
+    ),*/
   },
   locales: {
     "/zh/": {
