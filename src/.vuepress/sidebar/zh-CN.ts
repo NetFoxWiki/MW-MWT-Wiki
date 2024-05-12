@@ -218,8 +218,9 @@ export const zhCNSidebar = sidebar([
 		icon: "code-branch",
 		collapsible: true,
 		children: [
+			'zh/branch/mw-card/index.md',
 			{ text: '现代战舰资料卡生成', link: 'https://mwapp.netfox.wiki/mw-card/' },
-			{ text: '现代战舰资料卡生成v2 [推荐]', link: 'https://mwapp.netfox.wiki/mw-card/v2' },
+			{ text: '现代战舰资料卡生成 v2 [推荐]', link: 'https://mwapp.netfox.wiki/mw-card/v2' },
 		],
 	},
 	{
