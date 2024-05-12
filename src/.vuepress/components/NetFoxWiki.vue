@@ -6,12 +6,10 @@ import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.j
     <NetFoxWiki>
         <template #top>
             <div class="logo">
-                <a target="_blank" href="https://netfox.wiki">
-                    <img data-mode="darkmode-only" width="100%"
-                        src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
-                    <img data-mode="lightmode-only" width="100%"
-                        src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
-                </a>
+                <img data-mode="darkmode-only" width="100%"
+                    src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
+                <img data-mode="lightmode-only" width="100%"
+                    src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
             </div>
         </template>
         <template #bottom>
@@ -19,7 +17,7 @@ import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.j
                 <a href="https://mw.netfox.wiki/zh/mwt/">
                     <img class="ad-banner" src="https://statics.netfox.wiki/20240512/channels4_banner.1zi2t75wov.webp">
                     <div class="ad-text">
-                        <small>MWT: Tank Battles 预告片公开 - 点击查看 </small>
+                        <small><b>MWT: Tank Battles 预告片公开 - 点击查看</b></small>
                     </div>
                 </a>
             </div>
