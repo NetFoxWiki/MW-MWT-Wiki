@@ -93,6 +93,23 @@ export default hopeTheme({
 
   plugins: {
     //blog: true,
+    notice: [
+      /*{
+        path: "/zh/mw/",
+        title: "网狐社运营团队",
+        content: "下载游戏来试试吧",
+        actions: [
+          {
+            text: "下载游戏",
+            link: "/download",
+            type: "primary",
+          },
+          { text: "史" },
+        ],
+        showOnce: false,
+        confirm: true,
+      },*/
+    ],
     seo: true,
     searchPro: {
       indexContent: true,

@@ -1,0 +1,54 @@
+<script setup lang="ts">
+import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.js";
+</script>
+
+<template>
+    <NetFoxWiki>
+        <template #top>
+            <div class="logo">
+                <a target="_blank" href="https://netfox.wiki">
+                    <img data-mode="darkmode-only" width="100%"
+                        src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
+                    <img data-mode="lightmode-only" width="100%"
+                        src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
+                </a>
+            </div>
+        </template>
+        <template #bottom>
+            <div class="ad-main">
+                <a href="https://mw.netfox.wiki/zh/mwt/">
+                    <img class="ad-banner" src="https://statics.netfox.wiki/20240512/channels4_banner.1zi2t75wov.webp">
+                    <div class="ad-text">
+                        <small>MWT: Tank Battles 预告片公开 - 点击查看 </small>
+                    </div>
+                </a>
+            </div>
+        </template>
+    </NetFoxWiki>
+</template>
+
+<style>
+.logo {
+    margin: 10px 10px -17px 10px;
+}
+
+.ad-main {
+    margin: -15px 10px 25px 10px;
+    text-align: center;
+}
+
+.ad-banner {
+    width: 100%;
+}
+
+.ad-text:hover {
+    background-color: #294167;
+    color: #ffffff;
+}
+
+.ad-text {
+    background-color: #bbd6e1;
+    margin-top: -5px;
+    color: #294167;
+}
+</style>

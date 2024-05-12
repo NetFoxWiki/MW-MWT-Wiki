@@ -1,9 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { redirectPlugin } from '@vuepress/plugin-redirect';
-//import { getDirname, path } from "vuepress/utils";
+import { getDirname, path } from "vuepress/utils";
 
-//const __dirname = getDirname(import.meta.url);
+const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
   base: "/",
@@ -23,6 +23,13 @@ export default defineUserConfig({
       },
     ],
   ],*/
+  alias: {
+    // 你可以在这里将别名定向到自己的组件
+    "@theme-hope/modules/sidebar/components/Sidebar": path.resolve(
+      __dirname,
+      "./components/NetFoxWiki.vue",
+    ),
+  },
   locales: {
     "/zh/": {
       lang: "zh-CN",
