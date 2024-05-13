@@ -11,7 +11,7 @@ cover: https://statics.netfox.wiki/20240302/world-banner.5c0pu50s17.webp
 
 ```component VPBanner
 title: 申请编辑权限
-content: 在文档留下你的痕迹~
+content: 需要 Github 账户
 logo: https://statics.netfox.wiki/20240302/favicon.7awwkh6a95.ico
 color: var(--banner-text)
 actions:
