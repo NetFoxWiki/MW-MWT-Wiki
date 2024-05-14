@@ -28,9 +28,9 @@ export default defineUserConfig({
       __dirname,
       "./components/AD.vue",
     ),
-    /*"@theme-hope/modules/info/components/TOC": path.resolve(
+    /*"@theme-hope/components/NormalPage": path.resolve(
       __dirname,
-      "./components/TOC.vue",
+      "./components/NormalPage.vue",
     ),*/
   },
   locales: {

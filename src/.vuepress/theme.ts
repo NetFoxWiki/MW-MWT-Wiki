@@ -139,7 +139,7 @@ export default hopeTheme({
       ],*/
     },
     components: {
-      components: ["VPCard", "VPBanner", "BiliBili", "Badge", "SiteInfo", "PDF",],
+      components: ["VPCard", "VPBanner", "VidStack", "BiliBili", "Badge", "SiteInfo", "PDF", "Share",],
     },
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
