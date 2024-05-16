@@ -10,7 +10,7 @@ export default {
     data() {
         return {
             totalProgress: "???",
-            targetTime: new Date('2024-5-4')
+            targetTime: new Date('2024-4-15')
         }
     },
     methods: {
