@@ -17,7 +17,7 @@ import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.j
                 <a href="https://pd.qq.com/s/h27dr0db3">
                     <img class="ad-banner" src="https://statics.netfox.wiki/20240512/channels4_banner.1zi2t75wov.webp">
                     <div class="ad-text">
-                        <small><b>MWT: Tank Battles 官方QQ频道 - 点击加入</b></small>
+                        <small><b>MWT: Tank Battles 官方频道 - 点击加入</b></small>
                     </div>
                 </a>
             </div>

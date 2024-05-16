@@ -28,10 +28,10 @@ export default defineUserConfig({
       __dirname,
       "./components/AD.vue",
     ),
-    /*"@theme-hope/components/NormalPage": path.resolve(
+    "@theme-hope/components/NormalPage": path.resolve(
       __dirname,
       "./components/NormalPage.vue",
-    ),*/
+    ),
   },
   locales: {
     "/zh/": {
