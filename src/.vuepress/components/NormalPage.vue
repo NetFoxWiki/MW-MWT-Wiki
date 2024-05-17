@@ -9,7 +9,7 @@ export default {
     },
     data() {
         return {
-            totalProgress: "???",
+            totalProgress: "??",
             targetTime: new Date('2024-4-15')
         }
     },
@@ -17,8 +17,10 @@ export default {
         calculateProgress() {
             const currentTime = new Date();
             const timeDiff = this.targetTime.getTime() - currentTime.getTime();
-            const daysDiff = Math.floor(timeDiff / (1000 * 3600 * 24));
-            this.totalProgress = Math.abs(daysDiff) * 2;
+            const daysDiff = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24)));
+            const daysDiffh = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24) / 7));
+            const daysDiffnow = daysDiff - daysDiffh * 2;
+            this.totalProgress = daysDiffnow * 2;
         }
     },
     mounted() {
