@@ -4,14 +4,14 @@ import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.j
 
 <template>
     <NetFoxWiki>
-        <template #top>
+        <!--<template #top>
             <div class="logo">
                 <img data-mode="darkmode-only" width="100%"
                     src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
                 <img data-mode="lightmode-only" width="100%"
                     src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
             </div>
-        </template>
+        </template>-->
         <template #bottom>
             <div class="ad-main">
                 <a href="https://pd.qq.com/s/h27dr0db3">

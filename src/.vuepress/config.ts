@@ -46,7 +46,7 @@ export default defineUserConfig({
   theme,
   plugins: [
     redirectPlugin({
-      autoLocale: true,
+      autoLocale: false,
       switchLocale: "modal",
     }),
   ],

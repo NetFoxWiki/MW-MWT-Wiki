@@ -53,8 +53,8 @@ export default {
 <style>
 .mwt-banner {
     display: flex;
-    margin-left: 23px;
-    margin-right: 23px;
+    margin-left: 20px;
+    margin-right: 20px;
     color: #ffffff;
     padding: 10px;
     border-radius: 5px;

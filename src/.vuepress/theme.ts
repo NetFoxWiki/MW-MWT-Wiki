@@ -153,6 +153,7 @@ export default hopeTheme({
       gfm: true,//gfm语法
       sub: true,//上下角标
       sup: true,
+      spoiler: true,//剧透
       demo: true,//代码演示
       tabs: true,//选项卡
       hint: true,//容器
