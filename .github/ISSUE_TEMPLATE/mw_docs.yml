@@ -1,28 +1,12 @@
-name: 提交建议
-title: "MW & MWT 文档: {name}"
-description: 我们会认真分析您的意见
-labels: [ "mw_docs" ]
+name: 通用表单
+title: "NetFox.Wiki: {name}"
+description: 通用提交单
+labels: [ "netfox_wiki" ]
 body:
   - type: input
     id: name
     attributes:
       label: 名称
       description: 名称
-    validations:
-      required: true
-
-  - type: input
-    id: why
-    attributes:
-      label: 建议
-      description: 详细内容
-    validations:
-      required: true
-
-  - type: input
-    id: style
-    attributes:
-      label: 联系邮箱
-      description: 邮箱
     validations:
       required: true
