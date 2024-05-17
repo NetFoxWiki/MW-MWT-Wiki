@@ -57,6 +57,7 @@ export default {
     display: flex;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 10px;
     color: #ffffff;
     padding: 10px;
     border-radius: 5px;
