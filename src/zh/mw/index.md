@@ -23,7 +23,7 @@ color: #e2e1e4
 title: 网站专栏
 desc: 来自：MW & MWT 文档
 logo: ./favicon.ico
-link: column/bomber.html
+link: column/
 color: #e2e1e4
 ```
 
@@ -31,7 +31,7 @@ color: #e2e1e4
 title: 官方解惑
 desc: 来自：MW & MWT 文档
 logo: ./favicon.ico
-link: official/bp.html
+link: official/
 color: #e2e1e4
 ```
 
@@ -39,7 +39,7 @@ color: #e2e1e4
 title: 游戏收录
 desc: 来自：MW & MWT 文档
 logo: ./favicon.ico
-link: collection/events-less.html
+link: collection/
 color: #e2e1e4
 ```
 
@@ -47,7 +47,7 @@ color: #e2e1e4
 title: 游戏攻略
 desc: 来自：MW & MWT 文档
 logo: ./favicon.ico
-link: skills/stan-bilibili.html
+link: skills/
 color: #e2e1e4
 ```
 
