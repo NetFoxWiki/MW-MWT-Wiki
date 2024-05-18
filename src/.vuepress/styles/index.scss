@@ -1,11 +1,11 @@
 :root {
-  --banner-text: #144a74;
+  --banner-text: var(--theme-color);
   --redirect-primary-color: var(--theme-color) !important;
   --redirect-primary-hover-color: var(--theme-color-dark) !important;
 }
 
 html[data-theme="dark"] {
-  --banner-text: #43c6ff;
+  --banner-text: var(--theme-color-dark);
 }
 
 .page-cover {
