@@ -10,6 +10,7 @@ export default {
     data() {
         return {
             totalProgress: "??",
+            totalProgress2: "??",
             targetTime: new Date('2024-4-15'),
         }
     },
@@ -21,6 +22,7 @@ export default {
             const daysDiffh = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24) / 7));
             const daysDiffnow = daysDiff - daysDiffh * 2;
             this.totalProgress = daysDiffnow * 2;
+            this.totalProgress2 = daysDiff * 2;
         },
     },
     mounted() {
@@ -38,7 +40,11 @@ export default {
                 </div>
                 <div class="mwt-banner-main">
                     <div class="mwt-banner-progress">
-                        <b>{{ totalProgress }}%</b>
+                        <b>实际进度：</b>
+                        <b style="color: #f7e8c1;">{{ totalProgress }}%</b>
+                        <br>
+                        <b>理想进度：</b>
+                        <b style="color: #f7e8c1;">{{ totalProgress2 }}%</b>
                     </div>
                     <div class="mwt-banner-info">
                         <b>MWT: Tank Battles 优化进度 - 仅供参考</b>
@@ -79,7 +85,7 @@ export default {
 
 .mwt-banner-progress {
     text-align: center;
-    font-size: 60px;
+    font-size: 35px;
     border-radius: 5px;
     background-color: var(--theme-color-dark);
     width: 100%;
