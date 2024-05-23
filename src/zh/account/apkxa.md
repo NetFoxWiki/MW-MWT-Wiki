@@ -1,4 +1,4 @@
-# 如何安装正版 Apk 并进行游戏内购买？
+# 安装正版 Apk 并进行游戏内购买
 
 ```component VPCard
 title: Teletype > @modernwarships > pay_web_apk_cn

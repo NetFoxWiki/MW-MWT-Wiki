@@ -16,3 +16,8 @@ html[data-theme="dark"] {
 .vp-sidebar-links {
   font-family: var(--font-family-heading);
 }
+
+.hint-container{
+  border-radius: 5px !important;
+  border-inline-start-width: 10px !important;
+}
