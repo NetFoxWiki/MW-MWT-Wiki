@@ -4,6 +4,7 @@ import "vuepress-theme-hope/presets/shinning-feature-panel.scss";
 import MWCard from "./components/MWCard.vue";
 import InfoCom from "./components/InfoCom.vue";
 //import NotFound from "./layouts/404NotFound.vue";
+//import HomePage from "./layouts/HomePage.vue";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
@@ -12,5 +13,6 @@ export default defineClientConfig({
   },
   layouts: {
     //NotFound,
+    //HomePage,
   },
 });
