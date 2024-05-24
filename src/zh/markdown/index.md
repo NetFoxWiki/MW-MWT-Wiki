@@ -1,13 +1,6 @@
 # 发布自己的第一个页面
 
-```component VPBanner
-title: 申请编辑权限
-content: 需要 Github 账户
-logo: https://statics.netfox.wiki/20240302/favicon.7awwkh6a95.ico
-actions:
-  - text: 点击前往
-    link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
-```
+<InfoCom title="申请编辑权限" content="需要 Github 账户" button-text="填写表格" link="https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn"/>
 
 - 以邮件（ <support@netfox.wiki> ）形式发给我们 **Markdown 文件** 或 **任何格式文本文件**
 

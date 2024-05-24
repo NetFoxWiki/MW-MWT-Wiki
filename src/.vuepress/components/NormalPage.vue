@@ -9,8 +9,8 @@ export default {
     },
     data() {
         return {
-            totalProgress: "??",
-            totalProgress2: "??",
+            totalProgress: "0",
+            totalProgress2: "0",
             targetTime: new Date('2024-4-15'),
         }
     },
@@ -21,8 +21,21 @@ export default {
             const daysDiff = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24)));
             const daysDiffh = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24) / 7));
             const daysDiffnow = daysDiff - daysDiffh * 2;
-            this.totalProgress = daysDiffnow * 2;
-            this.totalProgress2 = daysDiff * 2;
+            if (this.totalProgress == 100 && this.totalProgress2 == 100) {
+                this.totalProgress = '在不久的将来';
+                this.totalProgress2 = '在不久的将来';
+            } else {
+                if (this.totalProgress >= 100 && this.totalProgress2 < 100) {
+                    this.totalProgress = '在不久的将来';
+                    this.totalProgress2 = daysDiff * 2 + '%';
+                } else if (this.totalProgress < 100 && this.totalProgress2 >= 100) {
+                    this.totalProgress2 = '在不久的将来';
+                    this.totalProgress = daysDiffnow * 2 + '%';
+                } else {
+                    this.totalProgress = daysDiffnow * 2 + '%';
+                    this.totalProgress2 = daysDiff * 2 + '%';
+                }
+            }
         },
     },
     mounted() {
@@ -34,20 +47,22 @@ export default {
 <template>
     <Page>
         <template #contentBefore>
-            <div class="mwt-banner">
-                <div class="mwt-banner-logo">
-                    <MWTSVG />
-                </div>
-                <div class="mwt-banner-main">
-                    <div class="mwt-banner-progress">
-                        <b>实际进度：</b>
-                        <b style="color: #f7e8c1;">{{ totalProgress }}%</b>
-                        <br>
-                        <b>理想进度：</b>
-                        <b style="color: #f7e8c1;">{{ totalProgress2 }}%</b>
+            <div class="theme-hope-content">
+                <div class="mwt-banner">
+                    <div class="mwt-banner-logo">
+                        <MWTSVG />
                     </div>
-                    <div class="mwt-banner-info">
-                        <b>MWT: Tank Battles 优化进度 - 仅供参考</b>
+                    <div class="mwt-banner-main">
+                        <div class="mwt-banner-progress">
+                            <b>实际进度：</b>
+                            <b style="color: #add8fb;">{{ totalProgress }}</b>
+                            <br>
+                            <b>理想进度：</b>
+                            <b style="color: #f7e8c1;">{{ totalProgress2 }}</b>
+                        </div>
+                        <div class="mwt-banner-info">
+                            <b>MWT: Tank Battles 优化进度 - 仅供参考</b>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -58,9 +73,7 @@ export default {
 <style>
 .mwt-banner {
     display: flex;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 10px;
+    margin-bottom: -20px;
     color: #ffffff;
     padding: 10px;
     border-radius: 5px;

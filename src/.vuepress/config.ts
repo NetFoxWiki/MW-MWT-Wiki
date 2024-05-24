@@ -32,6 +32,10 @@ export default defineUserConfig({
       __dirname,
       "./components/NormalPage.vue",
     ),
+    "@theme-hope/modules/navbar/components/Navbar": path.resolve(
+      __dirname,
+      "./components/Navbar.vue",
+    ),
   },
   locales: {
     "/zh/": {

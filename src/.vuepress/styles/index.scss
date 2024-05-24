@@ -8,16 +8,11 @@ html[data-theme="dark"] {
   --banner-text: var(--theme-color-dark);
 }
 
-.page-cover {
-  width: calc(100%);
-  max-height: 25vh;
-}
-
 .vp-sidebar-links {
   font-family: var(--font-family-heading);
 }
 
-.hint-container{
+.hint-container {
   border-radius: 5px !important;
   border-inline-start-width: 10px !important;
 }

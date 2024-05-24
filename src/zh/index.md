@@ -8,6 +8,8 @@ cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 :::info 注意：网站内容会越来越丰富，点击左侧边栏即可跳转至相关内容（移动设备点击左上角图标可展开边栏）
 :::
 
+<InfoCom title="申请编辑权限" content="需要 Github 账户" button-text="填写表格" link="https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn"/>
+
 :::important 你好，欢迎访问我们的网站！
 
 ```component VPCard
@@ -32,16 +34,6 @@ color: #e2e1e4
 
 :::
 
-```component VPBanner
-title: 申请编辑权限
-content: 需要 Github 账户
-logo: https://statics.netfox.wiki/20240302/favicon.7awwkh6a95.ico
-color: var(--banner-text)
-actions:
-  - text: 点击前往
-    link: https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn
-```
-
 :::caution 免责声明
 
 MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证
@@ -55,5 +47,3 @@ MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任�
 Modern Warships 或 MWT: Tank Battles 的名称以及任何相关名称、标志和图像均为其各自所有者的注册商标
 
 :::
-
-
