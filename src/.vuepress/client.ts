@@ -5,11 +5,13 @@ import MWCard from "./components/MWCard.vue";
 import InfoCom from "./components/InfoCom.vue";
 //import NotFound from "./layouts/404NotFound.vue";
 //import HomePage from "./layouts/HomePage.vue";
+import ArchiveNotice from "./components/ArchiveNotice.vue"
 
 export default defineClientConfig({
   enhance: ({ app }) => {
     app.component("MWCard", MWCard);
     app.component("InfoCom", InfoCom);
+    app.component("ArchiveNotice", ArchiveNotice);
   },
   layouts: {
     //NotFound,

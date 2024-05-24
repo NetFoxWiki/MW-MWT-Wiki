@@ -12,7 +12,6 @@
 
 <VidStack
   src="/syob.mp4"
-  poster=""
 />
 
 ## 刀哥：加强利刃
@@ -23,5 +22,4 @@
 
 <VidStack
   src="/cdd.webm"
-  poster=""
 />

@@ -1,5 +1,7 @@
 # 出名时刻
 
+<ArchiveNotice />
+
 ## 杂志
 
 ![所在杂志不明](https://statics.netfox.wiki/20240302/psc.syor72wpi.webp)
