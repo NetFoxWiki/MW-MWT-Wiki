@@ -4,6 +4,8 @@ cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 
 # 特殊活动-小
 
+<InfoCom title="MWstats - 活动" content="获得更好的访问体验" button-text="点击访问" link="https://mwstats.info/events?lang=zh-hans"/>
+
 ## 黄金狩猎 <Badge text="常驻活动" type="tip" />（23.9.27-xx.xx.xx）
 
 参加黄金狩猎迷你活动。试试你的运气，有机会赢得稀有和传奇奖品！
