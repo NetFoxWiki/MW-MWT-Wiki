@@ -195,6 +195,7 @@ export const zhCNSidebar = sidebar([
 		children: [
 			'zh/account/google.md',
 			'zh/account/ios.md',
+			//'zh/account/twitch.md',
 			'zh/account/apkxa.md',
 		],
 	},
