@@ -47,9 +47,9 @@ export const zhCNSidebar = sidebar([
 				icon: "play",
 				collapsible: true,
 				children: [
-					'zh/mw/download/app.md',
-					'zh/mw/download/zg.md',
 					'zh/mw/download/sys.md',
+					'zh/mw/download/zg.md',
+					'zh/mw/download/app.md',
 					'zh/mw/download/pc.md',
 					'zh/mw/download/mod.md',
 				],
@@ -72,28 +72,39 @@ export const zhCNSidebar = sidebar([
 				icon: "folder",
 				collapsible: true,
 				children: [
+					{
+						text: '平衡日志区',
+						icon: "anchor",
+						collapsible: true,
+						children: [
+							'zh/mw/collection/mw79.md',
+							'zh/mw/collection/mw78.md',
+							'zh/mw/collection/mw77.md',
+							'zh/mw/collection/mw70.md',
+							'zh/mw/collection/mw68.md',
+						],
+					},
+					{
+						text: '游戏赛事区',
+						icon: "anchor",
+						collapsible: true,
+						children: [
+							'zh/mw/collection/ct.md',
+							'zh/mw/collection/ctto.md',
+							'zh/mw/collection/cn.md',
+						],
+					},
 					'zh/mw/collection/game-modes.md',
+					'zh/mw/collection/egg.md',
+					'zh/mw/collection/news.md',
 					'zh/mw/collection/events-less.md',
 					'zh/mw/collection/musk.md',
 					'zh/mw/collection/mwben.md',
+					'zh/mw/collection/lj.md',
 					'zh/mw/collection/market.md',
-					'zh/mw/collection/dpm.md',
-					'zh/mw/collection/mw79.md',
-					'zh/mw/collection/mw78.md',
-					'zh/mw/collection/mw77.md',
-					'zh/mw/collection/mw70.md',
-					'zh/mw/collection/mw68.md',
 					'zh/mw/collection/cn-warships.md',
 					'zh/mw/collection/pan.md',
-					'zh/mw/collection/egg.md',
-					'zh/mw/collection/news.md',
-					'zh/mw/collection/lj.md',
-
-					//赛事区
-					'zh/mw/collection/ct.md',
-					'zh/mw/collection/ctto.md',
-					'zh/mw/collection/cn.md',
-
+					'zh/mw/collection/dpm.md',
 				],
 			},
 			/*{
@@ -127,7 +138,17 @@ export const zhCNSidebar = sidebar([
 				collapsible: true,
 				children: [
 					{
+						text: '部分舰艇现实原型收录',
+						icon: "anchor",
+						collapsible: true,
+						children: [
+							'zh/mw/column/realitymw2/cruiser.md',
+							'zh/mw/column/realitymw2/destroyer.md',
+						],
+					},
+					{
 						text: '部分飞行器现实原型收录',
+						icon: "anchor",
 						collapsible: true,
 						children: [
 							'zh/mw/column/realitymw/bomber.md',
@@ -135,14 +156,6 @@ export const zhCNSidebar = sidebar([
 							'zh/mw/column/realitymw/uav.md',
 							'zh/mw/column/realitymw/helicopter.md',
 							'zh/mw/column/realitymw/strike-fighters.md',
-						],
-					},
-					{
-						text: '部分舰艇现实原型收录',
-						collapsible: true,
-						children: [
-							'zh/mw/column/realitymw2/cruiser.md',
-							'zh/mw/column/realitymw2/destroyer.md',
 						],
 					},
 				],
