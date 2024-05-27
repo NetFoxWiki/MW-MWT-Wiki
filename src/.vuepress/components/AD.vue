@@ -17,11 +17,7 @@ import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.j
                 <a href="https://pd.qq.com/s/h27dr0db3">
                     <img class="ad-banner" src="https://statics.netfox.wiki/20240512/channels4_banner.1zi2t75wov.webp">
                     <b class="ad-text">
-                        MWT: Tank Battles 官方频道
-                    </b>
-                    <br>
-                    <b class="ad-join">
-                        点击加入
+                        加入 MWT: Tank Battles 官方频道
                     </b>
                 </a>
             </div>
@@ -45,15 +41,7 @@ import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.j
 
 .ad-text {
     color: var(--theme-color);
-    font-size: 17px;
-}
-
-.ad-join {
-    background-color: var(--theme-color);
-    border-radius: 5px;
-    padding: 1px;
-    font-size: 20px;
-    color: #ffffff;
+    font-size: 15px;
 }
 
 .ad-main:hover {
