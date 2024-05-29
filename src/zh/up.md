@@ -5,7 +5,7 @@
 
 :::danger
 
-[后续更新日志请查看](https://github.com/MWDOCS/MW-MWT-DOCS/commits/gh-page/)
+[后续更新日志请查看](https://github.com/NetFoxWiki/MW-MWT-DOCS/commits/gh-page/)
 
 :::
 

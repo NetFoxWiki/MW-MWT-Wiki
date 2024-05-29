@@ -24,9 +24,9 @@
 * 下载/克隆本仓库 gh-page 分支
 
 ```bash
-- https://github.com/MWDOCS/MW-MWT-DOCS.git
+- https://github.com/NetFoxWiki/MW-MWT-DOCS.git
 
-- git@github.com:MWDOCS/MW-MWT-DOCS.git
+- git@github.com:NetFoxWiki/MW-MWT-DOCS.git
 ```
 
 * **安装** [node.js](https://nodejs.org/en/download) **环境**

@@ -40,12 +40,12 @@ export default hopeTheme({
   contributors: false,
   titleIcon: true,
 
-  repo: "https://github.com/MWDOCS/MW-MWT-DOCS/",
+  repo: "https://github.com/NetFoxWiki/MW-MWT-DOCS/",
 
   displayFooter: true,
 
   editLink: true,
-  docsRepo: "MWDOCS/MW-MWT-DOCS",
+  docsRepo: "NetFoxWiki/MW-MWT-DOCS",
   docsBranch: "gh-page",
   docsDir: "src",
 
