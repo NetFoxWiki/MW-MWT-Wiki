@@ -77,6 +77,7 @@ export const zhCNSidebar = sidebar([
 						icon: "anchor",
 						collapsible: true,
 						children: [
+							'zh/mw/collection/mw80.md',
 							'zh/mw/collection/mw79.md',
 							'zh/mw/collection/mw78.md',
 							'zh/mw/collection/mw77.md',
