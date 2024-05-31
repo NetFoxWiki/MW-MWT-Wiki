@@ -38,4 +38,4 @@ https://pd.qq.com/s/h27dr0db3
 
 ### MW & MWT 文档
 
-https://mw.netfox.wiki
+https://mwt.netfox.wiki
