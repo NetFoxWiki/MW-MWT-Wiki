@@ -11,7 +11,7 @@
 ## 尚益欧巴：回来吧正祖大王
 
 <VidStack
-  src="/syob.mp4"
+  src="video/syob.mp4"
 />
 
 ## 刀哥：加强利刃
@@ -21,5 +21,5 @@
 ## 曹道德：批判现代战舰
 
 <VidStack
-  src="/cdd.webm"
+  src="video/cdd.webm"
 />

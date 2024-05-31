@@ -15,7 +15,7 @@ cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 ```component VPCard
 title: 全站目录
 desc: 来自：MW & MWT 文档
-logo: ./favicon.ico
+logo: ./Logo-light.webp
 link: catalog.md
 color: #e2e1e4
 ```

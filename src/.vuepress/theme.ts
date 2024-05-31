@@ -34,7 +34,7 @@ export default hopeTheme({
   breadcrumb: true,
   breadcrumbIcon: true,
   toc: true,
-  pageInfo: ["Word", "ReadingTime", "Author", "Original", "PageView"],
+  pageInfo: ["Word", "ReadingTime", "Original", "Author",  "PageView"],
 
   lastUpdated: true,
   contributors: false,
@@ -53,6 +53,7 @@ export default hopeTheme({
   fullscreen: true,
   iconAssets: "fontawesome",
   darkmode: "switch",
+  externalLinkIcon: true,
 
   locales: {
     "/zh/": {
@@ -113,12 +114,12 @@ export default hopeTheme({
     seo: true,
     searchPro: {
       indexContent: true,
-      autoSuggestions: true,
+      autoSuggestions: false,
       worker: "MW-MWT-DOCS-Search.worker.js",
     },
     sitemap: true,
     photoSwipe: {
-      delay: 200,
+      delay: 800,
     },
     // You should generate and use your own comment service
     comment: {
