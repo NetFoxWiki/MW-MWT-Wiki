@@ -4,6 +4,8 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 # 特殊活动-大
 
+<ArchiveNotice />
+
 <InfoCom title="MWstats - 活动" content="获得更好的访问体验" button-text="点击访问" link="https://mwstats.info/events?lang=zh-hans"/>
 
 ## 巨兽之战 <Badge text="可玩性最高类" type="info" />（22.12.14）
