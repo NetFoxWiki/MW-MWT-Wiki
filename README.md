@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp">
+<img width="100%" src="https://statics.netfox.wiki/20240531/retouch_2024051914290424.4qr5sksrrr.webp">
 
 # MW & MWT 文档
 
