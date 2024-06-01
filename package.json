@@ -26,6 +26,7 @@
     "vuepress-theme-hope": "2.0.0-rc.47"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "pnpm": "^8.15.8"
   }
 }
