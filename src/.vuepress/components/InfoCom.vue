@@ -17,7 +17,7 @@ export default {
         <span class="InfoCom-content">
             <b>{{ content }}</b>
         </span>
-        <a :href="link" class="InfoCom-button" target="_blank"><b>{{ buttonText }}</b></a>
+        <a :href="link" class="InfoCom-button"><b>{{ buttonText }}</b></a>
     </div>
 </template>
 

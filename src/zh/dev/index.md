@@ -3,6 +3,8 @@
 :::danger 此区域被标记为不可见
 :::
 
+<InfoCom title="提问的智慧" content="How To Ask Questions The Smart Way" button-text="访问" link="How-To-Ask-Questions-The-Smart-Way.html"/>
+
 ## 网站信息
 
 **网站框架：[VuePress v2](https://vuepress.vuejs.org/zh/)**
