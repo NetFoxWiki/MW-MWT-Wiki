@@ -3,7 +3,7 @@
 :::danger 此区域被标记为不可见
 :::
 
-<InfoCom title="提问的智慧" content="How To Ask Questions The Smart Way" button-text="访问" link="How-To-Ask-Questions-The-Smart-Way.html"/>
+<InfoCom title="提问的智慧" content="How To Ask Questions The Smart Way" button-text="访问" link="how-to-ask-questions-the-smart-way.html"/>
 
 ## 网站信息
 
