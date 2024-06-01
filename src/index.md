@@ -12,7 +12,7 @@ actions:
     link: ./zh/
     type: primary
 
-  - text: MW丨现代战舰区
+  - text: MW丨现代战舰
     icon: tag
     link: ./zh/mw/
 
