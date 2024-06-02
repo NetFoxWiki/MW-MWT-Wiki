@@ -5,6 +5,7 @@ export default {
         content: '默认消息',
         buttonText: '默认消息',
         link: '/',
+        InfoPath: false,
     }
 }
 </script>
@@ -17,7 +18,8 @@ export default {
         <span class="InfoCom-content">
             <b>{{ content }}</b>
         </span>
-        <a :href="link" class="InfoCom-button"><b>{{ buttonText }}</b></a>
+        <router-link v-if="InfoPath" :to="link" class="InfoCom-button"><b>{{ buttonText }}</b></router-link>
+        <a v-else :href="link" class="InfoCom-button" target="_blank"><b>{{ buttonText }}</b></a>
     </div>
 </template>
 

@@ -9,8 +9,8 @@ export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
   title: "MW & MWT 文档",
-  /*head: [
-    ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
+  head: [
+    /*["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
       "link",
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
@@ -38,12 +38,25 @@ e.type='text/javascript';e.async=!0;
 e.src='https://static.howxm.com/sdk.js';
 t.parentNode.insertBefore(e,t)}})();
       `,
+    ],*/
+    [
+      "script",
+      {},
+      `
+      var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?25f0508b2da45f935d561dc0f25b3bf6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+      `,
     ],
-  ],*/
+  ],
   alias: {
     "@theme-hope/modules/sidebar/components/Sidebar": path.resolve(
       __dirname,
-      "./components/AD.vue",
+      "./components/Sidebar.vue",
     ),
     "@theme-hope/components/NormalPage": path.resolve(
       __dirname,
