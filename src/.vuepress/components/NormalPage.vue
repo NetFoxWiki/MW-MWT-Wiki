@@ -21,16 +21,16 @@ export default {
             const daysDiff = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24)));
             const daysDiffh = Math.abs(Math.floor(timeDiff / (1000 * 3600 * 24) / 7));
             const daysDiffnow = daysDiff - daysDiffh * 2;
-            if (this.totalProgress == 100 && this.totalProgress2 == 100) {
+            if (daysDiffnow >= 50 && daysDiff >= 50) {
                 this.totalProgress = '在不久的将来';
                 this.totalProgress2 = '在不久的将来';
             } else {
-                if (this.totalProgress >= 100 && this.totalProgress2 < 100) {
+                if (daysDiffnow >= 50 && daysDiff <= 50) {
                     this.totalProgress = '在不久的将来';
                     this.totalProgress2 = daysDiff * 2 + '%';
-                } else if (this.totalProgress < 100 && this.totalProgress2 >= 100) {
-                    this.totalProgress2 = '在不久的将来';
+                } else if (daysDiffnow <= 50 && daysDiff >= 50) {
                     this.totalProgress = daysDiffnow * 2 + '%';
+                    this.totalProgress2 = '在不久的将来';
                 } else {
                     this.totalProgress = daysDiffnow * 2 + '%';
                     this.totalProgress2 = daysDiff * 2 + '%';

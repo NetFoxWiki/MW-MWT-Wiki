@@ -67,6 +67,11 @@ export default {
             </div>
         </template>
         <template #bottom>
+            <div class="hr-sidebar">
+                <b>公告栏</b>
+                <br>
+                <small>Notice Board</small>
+            </div>
             <div class="ad-main">
                 <a href="https://pd.qq.com/s/h27dr0db3">
                     <img class="ad-banner" src="https://statics.netfox.wiki/20240512/channels4_banner.1zi2t75wov.webp">
@@ -80,10 +85,18 @@ export default {
 </template>
 
 <style>
+.hr-sidebar {
+    background-color: var(--theme-color);
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+
 .tips-main {
     box-shadow: 0 0 2px var(--theme-color);
     border-radius: 5px;
-    margin: 10px 10px 10px 10px;
+    margin: 10px;
     padding: 5px;
     color: var(--theme-color);
     text-align: center;
