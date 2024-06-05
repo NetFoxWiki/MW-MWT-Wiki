@@ -54,7 +54,7 @@ export default {
                     </div>
                     <div class="mwt-banner-main">
                         <div class="mwt-banner-progress">
-                            <b>实际进度：</b>
+                            <b>预估进度：</b>
                             <b style="color: #add8fb;">{{ totalProgress }}</b>
                             <br>
                             <b>理想进度：</b>
