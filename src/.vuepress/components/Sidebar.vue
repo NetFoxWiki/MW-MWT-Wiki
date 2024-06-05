@@ -80,6 +80,14 @@ export default {
                     </b>
                 </a>
             </div>
+            <div class="ad-main">
+                <router-link to="/zh/mw/mw-game-lottery.html">
+                    <img class="ad-banner" src="https://statics.netfox.wiki/20240302/world-banner.5c0pu50s17.webp">
+                    <b class="ad-text">
+                        游戏抽奖模拟，试试你的运气？
+                    </b>
+                </router-link>
+            </div>
         </template>
     </NetFoxWiki>
 </template>
@@ -90,7 +98,10 @@ export default {
     color: #fff;
     text-align: center;
     margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
     padding: 5px;
+    border-radius: 10px;
 }
 
 .tips-main {

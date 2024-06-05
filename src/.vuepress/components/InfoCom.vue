@@ -18,8 +18,8 @@ export default {
         <span class="InfoCom-content">
             <b>{{ content }}</b>
         </span>
-        <router-link v-if="InfoPath" :to="link" class="InfoCom-button"><b>{{ buttonText }}</b></router-link>
-        <a v-else :href="link" class="InfoCom-button" target="_blank"><b>{{ buttonText }}</b></a>
+        <router-link v-if="InfoPath" :to="link" class="InfoCom-button">{{ buttonText }}</router-link>
+        <a v-else :href="link" class="InfoCom-button" target="_blank">{{ buttonText }}</a>
     </div>
 </template>
 
@@ -33,6 +33,8 @@ export default {
     margin-bottom: 10px;
     margin-top: 10px;
     padding: 20px 40px 35px 40px;
+    background-image: url('/bg4.svg');
+    background-size: cover;
 }
 
 .InfoCom-main:hover {
@@ -51,7 +53,9 @@ export default {
 
 .InfoCom-button {
     font-size: 25px;
+    font-weight: bold;
     text-decoration: none !important;
+    color: var(--theme-color);
     background-color: var(--theme-color-mask);
     padding: 7px 12px 9px 12px;
     border-radius: 5px;

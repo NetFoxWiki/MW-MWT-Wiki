@@ -43,6 +43,11 @@ export const zhCNSidebar = sidebar([
 				icon: "closed-captioning",
 			},
 			{
+				text: "游戏抽奖模拟[实验]",
+				link: 'zh/mw/mw-game-lottery.md',
+				icon: "bullseye",
+			},
+			{
 				text: '游戏下载',
 				icon: "play",
 				prefix: "zh/mw/download/",
