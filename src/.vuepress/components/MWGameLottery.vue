@@ -72,7 +72,7 @@ export default {
                 }
             }
             if (number[MaxNumber] == undefined) {
-                this.MaxLottery = ''
+                this.MaxLottery = '有重复奖励/还未抽奖'
             } else {
                 this.MaxLottery = MaxNumber + ' - 出现' + number[MaxNumber] + '次'
             }
@@ -129,7 +129,7 @@ export default {
             <button class="lottery-button" @click="lotteryResult()">抽奖总结</button>
         </div>
         <br>
-        <div class="lottery-list-h" v-if="lotteryShow">总共抽奖：{{ 10000 - coin }} 次<br>中奖最多的：<br>{{ MaxLottery }}</div>
+        <div class="lottery-list-results-now" v-if="lotteryShow" ><img src="/MWGame-Lottery.jpg" width="150px" style="border-radius: 15px;">&emsp;总共抽奖：{{ 10000 - coin }} 次<br>&emsp;中奖最多：<br>&emsp;&emsp;{{ MaxLottery }}</div>
         <div class="lottery-list-h">==历史记录==</div>
         <div class="lottery-list-2" v-for="(item) in lotteryHistory.slice().reverse()">
             <b>{{ item }}</b>
@@ -205,6 +205,18 @@ export default {
     max-width: 100%;
     color: #fff;
     text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 2px 0 2px 0;
+    border-radius: 5px;
+    background-color: var(--theme-color);
+}
+
+.lottery-list-results-now {
+    display: flex;
+    max-width: 100%;
+    color: #fff;
     font-size: 20px;
     font-weight: bold;
     padding: 10px;
