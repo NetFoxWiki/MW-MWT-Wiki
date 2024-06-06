@@ -66,7 +66,7 @@ pnpm run docs:build
 
 **格式：**
 
-> [Repair] + 内容...
+> [Fix] + 内容...
 
 ### 网站 BUG 修复
 
