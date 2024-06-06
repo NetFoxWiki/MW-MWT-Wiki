@@ -130,7 +130,7 @@ export default {
         </div>
         <br>
         <div class="lottery-list-results-now" v-if="lotteryShow"><img
-                src="https://statics.netfox.wiki/20240606/MWGame-Lottery.2dojjxnrfy.webp" width="150px"
+                src="https://statics.netfox.wiki/20240606/MWGame-Lottery.2dojjxnrfy.webp" width="100px"
                 style="border-radius: 15px;">&emsp;总共抽奖：{{ 10000 - coin }} 次<br>&emsp;中奖最多：<br>&emsp;&emsp;{{ MaxLottery
             }}</div>
         <div class="lottery-list-h">==历史记录==</div>
