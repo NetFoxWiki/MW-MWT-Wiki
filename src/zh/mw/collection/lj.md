@@ -42,6 +42,9 @@ https://t.me/MW_ARABS_CHANNEL
 
 https://www.reddit.com/r/ModernWarships
 
+### QQ频道
+
+https://pd.qq.com/s/f0oylihze
 
 ## 非官方网站
 
