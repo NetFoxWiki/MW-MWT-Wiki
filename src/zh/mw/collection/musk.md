@@ -2,11 +2,7 @@
 cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 ---
 
-# 特殊活动-大
-
-<ArchiveNotice />
-
-<InfoCom title="MWstats - 活动" content="获得更好的访问体验" button-text="点击访问" link="https://mwstats.info/events?lang=zh-hans"/>
+# 大型特殊活动简写介绍
 
 ## 巨兽之战 <Badge text="可玩性最高类" type="info" />（22.12.14）
 
@@ -175,7 +171,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 ![海之日](https://statics.netfox.wiki/20240302/e931cef1a3c82bec519142c7a300c832_720.1e8cdgpra0.webp)
 
-## 猎物之海 - 现代军舰（23.8.10）
+## 狩猎之海 - 现代军舰（23.8.10）
 
 **游戏模式：**
 
@@ -200,7 +196,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![猎物之海](https://statics.netfox.wiki/20240302/cdc42db9a8e4f453cb9382c4d718688e_720.7p3cbcel3j.webp)
+![狩猎之海](https://statics.netfox.wiki/20240302/cdc42db9a8e4f453cb9382c4d718688e_720.7p3cbcel3j.webp)
 
 ## 海盗嘉年华（23.9.10）
 
@@ -260,7 +256,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 ![来自深处](https://statics.netfox.wiki/20240302/image.7i04fwsfp2.webp)
 
-## 猎物之海2 - 王权之巅（23.11.10）
+## 狩猎之海2 - 王权之巅（23.11.10）
 
 **游戏模式：**
 
@@ -288,7 +284,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 :::
 
-![猎物之海2](https://statics.netfox.wiki/20240302/1f3656183dac711c7b42a0a480d720a4_720.839s27oe1o.webp)
+![狩猎之海2](https://statics.netfox.wiki/20240302/1f3656183dac711c7b42a0a480d720a4_720.839s27oe1o.webp)
 
 ## 金属霜冻（23.12.13）
 
@@ -405,7 +401,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 ![沙丘抗争](https://statics.netfox.wiki/20240307/MWLiveOps_Event_DS24_banner_0.77_1920x1080.lvh3isd7q.webp)
 
-## 猎物之海3 - 斑马（24.4.12）
+## 狩猎之海3 - 斑马（24.4.12）
 
 **游戏模式：**
 
@@ -429,7 +425,7 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 <https://modernwarships.com/news/modern-warships-seas-of-prey-3>
 :::
 
-![猎物之海3](https://statics.netfox.wiki/20240411/MW_Event_SP03_promoposter_0.78_1920x1080_3278a6ca36ae8fddb5a939bc3ac545a4.5mnl91y0y9.webp)
+![狩猎之海3](https://statics.netfox.wiki/20240411/MW_Event_SP03_promoposter_0.78_1920x1080_3278a6ca36ae8fddb5a939bc3ac545a4.5mnl91y0y9.webp)
 
 ## 不明威胁（24.5.13）
 
@@ -456,3 +452,30 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 :::
 
 ![不明威胁](https://statics.netfox.wiki/20240512/MW_Event_BFE_banner_0.79_1920x1080_26e2227a66178bb69f2b433daa689dfa.26lapb0btn.webp)
+
+## 狩猎之海4 - 变节者（24.6.7）
+
+**游戏模式：**
+
+多队混战模式
+
+> **礼包奖励**
+>>
+>>- **深海领主礼包** - JS Taigei 潜艇
+>>- **夜之力量礼包** - “午夜城堡”涂装
+
+> **抽奖**
+>>
+>>- **超级军旗** - 武器种类广泛的法国舰载反舰攻击机
+>>- **法国核动力航空母舰FS Charles De Gaulle (R91)** - 其配备了强大的发电系统，体积紧凑，机动能力强，能够在战场上快速改变位置。该航母没有进攻性武器，但配备了多级防空武器，包括三座可更换的的响尾蛇R440点防空系统，五座锁定萨德拉尔点防空导弹和一组海上拦截者垂发防空导弹。除了防空系统外，该舰还有两组直升机安装槽。该航空母舰的主要特点是能够携带两组攻击机，如果正确选配部署在该航母上，可以使该舰成为海上的最持续作战力量
+>>- **双联装 JM61-RFS(20mm) 近防炮** - 是JM61-RFS现代化改造成果，增加了另一组六管炮。升级包括的一组额外的炮管可提高火力密度，更有效拦截空中威胁
+
+> **免费奖励**
+>>
+>>- **HVGP（Block I）** - 这是一型先进的日本远程激光制导高超音速导弹
+
+:::details 查看详细信息
+<https://modernwarships.com/news/modern-warships-seas-of-prey-4>
+:::
+
+![狩猎之海4 - 变节者](https://statics.netfox.wiki/20240607/fc3e3b85-fdba-49a9-b5e2-9db4da989e12.5j41kpqmqc.webp)
