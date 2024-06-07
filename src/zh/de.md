@@ -21,7 +21,7 @@ Modern Warships 或 MWT: Tank Battles 的名称以及任何相关名称、标志
 ## 制作者
 
 ```component VPCard
-title: ᕡᕮᔨᖼᐃᘥ
+title: 洛溪_咕咕
 logo: https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg
 link: https://github.com/NetFoxQwQ
 desc: 网狐社丨文档制作、编写、美术
