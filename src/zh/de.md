@@ -20,13 +20,7 @@ Modern Warships 或 MWT: Tank Battles 的名称以及任何相关名称、标志
 
 ## 制作者
 
-```component VPCard
-title: 洛溪_咕咕
-logo: https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg
-link: https://github.com/NetFoxQwQ
-desc: 网狐社丨文档开发、编写、美术
-color: #fff
-```
+<InfoCard name="洛溪_咕咕" showAvatar="true" who="网狐社" title="开发、编写、美术" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg"/>
 
 ## 贡献者
 
@@ -34,56 +28,21 @@ color: #fff
 **支持我们？**[给我们发送第一份页面](markdown/index.md) 或 **等待被我们发现与收录（bushi）**
 :::
 
-```component VPCard
-title: Meteor
-logo: https://q.qlogo.cn/headimg_dl?dst_uin=1745778691&spec=640&img_type=jpg
-desc: 网狐社丨文档编写、美术
-color: #fff
-```
+<InfoCard name="Meteor" showAvatar="true" who="网狐社" title="编写、美术" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=1745778691&spec=640&img_type=jpg"/>
 
-```component VPCard
-title: 萨卡班偷笑鱼
-logo: https://q.qlogo.cn/headimg_dl?dst_uin=3552218786&spec=640&img_type=jpg
-desc: 网狐社丨文档编写
-color: #fff
-```
+<InfoCard name="萨卡班偷笑鱼" showAvatar="true" who="网狐社" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3552218786&spec=640&img_type=jpg"/>
 
-```component VPCard
-title: 威林
-logo: https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg
-desc: 网狐社丨文档编写
-color: #fff
-```
+<InfoCard name="威林" showAvatar="true" who="贡献者" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg"/>
 
 ## 赞助者
 
 **支持我们？**
 [![](https://statics.netfox.wiki/20240302/VT9U2fmM.101wmlhgiu.webp =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
 
-```component VPCard
-title: Legosi
-logo: https://pic1.afdiancdn.com/default/avatar/avatar-purple.png
-desc: 赞助
-color: #fff
-```
+<InfoCard name="琉璃" showAvatar="true" who="赞助者" title="来自爱发电" description="" avatarlink="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png"/>
 
-```component VPCard
-title: ZEEKR
-logo: https://pic1.afdiancdn.com/default/avatar/avatar-purple.png
-desc: 赞助
-color: #fff
-```
+<InfoCard name="ZEEKR" showAvatar="true" who="赞助者" title="来自爱发电" description="" avatarlink="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png"/>
 
-```component VPCard
-title: 琉璃
-logo: https://pic1.afdiancdn.com/default/avatar/avatar-purple.png
-desc: 赞助
-color: #fff
-```
+<InfoCard name="Legosi" showAvatar="true" who="赞助者" title="来自爱发电" description="" avatarlink="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png"/>
 
-```component VPCard
-title: 小鹿芃芃
-logo: https://pic1.afdiancdn.com/default/avatar/avatar-purple.png
-desc: 赞助
-color: #fff
-```
+<InfoCard name="小鹿芃芃" showAvatar="true" who="赞助者" title="来自爱发电" description="" avatarlink="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png"/>

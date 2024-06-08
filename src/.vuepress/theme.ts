@@ -94,23 +94,24 @@ export default hopeTheme({
 
   plugins: {
     //blog: true,
+    /*
     notice: [
-      /*{
-        path: "/zh/mw/",
-        title: "网狐社运营团队",
-        content: "下载游戏来试试吧",
+      {
+        path: "",
+        title: "",
+        content: "",
         actions: [
           {
-            text: "下载游戏",
-            link: "/download",
+            text: "",
+            link: "",
             type: "primary",
           },
-          { text: "史" },
+          { text: "" },
         ],
         showOnce: false,
         confirm: true,
-      },*/
-    ],
+      },
+    ],*/
     seo: true,
     searchPro: {
       indexContent: true,
@@ -147,6 +148,7 @@ export default hopeTheme({
       tasklist: true,//任务列表
       component: true,//组件
       figure: true,//图片
+      imgLazyload: false,
       imgSize: true,
       align: true,//自定义对齐
       chart: true,//图表
