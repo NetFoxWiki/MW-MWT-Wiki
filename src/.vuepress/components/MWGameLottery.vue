@@ -4,20 +4,16 @@ export default {
         return {
             coin: 10000,
             lotteryList: [
-                { name: 'HMS UXV Combatant', probability: 0.01 },
-                { name: '10 艺术硬币', probability: 0.2 },
-                { name: '伊斯坎德尔', probability: 0.01 },
-                { name: '1 天高级账户', probability: 0.3 },
-                { name: 'FGS F124', probability: 0.01 },
-                { name: '雅克-141"自由"', probability: 0.04 },
-                { name: '3 派对代币', probability: 0.03 },
-                { name: '20 黄金', probability: 0.25 },
-                { name: '青铜', probability: 0.04 },
-                { name: '15 黄金', probability: 0.2 },
-                { name: '[欧瑞康]HEL', probability: 0.04 },
-                { name: '5 艺术硬币', probability: 0.08 },
-                { name: 'A129 CBT"猫鼬"', probability: 0.04 },
-                { name: '派对代币', probability: 0.04 },
+                { name: 'FS Charles de Gaulle (R91)', probability: 0.0005 },
+                { name: '5 艺术硬币', probability: 0.2325 },
+                { name: '超级军旗', probability: 0.0053 },
+                { name: '活动通行证积分加成', probability: 0.1 },
+                { name: '15 遥控器', probability: 0.575 },
+                { name: '1 天高级账户', probability: 0.015 },
+                { name: '金顶', probability: 0.055 },
+                { name: 'A-220M (57 mm)', probability: 0.0007 },
+                { name: '阿卡亚(533 mm)', probability: 0.001 },
+                { name: '灰青', probability: 0.015 },
             ],
             lotteryHistory: [],
             lotteryResults: '还没抽哦',
@@ -139,7 +135,7 @@ export default {
         </div>
         <div class="lottery-list-h">==抽奖奖励==</div>
         <div class="lottery-list" v-for="(item, index) in lotteryList">
-            <b>{{ index + 1 }}.</b> {{ item.name }}【概率：{{ item.probability * 100 + '%' }}】<br>
+            <b>{{ index + 1 }}.</b> {{ item.name }}【概率：{{ item.probability * 10 * 10 + '%' }}】<br>
         </div>
     </div>
 </template>
