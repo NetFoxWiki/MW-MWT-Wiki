@@ -4,15 +4,15 @@ export default {
         return {
             coin: 10000,
             lotteryList: [
-                { name: 'FS Charles de Gaulle (R91)', probability: 0.0005 },
+                { name: 'FS Charles de Gaulle (R91)【稀罕物】', probability: 0.0005 },
                 { name: '5 艺术硬币', probability: 0.2325 },
-                { name: '超级军旗', probability: 0.0053 },
+                { name: '超级军旗【稀罕物】', probability: 0.0053 },
                 { name: '活动通行证积分加成', probability: 0.1 },
                 { name: '15 遥控器', probability: 0.575 },
                 { name: '1 天高级账户', probability: 0.015 },
                 { name: '金顶', probability: 0.055 },
-                { name: 'A-220M (57 mm)', probability: 0.0007 },
-                { name: '阿卡亚(533 mm)', probability: 0.001 },
+                { name: 'A-220M (57 mm)【稀罕物】', probability: 0.0007 },
+                { name: '阿卡亚(533 mm)【稀罕物】', probability: 0.001 },
                 { name: '灰青', probability: 0.015 },
             ],
             lotteryHistory: [],
@@ -21,7 +21,8 @@ export default {
             displayLotteryItems: [],
             lotteryShow: false,
             LotteryButton: false,
-            LotteryButtonText: '开始抽奖',
+            LotteryButtonText: '单次抽奖',
+            LotteryButtonTextBYTEN: '十次抽奖',
             MaxLottery: '',
             whileList: 0,
         }
@@ -33,6 +34,27 @@ export default {
             } else {
                 this.lotteryShow = true;
             }
+        },
+        beforeLotteryTEN() {
+            this.LotteryButton = true;
+            this.LotteryButtonTextBYTEN = '正在抽奖...';
+            const displayInterval = 60;
+            const randomIndex = Math.floor(Math.random() * this.lotteryList.length);
+            if (this.whileList < 35) {
+                setTimeout(this.beforeLotteryTEN, displayInterval);
+                this.lotteryResults = this.lotteryList[randomIndex].name;
+                this.whileList = this.whileList + 1;
+            } else {
+                this.whileList = 0;
+                this.LotteryButton = false;
+                this.LotteryButtonTextBYTEN = '十次抽奖';
+                let TEN = 0
+                while (TEN < 10) {
+                    this.startLottery();
+                    TEN++;
+                }
+            };
+            this.lotteryHistoryShow();
         },
         beforeLottery() {
             this.LotteryButton = true;
@@ -46,9 +68,12 @@ export default {
             } else {
                 this.whileList = 0;
                 this.LotteryButton = false;
-                this.LotteryButtonText = '开始抽奖';
+                this.LotteryButtonText = '单次抽奖';
                 this.startLottery();
             };
+            this.lotteryHistoryShow();
+        },
+        lotteryHistoryShow() {
             var number = {};
             var MaxNumber = [];
             var MaxNum = 0;
@@ -72,7 +97,6 @@ export default {
             } else {
                 this.MaxLottery = MaxNumber + ' - 出现' + number[MaxNumber] + '次'
             }
-
         },
         startLottery() {
             this.coin -= 1;
@@ -92,7 +116,6 @@ export default {
             this.lotteryHistory.push(selectedLotteryItem);
             this.lotteryResults = selectedLotteryItem;
             this.lotteryTimes++;
-
             this.displayLotteryItems = this.shuffleArray(this.lotteryList.map(item => item.name));
         },
         shuffleArray(array) {
@@ -122,13 +145,16 @@ export default {
         <div class="lottery-control">
             <button class="lottery-button" @click="beforeLottery()" :disabled="LotteryButton">{{ LotteryButtonText
                 }}</button>
+            <button class="lottery-button" @click="beforeLotteryTEN()" :disabled="LotteryButton">{{
+                LotteryButtonTextBYTEN }}</button>
             <button class="lottery-button" @click="lotteryResult()">抽奖总结</button>
         </div>
         <br>
-        <div class="lottery-list-results-now" v-if="lotteryShow"><img
-                src="https://statics.netfox.wiki/20240606/MWGame-Lottery.2dojjxnrfy.webp" width="100px"
-                style="border-radius: 15px;">&emsp;总共抽奖：{{ 10000 - coin }} 次<br>&emsp;中奖最多：<br>&emsp;&emsp;{{ MaxLottery
-            }}</div>
+        <div class="lottery-list-results-now" v-if="lotteryShow">
+            <img src="https://statics.netfox.wiki/20240606/MWGame-Lottery.2dojjxnrfy.webp" width="100px"
+                style="border-radius: 15px;">&emsp;总共抽奖：{{ 10000 - coin }} 次<br>&emsp;中奖最多：<br>&emsp;{{ MaxLottery
+            }}
+        </div>
         <div class="lottery-list-h">==历史记录==</div>
         <div class="lottery-list-2" v-for="(item) in lotteryHistory.slice().reverse()">
             <b>{{ item }}</b>
@@ -244,7 +270,7 @@ export default {
 }
 
 .lottery-show-results {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 
