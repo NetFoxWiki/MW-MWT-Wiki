@@ -57,6 +57,7 @@ export default {
     text-decoration: none !important;
     color: var(--theme-color);
     background-color: var(--theme-color-mask);
+    border: none;
     padding: 7px 12px 9px 12px;
     border-radius: 5px;
     text-align: center;

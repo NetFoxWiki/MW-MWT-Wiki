@@ -6,9 +6,7 @@ import ArchiveNotice from "./components/ArchiveNotice.vue"
 import MWGameLottery from "./components/MWGameLottery.vue"
 import InfoCard from "./components/InfoCard.vue"
 
-
 //import NotFound from "./layouts/404NotFound.vue";
-//import HomePage from "./layouts/HomePage.vue";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
@@ -19,6 +17,5 @@ export default defineClientConfig({
   },
   layouts: {
     //NotFound,
-    //HomePage,
   },
 });
