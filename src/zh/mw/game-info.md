@@ -2,7 +2,7 @@
 
 ## 宣传片（转载）
 
-<BiliBili bvid="BV1dN411J7no" />
+<BiliBili bvid="BV1nm4y1g78T" />
 
 ## 游戏简介
 

@@ -46,8 +46,6 @@ color: #e2e1e4
 “利刃”舰（全能舰概念舰） 在2017年第十一届中国发明家论坛上，马伟明院士做了主题报告，其中提到了“全能舰”概念。全能舰设想中希望单艘舰艇就可以实现系统防空、反潜和对海、对岸的精确打击。在《现代战舰》中，“利刃”设定为中国近未来巡洋舰级别舰艇预期概念，即全能舰设计概念试验舰。该舰配备多种先进武器，包括4门轨道炮、超音速反舰导弹、弹道导弹以及强大的防空系统。
 :::
 
-<BiliBili bvid="BV1Tw411x7c4" />
-
 ## 麒麟 [CN DDG-203 Kylin](https://mwstats.info/ships/cn-ddg-203-kylin-4vjutymm?lang=zh-hans)
 
 ![麒麟](https://statics.netfox.wiki/20240302/dfa1589136d25ed090ab488f1ca3b16e8483595.png@1192w_510h_1c.4xua417ncz.webp)
