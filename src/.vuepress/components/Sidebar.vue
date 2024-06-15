@@ -8,7 +8,7 @@ export default {
     },
     data() {
         return {
-            GameTips: 'Σ(⊙▽⊙"a，被玩坏了',
+            GameTips: 'Σ(⊙▽⊙"a，出 BUG 了',
             TipsTypeChooseID: 0,
             TipsTypeChoose: ['MW丨现代战舰', 'MWT丨现代战争：坦克'],
             TipsTypeChooseContent: '???',
@@ -27,6 +27,7 @@ export default {
             ],
             TipsContentByMWT: [
                 '加入涉及坦克、无人机和飞机的高科技陆空战！',
+                '首轮封测会限制在100人以内，来测试服务器稳定性',
                 'ArtStorm 大饼，百年老字号',
                 '游戏将在不久的将来上线',
             ],
@@ -82,7 +83,6 @@ export default {
             </div>
             <div class="ad-main">
                 <router-link to="/zh/mw/mw-game-lottery.html">
-                    <img class="ad-banner" src="https://statics.netfox.wiki/20240302/world-banner.5c0pu50s17.webp">
                     <b class="ad-text">
                         游戏抽奖模拟，试试你的运气？
                     </b>
@@ -100,8 +100,8 @@ export default {
     margin-top: 10px;
     margin-left: 5px;
     margin-right: 5px;
-    padding: 5px;
-    border-radius: 10px;
+    padding: 2px;
+    border-radius: 5px;
 }
 
 .tips-main {
@@ -129,10 +129,9 @@ export default {
 
 .ad-main {
     box-shadow: 0 0 2px var(--theme-color);
-    border-bottom: 10px var(--theme-color-dark) solid;
     border-radius: 5px;
     margin: 10px;
-    padding: 2px 2px 5px 2px;
+    padding: 2px;
     text-align: center;
 }
 

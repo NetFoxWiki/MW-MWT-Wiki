@@ -48,6 +48,22 @@ export default {
     <Page>
         <template #contentBefore>
             <div class="theme-hope-content">
+                <div class="qq-main">
+                    <div class="qq-logo">
+                        <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
+                    </div>
+                    <div>
+                        <Badge text="加入项目开发群组，了解更多内容：" type="info" />
+                        <br>&emsp;
+                        <Badge text="1. 令人惊奇的想法，让人信服的建议" type="info" />
+                        <br>&emsp;
+                        <Badge text="2. 和更多人交流游戏内容" type="info" />
+                        <br><a
+                            href="https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260">
+                            <Badge text="点击加入" type="warning" />
+                        </a>
+                    </div>
+                </div>
                 <div class="mwt-banner">
                     <div class="mwt-banner-logo">
                         <MWTSVG />
@@ -71,6 +87,24 @@ export default {
 </template>
 
 <style>
+.qq-main {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 10px var(--theme-color-light);
+    border-radius: 5px;
+    border: 2px var(--theme-color-dark) solid;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.qq-logo {
+    height: 100%;
+    background-color: var(--theme-color-light);
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
 .mwt-banner {
     display: flex;
     margin-bottom: -20px;

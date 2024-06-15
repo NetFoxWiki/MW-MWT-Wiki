@@ -80,6 +80,9 @@ t.parentNode.insertBefore(e,t)}})();
   theme,
   plugins: [
     redirectPlugin({
+      config: {
+        '/dmw': '/zh/mw/download/app.html',
+      },
       autoLocale: false,
       switchLocale: "modal",
     }),

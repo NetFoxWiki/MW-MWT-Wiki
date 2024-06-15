@@ -28,7 +28,7 @@ export const zhCNSidebar = sidebar([
 				icon: "bug",
 			},
 			{
-				text: "关于游戏",
+				text: "游戏信息",
 				link: 'zh/mw/game-info.md',
 				icon: "fire",
 			},
