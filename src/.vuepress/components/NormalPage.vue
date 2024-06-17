@@ -53,14 +53,14 @@ export default {
                         <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
                     </div>
                     <div>
-                        <Badge text="加入项目开发群组，了解更多内容：" type="info" />
-                        <br>&emsp;
-                        <Badge text="1. 令人惊奇的想法，让人信服的建议" type="info" />
-                        <br>&emsp;
-                        <Badge text="2. 和更多人交流游戏内容" type="info" />
+                        <b>加入项目开发群组，了解更多内容：</b>
+                        <br>
+                        1. 令人惊奇的想法，让人信服的建议
+                        <br>
+                        2. 和更多人交流游戏内容
                         <br><a
                             href="https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260">
-                            <Badge text="点击加入" type="warning" />
+                            点击加入
                         </a>
                     </div>
                 </div>

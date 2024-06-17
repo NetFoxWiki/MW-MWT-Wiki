@@ -7,6 +7,8 @@ import MWGameLottery from "./components/MWGameLottery.vue"
 import InfoCard from "./components/InfoCard.vue"
 import OC from "./components/OC.vue";
 //import NotFound from "./layouts/404NotFound.vue";
+import { clerkPlugin } from 'vue-clerk';
+import { zhCN } from "@clerk/localizations";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
@@ -15,6 +17,10 @@ export default defineClientConfig({
     app.component("InfoCard", InfoCard);
     app.component("ArchiveNotice", ArchiveNotice);
     app.component("MWGameLottery", MWGameLottery);
+    app.use(clerkPlugin, {
+      publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',
+      localization: zhCN,
+    })
   },
   layouts: {
     //NotFound,
