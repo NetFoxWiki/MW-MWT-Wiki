@@ -43,7 +43,7 @@ export const zhCNSidebar = sidebar([
 				icon: "closed-captioning",
 			},
 			{
-				text: "游戏抽奖模拟[实验]",
+				text: "游戏抽奖模拟",
 				link: 'zh/mw/mw-game-lottery.md',
 				icon: "bullseye",
 			},
@@ -248,9 +248,22 @@ export const zhCNSidebar = sidebar([
 		icon: "code-branch",
 		collapsible: true,
 		children: [
-			'zh/branch/mw-card/index.md',
-			{ text: '现代战舰资料卡生成', link: 'https://mwapp.netfox.wiki/mw-card/' },
-			{ text: '现代战舰资料卡生成 v2 [推荐]', link: 'https://mwapp.netfox.wiki/mw-card/v2' },
+			{
+				text: '站内',
+				icon: "lemon",
+				collapsible: true,
+				children: [
+					'zh/branch/mw-card/index.md',
+				],
+			},
+			{
+				text: '站外',
+				icon: "paper-plane",
+				collapsible: true,
+				children: [
+					{ text: '现代战舰资料卡生成 v2', link: 'https://mwapp.netfox.wiki/mw-card/v2' },
+				],
+			},
 		],
 	},
 	{

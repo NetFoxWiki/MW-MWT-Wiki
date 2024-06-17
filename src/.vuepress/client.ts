@@ -5,11 +5,12 @@ import InfoCom from "./components/InfoCom.vue";
 import ArchiveNotice from "./components/ArchiveNotice.vue"
 import MWGameLottery from "./components/MWGameLottery.vue"
 import InfoCard from "./components/InfoCard.vue"
-
+import OC from "./components/OC.vue";
 //import NotFound from "./layouts/404NotFound.vue";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
+    app.component("OC", OC);
     app.component("InfoCom", InfoCom);
     app.component("InfoCard", InfoCard);
     app.component("ArchiveNotice", ArchiveNotice);

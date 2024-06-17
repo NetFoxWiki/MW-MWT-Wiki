@@ -3,10 +3,10 @@ import { navbar } from "vuepress-theme-hope";
 export const zhCNNavbar = navbar([
   {
     text: "联系我们",
-    icon: "handshake",
+    icon: "mug-hot",
     children: [
       {
-        text: "联系/讨论/合作",
+        text: "联系/讨论",
         children: [
           //{ text: "Fanbook", icon: "repo", link: "https://in.fanbook.cn/DeIe6FCe" },
           { text: "QQ 群组", icon: "comment", link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260" },
