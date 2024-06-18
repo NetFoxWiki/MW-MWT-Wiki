@@ -1,12 +1,12 @@
 <script>
 import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.js";
 import 'animate.css';
-import Clerk from "./Clerk.vue";
+import ClerkMain from "./ClerkMain.vue";
 
 export default {
     components: {
         NetFoxWiki,
-        Clerk,
+        ClerkMain,
     },
     data() {
         return {
@@ -61,7 +61,7 @@ export default {
 <template>
     <NetFoxWiki>
         <template #top>
-            <Clerk />
+            <ClerkMain />
             <div class="tips-main">
                 <b class="tips-content">
                     Tips：<span class="animate__animated animate__flash">{{ GameTips }}</span>
@@ -114,10 +114,6 @@ export default {
     padding: 5px;
     color: var(--theme-color);
     text-align: center;
-}
-
-.tips-main:hover {
-    box-shadow: 0 0 5px var(--theme-color);
 }
 
 .tips-content {

@@ -1,23 +1,23 @@
 <script setup>
 import { SignInButton, UserButton, useAuth, SignUpButton } from 'vue-clerk'
-const { isSignedIn } = useAuth()
+const { isSignedIn, isLoaded } = useAuth()
 </script>
 
 <template>
-    <div class="clerk-user">
-            <UserButton v-if="isSignedIn" showName="true"/>
-            <div v-else>
-                <SignInButton v-slot="{ handler }">
-                    <button @click="handler" class="clerk-button">
-                        登录
-                    </button>
-                </SignInButton>
-                <SignUpButton v-slot="{ handler }">
-                    <button @click="handler" class="clerk-button">
-                        注册
-                    </button>
-                </SignUpButton>
-            </div>
+    <div class="clerk-user" v-if="isLoaded">
+        <UserButton v-if="isSignedIn" showName="true" />
+        <div v-else>
+            <SignInButton v-slot="{ handler }">
+                <button @click="handler" class="clerk-button">
+                    登录
+                </button>
+            </SignInButton>
+            <SignUpButton v-slot="{ handler }">
+                <button @click="handler" class="clerk-button">
+                    注册
+                </button>
+            </SignUpButton>
+        </div>
         <small class="tips-by">Beta 功能</small>
     </div>
 </template>

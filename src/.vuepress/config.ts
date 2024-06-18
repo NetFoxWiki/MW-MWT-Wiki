@@ -68,16 +68,17 @@ t.parentNode.insertBefore(e,t)}})();
       lang: "zh-CN",
       title: "MW & MWT 文档",
     },
-    "/en/": {
+    /*"/en/": {
       lang: "en-US",
       title: "MW & MWT Docs",
-    },
+    },*/
   },
   theme,
   plugins: [
     redirectPlugin({
       config: {
         '/dmw': '/zh/mw/download/app.html',
+        '/zh': '/zh/'
       },
       autoLocale: false,
       switchLocale: "modal",

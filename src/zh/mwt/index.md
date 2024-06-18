@@ -5,6 +5,8 @@ shortTitle: MWT丨现代战争：坦克
 
 # 你好，指挥官！
 
+<MWTTime />
+
 :::important MWT: Tank Battles — 预告片公开
 :::
 

@@ -8,12 +8,6 @@ link: https://teletype.in/@modernwarships/pay_web_apk_cn
 color: #e2e1e4
 ```
 
-:::caution 温馨提示
-
-图片直接索取于源站图片，使用 wsrv.nl 技术加速访问。但仍有可能无法访问或访问过慢，请见谅！！！
-
-:::
-
 ## 注意，指挥官们
 
 由于支付系统的限制，我们来自某些国家/地区的玩家在尝试进行游戏内购买时可能会遇到困难。
@@ -78,13 +72,13 @@ color: #e2e1e4
 
 1. **确保您的游戏帐户与您的 Artstorm 帐户相关联**（电子邮件地址 + 密码）。为此，请转到“**设置**”->“**帐户**”。
 
-![](https://wsrv.nl/?url=img2.teletype.in/files/16/13/16134845-a6ab-4f59-837d-da4ff22aa704.png)
+![](https://statics.netfox.wiki/20240618/44c2c95139b2a58284c273b27b90a43f.839wclx9z6.webp)
 
 - 如果您在此页面上看到您的电子邮件地址，则您的帐户已关联，您可以稍后使用它登录。
 
 :::tip 账户已关联
 
-![](https://wsrv.nl/?url=img1.teletype.in/files/4b/8b/4b8bd0f8-ed6b-463c-b12b-6b485428e180.png)
+![](https://statics.netfox.wiki/20240618/487d50e214768039037c0db368da6430.26lc5lgqzz.webp)
 
 :::
 
@@ -92,7 +86,7 @@ color: #e2e1e4
 
 :::caution 账户未关联
 
-![](https://wsrv.nl/?url=img1.teletype.in/files/8a/a2/8aa2140d-42b9-4f18-a671-dc28fb1eb70a.png)
+![](https://statics.netfox.wiki/20240618/c3684c80a5b41ba0790886bdb251420a.77dex5nlij.webp)
 
 :::
 
@@ -102,14 +96,14 @@ color: #e2e1e4
 
 2. 转到我们的[网站](https://artstorm.com/zh-CN/)通过向下滚动页面找到并单击“**下载APK**”。这将开始下载游戏文件。
 
-![](https://wsrv.nl/?url=img2.teletype.in/files/9c/19/9c19f4b1-b554-4043-8e37-87994862156a.png)
+![](https://statics.netfox.wiki/20240618/b354264527ea84c69260adad803907d4.4xuedo2v1u.webp)
 
 3. 等待文件下载（最好使用Wi-Fi），然后开始安装下载的APK文件。如有必要，请在电话设置中接受从此源安装应用程序的权限。
 
 4. **通过**选择与您的帐户关联的方法之一登录。
 :::warning “电子邮件” = Artstorm 帐户
 
-![](https://wsrv.nl/?url=img4.teletype.in/files/f2/5e/f25ee03f-dfdf-43fc-ab09-99fb28ef25e6.png)
+![](https://statics.netfox.wiki/20240618/c56954173e047a2629d1e0c2ba5e51fb.8hgc3h5ku4.webp)
 
 :::
 恭喜！最新的现代战舰apk版本已安装在您的设备上。现在，您可以直接在游戏中进行购买，并享受官方游戏客户端的其他好处。

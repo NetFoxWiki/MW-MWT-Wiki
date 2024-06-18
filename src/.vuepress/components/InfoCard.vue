@@ -32,7 +32,7 @@ export default {
     height: auto;
     box-shadow: 0 0 2px var(--theme-color-light);
     border-radius: 5px;
-    margin: 10px;
+    margin: 0 10px 10px 0;
     padding: 15px;
 }
 
