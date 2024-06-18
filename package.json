@@ -29,6 +29,7 @@
     "@clerk/localizations": "^2.4.4",
     "animate.css": "^4.1.1",
     "axios": "^1.7.2",
+    "leancloud-storage": "^4.15.2",
     "pnpm": "^8.15.8",
     "vue-clerk": "^0.4.2"
   }

@@ -1,6 +1,5 @@
 <script setup>
 import { useUser, SignOutButton } from 'vue-clerk'
-
 const { isLoaded, isSignedIn, user } = useUser()
 </script>
 
