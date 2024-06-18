@@ -30,11 +30,13 @@ color: #e2e1e4
 
 3. 输入您的 Artstorm 帐户详细信息（电子邮件 + 密码）。请注意，您只能使用登录游戏的帐户进行购买。
 
-![](https://wsrv.nl/?url=img2.teletype.in/files/9f/de/9fde14ca-108b-4df9-b9b1-5401ec72141b.png)
+![](https://statics.netfox.wiki/20240618/a8a0bc9089b85f9905af411457162b1e.73tszkx833.webp)
+
+![](https://statics.netfox.wiki/20240618/e3e8685d38d7be9e423137ee45473317.1sewevb5f1.webp)
 
 4. 登录后，您将被重定向到商店页面。选择您要购买的拍品。然后点击“**购买**”按钮。
 
-![](https://wsrv.nl/?url=img2.teletype.in/files/5a/5e/5a5e8601-5b71-498c-881c-9f5f3471560a.png)
+![](https://statics.netfox.wiki/20240618/5f2d91ae713fa87bba5ef08245602374.1sewevb5f7.webp)
 
 5. 此时，您将被重定向到艾克索拉支付服务网站。选择通过银行卡或任何其他方便的方式为您的帐户充值，然后按照屏幕上的说明进行操作。
 
@@ -44,7 +46,7 @@ color: #e2e1e4
 
 要查看您的购买历史记录，请转到具有相应名称的网站部分。
 
-![](https://wsrv.nl/?url=img4.teletype.in/files/79/8c/798ca08b-5e47-4f21-bd76-fed767cf46ac.png)
+![](https://statics.netfox.wiki/20240618/d84d6ccd8c807a579fe35e8d2b33fb1e.3yeb0n2t69.webp)
 
 ### 游戏id授权充值
 
@@ -54,7 +56,7 @@ color: #e2e1e4
 
 3. 输入您计划为其进行购买的玩家的ID。
 
-![](https://wsrv.nl/?url=img4.teletype.in/files/f5/74/f574184b-4c83-4a92-acfe-c2cc33cb4054.png)
+![](https://statics.netfox.wiki/20240618/e3e8685d38d7be9e423137ee45473317.1sewevb5f1.webp)
 
 4. 前往商店。选择您想要购买的类别和商品。
 
