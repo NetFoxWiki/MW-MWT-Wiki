@@ -69,6 +69,7 @@ export default {
     color: #ffffff;
     padding: 10px;
     border-radius: 5px;
+    margin-top: 10px;
     background-color: var(--theme-color-mask);
 }
 
