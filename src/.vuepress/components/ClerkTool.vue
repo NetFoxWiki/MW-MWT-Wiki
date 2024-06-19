@@ -20,13 +20,15 @@ const { orgSlug, orgId } = useAuth()
                         </button>
                     </SignOutButton>
                 </div>
-                <div class="clerk-notice">OID: {{ orgSlug }}<br>UID: {{ user.id }}</div>
-                <hr class="clerk-hr">
-                <router-link :to="'/zh/dev/' + orgId + '/'" v-if="orgSlug == 'netfox-wiki' && orgId == 'org_2i5D9JK5epr3PbozpQhbM7wPH07'"
-                    class="clerk-tool-button">
-                    网站内容审查
-                </router-link>
-                <hr class="clerk-hr">
+                <div class="clerk-notice">UID: {{ user.id }}</div>
+                <div v-if="orgSlug == 'netfox-wiki'">
+                    <br>OID: {{ orgId }}
+                    <hr class="clerk-hr">
+                    <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
+                        网站内容审查
+                    </router-link>
+                    <hr class="clerk-hr">
+                </div>
             </div>
         </div>
     </div>
