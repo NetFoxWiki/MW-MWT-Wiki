@@ -21,7 +21,7 @@ const { orgSlug, orgId, orgRole } = useAuth()
                     </SignOutButton>
                 </div>
                 <div class="clerk-notice">UID: {{ user.id }}</div>
-                <div v-if="user.id == 'user_2fBIVzNQrmtu5iTAzdubxeXgfkO' || orgSlug == 'netfoxedit'">
+                <div v-if="user.id == 'user_2i0mq3gIWZdKVi0z4GpG7TMwoTT' || orgSlug == 'netfoxedit'">
                     <div class="clerk-notice">OID: {{ orgId }}<br>OLEVEL: {{ orgRole }}</div>
                     <div class="clerk-tool-center">
                         <hr class="clerk-hr">
