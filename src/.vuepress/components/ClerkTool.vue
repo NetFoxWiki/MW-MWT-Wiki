@@ -21,7 +21,7 @@ const { orgSlug, orgId } = useAuth()
                     </SignOutButton>
                 </div>
                 <div class="clerk-notice">UID: {{ user.id }}</div>
-                <div v-if="orgSlug == 'netfox-wiki'">
+                <div v-if="orgSlug == 'netfoxwiki'">
                     <br>OID: {{ orgId }}
                     <hr class="clerk-hr">
                     <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
