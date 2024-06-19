@@ -109,7 +109,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/zh/dev/": ["1234"],
+      "/zh/dev/": ["org_2i5D9JK5epr3PbozpQhbM7wPH07"],
     },
   },
 
