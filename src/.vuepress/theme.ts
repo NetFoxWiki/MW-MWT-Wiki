@@ -40,7 +40,7 @@ export default hopeTheme({
   contributors: false,
   titleIcon: true,
 
-  repo: "https://github.com/NetFoxWiki/MW-MWT-DOCS/",
+  //repo: "https://github.com/NetFoxWiki/MW-MWT-DOCS/",
 
   displayFooter: true,
 

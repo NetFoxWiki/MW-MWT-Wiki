@@ -22,12 +22,14 @@ const { orgSlug, orgId } = useAuth()
                 </div>
                 <div class="clerk-notice">UID: {{ user.id }}</div>
                 <div v-if="orgSlug == 'netfoxwiki'">
-                    <br>OID: {{ orgId }}
-                    <hr class="clerk-hr">
-                    <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
-                        网站内容审查
-                    </router-link>
-                    <hr class="clerk-hr">
+                    <div class="clerk-notice">OID: {{ orgId }}</div>
+                    <div class="clerk-tool-center">
+                        <hr class="clerk-hr">
+                        <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
+                            网站内容审查
+                        </router-link>
+                        <hr class="clerk-hr">
+                    </div>
                 </div>
             </div>
         </div>
@@ -35,6 +37,11 @@ const { orgSlug, orgId } = useAuth()
 </template>
 
 <style>
+.clerk-tool-center {
+    text-align: center;
+    padding: 0 10px;;
+}
+
 .clerk-hr {
     height: 4px;
     border: none;

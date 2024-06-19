@@ -3,7 +3,9 @@
 :::danger 此区域被标记为不可见
 :::
 
-<InfoCom title="提问的智慧" content="How To Ask Questions The Smart Way" button-text="访问" link="how-to-ask-questions-the-smart-way.html" InfoPath="true"/>
+## 内容审查
+
+<InfoCom title="保姆级新手教程" content="作者：萨卡班偷笑鱼" button-text="审查" link="newplayer.html" InfoPath="true"/>
 
 ## 网站信息
 
