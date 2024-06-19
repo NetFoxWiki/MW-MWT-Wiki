@@ -1,7 +1,7 @@
 <script setup>
-import { useUser, SignOutButton, useAuth } from 'vue-clerk'
+import { useUser, SignOutButton } from 'vue-clerk';
+import ClerkAPI from './ClerkAPI.vue';
 const { isLoaded, isSignedIn, user } = useUser()
-const { orgSlug, orgId, orgRole } = useAuth()
 </script>
 
 <template>
@@ -21,16 +21,7 @@ const { orgSlug, orgId, orgRole } = useAuth()
                     </SignOutButton>
                 </div>
                 <div class="clerk-notice">UID: {{ user.id }}</div>
-                <div v-if="user.id == 'user_2i0mq3gIWZdKVi0z4GpG7TMwoTT' || orgSlug == 'netfoxedit'">
-                    <div class="clerk-notice">OID: {{ orgId }}<br>OLEVEL: {{ orgRole }}</div>
-                    <div class="clerk-tool-center">
-                        <hr class="clerk-hr">
-                        <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
-                            网站内容审查
-                        </router-link>
-                        <hr class="clerk-hr">
-                    </div>
-                </div>
+                <ClerkAPI />
             </div>
         </div>
     </div>
