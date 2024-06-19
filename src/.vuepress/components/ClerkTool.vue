@@ -1,6 +1,7 @@
 <script setup>
-import { useUser, SignOutButton } from 'vue-clerk'
+import { useUser, SignOutButton, useAuth } from 'vue-clerk'
 const { isLoaded, isSignedIn, user } = useUser()
+const { orgSlug, orgId } = useAuth()
 </script>
 
 <template>
@@ -19,13 +20,28 @@ const { isLoaded, isSignedIn, user } = useUser()
                         </button>
                     </SignOutButton>
                 </div>
-                <div class="clerk-notice">UID: {{ user.id }}</div>
+                <div class="clerk-notice">OID: {{ orgSlug }}<br>UID: {{ user.id }}</div>
+                <hr class="clerk-hr">
+                <router-link :to="'/zh/dev/' + orgId + '/'" v-if="orgSlug == 'netfox-wiki' && orgId == 'org_2i5D9JK5epr3PbozpQhbM7wPH07'"
+                    class="clerk-tool-button">
+                    网站内容审查
+                </router-link>
+                <hr class="clerk-hr">
             </div>
         </div>
     </div>
 </template>
 
 <style>
+.clerk-hr {
+    height: 4px;
+    border: none;
+    border-radius: 100px;
+    margin: 10px 0;
+    box-shadow: 0 0 10px var(--theme-color);
+    background-color: var(--theme-color-light);
+}
+
 .clerk-filter {
     background: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(5px);
@@ -39,7 +55,7 @@ const { isLoaded, isSignedIn, user } = useUser()
     color: #fff;
     background-color: var(--theme-color-light);
     border: none;
-    padding: 3px 8px 5px 8px;
+    padding: 3px 8px;
     border-radius: 5px;
     margin: 2px 0 0 5px;
     text-align: center;

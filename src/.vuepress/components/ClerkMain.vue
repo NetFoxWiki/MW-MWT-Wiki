@@ -30,7 +30,7 @@ const { isSignedIn, isLoaded } = useAuth()
     color: var(--theme-color);
     background-color: var(--theme-color-mask);
     border: none;
-    padding: 3px 8px 5px 8px;
+    padding: 3px 8px;
     border-radius: 5px;
     margin: 2px 0 0 5px;
     text-align: center;

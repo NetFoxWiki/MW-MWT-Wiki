@@ -185,7 +185,7 @@ export default {
     border: none;
     background-color: var(--theme-color-mask);
     color: var(--theme-color);
-    padding: 7px 12px 9px 12px;
+    padding: 7px 12px;
     border-radius: 5px;
     margin: 0 5px 0 5px;
     text-align: center;
@@ -197,7 +197,7 @@ export default {
     border: none;
     background-color: var(--theme-color-mask);
     color: var(--theme-color);
-    padding: 7px 12px 9px 12px;
+    padding: 7px 12px;
     border-radius: 5px;
     margin: 0 5px 0 5px;
     text-align: center;
@@ -214,7 +214,7 @@ export default {
     border: none;
     background-color: var(--theme-color-mask);
     color: var(--theme-color);
-    padding: 7px 12px 9px 12px;
+    padding: 7px 12px;
     border-radius: 5px;
     margin: 0 5px 0 5px;
     text-align: center;

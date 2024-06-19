@@ -27,7 +27,7 @@ export default {
             <div>
                 <div class="oc-text">{{ OcText = OcType[OcID] }}认证 - {{ OcDesc }}</div>
                 <div class="oc-text-d">
-                    <router-link class="oc-text-link" to="/zh/sitehelp.html#如何为自己的页面获得认证">如何为自己的页面获得认证</router-link>
+                    <router-link class="oc-text-link" to="/zh/sitehelp.html#如何获得认证">如何获得认证</router-link>
                     <router-link class="oc-text-link" to="/zh/sitehelp.html#认证有什么用">认证有什么用</router-link>
                 </div>
             </div>
