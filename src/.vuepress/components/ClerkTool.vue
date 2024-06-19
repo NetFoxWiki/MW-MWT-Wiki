@@ -20,7 +20,7 @@ const { orgSlug, orgId } = useAuth()
                         </button>
                     </SignOutButton>
                 </div>
-                <div class="clerk-notice">UID: {{ user.id }}</div>
+                <div class="clerk-notice">UID: {{ user.id }}<br>OID: {{ orgId }}</div>
                 <div v-if="orgSlug == 'netfoxwiki'">
                     <div class="clerk-notice">OID: {{ orgId }}</div>
                     <div class="clerk-tool-center">
