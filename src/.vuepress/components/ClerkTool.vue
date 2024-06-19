@@ -1,7 +1,7 @@
 <script setup>
 import { useUser, SignOutButton, useAuth } from 'vue-clerk'
 const { isLoaded, isSignedIn, user } = useUser()
-const { orgSlug, orgId } = useAuth()
+const { orgSlug, orgId, orgRole } = useAuth()
 </script>
 
 <template>
@@ -20,9 +20,9 @@ const { orgSlug, orgId } = useAuth()
                         </button>
                     </SignOutButton>
                 </div>
-                <div class="clerk-notice">UID: {{ user.id }}<br>OID: {{ orgId }}</div>
-                <div v-if="orgSlug == 'netfoxwiki'">
-                    <div class="clerk-notice">OID: {{ orgId }}</div>
+                <div class="clerk-notice">UID: {{ user.id }}</div>
+                <div v-if="user.id == 'user_2fBIVzNQrmtu5iTAzdubxeXgfkO' || orgSlug == 'netfoxedit'">
+                    <div class="clerk-notice">OID: {{ orgId }}<br>OLEVEL: {{ orgRole }}</div>
                     <div class="clerk-tool-center">
                         <hr class="clerk-hr">
                         <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
@@ -39,7 +39,8 @@ const { orgSlug, orgId } = useAuth()
 <style>
 .clerk-tool-center {
     text-align: center;
-    padding: 0 10px;;
+    padding: 0 10px;
+    ;
 }
 
 .clerk-hr {
