@@ -73,7 +73,7 @@ export default hopeTheme({
                     data-mode="lightmode-only"><img width="100" height="100%"
                     src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="由 Netlify 部署"
                     data-mode="darkmode-only"></a>
-                    <hr>用于记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克</font> 内容的文档网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT 文档</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
+                    <hr>以文档的形式，记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克激斗</font> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT 文档</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
 
       // page meta
       metaLocales: {
