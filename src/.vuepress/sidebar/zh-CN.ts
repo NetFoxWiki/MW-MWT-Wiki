@@ -66,7 +66,7 @@ export const zhCNSidebar = sidebar([
 				prefix: "zh/mw/skills/",
 				collapsible: true,
 				children: [
-					//'newplayer.md',
+					'newplayer.md',
 					'stan-bilibili.md',
 					'cyct.md',
 					'game.md',

@@ -5,8 +5,6 @@
 
 ## 内容审查
 
-<InfoCom title="保姆级新手教程" content="作者：萨卡班偷笑鱼" button-text="审查" link="newplayer.html" InfoPath="true"/>
-
 ## 网站信息
 
 **网站框架：[VuePress v2](https://vuepress.vuejs.org/zh/)**
