@@ -7,6 +7,10 @@ import ClerkTool from "./ClerkTool.vue";
     <Page>
         <template #contentBefore>
             <div class="theme-hope-content">
+                <div class="site-notice">
+                    <div class="site-h">温馨提示</div>
+                    此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
+                </div>
                 <div class="qq-main">
                     <div class="qq-logo">
                         <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
@@ -30,6 +34,23 @@ import ClerkTool from "./ClerkTool.vue";
 </template>
 
 <style>
+.site-h{
+    font-size: 30px;
+    color:#ffee00;
+}
+
+.site-notice {
+    background-color: #ec261b;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ec261b;
+}
+
 .qq-main {
     display: flex;
     align-items: center;
