@@ -1,4 +1,5 @@
 <script setup>
+import 'animate.css';
 import Page from "vuepress-theme-hope/components/NormalPage.js";
 import ClerkTool from "./ClerkTool.vue";
 </script>
@@ -7,11 +8,11 @@ import ClerkTool from "./ClerkTool.vue";
     <Page>
         <template #contentBefore>
             <div class="theme-hope-content">
-                <div class="site-notice">
+                <div class="site-notice animate__animated animate__flipInX">
                     <div class="site-h">温馨提示</div>
                     此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
                 </div>
-                <div class="qq-main">
+                <div class="qq-main animate__animated animate__animated animate__flash animate__slow">
                     <div class="qq-logo">
                         <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
                     </div>

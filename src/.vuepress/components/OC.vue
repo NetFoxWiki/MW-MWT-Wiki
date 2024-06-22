@@ -19,7 +19,7 @@ export default {
 </script>
 
 <template>
-    <div class="oc-root">
+    <div class="oc-root animate__animated animate__flash animate__slow">
         <div class="oc-main">
             <div class="oc-logo">
                 <IconV width="45px" />

@@ -74,9 +74,9 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 
 <BiliBili bvid="BV1kV4y1w7zD" />
 
-<BiliBili bvid="BV11e411J71D" />
+<BiliBili bvid="BV1nR4y1k7he" />
 
-## 复活节（23.4.10）<Badge text="失传" color="#533c1b" />
+## 复活节（23.4.10）
 
 在活动期间游玩现代战舰，赚取特殊货币-复活节彩蛋
 
