@@ -34,6 +34,17 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![占点模式](https://statics.netfox.wiki/20240309/MapShipsDomination.45fhu02yb.webp)
 
+### <HopeIcon icon="medal" size="1.5rem"/> 个人死斗
+
+- 参与游戏的全部玩家相互混战
+- 战斗时长为10分钟
+- 先消灭5个对手的玩家或在战斗结束时消灭对手最多的玩家将获胜
+- 消灭对手后，击沉对手舰艇的玩家将自动补充，弹药及消耗品
+- 被消灭后，玩家将复活并继续战斗
+- 复活后，舰艇会享受10秒的保护期
+
+![个人死斗](https://statics.netfox.wiki/20240309/MapShipsDeathmatch.3k7r9wsij4.webp)
+
 ## 限定模式
 
 ### <HopeIcon icon="wheelchair-move" size="1.5rem"/> 舰艇竞速 <Badge text="愚人节竞速" type="info" />
@@ -47,7 +58,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![舰艇竞速](https://statics.netfox.wiki/20240401/MapShipsRacing.4jnvjtj7o5.webp)
 
-### <HopeIcon icon="ship" size="1.5rem"/> 护航模式 <Badge text="金属霜冻、沙丘抗争" type="info" />
+### <HopeIcon icon="ship" size="1.5rem"/> 护航模式
 
 - 模式地图：干旱边疆，双武士，大漩涡，北极圈
 - 护航方的目标为护送舰队到达港口
@@ -61,7 +72,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![护航模式](https://statics.netfox.wiki/20240309/MapShipsEscort.b8nd950w1.webp)
 
-### <HopeIcon icon="users-line" size="1.5rem"/> 多队混战 <Badge text="藏匿之龙、猎物之海3" type="info" />
+### <HopeIcon icon="users-line" size="1.5rem"/> 多队混战
 
 - 模式地图：潜龙、双武士、北极圈、维京湾
 - 本模式允许单人匹配或2人队伍组队游玩
@@ -73,7 +84,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 
 ![多对混战](https://statics.netfox.wiki/20240309/MapShipsTandemWars.3d4jeh6d3d.webp)
 
-### <HopeIcon icon="street-view" size="1.5rem"/> 占点模式 Pro <Badge text="来自深处" type="info" />
+### <HopeIcon icon="street-view" size="1.5rem"/> 占点模式 Pro
 
 - 模式地图：神秘湾
 - 每名玩家有3条生命
@@ -85,18 +96,7 @@ cover: https://statics.netfox.wiki/20240308/Map_AridFrontier_LiveOps_1920x1080_6
 - 带有各种奖励和buff的容器散布在地图上
 - 胜利条件为通过将敌方队伍分数消耗至0或消灭其所有舰艇
 
-![占点模式](https://statics.netfox.wiki/20240309/MapShipsDomination.45fhu02yb.webp)
-
-### <HopeIcon icon="medal" size="1.5rem"/> 个人死斗 <Badge text="海盗嘉年华、来自深处、猎物之海2、冬季运动会" type="info" />
-
-- 参与游戏的全部玩家相互混战
-- 战斗时长为10分钟
-- 先消灭5个对手的玩家或在战斗结束时消灭对手最多的玩家将获胜
-- 消灭对手后，击沉对手舰艇的玩家将自动补充，弹药及消耗品
-- 被消灭后，玩家将复活并继续战斗
-- 复活后，舰艇会享受10秒的保护期
-
-![个人死斗](https://statics.netfox.wiki/20240309/MapShipsDeathmatch.3k7r9wsij4.webp)
+![占点模式 Pro](https://statics.netfox.wiki/20240309/MapShipsDomination.45fhu02yb.webp)
 
 ### <HopeIcon icon="flag" size="1.5rem"/> 征服模式 <Badge text="巨兽之战" type="info" />
 
