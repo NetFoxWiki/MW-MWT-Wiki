@@ -34,7 +34,7 @@ export default hopeTheme({
   breadcrumb: true,
   breadcrumbIcon: true,
   toc: true,
-  pageInfo: ["Word", "ReadingTime", "Original", "Author",  "PageView"],
+  pageInfo: ["Word", "ReadingTime", "Original", "Author", "PageView"],
 
   lastUpdated: true,
   contributors: false,
@@ -53,7 +53,7 @@ export default hopeTheme({
   fullscreen: true,
   iconAssets: "fontawesome",
   darkmode: "switch",
-  externalLinkIcon: true,
+  externalLinkIcon: false,
 
   locales: {
     "/zh/": {
@@ -74,6 +74,8 @@ export default hopeTheme({
                     src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="由 Netlify 部署"
                     data-mode="darkmode-only"></a>
                     <hr>以文档的形式，记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克激斗</font> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT 文档</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
+
+      displayFooter: false,
 
       // page meta
       metaLocales: {
@@ -100,6 +102,8 @@ export default hopeTheme({
                     data-mode="darkmode-only"></a>
                     <hr>
       Docs site for <font color="#2196F3">Modern Warships</font> and <font color="#fb8b05">Modern Warfare: Tanks</font> Content 🍂<br>Copyright © 2023-2024 <a href=“https://mw.netfox.wiki”>MW & MWT Docs</a> by <font color="#5b77a6">NetFox.Wiki</font> All rights reserved.`,
+
+      displayFooter: false,
 
       metaLocales: {
         editLink: "Edit this page on GitHub",

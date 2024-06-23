@@ -74,3 +74,10 @@ hr {
   box-shadow: 0 0 10px var(--theme-color);
   background-color: var(--theme-color);
 }
+
+#toc {
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  border: 2px var(--theme-color) solid;
+  background: var(--bg-color-secondary);
+}
