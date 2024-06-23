@@ -23,7 +23,7 @@ export const zhCNNavbar = navbar([
     ],
   },
   {
-    text: "简中社区",
+    text: "中国社区",
     icon: "comments",
     children: [
       {
