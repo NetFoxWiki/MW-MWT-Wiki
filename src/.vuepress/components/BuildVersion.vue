@@ -1,5 +1,6 @@
 <script>
 import moment from "moment";
+import versionJSON from "../utils/versionJSON.json";
 
 export default {
     data() {
@@ -8,9 +9,6 @@ export default {
         }
     },
     mounted() {
-        const versionJSON = {
-            "compileTime": new Date().getTime()
-        }
         this.compileTime = moment(versionJSON.compileTime).format('YY.MM.hhmm')
     }
 }

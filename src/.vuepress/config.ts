@@ -6,6 +6,16 @@ import { getDirname, path } from "vuepress/utils";
 
 const __dirname = getDirname(import.meta.url);
 
+import fs from "fs";
+
+const versionJSON = {
+  "compileTime": new Date().getTime()
+};
+
+fs.writeFile("./src/.vuepress/utils/versionJSON.json", JSON.stringify(versionJSON), (err) => {
+  console.log('\n----------' + '\n【自定义区域】' +'\nBuildVersion: '+ new Date().getDate() + '\nBuildErr: ' + err +'\n----------');
+});
+
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
