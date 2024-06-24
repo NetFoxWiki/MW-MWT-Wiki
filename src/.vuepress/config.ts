@@ -3,6 +3,7 @@ import theme from "./theme.js";
 import { redirectPlugin } from '@vuepress/plugin-redirect';
 import { getDirname, path } from "vuepress/utils";
 //import { viteBundler } from '@vuepress/bundler-vite';
+import { removePwaPlugin } from '@vuepress/plugin-remove-pwa';
 
 const __dirname = getDirname(import.meta.url);
 
@@ -13,7 +14,7 @@ const versionJSON = {
 };
 
 fs.writeFile("./src/.vuepress/utils/versionJSON.json", JSON.stringify(versionJSON), (err) => {
-  console.log('\n----------' + '\n【自定义区域】' +'\nBuildVersion: '+ versionJSON.compileTime + '\nBuildErr: ' + err +'\n----------');
+  console.log('\n----------' + '\n【自定义区域】' + '\nBuildVersion: ' + versionJSON.compileTime + '\nBuildErr: ' + err + '\n----------');
 });
 
 export default defineUserConfig({
@@ -90,6 +91,9 @@ t.parentNode.insertBefore(e,t)}})();
     vuePluginOptions: {},
   }),*/
   plugins: [
+    removePwaPlugin({
+
+    }),
     redirectPlugin({
       config: {
         '/dmw': '/zh/mw/download/app.html',
@@ -100,5 +104,5 @@ t.parentNode.insertBefore(e,t)}})();
     }),
   ],
   // Enable it with pwa
-  shouldPrefetch: false,
+  //shouldPrefetch: false,
 });

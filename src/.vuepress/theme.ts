@@ -181,13 +181,13 @@ export default hopeTheme({
       hint: true,//容器
     },
     catalog: true,
-    pwa: {
+    /*pwa: {
       favicon: "./favicon.ico",
       update: 'hint',
       themeColor: "#5c77a6",
       // cacheHTML: true,
       // cacheImage: true,
       appendBase: true,
-    },
+    },*/
   },
 }, { custom: true });
