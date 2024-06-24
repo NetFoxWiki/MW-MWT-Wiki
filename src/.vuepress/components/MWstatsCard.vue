@@ -46,7 +46,6 @@ export default {
 }
 .msc-d{
     color:#ffffff;
-    font-weight: 100;
     font-size: 15px;
 }
 
@@ -77,7 +76,6 @@ export default {
     margin: 5px 0 0 0;
     text-align: center;
     background-color: #000000;
-    font-weight: 100;
     font-size: 13px;
     border-radius: 5px;
     color: #ffffff;
