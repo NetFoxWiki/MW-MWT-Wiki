@@ -1,5 +1,4 @@
 <script setup>
-import 'animate.css';
 import Page from "vuepress-theme-hope/components/NormalPage.js";
 import ClerkTool from "./ClerkTool.vue";
 import BuildVersion from './BuildVersion.vue';
@@ -9,9 +8,11 @@ import BuildVersion from './BuildVersion.vue';
     <Page>
         <template #contentBefore>
             <div class="theme-hope-content">
-                <div class="site-notice animate__animated animate__flipInX">
-                    <div class="site-h">温馨提示</div>
-                    此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
+                <div class="b-notice">
+                    <div class="b-notice-h">温馨提示</div>
+                    <div class="b-notice-b">
+                        此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
+                    </div>
                 </div>
                 <div class="qq-main">
                     <div class="qq-logo">
@@ -19,14 +20,8 @@ import BuildVersion from './BuildVersion.vue';
                     </div>
                     <div>
                         <b>加入项目开发群组，了解更多内容：</b>
-                        <br>
-                        1. 令人惊奇的想法，让人信服的建议
-                        <br>
-                        2. 和更多人交流游戏内容
-                        <br><a
-                            href="https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260">
-                            点击加入
-                        </a>
+                        <a
+                            href="https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260">点击加入</a>
                     </div>
                 </div>
                 <ClerkTool />
@@ -34,6 +29,7 @@ import BuildVersion from './BuildVersion.vue';
         </template>
         <template #bottom>
             <div class="theme-hope-content">
+                <hr>
                 <div class="b-notice">
                     <div class="b-notice-h">免责声明</div>
                     <div class="b-notice-b">
@@ -63,11 +59,11 @@ import BuildVersion from './BuildVersion.vue';
                             alt="由 Netlify 部署" data-mode="darkmode-only">
                     </a>
                     <div class="cus-footer-c">
-                        以文档的形式，记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克激斗</font> 内容的骨灰级游戏网站
-                        🍂
+                        以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span>
+                        内容的骨灰级游戏网站 🍂
                         <br>
                         Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW &
-                            MWT 文档</a> by <font color="#fb8b05">NetFox.Wiki</font> All rights reserved.
+                            MWT 文档</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
                     </div>
                 </div>
             </div>
@@ -103,9 +99,9 @@ import BuildVersion from './BuildVersion.vue';
 .b-notice-h {
     background-color: #ec261b;
     color: #ffffff;
-    padding: 5px;
+    padding: 3px;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
     border-radius: 5px;
     text-align: center;
     margin-bottom: 5px;
@@ -116,38 +112,22 @@ import BuildVersion from './BuildVersion.vue';
     font-size: 15px;
 }
 
-.site-h {
-    font-size: 30px;
-    color: #ffee00;
-}
-
-.site-notice {
-    background-color: #ec261b;
-    color: #ffffff;
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;
-    padding: 5px;
-    margin: 10px 0;
-    border-radius: 5px;
-    box-shadow: 0 0 10px #ec261b;
-}
-
 .qq-main {
     display: flex;
     align-items: center;
-    box-shadow: 0 0 10px var(--theme-color-light);
+    font-size: 19px;
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
-    padding: 10px;
+    padding: 3px;
     margin-bottom: 10px;
 }
 
 .qq-logo {
     height: 100%;
+    width: 20px;
     background-color: var(--theme-color-light);
-    padding: 5px;
+    padding: 4px 3px 1px 3px;
     border-radius: 5px;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 </style>

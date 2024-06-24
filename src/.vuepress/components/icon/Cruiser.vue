@@ -1,0 +1,3 @@
+<template>
+    <svg xmlns="http://www.w3.org/2000/svg" width="128" height="72" viewBox="0 0 128 72"><g fill="none" fill-rule="evenodd"><path fill="#000" stroke="#000" stroke-linejoin="round" stroke-width="8" d="M97.6568542,11 L121.656854,35 L97.6568542,59 L12,59 L12,11 L97.6568542,11 Z"></path><polygon fill="#FFF" points="58 55 16 55 16 15 18 15"></polygon><polygon fill="#FFF" points="90 55 96 55 116 35 96 15 50 15"></polygon><polygon fill="#FFF" points="80 55 68 55 28 15 40 15"></polygon></g></svg>
+</template>

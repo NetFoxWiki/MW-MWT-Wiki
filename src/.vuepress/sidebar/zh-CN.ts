@@ -106,6 +106,33 @@ export const zhCNSidebar = sidebar([
 							'cn.md',
 						],
 					},
+					{
+						text: '泛空间系列',
+						icon: "ferry",
+						prefix: "pan-spatial/",
+						collapsible: true,
+						children: [
+							{
+								text: '舰艇',
+								icon: "ship",
+								prefix: "ships",
+								collapsible: true,
+								children: [
+									'argonas.md',
+								],
+							},
+							{
+								text: '航空器',
+								icon: "plane-departure",
+								prefix: "aircraft",
+								collapsible: true,
+								children: [
+									'dragon.md',
+									'killswitch.md',
+								],
+							},
+						],
+					},
 					'events-less.md',
 					'musk.md',
 					'game-modes.md',
@@ -115,7 +142,6 @@ export const zhCNSidebar = sidebar([
 					'lj.md',
 					'market.md',
 					'cn-warships.md',
-					'pan.md',
 					'dpm.md',
 				],
 			},

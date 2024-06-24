@@ -151,7 +151,7 @@ export default {
         </div>
         <br>
         <div class="lottery-list-results-now" v-if="lotteryShow">
-            <img src="https://statics.netfox.wiki/20240606/MWGame-Lottery.2dojjxnrfy.webp" width="100px"
+            <img src="https://statics.netfox.wiki/20240606/MWGame-Lottery.2dojjxnrfy.webp" height="100%" width="80px"
                 style="border-radius: 15px;">&emsp;总共抽奖：{{ 10000 - coin }} 次<br>&emsp;中奖最多：<br>&emsp;{{ MaxLottery
             }}
         </div>
@@ -240,6 +240,8 @@ export default {
 
 .lottery-list-results-now {
     display: flex;
+    align-items: center;
+    justify-content: center;
     max-width: 100%;
     color: #fff;
     font-size: 20px;

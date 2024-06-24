@@ -1,0 +1,3 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="72" viewBox="0 0 128 72"><g fill="none" fill-rule="evenodd"><g transform="translate(8 16)"><path fill="#000" stroke="#000" stroke-linejoin="round" stroke-width="8" d="M96.4440367,-4 L117.604771,20.3516392 L91.1838442,44 L18.8403423,44 L-5.5623315,21.2873763 L16.5277903,-4 L96.4440367,-4 Z"></path><polygon fill="#FFF" points="89.655 40 112 20 94.621 0 18.345 0 0 21 20.414 40"></polygon></g><line x1="17" x2="56.5" y1="53" y2="13.5" stroke="#000" stroke-width="8"></line><polyline stroke="#000" stroke-width="8" points="41.5 59 72.5 28 116.5 28"></polyline><polyline stroke="#000" stroke-width="8" points="118.5 44 86.5 44 71.5 59"></polyline></g></svg>
+</template>

@@ -13,7 +13,7 @@ const versionJSON = {
 };
 
 fs.writeFile("./src/.vuepress/utils/versionJSON.json", JSON.stringify(versionJSON), (err) => {
-  console.log('\n----------' + '\n【自定义区域】' +'\nBuildVersion: '+ new Date().getDate() + '\nBuildErr: ' + err +'\n----------');
+  console.log('\n----------' + '\n【自定义区域】' +'\nBuildVersion: '+ versionJSON.compileTime + '\nBuildErr: ' + err +'\n----------');
 });
 
 export default defineUserConfig({

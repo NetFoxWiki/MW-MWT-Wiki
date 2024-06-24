@@ -9,7 +9,7 @@ import OC from "./components/OC.vue";
 import MWTTime from "./components/MWTTime.vue";
 import { clerkPlugin } from 'vue-clerk';
 import { zhCN } from "@clerk/localizations";
-
+import MWstatsCard from "./components/MWstatsCard.vue"
 
 export default defineClientConfig({
   enhance: ({ app }) => {
@@ -19,6 +19,7 @@ export default defineClientConfig({
     app.component("ArchiveNotice", ArchiveNotice);
     app.component("MWGameLottery", MWGameLottery);
     app.component("MWTTime", MWTTime);
+    app.component("MWstatsCard", MWstatsCard);
     app.use(clerkPlugin, {
       //发展环境
       publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',

@@ -1,0 +1,3 @@
+<template>
+    <svg xmlns="http://www.w3.org/2000/svg" width="128" height="72" viewBox="0 0 128 72"><g fill="none" fill-rule="evenodd"><path fill="#000" stroke="#000" stroke-linejoin="round" stroke-width="8" d="M93.6568542,12 L116.656854,35 L93.6568542,58 L12,58 L12,12 L93.6568542,12 Z"></path><path fill="#FFF" d="M64,54 L92.4473684,54 L111,35 L92.4473684,16 L64,16 L64,54 Z M16,16 L55,16 L55,54 L16,54 L16,16 Z"></path></g></svg>
+</template>

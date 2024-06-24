@@ -6,7 +6,7 @@ bgImage: /bg.svg
 bgImageDark: /bg.svg
 heroText: MW & MWT 文档
 heroFullScreen: true
-tagline: 以文档的形式，记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克激斗</font> 内容的骨灰级游戏网站 🍂
+tagline: 以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂
 actions:
   - text: 进入文档
     icon: paper-plane
@@ -64,5 +64,22 @@ highlights:
         details: 游戏攻略、官方解惑等
         link: ./zh/mwt/
 
-footer: <a target="_blank" href="https://netfox.wiki"><img data-mode="darkmode-only" height="100%" width="210" src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp"><img data-mode="lightmode-only" height="100%" width="210" src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp"></a> <img height="100%" width="100" src="https://statics.netfox.wiki/20240302/netfox-logo-round.60tze5ob17.webp"> <a href="https://www.netlify.com" target="_blank"> <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="由 Netlify 部署" data-mode="lightmode-only"><img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="由 Netlify 部署" data-mode="darkmode-only"></a><hr> 以文档的形式，记录 <font color="#2196F3">现代战舰</font> 与 <font color="#fb8b05">现代战争：坦克激斗</font> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT 文档</a> by <font color="#5b77a6">网狐社</font> All rights reserved.
+footer: <a class="cus-footer-item" target="_blank" href="https://netfox.wiki">
+                        <img data-mode="darkmode-only" height="100%" width="240"
+                            src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
+                        <img data-mode="lightmode-only" height="100%" width="240"
+                            src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
+                    </a>
+                    <a class="cus-footer-item" href="https://www.netlify.com" target="_blank">
+                        <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-light.svg"
+                            alt="由 Netlify 部署" data-mode="lightmode-only">
+                        <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-dark.svg"
+                            alt="由 Netlify 部署" data-mode="darkmode-only">
+                    </a>
+                    <div>
+                        以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂
+                        <br>
+                        Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW &
+                            MWT 文档</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
+                    </div>
 ---
