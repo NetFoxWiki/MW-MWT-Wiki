@@ -107,8 +107,8 @@ export const zhCNSidebar = sidebar([
 						],
 					},
 					{
-						text: '泛空间系列',
-						icon: "ferry",
+						text: '版权装备丨泛空间',
+						icon: "anchor",
 						prefix: "pan-spatial/",
 						collapsible: true,
 						children: [
