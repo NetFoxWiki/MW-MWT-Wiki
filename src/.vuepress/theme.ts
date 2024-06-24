@@ -18,6 +18,7 @@ import { zhCNSidebar, enUSSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mw.netfox.wiki",
+  //hotReload: true,
 
   favicon: "favicon.ico",
   headerDepth: 3,
@@ -54,6 +55,8 @@ export default hopeTheme({
   iconAssets: "fontawesome",
   darkmode: "switch",
   externalLinkIcon: false,
+  prevLink: false,
+  nextLink: false,
 
   locales: {
     "/zh/": {

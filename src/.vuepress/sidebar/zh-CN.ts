@@ -303,7 +303,7 @@ export const zhCNSidebar = sidebar([
 				link: 'https://docs.qq.com/form/page/DUFBXekFaUFZFSWJQ',
 			},
 			//'YS.md',
-			'zh/up.md',
+			//'zh/up.md',
 			'zh/de.md',
 			'zh/sitehelp.md',
 			'zh/md.md',

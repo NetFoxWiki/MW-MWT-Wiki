@@ -1,4 +1,4 @@
-# 编写的第一个页面
+# 编写第一个页面
 
 <InfoCom title="申请编辑权限" content="需要 Github 账户" button-text="填写表格" link="https://docs.qq.com/form/page/DUEJaclBuQ1N3SGtn"/>
 

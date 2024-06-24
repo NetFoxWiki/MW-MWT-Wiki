@@ -18,5 +18,5 @@ cover: https://statics.netfox.wiki/20240302/world-banner.5c0pu50s17.webp
 
 ---
 
-- [x] 简体中文 (zh-CN) -【100%】
-- [ ] 英语 (en-US) -【1%】
+- [x] 中文 (zh-CN) -【100%】
+- [ ] 英文 (en-US) -【0.00000000000001%】
