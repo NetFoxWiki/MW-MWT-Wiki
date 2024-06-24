@@ -183,17 +183,13 @@ export default hopeTheme({
     catalog: true,
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     pwa: {
-      favicon: "favicon.ico",
+      favicon: "./favicon.ico",
       update: 'hint',
       showInstall: true,
       themeColor: "#5c77a6",
       // cacheHTML: true,
       // cacheImage: true,
       // appendBase: true,
-      msTile: {
-        image: "Logo-pwa-512x512.jpg",
-        color: "#5c77a6",
-      },
     },
   },
 }, { custom: true });

@@ -3,13 +3,13 @@
     "name": "MW & MWT 文档",
     "icons": [
         {
-            "src": "Logo-pwa-512x512.jpg",
+            "src": "./Logo-pwa-512x512.jpg",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
         },
         {
-            "src": "Logo-pwa-512x512.jpg",
+            "src": "./Logo-pwa-512x512.jpg",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "maskable"
