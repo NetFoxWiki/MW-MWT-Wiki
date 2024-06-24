@@ -34,7 +34,6 @@ import BuildVersion from './BuildVersion.vue';
         </template>
         <template #bottom>
             <div class="theme-hope-content">
-                <hr>
                 <div class="b-notice">
                     <div class="b-notice-h">免责声明</div>
                     <div class="b-notice-b">
@@ -89,7 +88,6 @@ import BuildVersion from './BuildVersion.vue';
 .cus-footer {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
-    box-shadow: 0 0 10px var(--theme-color);
     padding: 8px;
     margin: 10px 0;
     text-align: center;
@@ -98,7 +96,6 @@ import BuildVersion from './BuildVersion.vue';
 .b-notice {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
-    box-shadow: 0 0 10px var(--theme-color);
     padding: 8px;
     margin: 10px 0;
 }

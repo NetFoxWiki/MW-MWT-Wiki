@@ -100,5 +100,5 @@ t.parentNode.insertBefore(e,t)}})();
     }),
   ],
   // Enable it with pwa
-  // shouldPrefetch: false,
+  shouldPrefetch: false,
 });

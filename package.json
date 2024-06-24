@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@clerk/localizations": "^2.4.4",
+    "@vuepress/plugin-pwa": "2.0.0-rc.36",
     "animate.css": "^4.1.1",
     "axios": "^1.7.2",
     "leancloud-storage": "^4.15.2",

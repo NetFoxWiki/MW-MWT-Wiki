@@ -1,0 +1,24 @@
+{
+    "short_name": "MW-MWT-DOCS",
+    "name": "MW & MWT 文档",
+    "icons": [
+        {
+            "src": "Logo-pwa-512x512.jpg",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "Logo-pwa-512x512.jpg",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#5c77a6",
+    "description": "以文档的形式，记录 现代战舰 与 现代战争：坦克激斗 内容的骨灰级游戏网站"
+}
