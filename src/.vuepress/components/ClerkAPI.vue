@@ -5,7 +5,7 @@ const { isLoaded, orgSlug, orgId, orgRole } = useAuth()
 
 <template>
     <div v-if="isLoaded && orgSlug == 'netfoxedit'">
-        <div class="clerk-notice">OID: {{ orgId }}<br>OLEVEL: {{ orgRole }}</div>
+        <div class="clerk-notice">OID: {{ orgId }}</div>
         <div class="clerk-tool-center">
             <hr class="clerk-hr">
             <router-link :to="'/zh/dev/' + orgSlug + '/'" class="clerk-tool-button">
