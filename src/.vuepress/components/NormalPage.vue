@@ -2,19 +2,52 @@
 import Page from "vuepress-theme-hope/components/NormalPage.js";
 import ClerkTool from "./ClerkTool.vue";
 import BuildVersion from './BuildVersion.vue';
+import html2canvas from 'html2canvas';
+
+async function savePicture() {
+    await html2canvas(document.querySelector("#savepic"), {
+        windowWidth: 600,
+        scale: 2,
+        useCORS: true,
+    }).then(
+        async function (canvas) {
+            canvas = canvas.toDataURL("image/png", 1);
+            document.getElementById("img").setAttribute("src", canvas);
+            document.getElementById("img").setAttribute("class", "savepic-img");
+        }
+    );
+}
 </script>
 
 <template>
-    <Page>
+    <Page id="savepic">
         <template #contentBefore>
             <div class="theme-hope-content">
+                <div class="savepic-main" data-html2canvas-ignore>
+                    <div class="savepic-h">生成此页截图</div>
+                    <button @click="savePicture()" class="savepic-btn">
+                        生成图片
+                    </button>
+                    <div class="b-notice-b">
+                        1. 由于生成的图片为 Base64 字符串，随着页面内容的增加，生成图片时可能会出现页面卡顿等问题
+                        <br>
+                        2. 截图后的图片中，有些组件可能不会正常显示
+                        <br>
+                        3. 随着页面内容增加，图片生成时间也会增加
+                        <br>
+                        电脑端：右键图片保存
+                        <br>
+                        移动端：长按图片保存
+                    </div>
+                    <img id="img" src="" class="savepic-img-hid" no-view />
+                </div>
                 <div class="b-notice">
                     <div class="b-notice-h">温馨提示</div>
                     <div class="b-notice-b">
                         此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
                     </div>
                 </div>
-                <div class="qq-main">
+                <div class="qq-main" data-html2canvas-ignore>
                     <div class="qq-logo">
                         <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
                     </div>
@@ -72,6 +105,46 @@ import BuildVersion from './BuildVersion.vue';
 </template>
 
 <style>
+.savepic-h {
+    margin-top: -6px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.savepic-main {
+    border: 2px var(--theme-color) solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.savepic-btn {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none !important;
+    color: var(--theme-color);
+    background-color: var(--theme-color-mask);
+    border: none;
+    padding: 3px 8px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.savepic-btn:hover {
+    background-color: var(--theme-color);
+    color: #fff;
+}
+
+.savepic-img {
+    -webkit-user-drag: none;
+    border-radius: 5px;
+    width: 200px;
+    border: 2px var(--theme-color-dark) solid;
+}
+
+.savepic-img-hid {
+    display: none;
+}
+
 .cus-footer-item {
     margin: 0 2.5px;
 }

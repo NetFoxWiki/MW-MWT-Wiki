@@ -5,7 +5,7 @@ const { isLoaded, isSignedIn, user } = useUser()
 </script>
 
 <template>
-    <div v-if="isLoaded && isSignedIn">
+    <div v-if="isLoaded && isSignedIn" data-html2canvas-ignore>
         <div class="clerk-tool">
             <img :src="user.imageUrl" class="clerk-bg" no-view>
             <div class="clerk-filter">
@@ -31,7 +31,6 @@ const { isLoaded, isSignedIn, user } = useUser()
 .clerk-tool-center {
     text-align: center;
     padding: 0 10px;
-    ;
 }
 
 .clerk-hr {
