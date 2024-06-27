@@ -151,13 +151,12 @@ async function savePicture() {
 
 .cus-footer-c {
     font-size: 13.5px;
-
 }
 
 .cus-footer {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
-    padding: 8px;
+    padding: 5px;
     margin: 10px 0;
     text-align: center;
 }
@@ -165,19 +164,19 @@ async function savePicture() {
 .b-notice {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
-    padding: 8px;
+    padding: 4px;
     margin: 10px 0;
 }
 
 .b-notice-h {
-    background-color: #ec261b;
+    background-color: #64b8fd;
     color: #ffffff;
     padding: 3px;
     font-weight: bold;
     font-size: 20px;
     border-radius: 5px;
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 
 .b-notice-b {

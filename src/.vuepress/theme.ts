@@ -35,7 +35,7 @@ export default hopeTheme({
   breadcrumb: true,
   breadcrumbIcon: true,
   toc: true,
-  pageInfo: ["Word", "ReadingTime", "Original", "Author", "PageView"],
+  pageInfo: ["Original", "Author", "PageView", "Word", "ReadingTime",],
 
   lastUpdated: true,
   contributors: false,

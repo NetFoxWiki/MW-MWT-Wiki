@@ -25,7 +25,7 @@ export default {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
     padding: 2px;
-    margin: -3px 0 5px 0;
+    margin: -1px -2px 4px -2px;
     text-align: center;
     font-size: 15px;
     font-weight: bold
