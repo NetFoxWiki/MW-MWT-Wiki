@@ -8,19 +8,18 @@ cover: https://statics.netfox.wiki/20240302/TfXSs6C8.99t3atbso5.webp
 [更新日志查看](https://github.com/NetFoxWiki/MW-MWT-DOCS/commits/gh-page/)
 :::
 
-## 制作者
+## 贡献较大者
 
 <InfoCard name="洛溪_咕咕" showAvatar="true" who="网狐社" title="开发、编写、美术" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=2647130977&spec=640&img_type=jpg"/>
-
-## 贡献者
-
-<InfoCom title="发布页面" content="编写第一个页面" button-text="点击前往" InfoPath="true" link="markdown/"/>
 
 <InfoCard name="Meteor" showAvatar="true" who="网狐社" title="编写、美术" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=1745778691&spec=640&img_type=jpg"/>
 
 <InfoCard name="萨卡班偷笑鱼" showAvatar="true" who="网狐社" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3552218786&spec=640&img_type=jpg"/>
 
 <InfoCard name="威林" showAvatar="true" who="贡献者" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg"/>
+
+:::important 在此郑重感谢所以参与过网站的内容编写与审核的人，以及感谢所有支持我们的朋友
+:::
 
 ## 赞助者
 
