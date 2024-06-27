@@ -18,7 +18,7 @@ cover: https://statics.netfox.wiki/20240302/TfXSs6C8.99t3atbso5.webp
 
 <InfoCard name="威林" showAvatar="true" who="贡献者" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg"/>
 
-:::important 在此郑重感谢所以参与过网站的内容编写与审核的人，以及感谢所有支持我们的朋友
+:::important 在此郑重感谢参与过网站的内容编写与审核的所有人，以及感谢所有支持我们的朋友
 :::
 
 ## 赞助者
