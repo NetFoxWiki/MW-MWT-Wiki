@@ -41,12 +41,6 @@ async function savePicture() {
                     </div>
                     <img id="img" src="" class="savepic-img-hid" no-view />
                 </div>
-                <div class="b-notice">
-                    <div class="b-notice-h">温馨提示</div>
-                    <div class="b-notice-b">
-                        此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
-                    </div>
-                </div>
                 <div class="qq-main" data-html2canvas-ignore>
                     <div class="qq-logo">
                         <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
@@ -58,6 +52,7 @@ async function savePicture() {
                     </div>
                 </div>
                 <ClerkTool />
+                <hr>
             </div>
         </template>
         <template #bottom>
@@ -169,8 +164,8 @@ async function savePicture() {
 }
 
 .b-notice-h {
-    background-color: #64b8fd;
-    color: #ffffff;
+    background-color: var(--theme-color-mask);
+    color: var(--theme-color);
     padding: 3px;
     font-weight: bold;
     font-size: 20px;
@@ -191,7 +186,7 @@ async function savePicture() {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
     padding: 3px;
-    margin-bottom: 10px;
+    margin: 10px 0;
 }
 
 .qq-logo {

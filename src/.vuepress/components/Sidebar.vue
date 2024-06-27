@@ -91,6 +91,12 @@ export default {
                     </b>
                 </router-link>
             </div>
+            <div class="ad-main">
+                    <div class="b-notice-h">温馨提示</div>
+                    <div class="b-notice-b">
+                        此网站因一些特殊的词汇与内容，使得目前本站只适用于中国地区的玩家，非中国地区的玩家浏览请做好准备工作
+                    </div>
+                </div>
         </template>
     </NetFoxWiki>
 </template>
