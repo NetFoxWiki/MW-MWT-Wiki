@@ -8,7 +8,7 @@
 
 “红朗姆”号 *虚构架空设定：隐形水翼驱逐舰设计概念。主要设计目标为搜索及摧毁潜艇。由于水下水翼的作用，该舰能够达到高速，并借助水翼产生升力将舰体提升到水面以上，减少运动阻力。水翼舰艇的主要优点为：①高速航行时阻力低。②耐波性好。③高速航行兴起的波浪小。④物理场辐射性低。⑤操纵性好。在冷战时期，各国都对高速水翼舰艇高度关注，分别研制了多种型号。
 
-![游戏内红朗姆图标](https://mwstats.info/ship-composite/REDRUM/940/REDRUM.jpeg?v=a416976b)
+![游戏内红朗姆图标](https://wsrv.nl/?url=mwstats.info/ship-composite/REDRUM/940/REDRUM.jpeg?v=a416976b.jpg)
 
 ### USS Michael Monsoor（DDG-1001）
 
@@ -18,9 +18,9 @@
 
 2019年1月26日，美国海军在西部城市圣迭戈为迈克尔·蒙苏尔号驱逐舰举行服役仪式。
 
-![进行“Z”形机动的DDG1001](https://n.sinaimg.cn/sinacn07/213/w2048h1365/20180712/a68e-hfefkqq6720120.jpg)
+![进行“Z”形机动的DDG1001](https://wsrv.nl/?url=n.sinaimg.cn/sinacn07/213/w2048h1365/20180712/a68e-hfefkqq6720120.jpg)
 
-![DDG1001正面](https://n.sinaimg.cn/sinacn07/213/w2048h1365/20180712/c20e-hfefkqq6719961.jpg)
+![DDG1001正面](https://wsrv.nl/?url=n.sinaimg.cn/sinacn07/213/w2048h1365/20180712/c20e-hfefkqq6719961.jpg)
 
 ### USS DDG(X)
 
@@ -28,15 +28,15 @@
 
 DDGX的Baseline型依然沿用着“伯克III”型驱逐舰的14英尺阵面AN/SPY-6（V）1型AMDR-S有源相控阵雷达阵面，这一阵面包括有37个RMA单元，性能相比现役“伯克”的AN/SPY-1D型无源相控阵雷达有跨代的提高
 
-![DDGX模型图](https://x0.ifengimg.com/res/2022/8F291166AEDFD8EB42A97E87118D4B639F5D3F50_size228_w1080_h652.png)
+![DDGX模型图](https://wsrv.nl/?url=x0.ifengimg.com/res/2022/8F291166AEDFD8EB42A97E87118D4B639F5D3F50_size228_w1080_h652.png)
 
-![DDGX设计图](https://p2.itc.cn/q_70/images01/20220115/6f64144715c54c028ee5891ca702e48b.jpeg)
+![DDGX设计图](https://wsrv.nl/?url=p2.itc.cn/q_70/images01/20220115/6f64144715c54c028ee5891ca702e48b.jpeg)
 
 ### USS Constitution II（DDR-2000）
 
 宪法II级驱逐舰来自2041年海军RFP，旨在制造下一代中流砥柱水面舰艇。美国海军担心其远程力量投射正在减弱，朱姆沃尔特级和阿利伯克级战列舰的船龄接近30-40岁，而俄勒冈级战列舰的数量太少。获胜的提案是伯利恒钢铁厂项目P05驱逐舰。该设计完全设定在21世纪，利用了过去30年在轨道炮、激光和传感器技术方面的进步。这艘船有时被称为“朱姆沃尔特号做得对”，它提议将火炮作为主要武器系统回归，并不太注重完全隐身，而是更多地关注平衡的船体设计和火力。这是历史上第一艘将轨道炮作为其设计主要方面的军舰，而中国、日本、英国和德国等其他国家也曾以某种身份部署过配备轨道炮的军舰，但没有一个国家这样做过
 
-![游戏内的宪法2号图标](https://mwstats.info/ship-composite/DDR2000/940/DDR2000.jpeg?v=35cfae6e)
+![游戏内的宪法2号图标](https://wsrv.nl/?url=mwstats.info/ship-composite/DDR2000/940/DDR2000.jpeg?v=35cfae6e.jpg)
 
 ### USS Zumwalt（DDG-1000）
 
@@ -44,11 +44,11 @@ DDGX的Baseline型依然沿用着“伯克III”型驱逐舰的14英尺阵面AN/
 
 DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报、平台控制、动力系统、武器系统等）的集成系统来进行信息整合，以发挥系统整体资源优势，最终形成一个统一的“网络中心战”节点。TSCE 基于开放式体系结构（OA），通过软、硬件模块化以及构件化和服务化，解决了各分系统独立运行、互操作困难、资源无法共享等问题，最终达到跨平台、跨领域的协同作战能力
 
-![朱姆沃尔特和滨海战斗舰](https://ts1.cn.mm.bing.net/th/id/R-C.7fa1d54c902b8cea5f6002dd8e0e6fb2?rik=hlpKpsGd8ZUIew&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20210202ac%2f313%2fw2048h1465%2f20210202%2f4be0-kiksqxh7911356.jpg&ehk=W%2baRi9k6yv9Y3VTSpQwHH8ALR8egdkq3AyABW0cRhLM%3d&risl=&pid=ImgRaw&r=0)
+![朱姆沃尔特和滨海战斗舰](https://wsrv.nl/?url=ts1.cn.mm.bing.net/th/id/R-C.7fa1d54c902b8cea5f6002dd8e0e6fb2?rik=hlpKpsGd8ZUIew&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20210202ac%2f313%2fw2048h1465%2f20210202%2f4be0-kiksqxh7911356.jpg&ehk=W%2baRi9k6yv9Y3VTSpQwHH8ALR8egdkq3AyABW0cRhLM%3d&risl=&pid=ImgRaw&r=0.jpg)
 
-![朱姆沃尔特上的AGS开火想象图](https://ts1.cn.mm.bing.net/th/id/R-C.acdfa29139cef64ef35e74f2074aa4f3?rik=nUG%2fimM3q4L36Q&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20210118ac%2f300%2fw2000h1500%2f20210118%2f4624-khstaxt1521698.jpg&ehk=Xdq32VO%2fRaUwgiIOPcUjPa3bTvxGQEmDa3AZUJUY9eg%3d&risl=&pid=ImgRaw&r=0)
+![朱姆沃尔特上的AGS开火想象图](https://wsrv.nl/?url=ts1.cn.mm.bing.net/th/id/R-C.acdfa29139cef64ef35e74f2074aa4f3?rik=nUG%2fimM3q4L36Q&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20210118ac%2f300%2fw2000h1500%2f20210118%2f4624-khstaxt1521698.jpg&ehk=Xdq32VO%2fRaUwgiIOPcUjPa3bTvxGQEmDa3AZUJUY9eg%3d&risl=&pid=ImgRaw&r=0.jpg)
 
-![朱姆沃尔特在巴拿马运河抛锚](https://cdn.sputniknews.cn/img/102122/95/1021229545_0:31:1650:1068_1920x0_80_0_0_f4437f59b677cc97e2e20995403af2b5.jpg)
+![朱姆沃尔特在巴拿马运河抛锚](https://wsrv.nl/?url=cdn.sputniknews.cn/img/102122/95/1021229545_0:31:1650:1068_1920x0_80_0_0_f4437f59b677cc97e2e20995403af2b5.jpg)
 
 ### USS Arleigh Burke (DDG-51)
 
@@ -58,19 +58,19 @@ DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报�
 
 该级舰以首舰阿利·伯克号命名，阿利.伯克号得名于美国海军的二战英雄阿利·艾伯特·伯克上将，上将在伯克号服役典礼上说：“此舰为战而生，你们拥有的是世上最好的战舰！
 
-![阿利伯克级首舰阿利伯克号](https://media.defense.gov/2021/Apr/12/2002618670/-1/-1/0/210411-N-KH151-0004.JPG)
+![阿利伯克级首舰阿利伯克号](https://wsrv.nl/?url=media.defense.gov/2021/Apr/12/2002618670/-1/-1/0/210411-N-KH151-0004.JPG)
 
-![DDG51正面](https://www.shipspotting.com/photos/big/9/6/6/3282669.jpg)
+![靠岸的DGG-51](https://wsrv.nl/?url=ts1.cn.mm.bing.net/th/id/R-C.86a7974a618da7ebd3be370b629c2120?rik=UrMfPMcdnaCjvQ&riu=http%3a%2f%2fwww.usnavy-schiffspost.de%2fwp-content%2fuploads%2f2014%2f02%2fDDG-51-150214.jpg&ehk=%2fNClEkRcHqGsyElKZsiocQ293b%2bHRuezBey9ZNMnM2w%3d&risl=&pid=ImgRaw&r=0.jpg)
 
 ### USS Gravely (DDG-107)
 
 “格雷夫利”号（DDG-107） DDG-107是“阿利·伯克”级第57艘，属“伯克”ⅡA型，为诺斯罗普·格鲁曼公司建造的第27艘。“伯克”IIA型作为美国“伯克”级的第一种大改型号，为了弥补“斯普鲁恩斯”级在退役后的反潜空挡，在原先“伯克”级的基础上修改了后船体的设计，在烟囱之后增加了可以容纳两架直升机的机库，将原先烟囱之后的垂发系统提高到了机库顶。美国海军计划对“伯克”IIA型驱逐舰进行大规模升级，主要是为其更换新的雷达和电子战套件。
 
-![夕阳下的DDG107](https://www.shipspotting.com/photos/big/9/5/9/2957959.jpg)
+![夕阳下的DDG107](https://wsrv.nl/?url=www.shipspotting.com/photos/big/9/5/9/2957959.jpg)
 
-![DDG107舰身可见多处锈迹](https://www.shipspotting.com/photos/big/1/6/2/3022261.jpg?cb=0)
+![DDG107舰身可见多处锈迹](https://wsrv.nl/?url=https://www.shipspotting.com/photos/big/1/6/2/3022261.jpg?cb=0.jpg)
 
-![能看到DDG107取消了密集阵近防系统](https://www.shipspotting.com/photos/big/0/2/9/3501920.jpg?cb=0)
+![能看到DDG107取消了密集阵近防系统](https://wsrv.nl/?url=www.shipspotting.com/photos/big/0/2/9/3501920.jpg?cb=0.jpg)
 
 ### USS Kidd (DDG-993)
 
@@ -82,9 +82,9 @@ DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报�
 
 基德级的舰体与动力系统基本设计与斯普鲁恩斯级舰相同，其动力系统的设计都是为了应付常规战争，而不仅仅是反潜战斗，但基德级在舰体侧舷与若干重要部位增加“凯夫拉”或铝质装甲，因此排水量比斯普鲁恩斯级舰大。基德级与斯普鲁恩斯级舰最主要的区别在作战装备，舍弃了斯普鲁恩斯级舰以反潜为主的战系与武装配置，代之以类似“弗吉尼亚”级核动力导弹巡洋舰的战斗系统与防空武装，最主要的武器为两具mk-26双臂防空导弹发射器。由于以防空为主要任务，基德级便未装备“斯普鲁恩斯”级舰的sqr-19拖曳数组声纳以及mk-112 型“阿斯洛克”反潜导弹发射器。船楼前方的mk-26弹舱容量较舰尾的mk-26小，因为原先预定在舰首安装mk-71型203毫米舰炮，但后来遭到取消，仍沿用美国海军制式的mk-45型127毫米舰炮。舰尾的mk-26可装填16枚“阿斯洛克”反潜导弹，使该级舰仍然具备相当的中长程反潜能力。
 
-![交付台湾的基隆号和马公号](https://ts1.cn.mm.bing.net/th/id/R-C.4d4eba01f827b035d588b49d31922f69?rik=oy%2bj7R83H%2beQig&riu=http%3a%2f%2fp0.ifengimg.com%2fpmop%2f2018%2f0701%2f3BEEB83986A5E613C117E49A531EB82B7F31C347_size161_w1269_h952.jpeg&ehk=rVzpjGskXSKpNktpAg8zr0Al%2bOfngjBkyIRfa%2fn2V4Q%3d&risl=&pid=ImgRaw&r=0)
+![交付台湾的基隆号和马公号](https://wsrv.nl/?url=https://n.sinaimg.cn/sinakd2020924s/290/w1080h810/20200924/7220-izrvxmf4375909.jpg)
 
-![同德号与武德号](https://x0.ifengimg.com/res/2022/6669CA417056F6E63B185696B3A7A90502097F27_size1734_w1200_h853.png)
+![同德号与武德号](https://wsrv.nl/?url=x0.ifengimg.com/res/2022/6669CA417056F6E63B185696B3A7A90502097F27_size1734_w1200_h853.png)
 
 ## 俄罗斯
 
@@ -104,7 +104,7 @@ DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报�
 
 1155.1型驱逐舰计划建造3艘，但受苏联解体的影响1155.1型的二号舰贝西蒂海军上将号和三号舰库切罗夫海军上将号分别于1994年和1993年报废拆解，仅完工程度较高的首舰恰巴年科海军上将号得以在1994年6月加入俄罗斯海军服役
 
-![唯一服役的无畏2型“恰巴年科夫海军上将”号](https://cdn.sputniknews.cn/img/102237/11/1022371156_151:0:2882:2048_1920x0_80_0_0_eee98723f253be420b8f6fb489c813ee.jpg)
+![唯一服役的无畏2型“恰巴年科夫海军上将”号](https://wsrv.nl/?url=cdn.sputniknews.cn/img/102237/11/1022371156_151:0:2882:2048_1920x0_80_0_0_eee98723f253be420b8f6fb489c813ee.jpg)
 
 ![停泊在港口内的恰巴年科夫号](https://bkimg.cdn.bcebos.com/pic/ca1349540923dd540ce2d49bd309b3de9d8248ab?x-bce-process=image/format,f_auto)
 
@@ -120,7 +120,7 @@ DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报�
 
 ![领袖与055对比](https://ts1.cn.mm.bing.net/th/id/R-C.4fd012fdc97dfa722e5ab4ff860052d5?rik=1oQ7eWI6PcxzLQ&riu=http%3a%2f%2fn.sinaimg.cn%2fsinacn22%2f195%2fw640h355%2f20180812%2fdd8b-hhqtawx5521547.jpg&ehk=X1HOU1%2fviwdqqYj0t9%2bv5jAdytHXgtti%2f2QUPi6QSww%3d&risl=&pid=ImgRaw&r=0)
 
-![领袖二视图](https://www.navalnews.com/wp-content/uploads/2020/03/Project-23560-Lider-Leader-Russia.jpg)
+![领袖二视图](https://wsrv.nl/?url=www.navalnews.com/wp-content/uploads/2020/03/Project-23560-Lider-Leader-Russia.jpg)
 
 ### RF Anchar (Project 1199)
 
@@ -133,21 +133,21 @@ DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报�
 
 在80年代末期，随着1293的最终取消和苏联经济的愈发困难，采用核常并推的11990方案也开始变得岌岌可危起来，后期的11990项目组完全采用纯粹的燃气轮机推进的计划方案，该方案取消了M-22飓风防空导弹，采用射程更远的S-300F雷鸣防空导弹配合更新式的36N85墓碑，同时装备3M80蚊子和SS-N-16瀑布两款导弹11990的燃气轮机方案采用类似1293的AK-630配合SA-N-9进行末端防空。
 
-![核动力版本的1199](https://picx.zhimg.com/v2-ded2ffd21ae1d265e5734703e2de0ddc_r.jpg?source=1def8aca)
+![核动力版本的1199](https://wsrv.nl/?url=picx.zhimg.com/v2-ded2ffd21ae1d265e5734703e2de0ddc_r.jpg?source=1def8aca)
 
-![核常并推的1199](https://picx.zhimg.com/80/v2-f6f20124e2aa4ed28cc1ee1712d39bf8_720w.webp?source=1def8aca)
+![核常并推的1199](https://wsrv.nl/?url=picx.zhimg.com/80/v2-f6f20124e2aa4ed28cc1ee1712d39bf8_720w.webp?source=1def8aca)
 
-![燃气轮机的1199](https://picx.zhimg.com/v2-cfb0d36bd637c07f30dabfc4a11d2bb9_r.jpg?source=1def8aca)
+![燃气轮机的1199](https://wsrv.nl/?url=picx.zhimg.com/v2-cfb0d36bd637c07f30dabfc4a11d2bb9_r.jpg?source=1def8aca)
 
 ### RF Project 2145
 
 2009年3月，时任总理弗拉基米尔·普京（Vladimir Putin）对克里洛夫研究所（圣彼得堡）的访问引发了对未来俄罗斯驱逐舰设计的第一系列假设。这次访问后发布的一些照片显示，一座带有“未来主义”线条的建筑被错误地命名为“2145项目”，因为直升机飞行甲板上的编号。据报道，这座建筑的设计工作始于21世纪初，2009年1月，即普京总理访问前几周，提交了一份初步草案。当时的问题是为这些未来的建筑物配备“Redut”防空系统，该系统与“Polyment”点火控制系统相结合（特别是为正在建造的22350项目护卫舰配备）
 
-![“2145项目”模型在弗拉基米尔·普京访问克里洛夫研究所期间展示](https://img.over-blog.com/600x400/4/34/37/64/Divers/Projet-2145c.jpg)
+![“2145项目”模型在弗拉基米尔·普京访问克里洛夫研究所期间展示](https://wsrv.nl/?url=img.over-blog.com/600x400/4/34/37/64/Divers/Projet-2145c.jpg)
 
-![2145整体](https://img.over-blog.com/600x234/4/34/37/64/Divers/Projet-2145b.jpg)
+![2145整体](https://wsrv.nl/?url=img.over-blog.com/600x234/4/34/37/64/Divers/Projet-2145b.jpg)
 
-![2145项目](https://idata.over-blog.com/4/34/37/64/Divers/Projet-2145d.jpg)
+![2145项目](https://wsrv.nl/?url=idata.over-blog.com/4/34/37/64/Divers/Projet-2145d.jpg)
 
 ### RF Admiral Ushakov
 
@@ -157,16 +157,16 @@ DDG-1000使用全舰计算环境（TSCE）作为舰船各系统（指控情报�
 
 客观讲，“现代”级驱逐舰确实是存在诸多弱点，它采用了较落后的蒸汽轮机，而世界驱逐舰在1980年代就已普遍装备燃气轮机；第二，“现代”级的武器已相对过时，导弹基本都是1980年代的产品，尤其是缺少防空导弹垂直发射装置；第三，“现代”级缺少大型直升机库，限制了多用途能力；第四，“现代”级舰体虽大，但俄罗斯电子技术落后，导致武器和设备体积也大，上层建筑非常拥挤，也制约了进一步升级改造的潜力。但是人手稀少就能维护的蒸气锅炉推进驱逐舰能大量保持现役、维持战力，使得当时苏联解体后的俄罗斯，在财政极度困难和人手不足的情况下，让俄罗斯海军的重担减轻很多
 
-![乌沙科夫海军上将号正在进行演习](https://cdn.sputniknews.cn/img/07e4/0c/17/1032766590_170:0:2901:2048_1920x0_80_0_0_cd724cfdb67d5a8f3824ea8958ee60f9.jpg)
+![乌沙科夫海军上将号正在进行演习](https://wsrv.nl/?url=cdn.sputniknews.cn/img/07e4/0c/17/1032766590_170:0:2901:2048_1920x0_80_0_0_cd724cfdb67d5a8f3824ea8958ee60f9.jpg)
 
-![停泊中的乌沙科夫](https://ugc-img.ifengimg.com/img/2022/4/15/8FEVVa5gkLP/5aa894cc-e68e-433f-b952-34e4fa5f8674_w1201_h797.png)
+![停泊中的乌沙科夫](https://wsrv.nl/?url=ugc-img.ifengimg.com/img/2022/4/15/8FEVVa5gkLP/5aa894cc-e68e-433f-b952-34e4fa5f8674_w1201_h797.png)
 
 ### RF BPK Admiral Panteleyv
 
 潘捷列耶夫海军上将号与恰巴年科夫号同属于无畏级驱逐舰，该舰为未改进的1155型，详情见贝西蒂海军上将号驱逐舰
 
-![参加日本海演习的潘捷列耶夫号](https://cdn.sputniknews.cn/img/101407/27/1014072718_913:0:2774:2048_1920x0_80_0_0_4d10fceb08221b62ee8e1ab8be4f15f7.jpg)
+![参加日本海演习的潘捷列耶夫号](https://wsrv.nl/?url=cdn.sputniknews.cn/img/101407/27/1014072718_913:0:2774:2048_1920x0_80_0_0_4d10fceb08221b62ee8e1ab8be4f15f7.jpg)
 
-![进行演习的潘捷列耶夫号](https://cdn.sputniknews.cn/img/07e5/0a/0e/1034643341_512:0:2560:2048_1920x0_80_0_0_bc4e9a26f588c75af10e2608be5a61cf.jpg)
+![进行演习的潘捷列耶夫号](https://wsrv.nl/?url=cdn.sputniknews.cn/img/07e5/0a/0e/1034643341_512:0:2560:2048_1920x0_80_0_0_bc4e9a26f588c75af10e2608be5a61cf.jpg)
 
-![潘捷列耶夫](https://cdn.sputniknews.cn/img/07e4/0b/04/1032438129_0:30:1200:705_1920x0_80_0_0_171e8466ecd46217b9206195e5c090e2.jpg)
+![潘捷列耶夫号](https://wsrv.nl/?url=cdn.sputniknews.cn/img/07e4/0b/04/1032438129_0:30:1200:705_1920x0_80_0_0_171e8466ecd46217b9206195e5c090e2.jpg)
