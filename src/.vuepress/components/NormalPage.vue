@@ -75,16 +75,10 @@ async function savePicture() {
                 <div class="cus-footer">
                     <BuildVersion />
                     <a class="cus-footer-item" target="_blank" href="https://netfox.wiki">
-                        <img data-mode="darkmode-only" height="100%" width="240"
+                        <img data-mode="darkmode-only" height="100%" width="150"
                             src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
-                        <img data-mode="lightmode-only" height="100%" width="240"
+                        <img data-mode="lightmode-only" height="100%" width="150"
                             src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
-                    </a>
-                    <a class="cus-footer-item" href="https://www.netlify.com" target="_blank">
-                        <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-light.svg"
-                            alt="由 Netlify 部署" data-mode="lightmode-only">
-                        <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-dark.svg"
-                            alt="由 Netlify 部署" data-mode="darkmode-only">
                     </a>
                     <div class="cus-footer-c">
                         以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span>
