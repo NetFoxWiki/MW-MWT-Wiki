@@ -14,7 +14,7 @@ cover: https://statics.netfox.wiki/20240302/TfXSs6C8.99t3atbso5.webp
 
 <InfoCard name="Meteor" showAvatar="true" who="网狐社" title="编写、美术" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=1745778691&spec=640&img_type=jpg"/>
 
-<InfoCard name="萨卡班偷笑鱼" showAvatar="true" who="网狐社" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3552218786&spec=640&img_type=jpg"/>
+<InfoCard name="萨卡班偷笑鱼" showAvatar="true" who="已退游" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3552218786&spec=640&img_type=jpg"/>
 
 <InfoCard name="威林" showAvatar="true" who="贡献者" title="编写" description="" avatarlink="https://q.qlogo.cn/headimg_dl?dst_uin=3396069878&spec=640&img_type=jpg"/>
 

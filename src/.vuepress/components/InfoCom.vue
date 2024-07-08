@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template>
-    <div class="InfoCom-main">
+    <div class="InfoCom-main" data-html2canvas-ignore>
         <span>
             <b class="InfoCom-title">{{ title }}</b>
         </span>
@@ -33,8 +33,6 @@ export default {
     margin-bottom: 10px;
     margin-top: 10px;
     padding: 20px 40px 35px 40px;
-    background-image: url('/bg4.svg');
-    background-size: cover;
 }
 
 .InfoCom-main:hover {

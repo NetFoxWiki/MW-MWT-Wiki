@@ -1,7 +1,7 @@
 <script setup>
 import { useUser, SignOutButton } from 'vue-clerk';
-import ClerkAPI from './ClerkAPI.vue';
 const { isLoaded, isSignedIn, user } = useUser()
+import ClerkAPI from './ClerkAPI.vue';
 </script>
 
 <template>

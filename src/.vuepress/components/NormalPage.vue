@@ -23,6 +23,16 @@ async function savePicture() {
     <Page id="savepic">
         <template #contentBefore>
             <div class="theme-hope-content">
+                <div class="qq-main" data-html2canvas-ignore>
+                    <div class="qq-logo">
+                        <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
+                    </div>
+                    <div>
+                        <b>加入项目开发群组，了解更多内容：</b>
+                        <a
+                            href="https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260">点击加入</a>
+                    </div>
+                </div>
                 <div class="savepic-main" data-html2canvas-ignore>
                     <div class="savepic-h">生成此页截图</div>
                     <button @click="savePicture()" class="savepic-btn">
@@ -40,16 +50,6 @@ async function savePicture() {
                         移动端：长按图片保存
                     </div>
                     <img id="img" src="" class="savepic-img-hid" no-view />
-                </div>
-                <div class="qq-main" data-html2canvas-ignore>
-                    <div class="qq-logo">
-                        <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
-                    </div>
-                    <div>
-                        <b>加入项目开发群组，了解更多内容：</b>
-                        <a
-                            href="https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O_uVziCfUhzQseq9rCrjxwayDJDffOo9&authKey=ervLfyvDdYRlPRA%2FLK7NStIJgj23OlOZ1SyGa3aOd1XMUmUEsbW7iRi7mfrELOLX&noverify=0&group_code=421836260">点击加入</a>
-                    </div>
                 </div>
                 <ClerkTool />
                 <hr>
@@ -104,6 +104,7 @@ async function savePicture() {
     border: 2px var(--theme-color) solid;
     border-radius: 5px;
     padding: 5px;
+    margin: 5px 0;
 }
 
 .savepic-btn {
@@ -180,7 +181,6 @@ async function savePicture() {
     border-radius: 5px;
     border: 2px var(--theme-color-dark) solid;
     padding: 3px;
-    margin: 10px 0;
 }
 
 .qq-logo {
