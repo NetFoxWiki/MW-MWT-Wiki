@@ -10,10 +10,12 @@ import MWTTime from "./components/MWTTime.vue";
 import { clerkPlugin } from 'vue-clerk';
 import { zhCN } from "@clerk/localizations";
 import MWstatsCard from "./components/MWstatsCard.vue"
+import ColorShow from "./components/ColorShow.vue";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
     app.component("OC", OC);
+    app.component("ColorShow", ColorShow);
     app.component("InfoCom", InfoCom);
     app.component("InfoCard", InfoCard);
     app.component("ArchiveNotice", ArchiveNotice);

@@ -1,7 +1,6 @@
 <script setup>
 import { useUser, SignOutButton } from 'vue-clerk';
 const { isLoaded, isSignedIn, user } = useUser()
-import ClerkAPI from './ClerkAPI.vue';
 </script>
 
 <template>
@@ -21,7 +20,6 @@ import ClerkAPI from './ClerkAPI.vue';
                     </SignOutButton>
                 </div>
                 <div class="clerk-notice">UID: {{ user.id }}</div>
-                <ClerkAPI />
             </div>
         </div>
     </div>
