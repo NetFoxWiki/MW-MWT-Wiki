@@ -11,6 +11,7 @@ import { clerkPlugin } from 'vue-clerk';
 import { zhCN } from "@clerk/localizations";
 import MWstatsCard from "./components/MWstatsCard.vue"
 import ColorShow from "./components/ColorShow.vue";
+import AV from 'leancloud-storage'
 
 export default defineClientConfig({
   enhance: ({ app }) => {
@@ -24,13 +25,18 @@ export default defineClientConfig({
     app.component("MWstatsCard", MWstatsCard);
     app.use(clerkPlugin, {
       //发展环境
-      publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',
+      //publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',
       //开发环境
-      //publishableKey: 'pk_test_d2lubmluZy10dW5hLTUuY2xlcmsuYWNjb3VudHMuZGV2JA',
+      publishableKey: 'pk_test_d2lubmluZy10dW5hLTUuY2xlcmsuYWNjb3VudHMuZGV2JA',
       localization: zhCN,
     })
+    AV.init({
+      appId: "l0FWzXpQytCO6OgeiGesHzFJ-MdYXbMMI",
+      appKey: "wLMWgRmyEgpG3bzGiaad6U2y",
+      serverURL: "https://api.netfox.wiki",
+    });
   },
   layouts: {
-    
+
   },
 });

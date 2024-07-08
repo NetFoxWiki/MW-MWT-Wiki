@@ -8,12 +8,6 @@ import axios from 'axios'
 const { isSignedIn, userId } = useAuth()
 const route = useRoute()
 
-AV.init({
-    appId: "l0FWzXpQytCO6OgeiGesHzFJ-MdYXbMMI",
-    appKey: "wLMWgRmyEgpG3bzGiaad6U2y",
-    serverURL: "https://api.netfox.wiki",
-});
-
 const UpMath = ref(0)
 const DownMath = ref(0)
 const isDisableUp = ref()
