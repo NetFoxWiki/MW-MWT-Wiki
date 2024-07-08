@@ -25,9 +25,9 @@ export default defineClientConfig({
     app.component("MWstatsCard", MWstatsCard);
     app.use(clerkPlugin, {
       //发展环境
-      //publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',
+      publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',
       //开发环境
-      publishableKey: 'pk_test_d2lubmluZy10dW5hLTUuY2xlcmsuYWNjb3VudHMuZGV2JA',
+      //publishableKey: 'pk_test_d2lubmluZy10dW5hLTUuY2xlcmsuYWNjb3VudHMuZGV2JA',
       localization: zhCN,
     })
     AV.init({

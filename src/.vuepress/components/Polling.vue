@@ -5,7 +5,7 @@ import { useRoute } from 'vue-router'
 import AV from 'leancloud-storage'
 import axios from 'axios'
 
-const { isSignedIn, userId } = useAuth()
+const { isSignedIn, userId, isLoaded } = useAuth()
 const route = useRoute()
 
 const UpMath = ref(0)
@@ -135,7 +135,7 @@ function DownM() {
             <Badge text="Tips: 一个用户只能选择一次，请慎重选择！" type="danger" />
         </div>
         <div class="polling-clicktext">{{ PollingText }}</div>
-        <div v-if="isSignedIn" class="polling-c">
+        <div v-if="isLoaded && isSignedIn" class="polling-c">
             <button class="polling-up" id="Up" @click="UpM()" :disabled="isDisableUp">
                 <svg width="35px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                     <path fill="#ffffff"
