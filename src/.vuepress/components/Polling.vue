@@ -22,21 +22,15 @@ if (isSignedIn) {
     isLogin.value = true
 }
 
-onMounted(() => {
-    PollingStartAxios()
-})
-
-function PollingStartAxios() {
-    axios.get('https://api.netfox.wiki/1.1/date').then(({ data }) => {
-        IsPolling()
-        if (data.__type == 'Date') {
-            PollingINIT.value = true
-            PollingText.value = ''
-        }
-        PollingStartInit()
-        PollingStart()
-    }).catch(console.error)
-}
+axios.get('https://api.netfox.wiki/1.1/date').then(({ data }) => {
+    IsPolling()
+    if (data.__type == 'Date') {
+        PollingINIT.value = true
+        PollingText.value = ''
+    }
+    PollingStartInit()
+    PollingStart()
+}).catch(console.error)
 
 function PollingStartInit() {
     const queryUP = new AV.Query("UPTimes")
@@ -131,8 +125,6 @@ function DownM() {
         <div class="polling-h">玩家调查</div>
         <div class="polling-h-c">
             此调查将帮助此页面获得页面认证/顺序上升/特别推广
-            <br>
-            <Badge text="Tips: 一个用户只能选择一次，请慎重选择！" type="danger" />
         </div>
         <div class="polling-clicktext">{{ PollingText }}</div>
         <div v-if="isLoaded && isSignedIn" class="polling-c">
