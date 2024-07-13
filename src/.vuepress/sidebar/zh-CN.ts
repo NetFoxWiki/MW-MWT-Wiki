@@ -267,7 +267,7 @@ export const zhCNSidebar = sidebar([
 		],
 	},
 	{
-		text: '衍生项目',
+		text: '分支项目',
 		icon: "code-branch",
 		collapsible: true,
 		children: [
@@ -277,6 +277,7 @@ export const zhCNSidebar = sidebar([
 				collapsible: true,
 				children: [
 					'zh/branch/mw-card/index.md',
+					'zh/mw/mw-game-lottery.md',
 				],
 			},
 			{
