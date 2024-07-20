@@ -505,4 +505,4 @@ cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 <https://modernwarships.com/news/modern-warships-secret-of-faraoh>
 :::
 
-![法老的秘密](![MWLiveOps_Event_SPH_banner_0](https://statics.netfox.wiki/20240711/MWLiveOps_Event_SPH_banner_0.81_1920x1080_0f8e9f845fd51d15e1305db18d110010.4jnzjxbrb0.webp))
+![法老的秘密](https://statics.netfox.wiki/20240711/MWLiveOps_Event_SPH_banner_0.81_1920x1080_0f8e9f845fd51d15e1305db18d110010.4jnzjxbrb0.webp)
