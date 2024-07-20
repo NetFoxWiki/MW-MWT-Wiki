@@ -3,7 +3,6 @@ import Page from "vuepress-theme-hope/components/NormalPage.js";
 import ClerkTool from "./ClerkTool.vue";
 import BuildVersion from './BuildVersion.vue';
 import html2canvas from 'html2canvas';
-import Polling from "./Polling.vue";
 
 async function savePicture() {
     await html2canvas(document.querySelector("#savepic"), {
@@ -53,7 +52,6 @@ async function savePicture() {
                     <img id="img" src="" class="savepic-img-hid" no-view />
                 </div>
                 <ClerkTool />
-                <Polling />
                 <hr>
             </div>
         </template>
