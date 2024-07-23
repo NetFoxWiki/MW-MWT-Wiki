@@ -234,6 +234,7 @@ export const zhCNSidebar = sidebar([
 				collapsible: true,
 				children: [
 					'link.md',
+					'ammo.md',
 				],
 			},
 		],
