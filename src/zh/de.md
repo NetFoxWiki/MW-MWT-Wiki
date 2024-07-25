@@ -24,7 +24,7 @@ cover: https://statics.netfox.wiki/20240302/TfXSs6C8.99t3atbso5.webp
 ## 赞助者
 
 **支持我们？**
-[![](https://statics.netfox.wiki/20240302/VT9U2fmM.101wmlhgiu.webp =150x60)](https://afdian.net/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
+[![](https://statics.netfox.wiki/20240302/VT9U2fmM.101wmlhgiu.webp =150x60)](https://afdian.com/order/create?plan_id=2bf62f5ebc1811ed9c3f5254001e7c00&product_type=0&month=1)
 
 <InfoCard name="琉璃" showAvatar="true" who="赞助者" title="来自爱发电" description="" avatarlink="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png"/>
 
