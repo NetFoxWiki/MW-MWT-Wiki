@@ -5,4 +5,4 @@ comment: false
 
 # 衍生项目
 
-<Catalog base='/zh/branch' />
+<Catalog base='/zh/intl/branch' />

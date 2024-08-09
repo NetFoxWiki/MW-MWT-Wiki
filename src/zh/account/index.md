@@ -5,4 +5,4 @@ comment: false
 
 # 账号注册
 
-<Catalog base='/zh/account/' />
+<Catalog base='/zh/intl/account/' />

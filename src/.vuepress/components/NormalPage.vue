@@ -1,6 +1,6 @@
 <script setup>
 import Page from "vuepress-theme-hope/components/NormalPage.js";
-import ClerkTool from "./ClerkTool.vue";
+//import ClerkTool from "./ClerkTool.vue";
 import BuildVersion from './BuildVersion.vue';
 import html2canvas from 'html2canvas';
 
@@ -51,7 +51,7 @@ async function savePicture() {
                     </div>
                     <img id="img" src="" class="savepic-img-hid" no-view />
                 </div>
-                <ClerkTool />
+                <!--<ClerkTool />-->
                 <hr>
             </div>
         </template>

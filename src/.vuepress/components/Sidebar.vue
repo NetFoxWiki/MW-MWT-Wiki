@@ -1,12 +1,12 @@
 <script>
 import NetFoxWiki from "vuepress-theme-hope/modules/sidebar/components/Sidebar.js";
 import 'animate.css';
-import ClerkMain from "./ClerkMain.vue";
+//import ClerkMain from "./ClerkMain.vue";
 
 export default {
     components: {
         NetFoxWiki,
-        ClerkMain,
+        //ClerkMain,
     },
     data() {
         return {
@@ -61,7 +61,7 @@ export default {
 <template>
     <NetFoxWiki>
         <template #top>
-            <ClerkMain />
+            <!--<ClerkMain />-->
             <div class="tips-main">
                 <b class="tips-content">
                     Tips：<span class="animate__animated animate__flash">{{ GameTips }}</span>
@@ -85,7 +85,7 @@ export default {
                 </a>
             </div>
             <div class="ad-main">
-                <router-link to="/zh/mw/mw-game-lottery.html">
+                <router-link to="/zh/intl/mw/mw-game-lottery.html">
                     <b class="ad-text">
                         游戏抽奖模拟，试试你的运气？
                     </b>

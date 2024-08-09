@@ -34,7 +34,7 @@ copyright: false
 title: 硬件设备最低要求
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/download/sys.html
+link: /zh/intl/mw/download/sys.html
 color: #e2e1e4
 ```
 
@@ -54,7 +54,7 @@ color: #e2e1e4
 title: 违规行为的类型和处罚
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/skills/mw-rules.html
+link: /zh/intl/mw/skills/mw-rules.html
 color: #e2e1e4
 ```
 
@@ -64,7 +64,7 @@ color: #e2e1e4
 title: 快捷下载
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/download/app.html
+link: /zh/intl/mw/download/app.html
 color: #e2e1e4
 ```
 
@@ -75,7 +75,7 @@ color: #e2e1e4
 title: 日区 Apple ID 注册教程
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/account/ios.html
+link: /zh/intl/account/ios.html
 color: #e2e1e4
 ```
 
@@ -91,7 +91,7 @@ color: #e2e1e4
 title: 谷歌账号注册教程
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/account/google.html
+link: /zh/intl/account/google.html
 color: #e2e1e4
 ```
 
@@ -140,7 +140,7 @@ color: #e2e1e4
 title: 现代战舰资料卡生成V2
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/branch/mw-card/
+link: /zh/intl/branch/mw-card/
 color: #e2e1e4
 ```
 
@@ -150,7 +150,7 @@ color: #e2e1e4
 title: 月初常见问题
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/download/zg.html
+link: /zh/intl/mw/download/zg.html
 color: #e2e1e4
 ```
 
@@ -166,7 +166,7 @@ color: #e2e1e4
 title: 模拟抽奖系统
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/mw-game-lottery.html
+link: /zh/intl/mw/mw-game-lottery.html
 color: #e2e1e4
 ```
 
@@ -176,7 +176,7 @@ color: #e2e1e4
 title: 大型活动收录
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/collection/musk.html
+link: /zh/intl/mw/collection/musk.html
 color: #e2e1e4
 ```
 
@@ -184,7 +184,7 @@ color: #e2e1e4
 title: 小型活动收录
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/collection/events-less.html
+link: /zh/intl/mw/collection/events-less.html
 color: #e2e1e4
 ```
 
@@ -210,7 +210,7 @@ color: #e2e1e4
 title: 游戏模式
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/collection/game-modes.html
+link: /zh/intl/mw/collection/game-modes.html
 color: #e2e1e4
 ```
 
@@ -236,7 +236,7 @@ color: #e2e1e4
 title: 简述市场运作机制
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/skills/mom.html
+link: /zh/intl/mw/skills/mom.html
 color: #e2e1e4
 ```
 
@@ -260,7 +260,7 @@ color: #e2e1e4
 title: 官方解惑
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/official/
+link: /zh/intl/mw/official/
 color: #e2e1e4
 ```
 
@@ -272,7 +272,7 @@ color: #e2e1e4
 title: 常用词解答
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/skills/cyct.html
+link: /zh/intl/mw/skills/cyct.html
 color: #e2e1e4
 ```
 
@@ -282,7 +282,7 @@ color: #e2e1e4
 title: 三机联攻
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/skills/stan-bilibili.html
+link: /zh/intl/mw/skills/stan-bilibili.html
 color: #e2e1e4
 ```
 
@@ -292,7 +292,7 @@ color: #e2e1e4
 title: 激光制导导弹使用指南
 desc: 来自：MW & MWT 文档
 logo: ./Logo-light.webp
-link: /zh/mw/skills/x51.html
+link: /zh/intl/mw/skills/x51.html
 color: #e2e1e4
 ```
 
@@ -304,7 +304,7 @@ color: #e2e1e4
 
 我们这里有玩家自制壁纸和MW官方发布的宣传图，想要的舰长可以点击下方链接下载哦！
 
-<InfoCom title="资源中心" content="收录各种素材" button-text="点击前往" link="/zh/assets.html"/>
+<InfoCom title="资源中心" content="收录各种素材" button-text="点击前往" link="/zh/intl/assets.html"/>
 
 除此之外，官方为了更好的宣传游戏，特地发布“创作者计划”。
 

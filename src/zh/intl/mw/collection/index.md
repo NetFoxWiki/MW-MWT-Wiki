@@ -5,4 +5,4 @@ comment: false
 
 # 游戏收录
 
-<Catalog base='/zh/mw/collection/' />
+<Catalog base='/zh/intl/mw/collection/' />

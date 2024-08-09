@@ -12,7 +12,7 @@
 
 :::danger 此教程开始前已认为您拥有 Artstorm 账户
 
-还没有账户？请前往游戏内进行注册 [游戏下载](/zh/mw/download/app.html)
+还没有账户？请前往游戏内进行注册 [游戏下载](/zh/intl/mw/download/app.html)
 
 :::
 

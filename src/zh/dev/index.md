@@ -5,4 +5,4 @@ comment: false
 
 # 项目开发
 
-<Catalog base='/zh/dev' />
+<Catalog base='/zh/intl/dev' />

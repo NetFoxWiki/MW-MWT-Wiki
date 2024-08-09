@@ -5,4 +5,4 @@ comment: false
 
 # 游戏攻略
 
-<Catalog base='/zh/mw/skills/' />
+<Catalog base='/zh/intl/mw/skills/' />

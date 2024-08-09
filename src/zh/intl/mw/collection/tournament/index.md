@@ -5,4 +5,4 @@ comment: false
 
 # 游戏赛事
 
-<Catalog base='/zh/mw/collection/tournament/' />
+<Catalog base='/zh/intl/mw/collection/tournament/' />

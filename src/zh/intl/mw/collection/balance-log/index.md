@@ -5,4 +5,4 @@ comment: false
 
 # 平衡日志
 
-<Catalog base='/zh/mw/collection/balance-log/' />
+<Catalog base='/zh/intl/mw/collection/balance-log/' />

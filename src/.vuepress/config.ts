@@ -75,16 +75,16 @@ t.parentNode.insertBefore(e,t)}})();
       "./components/NormalPage.vue",
     ),
   },
-  locales: {
+  /*locales: {
     "/zh/": {
       lang: "zh-CN",
       title: "MW & MWT 文档",
     },
-    /*"/en/": {
+    "/en/": {
       lang: "en-US",
       title: "MW & MWT Docs",
-    },*/
-  },
+    },
+  },*/
   theme,
   /*bundler: viteBundler({
     viteOptions: {},
@@ -96,8 +96,8 @@ t.parentNode.insertBefore(e,t)}})();
     }),
     redirectPlugin({
       config: {
-        '/dmw': '/zh/mw/download/app.html',
-        '/zh': '/zh/'
+        '/dmw': '/zh/intl/mw/download/app.html',
+        '/zh': '/zh/intl/'
       },
       autoLocale: false,
       switchLocale: "modal",

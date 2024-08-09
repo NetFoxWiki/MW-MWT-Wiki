@@ -5,4 +5,4 @@ comment: false
 
 # 游戏下载
 
-<Catalog base='/zh/mw/download/' />
+<Catalog base='/zh/intl/mw/download/' />

@@ -5,4 +5,4 @@ comment: false
 
 # 部分航空器现实原型
 
-<Catalog base='/zh/mw/column/realitymw/' />
+<Catalog base='/zh/intl/mw/column/realitymw/' />

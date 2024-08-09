@@ -5,4 +5,4 @@ comment: false
 
 # 官方解惑
 
-<Catalog base='/zh/mw/official/' />
+<Catalog base='/zh/intl/mw/official/' />

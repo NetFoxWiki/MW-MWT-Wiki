@@ -7,11 +7,11 @@ import MWGameLottery from "./components/MWGameLottery.vue";
 import InfoCard from "./components/InfoCard.vue";
 import OC from "./components/OC.vue";
 import MWTTime from "./components/MWTTime.vue";
-import { clerkPlugin } from 'vue-clerk';
-import { zhCN } from "@clerk/localizations";
+//import { clerkPlugin } from 'vue-clerk';
+//import { zhCN } from "@clerk/localizations";
 import MWstatsCard from "./components/MWstatsCard.vue"
 import ColorShow from "./components/ColorShow.vue";
-import AV from 'leancloud-storage'
+//import AV from 'leancloud-storage'
 
 export default defineClientConfig({
   enhance: ({ app }) => {
@@ -23,7 +23,7 @@ export default defineClientConfig({
     app.component("MWGameLottery", MWGameLottery);
     app.component("MWTTime", MWTTime);
     app.component("MWstatsCard", MWstatsCard);
-    app.use(clerkPlugin, {
+    /*app.use(clerkPlugin, {
       //发展环境
       publishableKey: 'pk_live_Y2xlcmsubmV0Zm94Lndpa2kk',
       //开发环境
@@ -34,7 +34,7 @@ export default defineClientConfig({
       appId: "l0FWzXpQytCO6OgeiGesHzFJ-MdYXbMMI",
       appKey: "wLMWgRmyEgpG3bzGiaad6U2y",
       serverURL: "https://api.netfox.wiki",
-    });
+    });*/
   },
   layouts: {
 

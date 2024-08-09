@@ -3,23 +3,23 @@ import { sidebar } from "vuepress-theme-hope";
 export const zhCNSidebar = sidebar([
 	{
 		text: "欢迎来到 MW & MWT 文档",
-		link: 'zh/index.md',
+		link: 'zh/intl/index.md',
 		icon: "home",
 	},
 	{
-		text: "全站目录",
-		link: 'zh/catalog.md',
+		text: "国际区内容目录",
+		link: 'zh/intl/catalog.md',
 		icon: "bars",
 	},
 	{
 		text: 'MW丨现代战舰',
 		icon: "tag",
-		link: 'zh/mw/index.md',
+		link: 'zh/intl/mw/index.md',
 		collapsible: true,
 		children: [
 			{
 				text: "你好，舰长！",
-				link: 'zh/mw/index.md',
+				link: 'zh/intl/mw/index.md',
 				icon: "home",
 			},
 			{
@@ -29,7 +29,7 @@ export const zhCNSidebar = sidebar([
 			},
 			{
 				text: "游戏信息",
-				link: 'zh/mw/game-info.md',
+				link: 'zh/intl/mw/game-info.md',
 				icon: "fire",
 			},
 			/*{
@@ -39,18 +39,18 @@ export const zhCNSidebar = sidebar([
 			},*/
 			{
 				text: "创作者计划",
-				link: 'zh/mw/mw-press.md',
+				link: 'zh/intl/mw/mw-press.md',
 				icon: "closed-captioning",
 			},
 			{
 				text: "游戏抽奖模拟",
-				link: 'zh/mw/mw-game-lottery.md',
+				link: 'zh/intl/mw/mw-game-lottery.md',
 				icon: "bullseye",
 			},
 			{
 				text: '游戏下载',
 				icon: "play",
-				prefix: "zh/mw/download/",
+				prefix: "zh/intl/mw/download/",
 				collapsible: true,
 				children: [
 					'sys.md',
@@ -63,7 +63,7 @@ export const zhCNSidebar = sidebar([
 			{
 				text: '游戏收录',
 				icon: "folder",
-				prefix: "zh/mw/collection/",
+				prefix: "zh/intl/mw/collection/",
 				collapsible: true,
 				children: [
 					{
@@ -159,7 +159,7 @@ export const zhCNSidebar = sidebar([
 			{
 				text: '游戏攻略',
 				icon: "trophy",
-				prefix: "zh/mw/skills/",
+				prefix: "zh/intl/mw/skills/",
 				collapsible: true,
 				children: [
 					'stan-bilibili.md',
@@ -179,7 +179,7 @@ export const zhCNSidebar = sidebar([
 			{
 				text: '官方解惑',
 				icon: "anchor",
-				prefix: "zh/mw/official/",
+				prefix: "zh/intl/mw/official/",
 				collapsible: true,
 				children: [
 					'bp.md',
@@ -214,23 +214,23 @@ export const zhCNSidebar = sidebar([
 	{
 		text: 'MWT丨现代战争：坦克',
 		icon: "tag",
-		link: 'zh/mwt/index.md',
+		link: 'zh/intl/mwt/index.md',
 		collapsible: true,
 		children: [
 			{
 				text: '你好，指挥官！',
-				link: 'zh/mwt/index.md',
+				link: 'zh/intl/mwt/index.md',
 				icon: "home",
 			},
 			{
 				text: '关于游戏-前瞻',
-				link: 'zh/mwt/game-info.md',
+				link: 'zh/intl/mwt/game-info.md',
 				icon: "fire",
 			},
 			{
 				text: '游戏收录',
 				icon: "folder",
-				prefix: "zh/mwt/collection/",
+				prefix: "zh/intl/mwt/collection/",
 				collapsible: true,
 				children: [
 					'link.md',
@@ -278,7 +278,7 @@ export const zhCNSidebar = sidebar([
 				collapsible: true,
 				children: [
 					'zh/branch/mw-card/index.md',
-					'zh/mw/mw-game-lottery.md',
+					'zh/intl/mw/mw-game-lottery.md',
 				],
 			},
 			{
@@ -308,5 +308,5 @@ export const zhCNSidebar = sidebar([
 			//'ZS.md',
 		],
 	},
-	//{ text: 'NetFox.Wiki',icon: "define", link: 'zh/netfox.wiki.md' },
+	//{ text: 'NetFox.Wiki',icon: "define", link: 'zh/intl/netfox.wiki.md' },
 ]);
