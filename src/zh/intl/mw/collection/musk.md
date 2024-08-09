@@ -2,7 +2,7 @@
 cover: https://statics.netfox.wiki/20240302/ZMhq84AY.1vye21r501.webp
 ---
 
-# 大型特殊活动简写介绍
+# 大型活动短介绍
 
 ## 巨兽之战 <Badge text="可玩性最高类" type="info" />（22.12.14）
 

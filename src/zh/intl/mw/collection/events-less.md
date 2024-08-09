@@ -2,7 +2,7 @@
 cover: https://statics.netfox.wiki/20240302/mw-default.2h81ocll7z.webp
 ---
 
-# 小型特殊活动简写介绍
+# 小型活动短介绍
 
 <ArchiveNotice />
 

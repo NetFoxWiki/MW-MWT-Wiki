@@ -125,6 +125,7 @@ export const zhCNSidebar = sidebar([
 						prefix: "balance-log/",
 						collapsible: true,
 						children: [
+							'mw82.md',
 							'mw80.md',
 							'mw79.md',
 							'mw78.md',
