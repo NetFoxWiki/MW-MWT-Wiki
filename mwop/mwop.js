@@ -59,7 +59,7 @@ function Launch() {
 
     // 起洞！
     setTimeout(() => {
-        window.location.href = 'http://mw.netfox.wiki/zh/mw/';
+        window.location.href = 'http://mw.netfox.wiki/zh/intl/mw/';
         elm_div.onclick = () => {
             elm_audio.pause();
             elm_div.remove();
