@@ -78,6 +78,6 @@ footer: <a class="cus-footer-item" target="_blank" href="https://netfox.wiki">
                         以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂
                         <br>
                         Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW &
-                            MWT 文档</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
+                            MWT Wiki</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
                     </div>
 ---

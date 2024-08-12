@@ -85,7 +85,7 @@ async function savePicture() {
                         内容的骨灰级游戏网站 🍂
                         <br>
                         Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW &
-                            MWT 文档</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
+                            MWT Wiki</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
                     </div>
                 </div>
             </div>
