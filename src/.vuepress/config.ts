@@ -20,7 +20,7 @@ fs.writeFile("./src/.vuepress/utils/versionJSON.json", JSON.stringify(versionJSO
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
-  title: "MW & MWT 文档",
+  title: "MW & MWT Wiki",
   head: [
     /*["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
@@ -78,7 +78,7 @@ t.parentNode.insertBefore(e,t)}})();
   /*locales: {
     "/zh/": {
       lang: "zh-CN",
-      title: "MW & MWT 文档",
+      title: "MW & MWT Wiki",
     },
     "/en/": {
       lang: "en-US",

@@ -32,7 +32,7 @@ copyright: false
 
 ```component VPCard
 title: 硬件设备最低要求
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/download/sys.html
 color: #e2e1e4
@@ -52,7 +52,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 违规行为的类型和处罚
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/skills/mw-rules.html
 color: #e2e1e4
@@ -62,7 +62,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 快捷下载
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/download/app.html
 color: #e2e1e4
@@ -73,7 +73,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 日区 Apple ID 注册教程
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/account/ios.html
 color: #e2e1e4
@@ -89,7 +89,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 谷歌账号注册教程
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/account/google.html
 color: #e2e1e4
@@ -138,7 +138,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 现代战舰资料卡生成V2
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/branch/mw-card/
 color: #e2e1e4
@@ -148,7 +148,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 月初常见问题
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/download/zg.html
 color: #e2e1e4
@@ -164,7 +164,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 模拟抽奖系统
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/mw-game-lottery.html
 color: #e2e1e4
@@ -174,7 +174,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 大型活动收录
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/collection/musk.html
 color: #e2e1e4
@@ -182,7 +182,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 小型活动收录
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/collection/events-less.html
 color: #e2e1e4
@@ -208,7 +208,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 游戏模式
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/collection/game-modes.html
 color: #e2e1e4
@@ -234,7 +234,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 简述市场运作机制
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/skills/mom.html
 color: #e2e1e4
@@ -258,7 +258,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 官方解惑
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/official/
 color: #e2e1e4
@@ -270,7 +270,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 常用词解答
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/skills/cyct.html
 color: #e2e1e4
@@ -280,7 +280,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 三机联攻
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/skills/stan-bilibili.html
 color: #e2e1e4
@@ -290,7 +290,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 激光制导导弹使用指南
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: /zh/intl/mw/skills/x51.html
 color: #e2e1e4

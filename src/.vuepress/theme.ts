@@ -70,7 +70,7 @@ export default hopeTheme({
   data-mode="lightmode-only"><img width="100" height="100%"
   src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="由 Netlify 部署"
   data-mode="darkmode-only"></a>
-  <hr>以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT 文档</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
+  <hr>以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT Wiki</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
@@ -94,7 +94,7 @@ export default hopeTheme({
                     data-mode="lightmode-only"><img width="100" height="100%"
                     src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="由 Netlify 部署"
                     data-mode="darkmode-only"></a>
-                    <hr>以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT 文档</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
+                    <hr>以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂<br>Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW & MWT Wiki</a> by <font color="#5b77a6">网狐社</font> All rights reserved.`,
 
       displayFooter: false,
 

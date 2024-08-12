@@ -4,8 +4,8 @@ heroImage: /Logo-light.webp
 heroImageDark: /Logo-dark.webp
 bgImage: /bg.svg
 bgImageDark: /bg.svg
-heroText: MW & MWT 文档
-shortTitle: MW & MWT 文档
+heroText: MW & MWT Wiki
+shortTitle: MW & MWT Wiki
 heroFullScreen: true
 tagline: 以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂
 actions:

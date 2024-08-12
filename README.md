@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp">
 
-# MW & MWT 文档
+# MW & MWT Wiki
 
 用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
 
@@ -74,7 +74,7 @@ pnpm run docs:build
 
 ## 免责声明
 
-MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证
+MW & MWT Wiki 不对本站信息的完整性、可靠性和准确性提供任何保证
 
 本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱
 

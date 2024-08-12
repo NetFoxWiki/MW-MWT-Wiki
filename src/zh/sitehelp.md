@@ -55,4 +55,4 @@ Chrome79 之前的内核我们无计划支持。如果某些浏览器仍在使�
 
 ## 关于 Cookies
 
-MW & MWT 文档 所使用的 VuePress2 系统自动创建了数个 Cookies 以记录您的来访（您选择的主题颜色、夜间模式、搜索等），但这些 Cookies 不会记录您的任何个人信息
+MW & MWT Wiki 所使用的 VuePress2 系统自动创建了数个 Cookies 以记录您的来访（您选择的主题颜色、夜间模式、搜索等），但这些 Cookies 不会记录您的任何个人信息

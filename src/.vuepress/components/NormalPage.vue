@@ -61,7 +61,7 @@ async function savePicture() {
                 <div class="b-notice">
                     <div class="b-notice-h">免责声明</div>
                     <div class="b-notice-b">
-                        MW & MWT 文档 不对本站信息的完整性、可靠性和准确性提供任何保证
+                        MW & MWT Wiki 不对本站信息的完整性、可靠性和准确性提供任何保证
                         <br>
                         <br>本网站内容均为网络收集与自制，转载已标明出处，如需协商请发送邮箱
                         <br>

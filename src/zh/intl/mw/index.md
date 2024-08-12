@@ -13,7 +13,7 @@ shortTitle: MW丨现代战舰
 
 ```component VPCard
 title: 快捷游戏下载（电脑/安卓）
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: download/app.html
 color: #e2e1e4
@@ -21,7 +21,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 网站专栏
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: column/
 color: #e2e1e4
@@ -29,7 +29,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 官方解惑
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: official/
 color: #e2e1e4
@@ -37,7 +37,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 游戏收录
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: collection/
 color: #e2e1e4
@@ -45,7 +45,7 @@ color: #e2e1e4
 
 ```component VPCard
 title: 游戏攻略
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: skills/
 color: #e2e1e4

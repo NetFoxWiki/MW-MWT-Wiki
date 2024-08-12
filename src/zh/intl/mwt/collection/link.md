@@ -36,6 +36,6 @@ https://pd.qq.com/s/h27dr0db3
 
 ## 非官方网站
 
-### MW & MWT 文档
+### MW & MWT Wiki
 
 https://mwt.netfox.wiki

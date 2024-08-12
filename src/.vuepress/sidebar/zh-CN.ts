@@ -2,7 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhCNSidebar = sidebar([
 	{
-		text: "欢迎来到 MW & MWT 文档",
+		text: "欢迎来到 MW & MWT Wiki",
 		link: 'zh/intl/index.md',
 		icon: "home",
 	},

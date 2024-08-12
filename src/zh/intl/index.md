@@ -3,7 +3,7 @@ shortTitle: 国际区
 cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 ---
 
-# 欢迎来到 MW & MWT 文档
+# 欢迎来到 MW & MWT Wiki
 
 :::info 注意：网站内容会越来越丰富，点击左侧边栏即可跳转至相关内容（移动设备点击左上角图标可展开边栏）
 :::
@@ -17,7 +17,7 @@ cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 
 ```component VPCard
 title: 全站目录
-desc: 来自：MW & MWT 文档
+desc: 来自：MW & MWT Wiki
 logo: ./Logo-light.webp
 link: catalog.md
 color: #e2e1e4
