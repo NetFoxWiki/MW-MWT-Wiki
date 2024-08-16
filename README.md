@@ -3,7 +3,7 @@
 
 # MW & MWT Wiki
 
-用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
+以文档的形式，记录 现代战舰 与 现代战争：坦克激斗 内容的骨灰级游戏网站 🍂
 
 <img height="100%" width="300" src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp"> <img height="100%" width="130" src="https://statics.netfox.wiki/20240302/netfox-logo-round.60tze5ob17.webp">
 
