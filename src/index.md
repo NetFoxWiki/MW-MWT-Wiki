@@ -62,22 +62,17 @@ highlights:
         details: 游戏攻略、官方解惑等
         link: ./zh/intl/mwt/
 
-footer: <a class="cus-footer-item" target="_blank" href="https://netfox.wiki">
-                        <img data-mode="darkmode-only" height="100%" width="240"
+footer: <a target="_blank" href="https://www.netfox.wiki">
+                        <img data-mode="darkmode-only" height="100%" width="150"
                             src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
-                        <img data-mode="lightmode-only" height="100%" width="240"
+                        <img data-mode="lightmode-only" height="100%" width="150"
                             src="https://statics.netfox.wiki/20240504/retouch_2024050410474193.54xkgznu5u.webp">
                     </a>
-                    <a class="cus-footer-item" href="https://www.netlify.com" target="_blank">
-                        <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-light.svg"
-                            alt="由 Netlify 部署" data-mode="lightmode-only">
-                        <img width="100" height="100%" src="https://www.netlify.com/img/global/badges/netlify-dark.svg"
-                            alt="由 Netlify 部署" data-mode="darkmode-only">
-                    </a>
-                    <div>
-                        以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span> 内容的骨灰级游戏网站 🍂
+                    <div class="cus-footer-c">
+                        以文档的形式，记录 <span style="color:#2196F3">现代战舰</span> 与 <span style="color:#fb8b05">现代战争：坦克激斗</span>
+                        内容的骨灰级游戏网站 🍂
                         <br>
                         Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW &
-                            MWT Wiki</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
+                            MWT Wiki</a> by <a href="https://www.netfox.wiki">NetFox.Wiki</a> All rights reserved.
                     </div>
 ---

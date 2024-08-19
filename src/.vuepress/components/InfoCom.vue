@@ -35,10 +35,6 @@ export default {
     padding: 20px 40px 35px 40px;
 }
 
-.InfoCom-main:hover {
-    box-shadow: 0 0 3px 1px var(--theme-color-light);
-}
-
 .InfoCom-title {
     font-size: 40px;
 }
@@ -59,6 +55,7 @@ export default {
     padding: 7px 12px;
     border-radius: 5px;
     text-align: center;
+    transition: color 0.5s, background-color 0.5s;
 }
 
 .InfoCom-button:hover {

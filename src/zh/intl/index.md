@@ -5,6 +5,8 @@ cover: https://statics.netfox.wiki/20240302/mwdocs-site-banner.5mnjnag054.webp
 
 # 欢迎来到 MW & MWT Wiki
 
+![](https://statics.netfox.wiki/20240819/IMG_20240819_110106.3nrjnywzbx.webp)
+
 :::info 注意：网站内容会越来越丰富，点击左侧边栏即可跳转至相关内容（移动设备点击左上角图标可展开边栏）
 :::
 

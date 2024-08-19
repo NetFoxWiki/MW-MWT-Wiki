@@ -138,10 +138,11 @@ export default {
     margin: 10px;
     padding: 2px;
     text-align: center;
+    transition: box-shadow 0.5s;
 }
 
 .ad-main:hover {
-    box-shadow: 0 0 5px var(--theme-color);
+    box-shadow: 0 0 10px var(--theme-color);
 }
 
 .ad-text {

@@ -24,9 +24,6 @@ async function savePicture() {
         <template #contentBefore>
             <div class="theme-hope-content">
                 <div class="qq-main" data-html2canvas-ignore>
-                    <div class="qq-logo">
-                        <img src="https://statics.netfox.wiki/20240615/QQ.2krrs9cvwa.webp" no-view>
-                    </div>
                     <div>
                         <b>加入项目开发群组，了解更多内容：</b>
                         <a
@@ -74,7 +71,7 @@ async function savePicture() {
                 </div>
                 <div class="cus-footer">
                     <BuildVersion />
-                    <a class="cus-footer-item" target="_blank" href="https://netfox.wiki">
+                    <a class="cus-footer-item" target="_blank" href="https://www.netfox.wiki">
                         <img data-mode="darkmode-only" height="100%" width="150"
                             src="https://statics.netfox.wiki/20240504/retouch_2024050410472811.7sn0rcgvht.webp">
                         <img data-mode="lightmode-only" height="100%" width="150"
@@ -85,7 +82,7 @@ async function savePicture() {
                         内容的骨灰级游戏网站 🍂
                         <br>
                         Copyright © 2023-2024 <a href="https://mw.netfox.wiki">MW &
-                            MWT Wiki</a> by <span style="color:#fb8b05">NetFox.Wiki</span> All rights reserved.
+                            MWT Wiki</a> by <a target="_blank" href="https://www.netfox.wiki">NetFox.Wiki</a> All rights reserved.
                     </div>
                 </div>
             </div>
@@ -117,6 +114,7 @@ async function savePicture() {
     padding: 3px 8px;
     border-radius: 5px;
     text-align: center;
+    transition: color 0.5s, background-color 0.5s;
 }
 
 .savepic-btn:hover {

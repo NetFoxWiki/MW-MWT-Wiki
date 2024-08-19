@@ -175,10 +175,6 @@ export default {
     border-radius: 5px;
 }
 
-.lottery-main:hover {
-    box-shadow: 0 0 3px 1px var(--theme-color-light);
-}
-
 .lottery-button {
     font-weight: bold;
     font-size: 20px;
@@ -189,6 +185,7 @@ export default {
     border-radius: 5px;
     margin: 0 5px 0 5px;
     text-align: center;
+    transition: color 0.5s, background-color 0.5s;
 }
 
 .lottery-button:disabled {

@@ -36,10 +36,6 @@ export default {
     padding: 15px;
 }
 
-.InfoCard-main:hover {
-    box-shadow: 0 0 3px 1px var(--theme-color-light);
-}
-
 .InfoCard-avatar {
     width: 50px;
     height: 100%;
